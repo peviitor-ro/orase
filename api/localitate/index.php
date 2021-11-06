@@ -7,11 +7,7 @@ if(isset($_GET['localitate']))  {
 	  $localitate = $_GET['localitate'];
 	  $url .= "&fq=localitate%3A".$localitate; 
 	  $string = file_get_contents($url);
-	  $json = json_decode($string, true);
-		
-	  $response -> id = $json["response"]["docs"][0]["id"];
-	  $response -> localitate = $json["response"]["docs"][0]["localitate"];
-	  $response -> localitate = $json["response"]["docs"][0]["judet"];
+      echo $string;
 
 	                    } else {
        $response -> error = "not enough info";
