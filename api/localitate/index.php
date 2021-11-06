@@ -2,7 +2,7 @@
 header("Access-Control-Allow-Origin: *");
 
 $url = 'http://zimbor.go.ro/solr/romania/select?q.op=OR&q=*%3A*&omitHeader=true';
-$response = new stdClass();
+
 if(isset($_GET['nume']))  {
 	  $localitate = $_GET['nume'];
 	  $url .= "&fq=localitate%3A".$localitate; 
@@ -10,9 +10,10 @@ if(isset($_GET['nume']))  {
       echo $string;
 
 	                    } else {
+	   $response = new stdClass();
        $response -> error = "not enough info";
-
+	   echo json_encode($response);
 							}
-echo json_encode($response);
+
 
 ?>
