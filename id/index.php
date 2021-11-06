@@ -17,7 +17,7 @@ if(isset($_GET['judet'])) 		{
 $string = file_get_contents($url);
 $json = json_encode($string, true);
 
-var_dump($json);
+echo $json["response"]["docs"][0]["id"];
 
 
 
