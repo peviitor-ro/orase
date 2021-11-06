@@ -20,11 +20,6 @@ if(isset($_GET['judet'])) 		{
     $response -> error = "not enough info";
 
 							}
-
-	
-
-
-
 echo json_encode($response);
 
 ?>
