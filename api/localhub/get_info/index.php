@@ -8,12 +8,12 @@ if(isset($_GET['id']))  {
 	  $url .= '&fq=location_id:'.$localitate; 
 	  $string = file_get_contents($url);
       echo $string;
-      var_dump($url);
+      var_dump($string);
 	                    } else {
 	   $response = new stdClass();
        $response -> error = "not enough info";
 	   echo json_encode($response);
-	   var_dump($url);
+	 
 							}
 
 
