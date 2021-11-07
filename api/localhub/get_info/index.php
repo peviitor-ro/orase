@@ -8,7 +8,7 @@ if(isset($_GET['id']))  {
 	  $url .= '&fq=localitate:"'.$localitate.'"'; 
 	  $string = file_get_contents($url);
       echo $string;
-
+      var_dump($url);
 	                    } else {
 	   $response = new stdClass();
        $response -> error = "not enough info";
