@@ -5,7 +5,7 @@ $url = 'http://zimbor.go.ro/solr/romania/select?q=*%3A*&q.op=OR&omitHeader=true'
 
 if(isset($_GET['id']))  {
 	  $localitate = $_GET['id'];
-	  $url .= '&fq=localitate:"'.$localitate.'"'; 
+	  $url .= '&fq=location_id:"'.$localitate.'"'; 
 	  $string = file_get_contents($url);
       echo $string;
       var_dump($url);
