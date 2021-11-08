@@ -5,7 +5,7 @@ $url = 'http://zimbor.go.ro/solr/romania/select?q.op=OR&q=*%3A*&omitHeader=true'
 $response = new stdClass();
 if(isset($_GET['localitate']))  {
 	  $localitate = $_GET['localitate'];
-	  $url .= "&fq=localitate%3A".$localitate; 
+	  $url .= "&fq=localitate%3A".urlencode($localitate); 
 								}
 	  
 if(isset($_GET['judet'])) 		{
