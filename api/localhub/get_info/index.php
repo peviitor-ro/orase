@@ -1,6 +1,6 @@
 <?php
-header("Access-Control-Allow-Origin: *");
-
+ header("Access-Control-Allow-Origin: *");
+ 
 $url = 'http://zimbor.go.ro/solr/localhub/select?q=*%3A*&q.op=OR&omitHeader=true';
 
 if(isset($_GET['id']))  {
@@ -13,5 +13,9 @@ if(isset($_GET['id']))  {
 	   $response = new stdClass();
        $response -> error = "not enough info";
 	   echo json_encode($response);
+
+	 
+							}
+
 
 ?>
