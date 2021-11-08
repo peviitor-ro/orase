@@ -14,9 +14,4 @@ if(isset($_GET['id']))  {
        $response -> error = "not enough info";
 	   echo json_encode($response);
 
-	   var_dump($string);
-	 
-							}
-
-
 ?>

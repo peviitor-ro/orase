@@ -10,7 +10,7 @@ if(isset($_GET['localitate']))  {
 	  
 if(isset($_GET['judet'])) 		{
 		$judet = $_GET['judet'];
-		$url .= "&fq=judet%3A".$judet;
+		$url .= "&fq=judet%3A".urlencode($judet);
 
 		$string = file_get_contents($url);
 		$json = json_decode($string, true);
