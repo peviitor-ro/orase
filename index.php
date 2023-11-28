@@ -31,9 +31,9 @@ $tara -> judet[1] -> municipiu[1] -> loc[4] = new stdClass();
 $tara -> judet[1] -> municipiu[1] -> loc[4] -> nume = "Oarda";
 $tara -> judet[1] -> municipiu[1] -> loc[4] -> tip  = "sat";
 
-$tara -> judet[1] -> municipiu[1] -> loc[4] = new stdClass();
-$tara -> judet[1] -> municipiu[1] -> loc[4] -> nume = "Pâclișa";
-$tara -> judet[1] -> municipiu[1] -> loc[4] -> tip  = "sat";
+$tara -> judet[1] -> municipiu[1] -> loc[5] = new stdClass();
+$tara -> judet[1] -> municipiu[1] -> loc[5] -> nume = "Pâclișa";
+$tara -> judet[1] -> municipiu[1] -> loc[5] -> tip  = "sat";
 
 $tara -> judet[1] -> municipiu[2] = new stdClass();
 $tara -> judet[1] -> municipiu[2] -> nume = "AIUD";
