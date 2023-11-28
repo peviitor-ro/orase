@@ -56,13 +56,23 @@ $tara = createTara(
                     createLoc("Pâclișa", "sat"),
                 ]),
                 createMunicipiu("AIUD",[
-				    createLoc("AIUD", "oras"),
+				    createLoc("AIUD", "oras",[
+					   createLoc("Ciumbrud", "sat"),
+					   createLoc("Gârbova de Jos", "sat"),
+					   createLoc("Gârbova de Sus", "sat"),
+					   createLoc("Gârbovița", "sat"),
+					   createLoc("Sâncrai", "sat"),
+					   createLoc("Țifra", "sat"),
+					                         ]),
 					createLoc("Aiudul de Sus", "sat"),
 					createLoc("Gâmbaș", "sat"),
 					createLoc("Măgina", "sat"),
 					createLoc("Păgida", "sat"),
 				]),
-                createMunicipiu("BLAJ"),
+                createMunicipiu("BLAJ","oras",[
+						createLoc("Mănărade", "sat"),
+						createLoc("Spătac", "sat"),
+				          ]),
                 createMunicipiu("SEBES"),
             ]
         ),
