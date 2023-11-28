@@ -99,7 +99,15 @@ $tara = createTara(
 				
             ],
 			[
-			createOras("ABRUD"),
+			createOras("ABRUD",[
+			    createLoc("ABRUD", "oras"),
+				createLoc("Abrud-Sat", "sat"),
+				createLoc("Gura Cornei", "sat"),
+				createLoc("Soharu", "sat"),
+			    ]),
+			createOras("BAIA DE ARIEȘ",[
+			    createLoc("BAIA DE ARIEȘ", "oras"),
+			])
 			]
         ),
         createJudet("ARAD"),
