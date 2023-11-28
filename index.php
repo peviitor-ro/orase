@@ -157,6 +157,14 @@ $tara = createTara(
 										]),
 				createLoc("Uioara de Jos", "sat"),
 				createLoc("Uioara de Sus", "sat"),
+			                     ]),
+			createOras("TEIUȘ", [
+			    createLoc("TEIUȘ", "oras",[
+					createLoc("Beldiu", "sat"),
+					createLoc("Căpud", "sat"),
+					createLoc("Coșlariu Nou", "sat"),
+					createLoc("Pețelca", "sat"),
+										]),
 			                     ]),								 
 			]
         ),
