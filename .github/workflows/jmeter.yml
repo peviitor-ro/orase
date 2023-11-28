@@ -8,11 +8,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-     - name: Fast FTP
-     # You may pin to the exact commit or the version.
-      # uses: anvil-solutions/Fast-FTP-Action@de62eeaf1c409a96c7304f3bba8bf8194d0fa98f
-       uses: anvil-solutions/Fast-FTP-Action@2.1.3
-       with:
-         server: ftp.peviitor.ro
-         username: oras@peviitor.ro
-         password: ramona2@1
+      - name: Fast FTP
+        uses: anvil-solutions/Fast-FTP-Action@2.1.3
+        with:
+          server: ${{secrets.FTP_HOST}}
+          username: ${{secrets.FTP_USER}}
+          password: ${{secrets.FTP_PASSWD}}
+          method: ftp
+          local_dir: .
+          remote_dir: .
