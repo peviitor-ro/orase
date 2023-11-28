@@ -543,6 +543,36 @@ $tara = createTara(
 					createLoc("Vânători", "sat"),
 					createLoc("Zerindu Mic", "sat"),
 								  ]),
+			createComuna("Moneasa", [
+					createLoc("Moneasa", "sat"),
+					createLoc("Rănușa", "sat"),
+								  ]),	
+			createComuna("Olari", [
+					createLoc("Olari", "sat"),
+					createLoc("Sintea Mică", "sat"),
+								  ]),
+			createComuna("Păuliș", [
+					createLoc("Păuliș", "sat"),
+					createLoc("Barațca", "sat"),
+					createLoc("Cladova", "sat"),
+					createLoc("Sâmbăteni", "sat"),
+								  ]),	
+			createComuna("Peregu Mare", [
+					createLoc("Peregu Mare", "sat"),
+					createLoc("Peregu Mic", "sat"),
+								  ]),
+			createComuna("Petriș", [
+					createLoc("Petriș", "sat"),
+					createLoc("Corbești", "sat"),
+					createLoc("Ilteu", "sat"),
+					createLoc("Obârșia", "sat"),
+				    createLoc("Roșia Nouă", "sat"),
+					createLoc("Seliște", "sat"),
+								  ]),	
+			createComuna("Pilu", [
+					createLoc("Pilu", "sat"),
+					createLoc("Vărșand", "sat"),
+								  ]),
 		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
