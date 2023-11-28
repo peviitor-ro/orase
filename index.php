@@ -1,7 +1,7 @@
 <?php
 // test on https://onlinephp.io/
 // based on https://legislatie.just.ro/Public/DetaliiDocument/189
-// created by sebiboga 
+// created by sebiboga && dianadascalu2
 
 function createLoc($nume, $tip, $locuri = []) {
     $loc = new stdClass();
@@ -47,12 +47,13 @@ function createJudet($nume, $municipii = [], $orase = [], $comune = []) {
     return $judet;
 }
 
-function createTara($proiect, $url, $nume, $judete = []) {
+function createTara($proiect, $url, $nume, $judete = [], $municipii = []) {
     $tara = new stdClass();
     $tara->proiect = $proiect;
     $tara->url = $url;
     $tara->nume = $nume;
     $tara->judet = $judete;
+	$tara->municipiu = $municipii;
     return $tara;
 }
 
@@ -375,8 +376,11 @@ $tara = createTara(
 		createJudet("VASLUI"),
 		createJudet("VÂLCEA"),
 		createJudet("VRANCEA"),
-		createJudet("Municipiul BUCUREȘTI"),
-    ]
+		
+    ],
+	[  
+	   createMunicipiu("BUCUREȘTI"),
+	]
 );
 
 echo json_encode($tara, JSON_PRETTY_PRINT);
