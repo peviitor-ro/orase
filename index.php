@@ -377,10 +377,7 @@ $tara = createTara(
 		createJudet("VÂLCEA"),
 		createJudet("VRANCEA"),
 		
-    ],
-	[  
-	   createMunicipiu("BUCUREȘTI"),
-	]
+    ]
 );
 
 echo json_encode($tara, JSON_PRETTY_PRINT);
