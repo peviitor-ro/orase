@@ -116,7 +116,11 @@ $tara = createTara(
 				
 			                             ]),
 			createOras("CÂMPENI", [
-			    createLoc("CÂMPENI", "oras")
+			    createLoc("CÂMPENI", "oras"),
+				createLoc("Boncești", "sat"),
+				createLoc("Borlești", "sat"),
+				createLoc("Botești", "sat"),
+				createLoc("Certege", "sat"),
 			                     ])
 			]
         ),
