@@ -17,6 +17,13 @@ function createLoc($nume, $tip, $locuri = []) {
 }
 
 
+function createOras($nume, $locuri = []) {
+    $oras = new stdClass();
+    $oras->nume = $nume;
+    $oras->loc = $locuri;
+    return $oras;
+}
+
 function createMunicipiu($nume, $locuri = []) {
     $municipiu = new stdClass();
     $municipiu->nume = $nume;
@@ -88,6 +95,7 @@ $tara = createTara(
 					createLoc("Lancrăm", "sat"),
 					createLoc("Petrești", "sat"),
 				]),
+				createOras("ABRUD"),
             ]
         ),
         createJudet("ARAD"),
