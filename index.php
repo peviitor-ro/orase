@@ -5,9 +5,9 @@
 
 
 $tara = new stdClass();
-$tara -> project = "LEGE nr. 2 din 16 februarie 1968";
-$tara -> url = "-https://legislatie.just.ro/Public/DetaliiDocument/189";
-$tara -> nume = "Romania";
+$tara -> proiect = "LEGE nr. 2 din 16 februarie 1968";
+$tara -> url = "https://legislatie.just.ro/Public/DetaliiDocument/189";
+$tara -> nume = "România";
 $tara -> judet = array();
 $tara -> judet[1] = new stdClass();
 $tara -> judet[1] -> nume = "ALBA";
