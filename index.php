@@ -69,7 +69,7 @@ $tara = createTara(
 					createLoc("Măgina", "sat"),
 					createLoc("Păgida", "sat"),
 				]),
-                createMunicipiu("BLAJ","oras",[
+                createMunicipiu("BLAJ",[
 					createLoc("BLAJ", "oras",[
 					       createLoc("Mănărade", "sat"),
 					       createLoc("Spătac", "sat"),	   
