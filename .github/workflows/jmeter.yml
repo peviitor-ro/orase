@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref:  master
+          ref:  main
       - name: Fast FTP
         uses: anvil-solutions/Fast-FTP-Action@2.1.3
         with:
