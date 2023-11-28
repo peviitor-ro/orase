@@ -18,17 +18,32 @@ $tara -> judet[1] -> municipiu[1] -> loc = array();
 $tara -> judet[1] -> municipiu[1] -> loc[1] = new stdClass();
 $tara -> judet[1] -> municipiu[1] -> loc[1] -> nume = "ALBA IULIA";
 $tara -> judet[1] -> municipiu[1] -> loc[1] -> tip = "oras";
+
 $tara -> judet[1] -> municipiu[1] -> loc[2] = new stdClass();
 $tara -> judet[1] -> municipiu[1] -> loc[2] -> nume = "Bărăbanț";
 $tara -> judet[1] -> municipiu[1] -> loc[2] -> tip = "sat";
-$tara -> judet[1] -> municipiu[1] -> loc[3] = "Micești";
-$tara -> judet[1] -> municipiu[1] -> loc[4] = "Oarda";
-$tara -> judet[1] -> municipiu[1] -> loc[4] = "Pâclișa";
 
-$tara -> judet[1] -> municipiu[2] = "AIUD";
-$tara -> judet[1] -> municipiu[3] = "BLAJ";
-$tara -> judet[1] -> municipiu[4] = "SEBES";
-$tara -> judet[1] -> nume = "ALBA";
+$tara -> judet[1] -> municipiu[1] -> loc[3] = new stdClass();
+$tara -> judet[1] -> municipiu[1] -> loc[3] -> nume = "Micești";
+$tara -> judet[1] -> municipiu[1] -> loc[3] -> tip  = "sat";
+
+$tara -> judet[1] -> municipiu[1] -> loc[4] = new stdClass();
+$tara -> judet[1] -> municipiu[1] -> loc[4] -> nume = "Oarda";
+$tara -> judet[1] -> municipiu[1] -> loc[4] -> tip  = "sat";
+
+$tara -> judet[1] -> municipiu[1] -> loc[4] = new stdClass();
+$tara -> judet[1] -> municipiu[1] -> loc[4] -> nume = "Pâclișa";
+$tara -> judet[1] -> municipiu[1] -> loc[4] -> tip  = "sat";
+
+$tara -> judet[1] -> municipiu[2] = new stdClass();
+$tara -> judet[1] -> municipiu[2] -> nume = "AIUD";
+
+$tara -> judet[1] -> municipiu[3] = new stdClass();
+$tara -> judet[1] -> municipiu[3] -> nume = "BLAJ";
+
+$tara -> judet[1] -> municipiu[3] = new stdClass();
+$tara -> judet[1] -> municipiu[4] -> nume = "SEBES";
+
 
 $tara -> judet[2] = new stdClass();
 $tara -> judet[2] -> nume = "ARAD";
