@@ -1,4 +1,9 @@
 <?php
+// test on https://onlinephp.io/
+// based on https://legislatie.just.ro/Public/DetaliiDocument/189
+// created by sebiboga 
+
+
 $tara = new stdClass();
 $tara -> nume = "Romania";
 $tara -> judet = array();
