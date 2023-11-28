@@ -10,8 +10,8 @@ $tara -> url = "https://legislatie.just.ro/Public/DetaliiDocument/189";
 $tara -> nume = "România";
 $tara -> judet = array();
 $tara -> judet[1] = new stdClass();
-$tara -> judet[1] => nume = "ALBA";
-$tara -> judet[1] => municipiu = array();
+$tara -> judet[1] -> nume = "ALBA";
+$tara -> judet[1] -> municipiu = array();
 $tara -> judet[1] -> municipiu[1] = new stdClass();
 $tara -> judet[1] -> municipiu[1] -> nume = "ALBA IULIA";
 $tara -> judet[1] -> municipiu[1] -> loc = array();
@@ -31,7 +31,7 @@ $tara -> judet[1] -> municipiu[4] = "SEBES";
 $tara -> judet[1] -> nume = "ALBA";
 
 $tara -> judet[2] = new stdClass();
-$tara -> judet[2] => nume = "ARAD";
+$tara -> judet[2] -> nume = "ARAD";
 echo json_encode($tara,JSON_FORCE_OBJECT);
 
 ?>
