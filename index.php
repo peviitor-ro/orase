@@ -3,12 +3,19 @@
 // based on https://legislatie.just.ro/Public/DetaliiDocument/189
 // created by sebiboga 
 
-function createLoc($nume, $tip) {
+function createLoc($nume, $tip, $locuri = []) {
     $loc = new stdClass();
     $loc->nume = $nume;
     $loc->tip = $tip;
+
+    // Set the loc property only if $locuri is defined and not an empty array
+    if (!empty($locuri)) {
+        $loc->loc = $locuri;
+    }
+
     return $loc;
 }
+
 
 function createMunicipiu($nume, $locuri = []) {
     $municipiu = new stdClass();
