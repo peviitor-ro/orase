@@ -138,7 +138,17 @@ $tara = createTara(
 				createLoc("Valea Bistrii", "sat"),
 				createLoc("Valea Caselor", "sat"),
 				createLoc("Vârși", "sat"),
-			                     ])
+			                     ]),
+			createOras("CUGIR", [
+			    createLoc("CUGIR", "oras"),
+				createLoc("Bocșitura", "sat"),
+				createLoc("Bucuru", "sat"),
+				createLoc("Călene", "sat"),
+				createLoc("Fețeni", "sat"),
+				createLoc("Goașele", "sat"),
+				createLoc("Mugești", "sat"),
+				createLoc("Vinerea", "sat"),
+			                     ]),								 
 			]
         ),
         createJudet("ARAD"),
