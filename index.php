@@ -407,7 +407,27 @@ $tara = createTara(
 			createComuna("Cărand", [
 					createLoc("Cărand", "sat"),
 					createLoc("Seliștea", "sat"),
-								  ]),		
+								  ]),	
+			createComuna("Cermei", [
+					createLoc("Cermei", "sat"),
+					createLoc("Avram Iancu", "sat"),
+					createLoc("Șomoșcheș", "sat"),
+								  ]),	
+			createComuna("Chisindia", [
+					createLoc("Chisindia", "sat"),
+					createLoc("Păiușeni", "sat"),
+					createLoc("Văsoaia", "sat"),
+								  ]),
+			createComuna("Conop", [
+					createLoc("Conop", "sat"),
+					createLoc("Belotinț", "sat"),
+					createLoc("Chelmac", "sat"),
+					createLoc("Milova", "sat"),
+					createLoc("Odvoș", "sat"),
+								  ]),	
+			createComuna("Covăsinț", [
+					createLoc("Covăsinț", "sat"),
+								  ]),	
 		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
