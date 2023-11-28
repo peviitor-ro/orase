@@ -31,10 +31,11 @@ function createMunicipiu($nume, $locuri = []) {
     return $municipiu;
 }
 
-function createJudet($nume, $municipii = []) {
+function createJudet($nume, $municipii = [], $orase = []) {
     $judet = new stdClass();
     $judet->nume = $nume;
     $judet->municipiu = $municipii;
+	$judet->oras = $orase;
     return $judet;
 }
 
@@ -95,8 +96,11 @@ $tara = createTara(
 					createLoc("Lancrăm", "sat"),
 					createLoc("Petrești", "sat"),
 				]),
-				createOras("ABRUD"),
-            ]
+				
+            ],
+			[
+			createOras("ABRUD"),
+			]
         ),
         createJudet("ARAD"),
     ]
