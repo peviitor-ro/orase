@@ -385,6 +385,18 @@ $tara = createTara(
 					createLoc("Lalașinț", "sat"),
 					createLoc("Monoroștia", "sat"),
 					createLoc("Slatina de Mureș", "sat"),
+								  ]),	
+			createComuna("Bocsig", [
+					createLoc("Bocsig", "sat"),
+					createLoc("Mânerău", "sat"),
+					createLoc("Răpsig", "sat"),
+								  ]),	
+			createComuna("Brazii", [
+					createLoc("Brazii", "sat"),
+					createLoc("Buceava-Șoimuș", "sat"),
+					createLoc("Iacobini", "sat"),
+					createLoc("Mădrigești", "sat"),
+					createLoc("Secaș", "sat"),
 								  ]),		
 		]),					
 		createJudet("ARGEȘ"),
