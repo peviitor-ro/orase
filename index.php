@@ -282,8 +282,7 @@ $tara = createTara(
 					createLoc("Verdești", "sat"),
 					createLoc("Vidrișoara", "sat"),
 								  ]),
-			]
-        ),
+			]),
         createJudet("ARAD", [
 			createMunicipiu("ARAD"),
 			createOras("CHIȘINEU-CRIȘ", [
@@ -333,9 +332,31 @@ $tara = createTara(
 					createLoc("Prunișor", "sat"),
 					createLoc("Sălăjeni", "sat")
 										]),
-								]),
-			
-		]),
+								]),	
+			createComuna("Almaș", [
+					createLoc("Almaș", "sat"),
+					createLoc("Cil", "sat"),
+					createLoc("Joia Mare", "sat"),
+					createLoc("Rădești", "sat"),
+								  ]),	
+			createComuna("Apateu", [
+					createLoc("Apateu", "sat"),
+					createLoc("Berechiu", "sat"),
+					createLoc("Moțiori", "sat"),
+								  ]),
+			createComuna("Archiș", [
+					createLoc("Archiș", "sat"),
+					createLoc("Bârzești", "sat"),
+					createLoc("Groșeni", "sat"),
+					createLoc("Nermiș", "sat"),
+								  ]),	
+			createComuna("Bata", [
+					createLoc("Bata", "sat"),
+					createLoc("Bacău de Mijloc", "sat"),
+					createLoc("Bulci", "sat"),
+					createLoc("Țela", "sat"),
+								  ]),		
+		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
 		createJudet("BIHOR"),
