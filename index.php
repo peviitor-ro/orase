@@ -3,50 +3,60 @@
 // based on https://legislatie.just.ro/Public/DetaliiDocument/189
 // created by sebiboga 
 
+function createLoc($nume, $tip) {
+    $loc = new stdClass();
+    $loc->nume = $nume;
+    $loc->tip = $tip;
+    return $loc;
+}
 
-$tara = new stdClass();
-$tara -> proiect = "LEGE nr. 2 din 16 februarie 1968";
-$tara -> url = "https://legislatie.just.ro/Public/DetaliiDocument/189";
-$tara -> nume = "România";
-$tara -> judet = array();
-$tara -> judet[1] = new stdClass();
-$tara -> judet[1] -> nume = "ALBA";
-$tara -> judet[1] -> municipiu = array();
-$tara -> judet[1] -> municipiu[1] = new stdClass();
-$tara -> judet[1] -> municipiu[1] -> nume = "ALBA IULIA";
-$tara -> judet[1] -> municipiu[1] -> loc = array();
-$tara -> judet[1] -> municipiu[1] -> loc[1] = new stdClass();
-$tara -> judet[1] -> municipiu[1] -> loc[1] -> nume = "ALBA IULIA";
-$tara -> judet[1] -> municipiu[1] -> loc[1] -> tip = "oras";
+function createMunicipiu($nume, $locuri = []) {
+    $municipiu = new stdClass();
+    $municipiu->nume = $nume;
+    $municipiu->loc = $locuri;
+    return $municipiu;
+}
 
-$tara -> judet[1] -> municipiu[1] -> loc[2] = new stdClass();
-$tara -> judet[1] -> municipiu[1] -> loc[2] -> nume = "Bărăbanț";
-$tara -> judet[1] -> municipiu[1] -> loc[2] -> tip = "sat";
+function createJudet($nume, $municipii = []) {
+    $judet = new stdClass();
+    $judet->nume = $nume;
+    $judet->municipiu = $municipii;
+    return $judet;
+}
 
-$tara -> judet[1] -> municipiu[1] -> loc[3] = new stdClass();
-$tara -> judet[1] -> municipiu[1] -> loc[3] -> nume = "Micești";
-$tara -> judet[1] -> municipiu[1] -> loc[3] -> tip  = "sat";
+function createTara($proiect, $url, $nume, $judete = []) {
+    $tara = new stdClass();
+    $tara->proiect = $proiect;
+    $tara->url = $url;
+    $tara->nume = $nume;
+    $tara->judet = $judete;
+    return $tara;
+}
 
-$tara -> judet[1] -> municipiu[1] -> loc[4] = new stdClass();
-$tara -> judet[1] -> municipiu[1] -> loc[4] -> nume = "Oarda";
-$tara -> judet[1] -> municipiu[1] -> loc[4] -> tip  = "sat";
+$tara = createTara(
+    "LEGE nr. 2 din 16 februarie 1968",
+    "https://legislatie.just.ro/Public/DetaliiDocument/189",
+    "România",
+    [
+        createJudet(
+            "ALBA",
+            [
+                createMunicipiu("ALBA IULIA", [
+                    createLoc("ALBA IULIA", "oras"),
+                    createLoc("Bărăbanț", "sat"),
+                    createLoc("Micești", "sat"),
+                    createLoc("Oarda", "sat"),
+                    createLoc("Pâclișa", "sat"),
+                ]),
+                createMunicipiu("AIUD"),
+                createMunicipiu("BLAJ"),
+                createMunicipiu("SEBES"),
+            ]
+        ),
+        createJudet("ARAD"),
+    ]
+);
 
-$tara -> judet[1] -> municipiu[1] -> loc[5] = new stdClass();
-$tara -> judet[1] -> municipiu[1] -> loc[5] -> nume = "Pâclișa";
-$tara -> judet[1] -> municipiu[1] -> loc[5] -> tip  = "sat";
-
-$tara -> judet[1] -> municipiu[2] = new stdClass();
-$tara -> judet[1] -> municipiu[2] -> nume = "AIUD";
-
-$tara -> judet[1] -> municipiu[3] = new stdClass();
-$tara -> judet[1] -> municipiu[3] -> nume = "BLAJ";
-
-$tara -> judet[1] -> municipiu[3] = new stdClass();
-$tara -> judet[1] -> municipiu[4] -> nume = "SEBES";
-
-
-$tara -> judet[2] = new stdClass();
-$tara -> judet[2] -> nume = "ARAD";
-echo json_encode($tara,JSON_FORCE_OBJECT);
+echo json_encode($tara, JSON_PRETTY_PRINT);
 
 ?>
