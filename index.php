@@ -300,13 +300,13 @@ $tara = createTara(
 			    createLoc("INEU", "oras",[
 					createLoc("Mocrea", "sat")
 										]),
-			                     ]),
+			                     
 			createOras("LIPOVA", [
 				createLoc("LIPOVA", "oras"),
 				createLoc("Radna", "oras"),
 				createLoc("Șoimoș", "oras")
 										]),
-								 ]),
+								 
 			createOras("NĂDLAC", [
 			    createLoc("NĂDLAC", "oras")
 										]),
