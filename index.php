@@ -217,6 +217,15 @@ $tara = createTara(
 					createLoc("Sohodol", "sat"),
 					createLoc("Tamborești", "sat"),
 								  ]),
+			createComuna("Almașu Mare", [
+					createLoc("Almașu Mare", "sat"),
+					createLoc("Almașu de Mijloc", "sat"),
+					createLoc("Brădet", "sat"),
+					createLoc("Cheile Cibului", "sat"),
+					createLoc("Cib", "sat"),
+					createLoc("Glod", "sat"),
+					createLoc("Nădăștia", "sat"),
+								  ]),					  
 			]
         ),
         createJudet("ARAD"),
