@@ -310,7 +310,7 @@ $tara = createTara(
 			createOras("NĂDLAC", [
 			    createLoc("NĂDLAC", "oras")
 										]),
-								 
+								 ]),
 			createOras("PECICA", [
 				createLoc("PECICA", "oras",[
 					createLoc("Bodrogu Vechi", "sat"),
