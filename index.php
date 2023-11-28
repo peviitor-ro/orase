@@ -17,6 +17,13 @@ function createLoc($nume, $tip, $locuri = []) {
 }
 
 
+function createComuna($nume, $locuri = []) {
+    $comuna = new stdClass();
+    $comuna->nume = $nume;
+    $comuna->loc = $locuri;
+    return $comuna;
+}
+
 function createOras($nume, $locuri = []) {
     $oras = new stdClass();
     $oras->nume = $nume;
@@ -187,7 +194,25 @@ $tara = createTara(
 					createLoc("Valea Mică", "sat"),
 					createLoc("Vâltori", "sat"),
 										]),
-			                     ]),								
+			                     ]),
+			createComuna("Albac", [
+					createLoc("Albac", "sat"),
+					createLoc("Bărăști", "sat"),
+					createLoc("Budăiești", "sat"),
+					createLoc("Cionești", "sat"),
+					createLoc("Costești", "sat"),
+					createLoc("Dealu Lămășoi", "sat"),
+					createLoc("Deve", "sat"),
+					createLoc("După Pleșe", "sat"),
+					createLoc("Fața", "sat"),
+					createLoc("Pleșești", "sat"),
+					createLoc("Potionci", "sat"),
+					createLoc("Rogoz", "sat"),
+					createLoc("Roșești", "sat"),
+					createLoc("Rusești", "sat"),
+					createLoc("Sohodol", "sat"),
+					createLoc("Tamborești", "sat"),
+								  ]),
 			]
         ),
         createJudet("ARAD"),
