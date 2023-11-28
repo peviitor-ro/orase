@@ -32,6 +32,6 @@ $tara -> judet[1] -> nume = "ALBA";
 
 $tara -> judet[2] = new stdClass();
 $tara -> judet[2] -> nume = "ARAD";
-echo json_encode($tara);
+echo json_encode($tara,JSON_FORCE_OBJECT);
 
 ?>
