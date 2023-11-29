@@ -1218,6 +1218,7 @@ $tara = createTara(
 					createLoc("Valea Ciuciului", "sat"),						
 								  ]),								  
 			]),
+		createJudet("ARAD"),
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
 		createJudet("BIHOR"),
