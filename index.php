@@ -1091,7 +1091,29 @@ $tara = createTara(
 					createLoc("Zimandcuz", "sat"),
 								  ]),
 		]),					
-		createJudet("ARGEȘ"),
+		createJudet("ARGEȘ", [
+			createMunicipiu("PITEȘTI", [
+				createLoc("PITEȘTI", "oras"),
+			]),
+			createMunicipiu("CÂMPULUNG", [
+				createLoc("CÂMPULUNG", "oras"),
+				createLoc("Valea Rumâneștilor", "oras"),
+			]),
+			createMunicipiu("CURTEA DE ARGEȘ", [
+				createLoc("CURTEA DE ARGEȘ", "oras"),
+				createLoc("Noapteș", "oras"),
+			]),
+			createOras("COSTEȘTI", [
+			    createLoc("COSTEȘTI", "oras",[
+					createLoc("Broșteni", "sat"),
+					createLoc("Lăceni", "sat"),
+					createLoc("Pârvu Roșu", "sat"),
+					createLoc("Podu Broșteni", "sat"),
+					createLoc("Smei", "sat"),
+					createLoc("Stârci", "sat"),
+				]),
+			]),
+		]),
 		createJudet("BACĂU"),
 		createJudet("BIHOR"),
 		createJudet("BISTRIȚA-NĂSĂUD"),
