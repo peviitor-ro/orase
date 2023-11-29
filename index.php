@@ -979,6 +979,24 @@ $tara = createTara(
 					createLoc("Fiscut", "sat"),
 					createLoc("Hunedoara Timișană", "sat"),
 								  ]),
+			createComuna("Șeitin", [
+					createLoc("Șeitin", "sat"),
+								  ]),	
+			createComuna("Șepreuș", [
+					createLoc("Șepreuș", "sat"),
+								  ]),
+			createComuna("Șicula", [
+					createLoc("Șicula", "sat"),
+					createLoc("Chereluș", "sat"),
+					createLoc("Gurba", "sat"),
+								  ]),	
+			createComuna("Șilindia", [
+					createLoc("Șilindia", "sat"),
+					createLoc("Camna", "sat"),
+					createLoc("Iercoșeni", "sat"),
+					createLoc("Luguzău", "sat"),
+					createLoc("Satu Mic", "sat"),
+								  ]),
 		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
