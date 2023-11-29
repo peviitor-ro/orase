@@ -961,6 +961,14 @@ $tara = createTara(
 					createLoc("Iermata", "sat"),
 					createLoc("Moroda", "sat"),
 								  ]),
+			createComuna("Semlac", [
+					createLoc("Semlac", "sat"),
+								  ]),	
+			createComuna("Sintea Mare", [
+					createLoc("Sintea Mare", "sat"),
+					createLoc("Adea", "sat"),
+					createLoc("Țipar", "sat"),
+								  ]),
 		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
