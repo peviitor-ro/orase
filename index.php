@@ -409,7 +409,32 @@ $tara = createTara(
 					createLoc("Limba", "sat"),
 					createLoc("Șeușa", "sat"),	
 					createLoc("Teleac", "sat"),						
-								  ]),									  
+								  ]),
+			createComuna("Ciuruleasa", [
+					createLoc("Ciuruleasa", "sat"),
+					createLoc("Bidigești", "sat"),
+					createLoc("Bodrești", "sat"),	
+					createLoc("Boglești", "sat"),
+					createLoc("Buninginea", "sat"),	
+					createLoc("Ghedulești", "sat"),
+					createLoc("Mătișești", "sat"),
+					createLoc("Morărești", "sat"),
+					createLoc("Vulcan", "sat"),						
+								  ]),
+			createComuna("Crăciunelu de Jos", [
+					createLoc("Crăciunelu de Jos", "sat"),						
+								  ]),	
+			createComuna("Cricău", [
+					createLoc("Cricău", "sat"),
+					createLoc("Craiva", "sat"),
+					createLoc("Tibru", "sat"),						
+								  ]),
+			createComuna("Cut", [
+					createLoc("Cut", "sat"),						
+								  ]),
+			createComuna("Daia Română", [
+					createLoc("Daia Română", "sat"),						
+								  ]),								  
 			]),
         createJudet("ARAD", [
 			createMunicipiu("ARAD"),
