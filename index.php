@@ -593,6 +593,17 @@ $tara = createTara(
 					createLoc("Troaș", "sat"),
 					createLoc("Valea Mare", "sat"),
 								  ]),
+			createComuna("Secusigiu", [
+					createLoc("Secusigiu", "sat"),
+					createLoc("Munar", "sat"),
+					createLoc("Satu Mare", "sat"),
+					createLoc("Sânpetru German", "sat"),
+								  ]),	
+			createComuna("Seleuș", [
+					createLoc("Seleuș", "sat"),
+					createLoc("Iermata", "sat"),
+					createLoc("Moroda", "sat"),
+								  ]),
 		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
