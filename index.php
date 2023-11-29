@@ -1081,6 +1081,15 @@ $tara = createTara(
 					createLoc("Cintei", "sat"),
 					createLoc("Neudorf", "sat"),
 								  ]),
+			createComuna("Zerind", [
+					createLoc("Zerind", "sat"),
+					createLoc("Iermata Neagră", "sat"),
+								  ]),	
+			createComuna("Zimandu Nou", [
+					createLoc("Zimandu Nou", "sat"),
+					createLoc("Andrei Șaguna", "sat"),
+					createLoc("Zimandcuz", "sat"),
+								  ]),
 		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
