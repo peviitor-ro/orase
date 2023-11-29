@@ -434,6 +434,18 @@ $tara = createTara(
 								  ]),
 			createComuna("Daia Română", [
 					createLoc("Daia Română", "sat"),						
+								  ]),
+			createComuna("Doștat", [
+					createLoc("Doștat", "sat"),	
+					createLoc("Boz", "sat"),
+					createLoc("Dealu Doștatului", "sat"),					
+								  ]),
+			createComuna("Fărău", [
+					createLoc("Fărău", "sat"),	
+					createLoc("Heria", "sat"),
+					createLoc("Medveș", "sat"),		
+					createLoc("Sânbenedic", "sat"),	
+					createLoc("Șilea", "sat"),						
 								  ]),								  
 			]),
         createJudet("ARAD", [
