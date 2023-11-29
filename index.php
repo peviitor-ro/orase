@@ -1059,6 +1059,28 @@ $tara = createTara(
 					createLoc("Poiana", "sat"),
 					createLoc("Vidra", "sat"),
 								  ]),
+			createComuna("Vladimirescu", [
+					createLoc("Vladimirescu", "sat"),
+					createLoc("Cicir", "sat"),
+					createLoc("Horia", "sat"),
+					createLoc("Mândruloc", "sat"),
+								  ]),	
+			createComuna("Zăbrani", [
+					createLoc("Zăbrani", "sat"),
+					createLoc("Chesinț", "sat"),
+					createLoc("Neudorf", "sat"),
+								  ]),
+			createComuna("Zădăreni", [
+					createLoc("Zădăreni", "sat"),
+					createLoc("Bodrogu Nou", "sat"),
+					createLoc("Horia", "sat"),
+					createLoc("Mândruloc", "sat"),
+								  ]),	
+			createComuna("Zărand", [
+					createLoc("Zărand", "sat"),
+					createLoc("Cintei", "sat"),
+					createLoc("Neudorf", "sat"),
+								  ]),
 		]),					
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
