@@ -3,6 +3,6 @@ require_once "../functions.php";
 require_once "arad.php";
 
 			
-echo json_encode($alba, JSON_PRETTY_PRINT);
+echo json_encode($arad, JSON_PRETTY_PRINT);
 
 ?>
