@@ -704,6 +704,100 @@ $tara = createTara(
 						   ]),
 	    ]
 	),
+		createJudet("ARGEȘ", [
+			createMunicipiu("PITEȘTI", [
+				createLoc("PITEȘTI", "oras"),
+			]),
+			createMunicipiu("CÂMPULUNG", [
+				createLoc("CÂMPULUNG", "oras"),
+				createLoc("Valea Rumâneștilor", "oras"),
+			]),
+			createMunicipiu("CURTEA DE ARGEȘ", [
+				createLoc("CURTEA DE ARGEȘ", "oras"),
+				createLoc("Noapteș", "oras"),
+			]),
+			createOras("COSTEȘTI", [
+			    createLoc("COSTEȘTI", "oras",[
+					createLoc("Broșteni", "sat"),
+					createLoc("Lăceni", "sat"),
+					createLoc("Pârvu Roșu", "sat"),
+					createLoc("Podu Broșteni", "sat"),
+					createLoc("Smei", "sat"),
+					createLoc("Stârci", "sat"),
+				]),
+			]),
+			createOras("MIOVENI", [
+			    createLoc("MIOVENI", "oras",[
+					createLoc("Clucereasa", "sat"),
+					createLoc("Colibași", "sat"),
+					createLoc("Făgetu", "sat"),
+					createLoc("Racovița", "sat"),
+				]),
+			]),
+			createOras("ȘTEFĂNEȘTI", [
+			    createLoc("ȘTEFĂNEȘTI", "oras",[
+					createLoc("Enculești", "sat"),
+					createLoc("Golești", "sat"),
+					createLoc("Izvorani", "sat"),
+					createLoc("Ștefăneștii Noi", "sat"),
+					createLoc("Valea Mare-Podgoria", "sat"),
+					createLoc("Viișoara", "sat"),
+					createLoc("Zăvoi", "sat"),
+				]),
+			]),
+			createOras("TOPOLOVENI", [
+			    createLoc("TOPOLOVENI", "oras",[
+					createLoc("Boțârcani", "sat"),
+					createLoc("Crintești", "sat"),
+					createLoc("Gorănești", "sat"),
+					createLoc("Țigănești", "sat"),
+				]),
+			]),
+		createJudet("ARAD", [
+			createMunicipiu("ARAD"),	
+		],
+	    [ 
+		createOras("CHIȘINEU-CRIȘ",[
+			createLoc("CHIȘINEU-CRIȘ", "oras"),
+			createLoc("Nădab", "sat"),
+						   ]),
+		createOras("CURTICI",[
+			createLoc("CURTICI", "oras"),
+						   ]),
+		createOras("INEU",[
+			createLoc("INEU", "oras"),
+			createLoc("Mocrea", "sat"),
+						   ]),
+		createOras("LIPOVA",[
+			createLoc("LIPOVA", "oras"),
+			createLoc("Radna", "oras"),
+			createLoc("Șoimoș", "oras"),
+						   ]),
+		createOras("NĂDLAC",[
+			createLoc("NĂDLAC", "oras"),
+						   ]),
+		createOras("PECICA",[
+			createLoc("PECICA", "oras"),
+			createLoc("Bodrogu Vechi", "sat"),
+			createLoc("Sederhat", "sat"),
+			createLoc("Turnu", "sat"),
+						   ]),
+		createOras("PÂNCOTA",[
+			createLoc("PÂNCOTA", "oras"),
+			createLoc("Măderat", "sat"),
+						   ]),
+		createOras("SÂNTANA",[
+			createLoc("SÂNTANA", "oras"),
+			createLoc("Caporal Alexa", "sat"),
+						   ]),
+		createOras("SEBIȘ",[
+			createLoc("SEBIȘ", "oras"),
+			createLoc("Donceni", "sat"),
+			createLoc("Prunișor", "sat"),
+			createLoc("Sălăjeni", "sat"),
+						   ]),
+	    ]
+	),
 		createJudet("ARGEȘ"),
 		createJudet("BACĂU"),
 		createJudet("BIHOR"),
