@@ -5,7 +5,9 @@
 
 
 
-require_once 'ALBA/index.php';
+
+require_once "ALBA/functions.php";
+require_once "alba.php";
 
 $judete = [$alba];
 
