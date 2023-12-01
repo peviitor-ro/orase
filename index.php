@@ -638,6 +638,25 @@ $tara = createTara(
 					createLoc("Găbud", "sat"),
 					createLoc("Stâna de Mureș", "sat"),	
 					createLoc("Valea Ciuciului", "sat"),						
+								  ]),
+			createComuna("Ocoliș", [
+					createLoc("Ocoliș", "sat"),	
+					createLoc("Lunca Largă", "sat"),
+					createLoc("Runc", "sat"),	
+					createLoc("Vidolm", "sat"),						
+								  ]),	
+			createComuna("Ohaba", [
+					createLoc("Ohaba", "sat"),	
+					createLoc("Colibi", "sat"),
+					createLoc("Măghierat", "sat"),	
+					createLoc("Secășel", "sat"),						
+								  ]),
+			createComuna("Pianu", [
+					createLoc("Pianu de Sus", "sat"),	
+					createLoc("Pianu de Jos", "sat"),
+					createLoc("Plaiuri", "sat"),	
+					createLoc("Purcăreți", "sat"),
+					createLoc("Strungari", "sat"),						
 								  ]),								  
 			]),
         createJudet("ARAD", [
