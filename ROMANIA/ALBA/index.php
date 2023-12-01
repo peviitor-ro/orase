@@ -5,6 +5,6 @@ createJudet(
             "ALBA",
             );
 			
-echo $alba;
+echo json_encode($alba, JSON_PRETTY_PRINT);
 
 ?>
