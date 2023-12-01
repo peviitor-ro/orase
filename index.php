@@ -3,5 +3,5 @@
 // based on https://legislatie.just.ro/Public/DetaliiDocument/189
 // created by sebiboga && dianadascalu2
 
-require_once 'ROMANIA/';
+require_once 'ROMANIA/index.php';
 ?>
