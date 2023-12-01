@@ -869,7 +869,6 @@ $tara = createTara(
 					createLoc("Mușcel", "sat"),
 							  ]),
 		]),
->>>>>>> parent of 53098d6 (Merge branch 'main' into feature/arges)
 		createJudet("BACĂU"),
 		createJudet("BIHOR"),
 		createJudet("BISTRIȚA-NĂSĂUD"),
