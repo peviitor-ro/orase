@@ -1,5 +1,5 @@
 <?php
-require_once "/util/functions.php";
+require_once "../../util/functions.php";
 $alba ='';
 createJudet(
             "ALBA",
