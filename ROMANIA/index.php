@@ -6,9 +6,9 @@
 
 
 
-require_once "ALBA/functions.php";
+require_once "functions.php";
 require_once "ALBA/alba.php";
-
+ 
 $judete = [$alba];
 
 // aici cream Romania
