@@ -1,0 +1,95 @@
+<?php
+$orase=[
+            createOras("ABRUD",[
+			    createLoc("ABRUD", "oras"),
+				createLoc("Abrud-Sat", "sat"),
+				createLoc("Gura Cornei", "sat"),
+				createLoc("Soharu", "sat"),
+			                   ]),
+			createOras("BAIA DE ARIEȘ",[
+			    createLoc("BAIA DE ARIEȘ", "oras",[
+				     createLoc("Brăzești", "sat"),
+					 createLoc("Cioara de Sus", "sat"),
+					 createLoc("Muncelu", "sat"),
+					 createLoc("Sartăș", "sat"),
+					 createLoc("Simulești", "sat"),
+				                                  ]),
+				
+			                             ]),
+			createOras("CÂMPENI", [
+			    createLoc("CÂMPENI", "oras"),
+				createLoc("Boncești", "sat"),
+				createLoc("Borlești", "sat"),
+				createLoc("Botești", "sat"),
+				createLoc("Certege", "sat"),
+				createLoc("Coasta Vâscului", "sat"),
+				createLoc("Dănduț", "sat"),
+				createLoc("Dealu Bistrii", "sat"),
+				createLoc("Dealu Capsei", "sat"),
+				createLoc("Dric", "sat"),
+				createLoc("Fața Abrudului", "sat"),
+				createLoc("Florești", "sat"),
+				createLoc("Furduiești", "sat"),
+				createLoc("Mihoești", "sat"),
+				createLoc("Motorăști", "sat"),
+				createLoc("Peste Valea Bistrii", "sat"),
+				createLoc("Poduri", "sat"),
+				createLoc("Sorlița", "sat"),
+				createLoc("Tomușești", "sat"),
+				createLoc("Valea Bistrii", "sat"),
+				createLoc("Valea Caselor", "sat"),
+				createLoc("Vârși", "sat"),
+			                     ]),
+			createOras("CUGIR", [
+			    createLoc("CUGIR", "oras"),
+				createLoc("Bocșitura", "sat"),
+				createLoc("Bucuru", "sat"),
+				createLoc("Călene", "sat"),
+				createLoc("Fețeni", "sat"),
+				createLoc("Goașele", "sat"),
+				createLoc("Mugești", "sat"),
+				createLoc("Vinerea", "sat"),
+			                     ]),
+			createOras("OCNA MUREȘ", [
+			    createLoc("OCNA MUREȘ", "oras",[
+					createLoc("Cisteiu de Mureș", "sat"),
+					createLoc("Micoșlaca", "sat"),
+					createLoc("Războieni-Cetate", "sat"),
+										]),
+				createLoc("Uioara de Jos", "sat"),
+				createLoc("Uioara de Sus", "sat"),
+			                     ]),
+			createOras("TEIUȘ", [
+			    createLoc("TEIUȘ", "oras",[
+					createLoc("Beldiu", "sat"),
+					createLoc("Căpud", "sat"),
+					createLoc("Coșlariu Nou", "sat"),
+					createLoc("Pețelca", "sat"),
+										]),
+			                     ]),
+			createOras("ZLATNA", [
+			    createLoc("ZLATNA", "oras",[
+					createLoc("Botești", "sat"),
+					createLoc("Budeni", "sat"),
+					createLoc("Dealu Roatei", "sat"),
+					createLoc("Dobrot", "sat"),
+					createLoc("Dumbrava", "sat"),
+					createLoc("Feneș", "sat"),
+					createLoc("Galați", "sat"),
+					createLoc("Izvoru Ampoiului", "sat"),
+					createLoc("Pătrângeni", "sat"),
+					createLoc("Pirita", "sat"),
+					createLoc("Pârău Gruiului", "sat"),
+					createLoc("Podu lui Paul", "sat"),
+					createLoc("Runc", "sat"),
+					createLoc("Ruși", "sat"),
+					createLoc("Suseni", "sat"),
+					createLoc("Trâmpoiele", "sat"),
+					createLoc("Valea Mică", "sat"),
+					createLoc("Vâltori", "sat"),
+										]),
+			                     ]),
+			
+];
+
+?>
