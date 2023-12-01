@@ -1,6 +1,6 @@
 <?php
 require_once "functions.php";
-$alba ='';
+$alba =
 createJudet(
             "ALBA",[
                 createMunicipiu("ALBA IULIA", [
