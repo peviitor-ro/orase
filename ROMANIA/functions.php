@@ -56,7 +56,7 @@ function createJudet($nume, $municipii = [], $orase = [], $comune = []) {
 }
 }
 
-if (!function_exists('createJudet')) {
+if (!function_exists('createTara')) {
 function createTara($proiect, $url, $nume, $judete = [], $municipii = []) {
     $tara = new stdClass();
     $tara->proiect = $proiect;
