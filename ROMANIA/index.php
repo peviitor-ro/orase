@@ -8,8 +8,8 @@
 
 require_once "functions.php";
 require_once "ALBA/alba.php";
- 
-$judete = [$alba];
+require_once "ARAD/arad.php";
+$judete = [$alba,$arad];
 
 // aici cream Romania
 $tara = createTara(
