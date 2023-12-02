@@ -478,6 +478,16 @@ $comune =[
 					createLoc("Măcărești", "sat"),
 					createLoc("Valea Bucurului", "sat"),	
 					createLoc("Vale în Jos", "sat"),						
-								  ]),			
+								  ]),	
+			createComuna("Poșaga", [
+					createLoc("Poșaga", "sat"),	
+					createLoc("Poșaga de Jos", "sat"),
+					createLoc("Corțești", "sat"),	
+					createLoc("Incești", "sat"),
+					createLoc("Lunca", "sat"),	
+					createLoc("Orăști", "sat"),	
+					createLoc("Poșaga de Sus", "sat"),	
+					createLoc("Săgagea", "sat"),					
+								  ]),								  
 ];
 ?>
