@@ -47,6 +47,7 @@ require_once "SIBIU/sibiu.php";
 require_once "SUCEAVA/suceava.php";
 require_once "TELEORMAN/teleorman.php";
 require_once "TIMIS/timis.php";
+require_once "TULCEA/tulcea.php";
 
 $judete = [	$alba,$arad,$arges,
 			$bacau,$bihor,$bistritanasaud,$botosani,$brasov,$braila,$buzau,
@@ -60,7 +61,7 @@ $judete = [	$alba,$arad,$arges,
 			$olt,
 			$prahova,
 			$satumare,$salaj,$sibiu,$suceava,
-			$teleorman,$timis];
+			$teleorman,$timis,$tulcea];
 
 // aici cream Romania
 $tara = createTara(
