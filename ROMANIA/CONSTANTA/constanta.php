@@ -6,7 +6,7 @@ require_once 'comune.php';
 
 $constanta =
 createJudet(
-            "CONSTANTA",$municipii,$orase,$comune
+            "CONSTANȚA",$municipii,$orase,$comune
             );
 			
 ?>
