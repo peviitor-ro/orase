@@ -4,9 +4,9 @@ require_once 'municipii.php';
 require_once 'orase.php';
 require_once 'comune.php';
 
-$galati =
+$giurgiu =
 createJudet(
-            "GALAȚI",$municipii,$orase,$comune
+            "GIURGIU",$municipii,$orase,$comune
             );
 			
 ?>
