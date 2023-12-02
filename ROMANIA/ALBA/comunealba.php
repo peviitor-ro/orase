@@ -531,7 +531,12 @@ $comune =[
 					createLoc("Șoal", "sat"),
 					createLoc("Țarina", "sat"),	
 					createLoc("Vârtop", "sat"),	
-								  ]),										  
+								  ]),		
+			createComuna("Roșia de Secaș", [
+					createLoc("Roșia de Secaș", "sat"),	
+					createLoc("Tău", "sat"),	
+					createLoc("Ungurei", "sat"),					
+								  ]),								  
 ];
 
 /*
