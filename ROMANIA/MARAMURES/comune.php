@@ -193,6 +193,25 @@ $comune =[
 					createLoc("Hoteni", "sat"),
 					createLoc("Sat-Șugatag", "sat"),
 								  ]),
+			createComuna("Oncești", [
+					createLoc("Oncești", "sat"),
+								  ]),
+			createComuna("Petrova", [
+					createLoc("Petrova", "sat"),
+								  ]),
+			createComuna("Poienile de sub Munte", [
+					createLoc("Poienile de sub Munte", "sat"),
+								  ]),
+			createComuna("Poienile Izei", [
+					createLoc("Poienile Izei", "sat"),
+								  ]),
+			createComuna("Recea", [
+					createLoc("Recea", "sat"),
+					createLoc("Bozânta Mică", "sat"),
+					createLoc("Lăpușel", "sat"),
+					createLoc("Mocira", "sat"),
+					createLoc("Săsar", "sat"),
+								  ]),								  
 								  
 ];
 ?>
