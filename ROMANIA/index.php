@@ -29,9 +29,10 @@ require_once "DAMBOVITA/dambovita.php";
 require_once "DOLJ/dolj.php";
 require_once "GALATI/galati.php";
 require_once "GIURGIU/giurgiu.php";
+require_once "GORJ/gorj.php";
 
 $judete = [$alba,$arad,$arges,$bacau,$bihor,$bistritanasaud,$botosani,$brasov,$braila,$buzau,$carasseverin,
-			$calarasi,$cluj,$constanta,$covasna,$dambovita,$dolj,$galati,$giurgiu];
+			$calarasi,$cluj,$constanta,$covasna,$dambovita,$dolj,$galati,$giurgiu,$gorj];
 
 // aici cream Romania
 $tara = createTara(
