@@ -8,7 +8,7 @@ function createLoc($nume, $tip, $locuri = []) {
 
     // Set the loc property only if $locuri is defined and not an empty array
     if (!empty($locuri)) {
-        $localitate->loc = $locuri;
+        $loc->localitate = $locuri;
     }
 
     return $loc;
