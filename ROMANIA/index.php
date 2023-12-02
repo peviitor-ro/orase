@@ -35,10 +35,16 @@ require_once "HUNEDOARA/hunedoara.php";
 require_once "IALOMITA/ialomita.php";
 require_once "IASI/iasi.php";
 require_once "ILFOV/ilfov.php";
+require_once "MARAMURES/maramures.php";
 
-$judete = [$alba,$arad,$arges,$bacau,$bihor,$bistritanasaud,$botosani,$brasov,$braila,$buzau,$carasseverin,
-			$calarasi,$cluj,$constanta,$covasna,$dambovita,$dolj,$galati,$giurgiu,$gorj,$harghita,$hunedoara,$ialomita,
-			$iasi,$ilfov];
+$judete = [	$alba,$arad,$arges,
+			$bacau,$bihor,$bistritanasaud,$botosani,$brasov,$braila,$buzau,
+			$carasseverin,$calarasi,$cluj,$constanta,$covasna,
+			$dambovita,$dolj,
+			$galati,$giurgiu,$gorj,
+			$harghita,$hunedoara,
+			$ialomita,$iasi,$ilfov,
+			$maramures];
 
 // aici cream Romania
 $tara = createTara(
