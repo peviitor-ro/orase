@@ -308,7 +308,7 @@ $comune =[
 					createLoc("Satu Mic", "sat"),
 								  ]),
 			createComuna("Șimand", [
-					createLoc("Șimand"),
+					createLoc("Șimand", "sat"),
 								  ]),	
 			createComuna("Șiria", [
 					createLoc("Șiria", "sat"),
