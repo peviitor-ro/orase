@@ -494,6 +494,25 @@ $comune =[
 					createLoc("Leorinț", "sat"),
 					createLoc("Meșcreac", "sat"),	
 					createLoc("Șoimuș", "sat"),				
-								  ]),								  
+								  ]),	
+			createComuna("Rimetea", [
+					createLoc("Rimetea", "sat"),	
+					createLoc("Colțești", "sat"),			
+								  ]),	
+			createComuna("Râmeț", [
+					createLoc("Râmeț", "sat"),	
+					createLoc("Boțani", "sat"),	
+					createLoc("Brădești", "sat"),	
+					createLoc("Cheia", "sat"),
+					createLoc("Cotorăști", "sat"),	
+					createLoc("Florești", "sat"),
+					createLoc("Olteni", "sat"),	
+					createLoc("Valea Făgetului", "sat"),	
+					createLoc("Valea Inzelului", "sat"),	
+					createLoc("Valea Mănăstirii", "sat"),	
+					createLoc("Valea Poienii", "sat"),	
+					createLoc("Valea Uzei", "sat"),	
+					createLoc("Vlădești", "sat"),					
+								  ]),									  
 ];
 ?>
