@@ -752,12 +752,4 @@ $comune =[
 					createLoc("Vurpăr", "sat"),						
 								  ]),								  
 ];
-
-/*
-					createLoc("Dăroaia", "sat"),	
-					createLoc("Gârda", "sat"),	
-					createLoc("Gura", "sat"),	
-					createLoc("Iacobești", "sat"),	
-					createLoc("Ignățești", "sat"),
-*/
 ?>
