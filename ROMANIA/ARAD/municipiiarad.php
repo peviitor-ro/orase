@@ -2,8 +2,7 @@
 $municipii =
 [
         createMunicipiu("ARAD", [
-                    createLoc("ARAD", "oras",[]),    
-				
-            ];
+                    createLoc("ARAD", "oras",[]),    			
+            ]);
 
 ?>

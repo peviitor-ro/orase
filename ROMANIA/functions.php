@@ -39,7 +39,11 @@ if (!function_exists('createMunicipiu')) {
 function createMunicipiu($nume, $locuri = []) {
     $municipiu = new stdClass();
     $municipiu->nume = $nume;
-    $municipiu->loc = $locuri;
+	
+	   if (!empty($locuri)) {
+        $municipiu->loc = $locuri;
+    }
+ 
     return $municipiu;
 }
 }
