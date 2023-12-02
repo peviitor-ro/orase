@@ -457,7 +457,20 @@ $comune =[
 					createLoc("Plaiuri", "sat"),	
 					createLoc("Purcăreți", "sat"),
 					createLoc("Strungari", "sat"),						
-								  ]),								  
+								  ]),	
+			createComuna("Poiana Vadului", [
+					createLoc("Poiana Vadului", "sat"),	
+					createLoc("Costești", "sat"),
+					createLoc("Duduieni", "sat"),	
+					createLoc("Făgetu de Jos", "sat"),
+					createLoc("Făgetu de Sus", "sat"),	
+					createLoc("Hănășești", "sat"),	
+					createLoc("Lupăiești", "sat"),
+					createLoc("Morcănești", "sat"),	
+					createLoc("Păștești", "sat"),
+					createLoc("Petelei", "sat"),
+					createLoc("Stănești", "sat"),					
+								  ]),									  
 			
 ];
 ?>
