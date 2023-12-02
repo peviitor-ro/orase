@@ -13,8 +13,8 @@ $orase=[
 						   ]),
 		createOras("LIPOVA",[
 			createLoc("LIPOVA", "oras"),
-			createLoc("Radna", "oras"),
-			createLoc("Șoimoș", "oras"),
+			createLoc("Radna", "sat"),
+			createLoc("Șoimoș", "sat"),
 						   ]),
 		createOras("NĂDLAC",[
 			createLoc("NĂDLAC", "oras"),
