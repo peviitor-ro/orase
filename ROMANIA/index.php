@@ -21,8 +21,10 @@ require_once "BRASOV/brasov.php";
 require_once "BRAILA/braila.php";
 require_once "BUZAU/buzau.php";
 require_once "CARASSEVERIN/carasseverin.php";
+require_once "CALARASI/calarasi.php";
 
-$judete = [$alba,$arad,$arges,$bacau,$bihor,$bistritanasaud,$botosani,$brasov,$braila,$buzau,$carasseverin];
+$judete = [$alba,$arad,$arges,$bacau,$bihor,$bistritanasaud,$botosani,$brasov,$braila,$buzau,$carasseverin,
+			$calarasi];
 
 // aici cream Romania
 $tara = createTara(
