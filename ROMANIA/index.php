@@ -18,8 +18,9 @@ require_once "BIHOR/bihor.php";
 require_once "BISTRITANASAUD/bistritanasaud.php";
 require_once "BOTOSANI/botosani.php";
 require_once "BRASOV/brasov.php";
+require_once "BRAILA/braila.php";
 
-$judete = [$alba,$arad,$arges,$bacau,$bihor,$bistritanasaud,$botosani,$brasov];
+$judete = [$alba,$arad,$arges,$bacau,$bihor,$bistritanasaud,$botosani,$brasov,$braila];
 
 // aici cream Romania
 $tara = createTara(
