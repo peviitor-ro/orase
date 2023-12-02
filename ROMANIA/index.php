@@ -9,7 +9,9 @@
 require_once "functions.php";
 require_once "ALBA/alba.php";
 require_once "ARAD/arad.php";
-$judete = [$alba,$arad];
+require_once "ARGES/arges.php";
+
+$judete = [$alba,$arad,$arges];
 
 // aici cream Romania
 $tara = createTara(
