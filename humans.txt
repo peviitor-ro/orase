@@ -1,0 +1,13 @@
+#team
+  Dascalu Elena
+  Sebastian Boga
+  Medeea Boamfa
+  
+#tech
+  PHP
+  GitHUB
+  ngix
+  JSON
+  
+#url
+  https://orase.peviitor.ro/
