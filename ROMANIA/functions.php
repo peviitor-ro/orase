@@ -72,4 +72,18 @@ function createTara($proiect, $url, $nume, $judete = [], $municipii = []) {
 }
 }
 
+
+if (!function_exists('createBucuresti')) {
+function createBucuresti($nume, $locuri = []) {
+    $municipiu = new stdClass();
+    $municipiu->nume = $nume;
+	
+	   if (!empty($locuri)) {
+        $municipiu->sector = $locuri;
+    }
+ 
+    return $municipiu;
+}
+}
+
 ?>

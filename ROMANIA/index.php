@@ -7,6 +7,9 @@
 
 
 require_once "functions.php";
+
+require_once "BUCURESTI/bucuresti.php";
+
 require_once "ALBA/alba.php";
 require_once "ARAD/arad.php";
 require_once "ARGES/arges.php";
