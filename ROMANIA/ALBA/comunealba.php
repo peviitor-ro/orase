@@ -513,6 +513,32 @@ $comune =[
 					createLoc("Valea Poienii", "sat"),	
 					createLoc("Valea Uzei", "sat"),	
 					createLoc("Vlădești", "sat"),					
-								  ]),									  
+								  ]),		
+			createComuna("Roșia Montană", [
+					createLoc("Roșia Montană", "sat"),	
+					createLoc("Bălmoșești", "sat"),	
+					createLoc("Blidești", "sat"),	
+					createLoc("Bunta", "sat"),
+					createLoc("Cărpiniș", "sat"),	
+					createLoc("Coasta Henții", "sat"),
+					createLoc("Corna", "sat"),	
+					createLoc("Curături", "sat"),	
+					createLoc("Dăroaia", "sat"),	
+					createLoc("Gârda-Bărbulești", "sat"),	
+					createLoc("Gura Roșiei", "sat"),	
+					createLoc("Iacobești", "sat"),	
+					createLoc("Ignățești", "sat"),	
+					createLoc("Șoal", "sat"),
+					createLoc("Țarina", "sat"),	
+					createLoc("Vârtop", "sat"),	
+								  ]),										  
 ];
+
+/*
+					createLoc("Dăroaia", "sat"),	
+					createLoc("Gârda", "sat"),	
+					createLoc("Gura", "sat"),	
+					createLoc("Iacobești", "sat"),	
+					createLoc("Ignățești", "sat"),
+*/
 ?>
