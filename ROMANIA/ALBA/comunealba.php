@@ -471,6 +471,13 @@ $comune =[
 					createLoc("Petelei", "sat"),
 					createLoc("Stănești", "sat"),					
 								  ]),									  
-			
+			createComuna("Ponor", [
+					createLoc("Ponor", "sat"),	
+					createLoc("După Deal", "sat"),
+					createLoc("Geogel", "sat"),	
+					createLoc("Măcărești", "sat"),
+					createLoc("Valea Bucurului", "sat"),	
+					createLoc("Vale în Jos", "sat"),						
+								  ]),			
 ];
 ?>
