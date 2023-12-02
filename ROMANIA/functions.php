@@ -20,7 +20,7 @@ if (!function_exists('createComuna')) {
 function createComuna($nume, $locuri = []) {
     $comuna = new stdClass();
     $comuna->nume = $nume;
-    $comuna->loc = $locuri;
+    $comuna->localitate = $locuri;
     return $comuna;
 }
 }
@@ -29,7 +29,7 @@ if (!function_exists('createOras')) {
 function createOras($nume, $locuri = []) {
     $oras = new stdClass();
     $oras->nume = $nume;
-    $oras->loc = $locuri;
+    $oras->localitate = $locuri;
     return $oras;
 }
 }
@@ -41,7 +41,7 @@ function createMunicipiu($nume, $locuri = []) {
     $municipiu->nume = $nume;
 	
 	   if (!empty($locuri)) {
-        $municipiu->loc = $locuri;
+        $municipiu->localitate = $locuri;
     }
  
     return $municipiu;
