@@ -41,6 +41,35 @@ $comune =[
 				     
 			     ]),	
 
+			createComuna("Așchileu", [
+					createLoc("Așchileu Mare", "sat"),
+					createLoc("Așchileu Mic", "sat"),			     
+					createLoc("Cristorel", "sat"),	
+					createLoc("Dorna", "sat"),
+					createLoc("Fodora", "sat"),				     
+				     ]),	
+	
+			createComuna("Baciu", [
+					createLoc("Baciu", "sat"),
+					createLoc("Corușu", "sat"),			     
+					createLoc("Mera", "sat"),	
+					createLoc("Popești", "sat"),
+					createLoc("Rădaia", "sat"),		
+					createLoc("Săliștea Nouă", "sat"),
+					createLoc("Suceagu", "sat"),				     
+				     ]),	
+
+			createComuna("Băișoara", [
+					createLoc("Băișoara", "sat"),
+					createLoc("Frăsinet", "sat"),			     
+					createLoc("Moara de Pădure", "sat"),	
+					createLoc("Muntele Băișorii", "sat"),
+					createLoc("Muntele Bocului", "sat"),		
+					createLoc("Muntele Cacovei", "sat"),
+					createLoc("Muntele Filii", "sat"),			     
+					createLoc("Muntele Săcelului", "sat"),	
+					createLoc("Săcel", "sat"),				     
+				     ]),		
 	
 	
 /*				
