@@ -70,7 +70,104 @@ $comune =[
 					createLoc("Muntele Săcelului", "sat"),	
 					createLoc("Săcel", "sat"),				     
 				     ]),		
+
+			createComuna("Beliș", [
+					createLoc("Beliș", "sat"),
+					createLoc("Bălcești", "sat"),			     
+					createLoc("Dealu Botii", "sat"),	
+					createLoc("Giurcuța de Jos", "sat"),
+					createLoc("Giurcuța de Sus", "sat"),	
+					createLoc("Poiana Horea", "sat"),
+					createLoc("Smida", "sat"),				     
+				     ]),
 	
+			createComuna("Bobâlna", [
+					createLoc("Bobâlna", "sat"),
+					createLoc("Antăș", "sat"),			     
+					createLoc("Băbdiu", "sat"),	
+					createLoc("Blidărești", "sat"),
+					createLoc("Cremenea", "sat"),
+					createLoc("Maia", "sat"),
+					createLoc("Oșorhel", "sat"),			     
+					createLoc("Pruni", "sat"),	
+					createLoc("Răzbuneni", "sat"),
+					createLoc("Suarăș", "sat"),			
+				        createLoc("Vâlcelele", "sat"),	
+				     ]),
+	
+			createComuna("Bonțida", [
+					createLoc("Bonțida", "sat"),
+					createLoc("Coasta", "sat"),			     
+					createLoc("Răscruci", "sat"),	
+					createLoc("Tăușeni", "sat"),			     
+				     ]),	
+	
+			createComuna("Borșa", [
+					createLoc("Borșa", "sat"),
+					createLoc("Borșa-Cătun", "sat"),			     
+					createLoc("Borșa-Crestaia", "sat"),	
+					createLoc("Ciumăfaia", "sat"),
+					createLoc("Giula", "sat"),				     
+				     ]),	
+
+			createComuna("Buza", [
+					createLoc("Buza", "sat"),
+					createLoc("Rotunda", "sat"),			     			     
+				     ]),
+
+			createComuna("Căianu", [
+					createLoc("Căianu", "sat"),
+					createLoc("Bărăi", "sat"),			     
+					createLoc("Căianu Mic", "sat"),	
+					createLoc("Căianu-Vamă", "sat"),
+					createLoc("Vaida-Cămăraș", "sat"),	
+				        createLoc("Văleni", "sat"),
+				     ]),	
+
+			createComuna("Călărași", [
+					createLoc("Călărași", "sat"),
+					createLoc("Bogata", "sat"),			     
+					createLoc("Călărași-Gară", "sat"),				     
+				     ]),	
+
+			createComuna("Călățele", [
+					createLoc("Călățele", "sat"),
+					createLoc("Călata", "sat"),			     
+					createLoc("Dealu Negru", "sat"),	
+					createLoc("Finciu", "sat"),
+					createLoc("Văleni", "sat"),				     
+				     ]),
+
+			createComuna("Cămărașu", [
+					createLoc("Cămărașu", "sat"),
+					createLoc("Năoiu", "sat"),			     
+					createLoc("Sâmboleni", "sat"),				     
+				     ]),	
+
+			createComuna("Căpușu Mare", [
+					createLoc("Căpușu Mare", "sat"),
+					createLoc("Agârbiciu", "sat"),			     
+					createLoc("Bălcești", "sat"),	
+					createLoc("Căpușu Mic", "sat"),
+					createLoc("Dângău Mare", "sat"),
+					createLoc("Dângău Mic", "sat"),			     
+					createLoc("Dumbrava", "sat"),	
+					createLoc("Păniceni", "sat"),
+					createLoc("Straja", "sat"),					     
+				     ]),
+
+			createComuna("Cășeiu", [
+					createLoc("Cășeiu", "sat"),
+					createLoc("Comorâța", "sat"),			     
+					createLoc("Coplean", "sat"),	
+					createLoc("Custura", "sat"),
+					createLoc("Gârbău Dejului", "sat"),	
+					createLoc("Guga", "sat"),
+					createLoc("Leurda", "sat"),			     
+					createLoc("Rugășești", "sat"),	
+					createLoc("Sălătruc", "sat"),
+					createLoc("Urișor", "sat"),				     
+				     ]),	
 	
 /*				
 			createComuna("", [
