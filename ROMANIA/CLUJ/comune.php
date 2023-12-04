@@ -15,7 +15,12 @@ $comune =[
 					createLoc("Ticu", "sat"),
 					createLoc("Ticu-Colonie", "sat"),
 								  ]),
-									  
+	
+			createComuna("Aiton", [
+					createLoc("Aiton", "sat"),
+					createLoc("Rediu", "sat"),
+								  ]),									  
 			
 ];
+
 ?>
