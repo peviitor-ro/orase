@@ -12,7 +12,7 @@ $municipii =
                 ]),	
 		createMunicipiu("SĂCELE", [
                     createLoc("SĂCELE", "oras"),
-                ]),				
+                ]),			
 			
 ];
 ?>
