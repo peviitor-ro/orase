@@ -252,7 +252,67 @@ $comune =[
         createLoc("Hideaga", "sat"),
         createLoc("Mogoșești", "sat"),
         createLoc("Pribilești", "sat"),
-    ]),								  
+    ]),
+    createComuna("Săcălășeni", [
+        createLoc("Săcălășeni", "sat"),
+        createLoc("Coruia", "sat"),
+        createLoc("Culcea", "sat"),
+    ]),
+    createComuna("Săcel", [
+        createLoc("Săcel", "sat"),
+    ]),
+    createComuna("Sălsig", [
+        createLoc("Sălsig", "sat"),
+    ]),
+    createComuna("Săpânța", [
+        createLoc("Săpânța", "sat"),
+    ]),
+    createComuna("Strâmtura", [
+        createLoc("Strâmtura", "sat"),
+        createLoc("Glod", "sat"),
+        createLoc("Slătioara", "sat"),
+    ]),
+    createComuna("Suciu de Sus", [
+        createLoc("Suciu de Sus", "sat"),
+        createLoc("Larga", "sat"),
+        createLoc("Suciu de Jos", "sat"),
+    ]),
+    createComuna("Șieu", [
+        createLoc("Șieu", "sat"),
+    ]),
+    createComuna("Șișești", [
+        createLoc("Șișești", "sat"),
+        createLoc("Bontăieni", "sat"),
+        createLoc("Cetățele", "sat"),
+        createLoc("Dănești", "sat"),
+        createLoc("Negreia", "sat"),
+        createLoc("Plopis", "sat"),
+        createLoc("Șurdești", "sat"),
+    ]),
+    createComuna("Vadu Izei", [
+        createLoc("Vadu lzei", "sat"),
+        createLoc("Valea Stejarului", "sat"),
+    ]),
+    createComuna("Valea Chioarului", [
+        createLoc("Valea Chioarului", "sat"),
+        createLoc("Curtuiușu Mare", "sat"),
+        createLoc("Durușa", "sat"),
+        createLoc("Fericea", "sat"),
+        createLoc("Mesteacăn", "sat"),
+        createLoc("Vărai", "sat"),
+    ]),
+    createComuna("Vima Mică", [
+        createLoc("Vima Mică", "sat"),
+        createLoc("Aspra", "sat"),
+        createLoc("Dealu Corbului", "sat"),
+        createLoc("Jugăstreni", "sat"),
+        createLoc("Peteritea", "sat"),
+        createLoc("Sălnița", "sat"),
+        createLoc("Vima Mare", "sat"),
+    ]),
+    createComuna("Vișeu de Jos", [
+        createLoc("Vișeu de Jos", "sat"),
+    ]),	
 								  
 ];
 ?>
