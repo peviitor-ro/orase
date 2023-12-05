@@ -211,7 +211,48 @@ $comune =[
 					createLoc("Lăpușel", "sat"),
 					createLoc("Mocira", "sat"),
 					createLoc("Săsar", "sat"),
-								  ]),								  
+								  ]),
+    createComuna("Remetea Chioarului", [
+        createLoc("Remetea Chioarului", "sat"),
+        createLoc("Berchez", "sat"),
+        createLoc("Berchezoaia", "sat"),
+        createLoc("Posta", "sat"),
+        createLoc("Remecioara", "sat"),
+    ]),
+    createComuna("Remeți", [
+        createLoc("Remeți", "sat"),
+        createLoc("Piatra", "sat"),
+        createLoc("Teceu Mic", "sat"),
+    ]),
+    createComuna("Repedea", [
+        createLoc("Repedea", "sat"),
+    ]),
+    createComuna("Rona de Jos", [
+        createLoc("Rona de Jos", "sat"),
+    ]),
+    createComuna("Rona de Sus", [
+        createLoc("Rona de Sus", "sat"),
+        createLoc("Coștiui", "sat"),
+    ]),
+    createComuna("Rozavlea", [
+        createLoc("Rozavlea", "sat"),
+        createLoc("Sâlța", "sat"),
+    ]),
+    createComuna("Ruscova", [
+        createLoc("Ruscova", "sat"),
+    ]),
+    createComuna("Sarasău", [
+        createLoc("Sarasău", "sat"),
+    ]),
+    createComuna("Satulung", [
+        createLoc("Satulung", "sat"),
+        createLoc("Arieșu de Pădure", "sat"),
+        createLoc("Fersig", "sat"),
+        createLoc("Finteușu Mic", "sat"),
+        createLoc("Hideaga", "sat"),
+        createLoc("Mogoșești", "sat"),
+        createLoc("Pribilești", "sat"),
+    ]),								  
 								  
 ];
 ?>
