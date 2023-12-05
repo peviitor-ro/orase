@@ -23,7 +23,8 @@ $orase=[
 			    createLoc("SLĂNIC-MOLDOVA", "oras",[
 				     createLoc("Cerdac", "sat"),
 					 createLoc("Cireșoaia", "sat"),
-				                                  ],]),
+				                                  ]),
+										]),
             createOras("TÂRGU OCNA",[
 			    createLoc("TÂRGU OCNA", "oras"),
 				createLoc("Poieni", "sat"),
