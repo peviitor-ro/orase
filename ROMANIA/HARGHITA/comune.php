@@ -7,7 +7,7 @@ $comune =[
         createLoc("Cușmed", "sat"),
         createLoc("Inlăceni", "sat"),
         createLoc("Șiclod", "sat")
-    ]);
+    ]),
     
     createComuna("Avrămești", [
         createLoc("Avrămești", "sat"),
@@ -18,31 +18,31 @@ $comune =[
         createLoc("Laz-Firtănuș", "sat"),
         createLoc("Laz-Șoimuș", "sat"),
         createLoc("Medișoru Mic", "sat")
-    ]);
+    ]),
     
     createComuna("Bilbor", [
         createLoc("Bilbor", "sat"),
         createLoc("Răchitiș", "sat")
-    ]);
+    ]),
     
     createComuna("Brădești", [
         createLoc("Brădești", "sat"),
         createLoc("Târnovița", "sat")
-    ]);
+    ]),
     
     createComuna("Căpâlnița", [
         createLoc("Căpâlnița", "sat")
-    ]);
+    ]),
     
     createComuna("Cârța", [
         createLoc("Cârța", "sat"),
         createLoc("Ineu", "sat")
-    ]);
+    ]),
     
     createComuna("Ciceu", [
         createLoc("Ciceu", "sat"),
         createLoc("Ciaracio", "sat")
-    ]);
+    ]),
     
     createComuna("Ciucsângeorgiu", [
         createLoc("Ciucsângeorgiu", "sat"),
@@ -54,12 +54,12 @@ $comune =[
         createLoc("Eghersec", "sat"),
         createLoc("Ghiurche", "sat"),
         createLoc("Potiond", "sat")
-    ]);
+    ]),
     
     createComuna("Ciumani", [
         createLoc("Ciumani", "sat")
-    ]);
-    
+    ]),
+
     createComuna("Corbu", [
         createLoc("Corbu", "sat"),
         createLoc("Capu Corbului", "sat")
