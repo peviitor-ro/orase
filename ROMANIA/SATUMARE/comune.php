@@ -2,334 +2,334 @@
 $comune =[
 
 	createComuna("Acâș", [
-        createLoc("Acâș", "1"),
-        createLoc("Ganaș", "2"),
-        createLoc("Mihăieni", "3"),
-        createLoc("Unimăt", "4")
+        createLoc("Acâș", "sat"),
+        createLoc("Ganaș", "sat"),
+        createLoc("Mihăieni", "sat"),
+        createLoc("Unimăt", "sat")
     ]),
     createComuna("Agriș", [
-        createLoc("Agriș", "1"),
-        createLoc("Ciuperceni", "2")
+        createLoc("Agriș", "sat"),
+        createLoc("Ciuperceni", "sat")
     ]),
     createComuna("Andrid", [
-        createLoc("Andrid", "1"),
-        createLoc("Dindești", "2"),
-        createLoc("Irina", "3")
+        createLoc("Andrid", "sat"),
+        createLoc("Dindești", "sat"),
+        createLoc("Irina", "sat")
     ]),
     createComuna("Apa", [
-        createLoc("Apa", "1"),
-        createLoc("Lunca Apei", "2"),
-        createLoc("Someșeni", "3")
+        createLoc("Apa", "sat"),
+        createLoc("Lunca Apei", "sat"),
+        createLoc("Someșeni", "sat")
     ]),
     createComuna("Bătarci", [
-        createLoc("Bătarci", "1"),
-        createLoc("Comlăușa", "2"),
-        createLoc("Șirlău", "3"),
-        createLoc("Tămășeni", "4")
+        createLoc("Bătarci", "sat"),
+        createLoc("Comlăușa", "sat"),
+        createLoc("Șirlău", "sat"),
+        createLoc("Tămășeni", "sat")
     ]),
     createComuna("Beltiug", [
-        createLoc("Beltiug", "1"),
-        createLoc("Bolda", "2"),
-        createLoc("Ghirișa", "3"),
-        createLoc("Giungi", "4"),
-        createLoc("Rătești", "5"),
-        createLoc("Șandra", "6")
+        createLoc("Beltiug", "sat"),
+        createLoc("Bolda", "sat"),
+        createLoc("Ghirișa", "sat"),
+        createLoc("Giungi", "sat"),
+        createLoc("Rătești", "sat"),
+        createLoc("Șandra", "sat")
     ]),
     createComuna("Berveni", [
-        createLoc("Berveni", "1"),
-        createLoc("Lucăceni", "2")
+        createLoc("Berveni", "sat"),
+        createLoc("Lucăceni", "sat")
     ]),
     createComuna("Bixad", [
-        createLoc("Bixad", "1"),
-        createLoc("Boinești", "2"),
-        createLoc("Trip", "3")
+        createLoc("Bixad", "sat"),
+        createLoc("Boinești", "sat"),
+        createLoc("Trip", "sat")
     ]),
     createComuna("Bârsău", [
-        createLoc("Bârsău de Sus", "1"),
-        createLoc("Bârsău de Jos", "2")
+        createLoc("Bârsău de Sus", "sat"),
+        createLoc("Bârsău de Jos", "sat")
     ]),
     createComuna("Bogdand", [
-        createLoc("Bogdand", "1"),
-        createLoc("Babța", "2"),
-        createLoc("Corund", "3")
+        createLoc("Bogdand", "sat"),
+        createLoc("Babța", "sat"),
+        createLoc("Corund", "sat"),
+        createLoc("Ser", "sat")
     ]),
     createComuna("Botiz", [
-        createLoc("Botiz", "1")
+        createLoc("Botiz", "sat")
     ]),
     createComuna("Călinești-Oaș", [
-        createLoc("Călinești-Oaș", "1"),
-        createLoc("Coca", "2"),
-        createLoc("Lechința", "3"),
-        createLoc("Pășunea Mare", "4")
+        createLoc("Călinești-Oaș", "sat"),
+        createLoc("Coca", "sat"),
+        createLoc("Lechința", "sat"),
+        createLoc("Pășunea Mare", "sat")
     ]),
     createComuna("Cămărzana", [
-        createLoc("Cămărzana", "1")
+        createLoc("Cămărzana", "sat")
     ]),
     createComuna("Cămin", [
-        createLoc("Cămin", "1")
+        createLoc("Cămin", "sat")
     ]),
     createComuna("Căpleni", [
-        createLoc("Căpleni", "1")
+        createLoc("Căpleni", "sat")
     ]),
     createComuna("Căuaș", [
-        createLoc("Căuaș", "1"),
-        createLoc("Ady Endre", "2"),
-        createLoc("Ghenci", "3"),
-        createLoc("Ghilești", "4"),
-        createLoc("Hotoan", "5"),
-        createLoc("Rădulești", "6")
+        createLoc("Căuaș", "sat"),
+        createLoc("Ady Endre", "sat"),
+        createLoc("Ghenci", "sat"),
+        createLoc("Ghilești", "sat"),
+        createLoc("Hotoan", "sat"),
+        createLoc("Rădulești", "sat")
     ]),
     createComuna("Cehal", [
-        createLoc("Cehăluț", "1"),
-        createLoc("Cehal", "2"),
-        createLoc("Orbău", "3")
+        createLoc("Cehăluț", "sat"),
+        createLoc("Cehal", "sat"),
+        createLoc("Orbău", "sat")
     ]),
     createComuna("Certeze", [
-        createLoc("Certeze", "1"),
-        createLoc("Huta-Certeze", "2"),
-        createLoc("Moișeni", "3")
+        createLoc("Certeze", "sat"),
+        createLoc("Huta-Certeze", "sat"),
+        createLoc("Moișeni", "sat")
     ]),
     createComuna("Ciumești", [
-        createLoc("Ciumești", "1"),
-        createLoc("Berea", "2"),
-        createLoc("Viișoara", "3")
+        createLoc("Ciumești", "sat"),
+        createLoc("Berea", "sat"),
+        createLoc("Viișoara", "sat")
     ]),
     createComuna("Craidorolț", [
-        createLoc("Craidorolț", "1"),
-        createLoc("Crișeni", "2"),
-        createLoc("Eriu-Sâncrai", "3"),
-        createLoc("Satu Mic", "4"),
-        createLoc("Țeghea", "5")
+        createLoc("Craidorolț", "sat"),
+        createLoc("Crișeni", "sat"),
+        createLoc("Eriu-Sâncrai", "sat"),
+        createLoc("Satu Mic", "sat"),
+        createLoc("Țeghea", "sat")
     ]),
     createComuna("Crucișor", [
-        createLoc("Crucișor", "1"),
-        createLoc("Iegheriște", "2"),
-        createLoc("Poiana Codrului", "3")
+        createLoc("Crucișor", "sat"),
+        createLoc("Iegheriște", "sat"),
+        createLoc("Poiana Codrului", "sat")
     ]),
     createComuna("Culciu", [
-        createLoc("Culciu Mare", "1"),
-        createLoc("Apateu", "2"),
-        createLoc("Cărășeu", "3"),
-        createLoc("Corod", "4"),
-        createLoc("Culciu Mic", "5"),
-        createLoc("Lipău", "6")
+        createLoc("Culciu Mare", "sat"),
+        createLoc("Apateu", "sat"),
+        createLoc("Cărășeu", "sat"),
+        createLoc("Corod", "sat"),
+        createLoc("Culciu Mic", "sat"),
+        createLoc("Lipău", "sat")
     ]),
     createComuna("Doba", [
-        createLoc("Doba", "1"),
-        createLoc("Boghiș", "2"),
-        createLoc("Dacia", "3"),
-        createLoc("Paulian", "4"),
-        createLoc("Traian", "5")
+        createLoc("Doba", "sat"),
+        createLoc("Boghiș", "sat"),
+        createLoc("Dacia", "sat"),
+        createLoc("Paulian", "sat"),
+        createLoc("Traian", "sat")
     ]),
     createComuna("Dorolț", [
-        createLoc("Dorolț", "1"),
-        createLoc("Atea", "2"),
-        createLoc("Dara", "3"),
-        createLoc("Petea", "4")
+        createLoc("Dorolț", "sat"),
+        createLoc("Atea", "sat"),
+        createLoc("Dara", "sat"),
+        createLoc("Petea", "sat")
     ]),
     createComuna("Foieni", [
-        createLoc("Foieni", "1")
+        createLoc("Foieni", "sat")
     ]),
     createComuna("Gherța Mică", [
-        createLoc("Gherța Mică", "1")
+        createLoc("Gherța Mică", "sat")
     ]),
     createComuna("Halmeu", [
-        createLoc("Halmeu", "1"),
-        createLoc("Băbești", "2"),
-        createLoc("Dobolț", "3"),
-        createLoc("Halmeu-Vii", "4"),
-        createLoc("Mesteacăn", "5")
+        createLoc("Halmeu", "sat"),
+        createLoc("Băbești", "sat"),
+        createLoc("Dobolț", "sat"),
+        createLoc("Halmeu-Vii", "sat"),
+        createLoc("Mesteacăn", "sat")
     ]),
     createComuna("Hodod", [
-        createLoc("Hodod", "1"),
-        createLoc("Giurtelecu Hododului", "2"),
-        createLoc("Lelei", "3"),
-        createLoc("Nadișu Hododului", "4")
+        createLoc("Hodod", "sat"),
+        createLoc("Giurtelecu Hododului", "sat"),
+        createLoc("Lelei", "sat"),
+        createLoc("Nadișu Hododului", "sat")
     ]),
     createComuna("Homoroade", [
-        createLoc("Homorodu de Mijloc", "1"),
-        createLoc("Chilia", "2"),
-        createLoc("Homorodu de Jos", "3"),
-        createLoc("Homorodu de Sus", "4"),
-        createLoc("Necopoi", "5"),
-        createLoc("Solduba", "6")
+        createLoc("Homorodu de Mijloc", "sat"),
+        createLoc("Chilia", "sat"),
+        createLoc("Homorodu de Jos", "sat"),
+        createLoc("Homorodu de Sus", "sat"),
+        createLoc("Necopoi", "sat"),
+        createLoc("Solduba", "sat")
     ]),
     createComuna("Lazuri", [
-        createLoc("Lazuri", "1"),
-        createLoc("Bercu", "2"),
-        createLoc("Nisipeni", "3"),
-        createLoc("Noroieni", "4"),
-        createLoc("Peleș", "5"),
-        createLoc("Pelișor", "6")
+        createLoc("Lazuri", "sat"),
+        createLoc("Bercu", "sat"),
+        createLoc("Nisipeni", "sat"),
+        createLoc("Noroieni", "sat"),
+        createLoc("Peleș", "sat"),
+        createLoc("Pelișor", "sat")
     ]),
     createComuna("Medieșu Aurit", [
-        createLoc("Medieșu Aurit", "1"),
-        createLoc("Băbășești", "2"),
-        createLoc("Iojib", "3"),
-        createLoc("Medieș-Râturi", "4"),
-        createLoc("Medieș-Vii", "5"),
-        createLoc("Potău", "6"),
-        createLoc("Românești", "7")
+        createLoc("Medieșu Aurit", "sat"),
+        createLoc("Băbășești", "sat"),
+        createLoc("Iojib", "sat"),
+        createLoc("Medieș-Râturi", "sat"),
+        createLoc("Medieș-Vii", "sat"),
+        createLoc("Potău", "sat"),
+        createLoc("Românești", "sat")
     ]),
     createComuna("Micula", [
-        createLoc("Micula", "1"),
-        createLoc("Bercu Nou", "2"),
-        createLoc("Micula Nouă", "3")
+        createLoc("Micula", "sat"),
+        createLoc("Bercu Nou", "sat"),
+        createLoc("Micula Nouă", "sat")
     ]),
     createComuna("Moftin", [
-        createLoc("Moftinu Mic", "1"),
-        createLoc("Domănești", "2"),
-        createLoc("Ghilvaci", "3"),
-        createLoc("Ghirolt", "4"),
-        createLoc("Istrău", "5"),
-        createLoc("Moftinu Mare", "6"),
-        createLoc("Sânmiclăuș", "7")
+        createLoc("Moftinu Mic", "sat"),
+        createLoc("Domănești", "sat"),
+        createLoc("Ghilvaci", "sat"),
+        createLoc("Ghirolt", "sat"),
+        createLoc("Istrău", "sat"),
+        createLoc("Moftinu Mare", "sat"),
+        createLoc("Sânmiclăuș", "sat")
     ]),
     createComuna("Odoreu", [
-        createLoc("Odoreu", "1"),
-        createLoc("Berindan", "2"),
-        createLoc("Cucu", "3"),
-        createLoc("Eteni", "4"),
-        createLoc("Mărtinești", "5"),
-        createLoc("Vânătorești", "6")
+        createLoc("Orodeu", "sat"),
+        createLoc("Berindan", "sat"),
+        createLoc("Cucu", "sat"),
+        createLoc("Eteni", "sat"),
+        createLoc("Mărtinești", "sat"),
+        createLoc("Vânătorești", "sat")
     ]),
     createComuna("Orașu Nou", [
-        createLoc("Orașu Nou", "1"),
-        createLoc("Orașu Nou-Vii", "2"),
-        createLoc("Prilog", "3"),
-        createLoc("Prilog-Vii", "4"),
-        createLoc("Remetea Oașului", "5")
+        createLoc("Orașu Nou", "sat"),
+        createLoc("Orașu Nou-Vii", "sat"),
+        createLoc("Prilog", "sat"),
+        createLoc("Prilog-Vii", "sat"),
+        createLoc("Remetea Oașului", "sat")
     ]),
     createComuna("Păulești", [
-        createLoc("Păulești", "1"),
-        createLoc("Amați", "2"),
-        createLoc("Ambud", "3"),
-        createLoc("Hrip", "4"),
-        createLoc("Petin", "5"),
-        createLoc("Rușeni", "6")
+        createLoc("Păulești", "sat"),
+        createLoc("Amați", "sat"),
+        createLoc("Ambud", "sat"),
+        createLoc("Hrip", "sat"),
+        createLoc("Petin", "sat"),
+        createLoc("Rușeni", "sat")
     ]),
     createComuna("Petrești", [
-        createLoc("Petrești", "1"),
-        createLoc("Dindeștiu Mic", "2")
+        createLoc("Petrești", "sat"),
+        createLoc("Dindeștiu Mic", "sat")
     ]),
     createComuna("Pir", [
-        createLoc("Pir", "1"),
-        createLoc("Piru Nou", "2"),
-        createLoc("Sărvăzel", "3")
+        createLoc("Pir", "sat"),
+        createLoc("Piru Nou", "sat"),
+        createLoc("Sărvăzel", "sat")
     ]),
     createComuna("Pișcolt", [
-        createLoc("Pișcolt", "1"),
-        createLoc("Resighea", "2"),
-        createLoc("Scărișoara Nouă", "3")
+        createLoc("Pișcolt", "sat"),
+        createLoc("Resighea", "sat"),
+        createLoc("Scărișoara Nouă", "sat")
     ]),
     createComuna("Pomi", [
-        createLoc("Pomi", "1"),
-        createLoc("Aciua", "2"),
-        createLoc("Bicău", "3"),
-        createLoc("Borlești", "4")
+        createLoc("Pomi", "sat"),
+        createLoc("Aciua", "sat"),
+        createLoc("Bicău", "sat"),
+        createLoc("Borlești", "sat")
     ]),
     createComuna("Porumbești", [
-        createLoc("Porumbești", "1"),
-        createLoc("Cidreag", "2")
+        createLoc("Porumbești", "sat"),
+        createLoc("Cidreag", "sat")
     ]),
     createComuna("Racșa", [
-        createLoc("Racșa", "1"),
-        createLoc("Racșa-Vii", "2")
+        createLoc("Racșa", "sat"),
+        createLoc("Racșa-Vii", "sat")
     ]),
     createComuna("Sanislău", [
-        createLoc("Sanislău", "1"),
-        createLoc("Horea", "2"),
-        createLoc("Marna Nouă", "3")
+        createLoc("Sanislău", "sat"),
+        createLoc("Horea", "sat"),
+        createLoc("Marna Nouă", "sat")
     ]),
     createComuna("Santău", [
-        createLoc("Santău", "1"),
-        createLoc("Chereușa", "2"),
-        createLoc("Sudurău", "3")
+        createLoc("Santău", "sat"),
+        createLoc("Chereușa", "sat"),
+        createLoc("Sudurău", "sat")
     ]),
     createComuna("Săcășeni", [
-        createLoc("Săcășeni", "1"),
-        createLoc("Chegea", "2")
+        createLoc("Săcășeni", "sat"),
+        createLoc("Chegea", "sat")
     ]),
     createComuna("Săuca", [
-        createLoc("Săuca", "1"),
-        createLoc("Becheni", "2"),
-        createLoc("Cean", "3"),
-        createLoc("Chisău", "4"),
-        createLoc("Silvaș", "5")
+        createLoc("Săuca", "sat"),
+        createLoc("Becheni", "sat"),
+        createLoc("Cean", "sat"),
+        createLoc("Chisău", "sat"),
+        createLoc("Silvaș", "sat")
     ]),
     createComuna("Socond", [
-        createLoc("Socond", "1"),
-        createLoc("Cuța", "2"),
-        createLoc("Hodișa", "3"),
-        createLoc("Soconzel", "4"),
-        createLoc("Stâna", "5")
+        createLoc("Socond", "sat"),
+        createLoc("Cuța", "sat"),
+        createLoc("Hodișa", "sat"),
+        createLoc("Soconzel", "sat"),
+        createLoc("Stâna", "sat")
     ]),
     createComuna("Supur", [
-        createLoc("Supuru de Jos", "1"),
-        createLoc("Dobra", "2"),
-        createLoc("Giorocuta", "3"),
-        createLoc("Hurezu Mare", "4"),
-        createLoc("Racova", "5"),
-        createLoc("Sechereșa", "6"),
-        createLoc("Supuru de Sus", "7")
+        createLoc("Supuru de Jos", "sat"),
+        createLoc("Dobra", "sat"),
+        createLoc("Giorocuta", "sat"),
+        createLoc("Hurezu Mare", "sat"),
+        createLoc("Racova", "sat"),
+        createLoc("Sechereșa", "sat"),
+        createLoc("Supuru de Sus", "sat")
     ]),
     createComuna("Tarna Mare", [
-        createLoc("Tarna Mare", "1"),
-        createLoc("Bocicău", "2"),
-        createLoc("Valea Seacă", "3"),
-        createLoc("Văgaș", "4")
+        createLoc("Tarna Mare", "sat"),
+        createLoc("Bocicău", "sat"),
+        createLoc("Valea Seacă", "sat"),
+        createLoc("Văgaș", "sat")
     ]),
     createComuna("Terebești", [
-        createLoc("Terebești", "1"),
-        createLoc("Aliza", "2"),
-        createLoc("Gelu", "3"),
-        createLoc("Pișcari", "4")
+        createLoc("Terebești", "sat"),
+        createLoc("Aliza", "sat"),
+        createLoc("Gelu", "sat"),
+        createLoc("Pișcari", "sat")
     ]),
     createComuna("Tiream", [
-        createLoc("Tiream", "1"),
-        createLoc("Portița", "2"),
-        createLoc("Vezendiu", "3")
+        createLoc("Tiream", "sat"),
+        createLoc("Portița", "sat"),
+        createLoc("Vezendiu", "sat")
     ]),
     createComuna("Târșolț", [
-        createLoc("Târșolț", "1"),
-        createLoc("Aliceni", "2")
+        createLoc("Târșolț", "sat"),
+        createLoc("Aliceni", "sat")
     ]),
     createComuna("Turț", [
-        createLoc("Turț", "1"),
-        createLoc("Gherța Mare", "2"),
-        createLoc("Turț-Băi", "3")
+        createLoc("Turț", "sat"),
+        createLoc("Gherța Mare", "sat"),
+        createLoc("Turț-Băi", "sat")
     ]),
     createComuna("Turulung", [
-        createLoc("Turulung", "1"),
-        createLoc("Drăgușeni", "2"),
-        createLoc("Turulung-Vii", "3")
+        createLoc("Turulung", "sat"),
+        createLoc("Drăgușeni", "sat"),
+        createLoc("Turulung-Vii", "sat")
     ]),
     createComuna("Urziceni", [
-        createLoc("Urziceni", "1"),
-        createLoc("Urziceni-Pădure", "2")
+        createLoc("Urziceni", "sat"),
+        createLoc("Urziceni-Pădure", "sat")
     ]),
     createComuna("Valea Vinului", [
-        createLoc("Valea Vinului", "1"),
-        createLoc("Măriuș", "2"),
-        createLoc("Roșiori", "3"),
-        createLoc("Sâi", "4")
+        createLoc("Valea Vinului", "sat"),
+        createLoc("Măriuș", "sat"),
+        createLoc("Roșiori", "sat"),
+        createLoc("Sâi", "sat")
     ]),
     createComuna("Vama", [
-        createLoc("Vama", "1")
+        createLoc("Vama", "sat")
     ]),
     createComuna("Vetiș", [
-        createLoc("Vetiș", "1"),
-        createLoc("Decebal", "2"),
-        createLoc("Oar", "3")
+        createLoc("Vetiș", "sat"),
+        createLoc("Decebal", "sat"),
+        createLoc("Oar", "sat")
     ]),
     createComuna("Viile Satu Mare", [
-        createLoc("Viile Satu Mare", "1"),
-        createLoc("Cionchești", "2"),
-        createLoc("Medișa", "3"),
-        createLoc("Tătărești", "4"),
-        createLoc("Tireac", "5")
-    ]),
-    								  
+        createLoc("Viile Satu Mare", "sat"),
+        createLoc("Cionchești", "sat"),
+        createLoc("Medișa", "sat"),
+        createLoc("Tătărești", "sat"),
+        createLoc("Tireac", "sat")
+    ]),								  
 			
 ];
 ?>
