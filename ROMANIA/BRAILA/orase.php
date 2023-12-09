@@ -2,7 +2,7 @@
 $orase=[
             createOras("FĂUREI",[
 			    createLoc("FĂUREI", "oras",),
-
+				]),
             createOras("IANCA",[
 			    createLoc("IANCA", "oras",[
 						createLoc("Berlești", "sat"),
@@ -11,6 +11,7 @@ $orase=[
 						createLoc("Perișoru", "sat"),
 						createLoc("Plopu", "sat"),
 						createLoc("Târlele Filiu", "sat"),
+										]),
 				  ]),
 
             createOras("ÎNSURĂȚEI",[
@@ -19,7 +20,7 @@ $orase=[
 						createLoc("Măru Roșu", "sat"),
 						createLoc("Valea Călmățuiului", "sat"),
 				  ]),				  
-			
+			]),
 ];
 
 ?>
