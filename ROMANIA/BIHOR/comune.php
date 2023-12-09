@@ -10,9 +10,7 @@ createComuna("Abram", [
     createLoc("Satu Barbă", "sat"),
     createLoc("Suiug", "sat"),
 ]),
-createComuna("Abrogat", [
 
-]),
 createComuna("Aștileu", [
     createLoc("Aștileu", "sat"),
     createLoc("Călățea", "sat"),
