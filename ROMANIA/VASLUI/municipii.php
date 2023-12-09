@@ -1,5 +1,5 @@
 <?php
-$municipii =
+$municipii =[
             createMunicipiu("VASLUI", [
                     createLoc("VASLUI", "oras"),
 					createLoc("Bahnari", "sat"),
