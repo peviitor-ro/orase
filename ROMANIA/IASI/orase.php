@@ -7,7 +7,7 @@ $orase = [
     ]),
 
     createOras("PODU ILOAIEI", [
-        createLoc("Podu Iloaiei", "oras", [
+        createLoc("Podu Iloaiei", "sat", [
             createLoc("Cosițeni", "sat"),
             
             createLoc("Holm", "sat"),
