@@ -12,9 +12,9 @@ $orase = [
 
     createOras("FIERBINȚI-TÂRG", [
         createLoc("FIERBINȚI-TÂRG", "oras", [
-            createLoc("Fierbinții de Jos"),
-            createLoc("Fierbinții de Sus"),
-            createLoc("Grecii de Jos"),
+            createLoc("Fierbinții de Jos", "sat"),
+            createLoc("Fierbinții de Sus", "sat"),
+            createLoc("Grecii de Jos", "sat"),
         ]),
     ]),
 
