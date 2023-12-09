@@ -25,7 +25,6 @@ $orase=[
 				createLoc("Neicu", "sat"),
 				createLoc("Satu Nou", "sat"),
 										]),
-			                     ]),
 ];
 
 ?>
