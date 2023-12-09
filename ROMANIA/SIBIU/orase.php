@@ -17,7 +17,6 @@ $orase=[
 
 			                     ]),
 
-			                     ]),
 			createOras("CISNĂDIE", [
 			    	createLoc("CISNĂDIE", "oras"),
 				createLoc("Cisnădioara", "sat"),
