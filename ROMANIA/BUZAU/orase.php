@@ -1,7 +1,7 @@
 <?php
 $orase=[
             createOras("NEHOIU",[
-			    createLoc("NEHOIU", "oras",,[
+			    createLoc("NEHOIU", "oras",[
 						createLoc("Bâsca Rozilei", "sat"),
 						createLoc("Chirlești", "sat"),
 						createLoc("Curmătura", "sat"),
