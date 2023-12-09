@@ -12,9 +12,7 @@ $orase=[
 				  ]),
             createOras("COVASNA",[
 			    createLoc("COVASNA", "oras"),
-				createLoc("Chiuruș", "sat"),
-										
-				
+				createLoc("Chiuruș", "sat"),	
 				  ]),
             createOras("ÎNTORSURA BUZĂULUI",[
 			    createLoc("ÎNTORSURA BUZĂULUI", "oras",[
