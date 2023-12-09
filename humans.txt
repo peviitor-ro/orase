@@ -2,6 +2,7 @@
   Dascalu Elena
   Sebastian Boga
   Medeea Boamfa
+  Rares Irimus
   
 #tech
   PHP
