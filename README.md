@@ -1,4 +1,4 @@
-#humans  
+# humans  
 https://orase.peviitor.ro/humans.txt  
 
 # orase
