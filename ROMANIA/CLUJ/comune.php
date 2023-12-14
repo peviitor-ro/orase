@@ -609,25 +609,6 @@ $comune =[
 						createLoc("Valea Groșilor", "sat"),
 					]),
 					
-					createComuna("Valea Ierii", [
-						createLoc("Valea Ierii", "sat"),
-						createLoc("Cerc", "sat"),
-						createLoc("Plopi", "sat"),
-					]),
-					
-					createComuna("Viișoara", [
-						createLoc("Viișoara", "sat"),
-						createLoc("Urca", "sat"),
-					]),
-					
-					createComuna("Vultureni", [
-						createLoc("Vultureni", "sat"),
-						createLoc("Băbuțiu", "sat"),
-						createLoc("Bădești", "sat"),
-						createLoc("Chidea", "sat"),
-						createLoc("Făureni", "sat"),
-						createLoc("Șoimeni", "sat"),
-					]),
 	
 ];
 
