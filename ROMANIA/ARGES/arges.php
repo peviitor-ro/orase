@@ -6,7 +6,7 @@ require_once 'comunearges.php';
 
 $arges =
 createJudet(
-            "ARGES",$municipii,$orase,$comune
+            "ARGEȘ",$municipii,$orase,$comune
             );
 			
 ?>
