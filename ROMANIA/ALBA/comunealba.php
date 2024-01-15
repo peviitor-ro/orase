@@ -731,8 +731,8 @@ $comune =[
 					createLoc("Vâlcești", "sat"),	
 					createLoc("Vârtănești", "sat"),						
 								  ]),
-			createComuna("Vințu de Jos ", [
-					createLoc("Vințu de Jos ", "sat"),	
+			createComuna("Vințu de Jos", [
+					createLoc("Vințu de Jos", "sat"),	
 					createLoc("Ciocașu", "sat"),	
 					createLoc("Câmpu Goblii", "sat"),
 					createLoc("Crișeni", "sat"),		
