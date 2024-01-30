@@ -9,8 +9,8 @@ $orase=[
 							   
             createOras("DARABANI",[
 			    createLoc("DARABANI", "oras", [
-						createLoc("Bajura ", "sat"),
-						createLoc("Eșanca ", "sat"),
+						createLoc("Bajura", "sat"),
+						createLoc("Eșanca", "sat"),
 						createLoc("Lișmănița ", "sat"),
 				]),
 			                   ]),
@@ -26,8 +26,8 @@ $orase=[
 							   
             createOras("SĂVENI",[
 			    createLoc("SĂVENI", "oras", [
-						createLoc("Bodeasa ", "sat"),
-						createLoc("Bozieni ", "sat"),
+						createLoc("Bodeasa", "sat"),
+						createLoc("Bozieni", "sat"),
 						createLoc("Chișcăreni", "sat"),
 						createLoc("Petricani", "sat"),
 						createLoc("Sat Nou", "sat"),
@@ -37,8 +37,8 @@ $orase=[
 
             createOras("ȘTEFĂNEȘTI",[
 			    createLoc("ȘTEFĂNEȘTI", "oras", [
-						createLoc("Bădiuți ", "sat"),
-						createLoc("Bobulești ", "sat"),
+						createLoc("Bădiuți", "sat"),
+						createLoc("Bobulești", "sat"),
 						createLoc("Stânca", "sat"),
 						createLoc("Ștefănești-Sat", "sat"),
 				]),
