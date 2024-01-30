@@ -5,7 +5,7 @@ $municipii =
                     createLoc("DEVA", "oras",[
 							createLoc("Archia", "sat"),
 							]),
-					createLoc("Sântuhalm ", "sat"),
+					createLoc("Sântuhalm", "sat"),
 					
                 ]),
 		createMunicipiu("BRAD", [
