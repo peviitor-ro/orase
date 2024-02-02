@@ -5,8 +5,8 @@ $orase=[
 			    createLoc("BUMBEȘTI-JIU", "oras",[
 						createLoc("Curtișoara", "sat"),
 						createLoc("Lăzărești", "sat"),
-				      		createLoc("Pleșa ", "sat"),
-				      		createLoc("Tetila ", "sat"),
+				      		createLoc("Pleșa", "sat"),
+				      		createLoc("Tetila", "sat"),
 				  ]),				  
 			]),
 		createOras("NOVACI",[
