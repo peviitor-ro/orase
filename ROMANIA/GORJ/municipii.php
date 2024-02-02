@@ -16,14 +16,14 @@ $municipii =
 		createMunicipiu("MOTRU", [
                     createLoc("MOTRU", "oras",[
 							createLoc("Lupoița", "sat"),
-							createLoc("Râpa ", "sat"),
-							createLoc("Roșiuța ", "sat"),
+							createLoc("Râpa", "sat"),
+							createLoc("Roșiuța", "sat"),
 							]),
-					createLoc("Dealu Pomilor ", "sat"),
-					createLoc("Horăști ", "sat"),
+					createLoc("Dealu Pomilor", "sat"),
+					createLoc("Horăști", "sat"),
 					createLoc("Însurăței ", "sat"),
-					createLoc("Leurda ", "sat"),
-					createLoc("Ploștina ", "sat"),
+					createLoc("Leurda", "sat"),
+					createLoc("Ploștina", "sat"),
                 ]),				
 			
 ];
