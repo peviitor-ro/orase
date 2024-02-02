@@ -26,7 +26,7 @@ $orase=[
 			    createLoc("TISMANA", "oras",[
 				createLoc("Celei", "sat"),
 				createLoc("Costeni", "sat"),
-				createLoc("Gornovița ", "sat"),
+				createLoc("Gornovița", "sat"),
 				createLoc("Isvarna", "sat"),
 				createLoc("Pocruia", "sat"),
 				createLoc("Racoți", "sat"),
