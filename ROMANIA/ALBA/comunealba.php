@@ -648,6 +648,7 @@ $comune =[
 					createLoc("Șpring", "sat"),	
 					createLoc("Carpen", "sat"),	
 					createLoc("Carpenii de Sus", "sat"),
+					createLoc("Cunța", "sat"),
 					createLoc("Drașov", "sat"),		
 					createLoc("Vingard", "sat"),				
 								  ]),
