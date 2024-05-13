@@ -1,7 +1,7 @@
 <?php
-$comune =[
+$comune = [
 
-	createComuna("Acâș", [
+    createComuna("Acâș", [
         createLoc("Acâș", "sat"),
         createLoc("Ganaș", "sat"),
         createLoc("Mihăieni", "sat"),
@@ -187,7 +187,7 @@ $comune =[
         createLoc("Sânmiclăuș", "sat")
     ]),
     createComuna("Odoreu", [
-        createLoc("Orodeu", "sat"),
+        createLoc("Odoreu", "sat"),
         createLoc("Berindan", "sat"),
         createLoc("Cucu", "sat"),
         createLoc("Eteni", "sat"),
@@ -329,7 +329,6 @@ $comune =[
         createLoc("Medișa", "sat"),
         createLoc("Tătărești", "sat"),
         createLoc("Tireac", "sat")
-    ]),								  
-			
+    ]),
+
 ];
-?>
