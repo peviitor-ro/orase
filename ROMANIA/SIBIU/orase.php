@@ -47,6 +47,7 @@ $orase = [
         createLoc("SĂLIȘTE", "oras", [
             createLoc("Aciliu", "sat"),
             createLoc("Amnaș", "sat"),
+            createLoc("Crinț", "sat"),
             createLoc("Fântânele", "sat"),
             createLoc("Galeș", "sat"),
             createLoc("Mag", "sat"),
@@ -63,5 +64,3 @@ $orase = [
         ]),
     ]),
 ];
-
-?>
