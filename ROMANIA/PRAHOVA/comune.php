@@ -517,7 +517,8 @@ $comune = [
         createLoc("Poseștii-Ungureni", "sat"),
         createLoc("Târlești", "sat"),
         createLoc("Valea Plopului", "sat"),
-        createLoc("Valea Screzii", "sat")
+        createLoc("Valea Screzii", "sat"),
+        createLoc("Valea Stupinii", "sat")
     ]),
 
     // Predeal-Sărari
