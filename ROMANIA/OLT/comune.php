@@ -19,7 +19,7 @@ $comune = [
     ]),
 
     // Bărăști
-    createComuna("Bărăștii de Vede", [
+    createComuna("Bărăștii", [
         createLoc("Bărăștii de Vede", "oras"),
         createLoc("Bărăștii de Cepturi", "sat"),
         createLoc("Boroești", "sat"),
