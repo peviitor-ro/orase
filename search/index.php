@@ -66,6 +66,22 @@ $judeteFolderMap = [
 ];
 
 $results = [];
+
+$queryUpper = strtoupper($query);
+
+// Search for judete first
+foreach ($judeteMap as $key => $judet) {
+    $judetNumeUpper = strtoupper($judet['nume']);
+    $judetDiacUpper = strtoupper($judet['numeDiacritice']);
+    
+    if ($judetNumeUpper === $queryUpper || $judetDiacUpper === $queryUpper) {
+        $results[] = [
+            'type' => 'judet',
+            'data' => $judet
+        ];
+    }
+}
+
 $basePath = __DIR__ . '/../ROMANIA';
 
 foreach ($judeteFolderMap as $folderName) {
