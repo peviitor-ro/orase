@@ -1,8 +1,8 @@
 <?php
 
-require_once 'municipiialba.php';
-require_once 'orasealba.php';
-require_once 'comunealba.php';
+require_once 'municipii.php';
+require_once 'orase.php';
+require_once 'comune.php';
 
 $alba =
 createJudet(
