@@ -66,6 +66,22 @@ $judeteFolderMap = [
 ];
 
 $results = [];
+
+$queryUpper = strtoupper($query);
+
+// Search for judete first
+foreach ($judeteMap as $key => $judet) {
+    $judetNumeUpper = strtoupper($judet['nume']);
+    $judetDiacUpper = strtoupper($judet['numeDiacritice']);
+    
+    if ($judetNumeUpper === $queryUpper || $judetDiacUpper === $queryUpper) {
+        $results[] = [
+            'type' => 'judet',
+            'data' => $judet
+        ];
+    }
+}
+
 $basePath = __DIR__ . '/../ROMANIA';
 
 foreach ($judeteFolderMap as $folderName) {
@@ -88,7 +104,7 @@ foreach ($judeteFolderMap as $folderName) {
                 $orasNameNoDiacritics = strtoupper(removeDiacritics($orasName));
                 $queryUpper = strtoupper($query);
                 
-                if ($orasNameUpper === $queryUpper || $orasNameNoDiacritics === $queryUpper || strpos($orasNameUpper, $queryUpper) !== false || strpos($orasNameNoDiacritics, $queryUpper) !== false) {
+                if ($orasNameUpper === $queryUpper || $orasNameNoDiacritics === $queryUpper) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $results[] = [
                         'type' => $tip,
@@ -114,7 +130,7 @@ foreach ($judeteFolderMap as $folderName) {
                 $comunaNameNoDiacritics = strtoupper(removeDiacritics($comunaName));
                 $queryUpper = strtoupper($query);
                 
-                if ($comunaNameUpper === $queryUpper || $comunaNameNoDiacritics === $queryUpper || strpos($comunaNameUpper, $queryUpper) !== false || strpos($comunaNameNoDiacritics, $queryUpper) !== false) {
+                if ($comunaNameUpper === $queryUpper || $comunaNameNoDiacritics === $queryUpper) {
                     $results[] = [
                         'type' => 'comuna',
                         'data' => [
