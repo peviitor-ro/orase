@@ -118,7 +118,7 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[2] as $orasName) {
                 $orasNameNormalized = removeDiacritics(strtolower($orasName));
-                if (strpos($orasNameNormalized, $queryNormalized) !== false) {
+                if (strpos($queryNormalized, $orasNameNormalized) !== false) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $oraseResults[] = [
                         'nume' => $orasName,
@@ -137,7 +137,7 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[1] as $comunaName) {
                 $comunaNameNormalized = removeDiacritics(strtolower($comunaName));
-                if (strpos($comunaNameNormalized, $queryNormalized) !== false) {
+                if (strpos($queryNormalized, $comunaNameNormalized) !== false) {
                     $comuneResults[] = [
                         'nume' => $comunaName,
                         'tip' => 'comuna',
