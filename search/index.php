@@ -36,7 +36,7 @@ $judeteMap = [
     'HUNEDOARA' => ["nume" => "Hunedoara", "numeDiacritice" => "Hunedoara", "cod" => "HD"],
     'IALOMITA' => ["nume" => "Ialomita", "numeDiacritice" => "Ialomița", "cod" => "IL"],
     'IASI' => ["nume" => "Iasi", "numeDiacritice" => "Iași", "cod" => "IS"],
-    'ILFOV' => ["nume" => "Ilfov", "numeDiacritics" => "Ilfov", "cod" => "IF"],
+    'ILFOV' => ["nume" => "Ilfov", "numeDiacritice" => "Ilfov", "cod" => "IF"],
     'MARAMURES' => ["nume" => "Maramures", "numeDiacritice" => "Maramureș", "cod" => "MM"],
     'MEHEDINTI' => ["nume" => "Mehedinti", "numeDiacritice" => "Mehedinți", "cod" => "MH"],
     'MURES' => ["nume" => "Mures", "numeDiacritice" => "Mureș", "cod" => "MS"],
