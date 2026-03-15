@@ -118,8 +118,11 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[2] as $orasName) {
                 $orasNameNormalized = removeDiacritics(strtolower($orasName));
-                $fuzzyMatch = similar_text($queryNormalized, $orasNameNormalized) >= min(3, strlen($orasNameNormalized) - 1);
-                if (strpos($queryNormalized, $orasNameNormalized) !== false || $fuzzyMatch) {
+                $startsMatch = strpos($queryNormalized, $orasNameNormalized) === 0;
+                $containsMatch = strpos($orasNameNormalized, $queryNormalized) !== false;
+                $levDist = levenshtein($queryNormalized, $orasNameNormalized);
+                $fuzzyMatch = $levDist <= max(1, floor(strlen($orasNameNormalized) * 0.3));
+                if ($startsMatch || $containsMatch || $fuzzyMatch) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $oraseResults[] = [
                         'nume' => $orasName,
@@ -138,7 +141,11 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[1] as $comunaName) {
                 $comunaNameNormalized = removeDiacritics(strtolower($comunaName));
-                if (strpos($queryNormalized, $comunaNameNormalized) !== false) {
+                $startsMatch = strpos($queryNormalized, $comunaNameNormalized) === 0;
+                $containsMatch = strpos($comunaNameNormalized, $queryNormalized) !== false;
+                $levDist = levenshtein($queryNormalized, $comunaNameNormalized);
+                $fuzzyMatch = $levDist <= max(1, floor(strlen($comunaNameNormalized) * 0.3));
+                if ($startsMatch || $containsMatch || $fuzzyMatch) {
                     $comuneResults[] = [
                         'nume' => $comunaName,
                         'tip' => 'comuna',
