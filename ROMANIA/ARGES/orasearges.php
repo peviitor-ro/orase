@@ -35,7 +35,8 @@ $orase=[
                 createLoc("Crintești", "sat", createAdresaCompleta("sat Crintești, orasul TOPOLOVENI, judetul ARGEȘ, România")),
                 createLoc("Gorănești", "sat", createAdresaCompleta("sat Gorănești, orasul TOPOLOVENI, judetul ARGEȘ, România")),
                 createLoc("Țigănești", "sat", createAdresaCompleta("sat Țigănești, orasul TOPOLOVENI, judetul ARGEȘ, România")),
-            ], createAdresaCompleta("orasul TOPOLOVENI, judetul ARGEȘ, România")),                                  
+            ], createAdresaCompleta("orasul TOPOLOVENI, judetul ARGEȘ, România")),
+        ]),
 ];
 
 
