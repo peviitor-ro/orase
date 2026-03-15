@@ -114,15 +114,15 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
 
         $content = file_get_contents($filePath);
         
+        $pattern = '/createAdresaCompleta\("([^"]+)"/iu';
+        preg_match($pattern, $content, $adrMatch);
+        $judetFromAdr = isset($adrMatch[1]) ? removeDiacritics(strtolower($adrMatch[1])) : '';
+
         $pattern = '/create(Oras|Municipiu)\("([^"]+)"/iu';
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[2] as $orasName) {
                 $orasNameNormalized = removeDiacritics(strtolower($orasName));
-                $startsMatch = strpos($queryNormalized, $orasNameNormalized) === 0;
-                $containsMatch = strpos($orasNameNormalized, $queryNormalized) !== false;
-                $levDist = levenshtein($queryNormalized, $orasNameNormalized);
-                $fuzzyMatch = $levDist <= max(1, floor(strlen($orasNameNormalized) * 0.3));
-                if ($startsMatch || $containsMatch || $fuzzyMatch) {
+                if ($orasNameNormalized === $queryNormalized || $queryNormalized === $judetFromAdr) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $oraseResults[] = [
                         'nume' => $orasName,
@@ -137,15 +137,16 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
     $comunaFilePath = $judetPath . '/comune.php';
     if (file_exists($comunaFilePath)) {
         $content = file_get_contents($comunaFilePath);
+        
+        $pattern = '/createAdresaCompleta\("([^"]+)"/iu';
+        preg_match($pattern, $content, $adrMatch);
+        $judetFromAdr = isset($adrMatch[1]) ? removeDiacritics(strtolower($adrMatch[1])) : '';
+
         $pattern = '/createComuna\("([^"]+)"/iu';
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[1] as $comunaName) {
                 $comunaNameNormalized = removeDiacritics(strtolower($comunaName));
-                $startsMatch = strpos($queryNormalized, $comunaNameNormalized) === 0;
-                $containsMatch = strpos($comunaNameNormalized, $queryNormalized) !== false;
-                $levDist = levenshtein($queryNormalized, $comunaNameNormalized);
-                $fuzzyMatch = $levDist <= max(1, floor(strlen($comunaNameNormalized) * 0.3));
-                if ($startsMatch || $containsMatch || $fuzzyMatch) {
+                if ($comunaNameNormalized === $queryNormalized || $queryNormalized === $judetFromAdr) {
                     $comuneResults[] = [
                         'nume' => $comunaName,
                         'tip' => 'comuna',
