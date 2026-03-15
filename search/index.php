@@ -123,22 +123,45 @@ foreach ($judeteFolderMap as $folderName) {
     if (file_exists($comunaFilePath)) {
         $content = file_get_contents($comunaFilePath);
         
-        $pattern = '/createComuna\("([^"]+)"/iu';
-        if (preg_match_all($pattern, $content, $nameMatches)) {
-            foreach ($nameMatches[1] as $comunaName) {
-                $comunaNameUpper = strtoupper($comunaName);
-                $comunaNameNoDiacritics = strtoupper(removeDiacritics($comunaName));
+        // Search in adresaCompleta
+        $pattern = '/createAdresaCompleta\("([^"]+)", "([^"]+)"\)/iu';
+        if (preg_match_all($pattern, $content, $adrMatches)) {
+            foreach ($adrMatches[0] as $index => $fullMatch) {
+                $adrWithDiac = $adrMatches[1][$index];
+                $adrNoDiac = $adrMatches[2][$index];
                 $queryUpper = strtoupper($query);
+                $adrWithUpper = strtoupper($adrWithDiac);
+                $adrNoUpper = strtoupper($adrNoDiac);
                 
-                if ($comunaNameUpper === $queryUpper || $comunaNameNoDiacritics === $queryUpper) {
-                    $results[] = [
-                        'type' => 'comuna',
-                        'data' => [
-                            'nume' => $comunaName,
-                            'tip' => 'comuna',
-                            'judet' => $judetData
-                        ]
-                    ];
+                if (strpos($adrWithUpper, $queryUpper) !== false || strpos($adrNoUpper, $queryUpper) !== false) {
+                    // Extract location name from adresa
+                    if (preg_match('/^sat ([^,]+),/', $adrWithDiac, $locMatch)) {
+                        $locName = $locMatch[1];
+                    } elseif (preg_match('/^comuna ([^,]+),/', $adrWithDiac, $locMatch)) {
+                        $locName = $locMatch[1];
+                    } else {
+                        continue;
+                    }
+                    
+                    // Check if already added
+                    $exists = false;
+                    foreach ($results as $r) {
+                        if ($r['data']['nume'] === $locName) {
+                            $exists = true;
+                            break;
+                        }
+                    }
+                    
+                    if (!$exists) {
+                        $results[] = [
+                            'type' => 'sat',
+                            'data' => [
+                                'nume' => $locName,
+                                'tip' => 'sat',
+                                'judet' => $judetData
+                            ]
+                        ];
+                    }
                 }
             }
         }
