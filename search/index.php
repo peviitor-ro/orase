@@ -56,6 +56,21 @@ $judeteMap = [
     'BUCURESTI' => ["nume" => "Bucuresti", "numeDiacritice" => "București", "cod" => "B"]
 ];
 
+$queryUpper = strtoupper($query);
+
+// Search for judete first - exact match only
+$judeteResults = [];
+foreach ($judeteMap as $key => $judet) {
+    $judetNumeUpper = strtoupper($judet['nume']);
+    $judetDiacUpper = strtoupper($judet['numeDiacritice'] ?? $judet['nume']);
+    
+    if ($judetNumeUpper === $queryUpper || $judetDiacUpper === $queryUpper) {
+        $judeteResults[] = $judet;
+    }
+}
+
+$basePath = __DIR__ . '/../ROMANIA';
+
 $judeteFolderMap = [
     'ALBA', 'ARAD', 'ARGES', 'BACAU', 'BIHOR', 'BISTRITA-NASAUD', 'BOTOSANI',
     'BRASOV', 'BRAILA', 'BUZAU', 'CALARASI', 'CARAS-SEVERIN', 'CLUJ', 'CONSTANTA',
@@ -67,29 +82,13 @@ $judeteFolderMap = [
 
 $results = [];
 
-$queryUpper = strtoupper($query);
-
-// Search for judete first
-foreach ($judeteMap as $key => $judet) {
-    $judetNumeUpper = strtoupper($judet['nume']);
-    $judetDiacUpper = strtoupper($judet['numeDiacritice']);
-    
-    if ($judetNumeUpper === $queryUpper || $judetDiacUpper === $queryUpper) {
-        $results[] = [
-            'type' => 'judet',
-            'data' => $judet
-        ];
-    }
-}
-
-$basePath = __DIR__ . '/../ROMANIA';
-
 foreach ($judeteFolderMap as $folderName) {
     $judetPath = $basePath . '/' . $folderName;
     if (!is_dir($judetPath)) continue;
 
     $judetData = $judeteMap[$folderName] ?? null;
 
+    // Search in orase.php and municipii.php
     $files = ['orase.php', 'municipii.php'];
     foreach ($files as $file) {
         $filePath = $judetPath . '/' . $file;
@@ -97,14 +96,14 @@ foreach ($judeteFolderMap as $folderName) {
 
         $content = file_get_contents($filePath);
         
+        // Match oras/municipiu name
         $pattern = '/create(Oras|Municipiu)\("([^"]+)"/iu';
         if (preg_match_all($pattern, $content, $nameMatches)) {
             foreach ($nameMatches[2] as $orasName) {
                 $orasNameUpper = strtoupper($orasName);
-                $orasNameNoDiacritics = strtoupper(removeDiacritics($orasName));
-                $queryUpper = strtoupper($query);
+                $orasNameNoDiac = strtoupper(removeDiacritics($orasName));
                 
-                if ($orasNameUpper === $queryUpper || $orasNameNoDiacritics === $queryUpper) {
+                if ($orasNameUpper === $queryUpper || $orasNameNoDiac === $queryUpper) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $results[] = [
                         'type' => $tip,
@@ -119,59 +118,73 @@ foreach ($judeteFolderMap as $folderName) {
         }
     }
 
+    // Search in comune.php - look for location names in adresaCompleta
     $comunaFilePath = $judetPath . '/comune.php';
     if (file_exists($comunaFilePath)) {
         $content = file_get_contents($comunaFilePath);
         
-        // Search in adresaCompleta
-        $pattern = '/createAdresaCompleta\("([^"]+)", "([^"]+)"\)/iu';
-        if (preg_match_all($pattern, $content, $adrMatches)) {
-            foreach ($adrMatches[0] as $index => $fullMatch) {
-                $adrWithDiac = $adrMatches[1][$index];
-                $adrNoDiac = $adrMatches[2][$index];
-                $queryUpper = strtoupper($query);
-                $adrWithUpper = strtoupper($adrWithDiac);
-                $adrNoUpper = strtoupper($adrNoDiac);
+        // Find sat names in adresaCompleta - exact match only
+        $pattern = '/createAdresaCompleta\("sat ([^,]+),/iu';
+        if (preg_match_all($pattern, $content, $matches)) {
+            foreach ($matches[1] as $satName) {
+                $satNameUpper = strtoupper($satName);
+                $satNameNoDiac = strtoupper(removeDiacritics($satName));
                 
-                if (strpos($adrWithUpper, $queryUpper) !== false || strpos($adrNoUpper, $queryUpper) !== false) {
-                    // Extract location name from adresa
-                    if (preg_match('/^sat ([^,]+),/', $adrWithDiac, $locMatch)) {
-                        $locName = $locMatch[1];
-                    } elseif (preg_match('/^comuna ([^,]+),/', $adrWithDiac, $locMatch)) {
-                        $locName = $locMatch[1];
-                    } else {
-                        continue;
-                    }
-                    
-                    // Check if already added
-                    $exists = false;
-                    foreach ($results as $r) {
-                        if ($r['data']['nume'] === $locName) {
-                            $exists = true;
-                            break;
-                        }
-                    }
-                    
-                    if (!$exists) {
-                        $results[] = [
-                            'type' => 'sat',
-                            'data' => [
-                                'nume' => $locName,
-                                'tip' => 'sat',
-                                'judet' => $judetData
-                            ]
-                        ];
-                    }
+                if ($satNameUpper === $queryUpper || $satNameNoDiac === $queryUpper) {
+                    $results[] = [
+                        'type' => 'sat',
+                        'data' => [
+                            'nume' => $satName,
+                            'tip' => 'sat',
+                            'judet' => $judetData
+                        ]
+                    ];
+                }
+            }
+        }
+        
+        // Also find comune names
+        $pattern = '/createComuna\("([^"]+)"/iu';
+        if (preg_match_all($pattern, $content, $matches)) {
+            foreach ($matches[1] as $comunaName) {
+                $comunaNameUpper = strtoupper($comunaName);
+                $comunaNameNoDiac = strtoupper(removeDiacritics($comunaName));
+                
+                if ($comunaNameUpper === $queryUpper || $comunaNameNoDiac === $queryUpper) {
+                    $results[] = [
+                        'type' => 'comuna',
+                        'data' => [
+                            'nume' => $comunaName,
+                            'tip' => 'comuna',
+                            'judet' => $judetData
+                        ]
+                    ];
                 }
             }
         }
     }
 }
 
-if (count($results) === 0) {
+// Build final response
+$allResults = [];
+
+// Add judete first
+foreach ($judeteResults as $j) {
+    $allResults[] = [
+        'type' => 'judet',
+        'data' => $j
+    ];
+}
+
+// Add other results
+foreach ($results as $r) {
+    $allResults[] = $r;
+}
+
+if (count($allResults) === 0) {
     $response = ["results" => [], "message" => "Nu s-au găsit rezultate pentru '$query'"];
 } else {
-    $response = ["results" => $results];
+    $response = ["results" => $allResults];
 }
 
 echo json_encode($response, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
