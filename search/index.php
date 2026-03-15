@@ -118,7 +118,8 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[2] as $orasName) {
                 $orasNameNormalized = removeDiacritics(strtolower($orasName));
-                if (strpos($queryNormalized, $orasNameNormalized) !== false) {
+                $fuzzyMatch = similar_text($queryNormalized, $orasNameNormalized) >= min(3, strlen($orasNameNormalized) - 1);
+                if (strpos($queryNormalized, $orasNameNormalized) !== false || $fuzzyMatch) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $oraseResults[] = [
                         'nume' => $orasName,
