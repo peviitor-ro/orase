@@ -88,7 +88,7 @@ foreach ($judeteFolderMap as $folderName) {
                 $orasNameNoDiacritics = strtoupper(removeDiacritics($orasName));
                 $queryUpper = strtoupper($query);
                 
-                if ($orasNameUpper === $queryUpper || $orasNameNoDiacritics === $queryUpper) {
+                if ($orasNameUpper === $queryUpper || $orasNameNoDiacritics === $queryUpper || strpos($orasNameUpper, $queryUpper) !== false || strpos($orasNameNoDiacritics, $queryUpper) !== false) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $results[] = [
                         'type' => $tip,
@@ -114,7 +114,7 @@ foreach ($judeteFolderMap as $folderName) {
                 $comunaNameNoDiacritics = strtoupper(removeDiacritics($comunaName));
                 $queryUpper = strtoupper($query);
                 
-                if ($comunaNameUpper === $queryUpper || $comunaNameNoDiacritics === $queryUpper) {
+                if ($comunaNameUpper === $queryUpper || $comunaNameNoDiacritics === $queryUpper || strpos($comunaNameUpper, $queryUpper) !== false || strpos($comunaNameNoDiacritics, $queryUpper) !== false) {
                     $results[] = [
                         'type' => 'comuna',
                         'data' => [
