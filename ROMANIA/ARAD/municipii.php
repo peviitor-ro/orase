@@ -2,7 +2,7 @@
 $municipii =
 [
         createMunicipiu("ARAD", [
-            createLoc("ARAD", "oras", createAdresaCompleta("orasul ARAD, municipiul ARAD, judetul ARAD, România")),
-        ], createAdresaCompleta("municipiul ARAD, judetul ARAD, România")),
+            createLoc("ARAD", "oras", createAdresaCompleta("orasul ARAD, municipiul ARAD, judetul ARAD, România", "orasul ARAD, municipiul ARAD, judetul ARAD, Romania")),
+        ], createAdresaCompleta("municipiul ARAD, judetul ARAD, România", "municipiul ARAD, judetul ARAD, Romania")),
 ];
 ?>

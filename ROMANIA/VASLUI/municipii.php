@@ -1,7 +1,7 @@
 <?php
 $municipii =[
             createMunicipiu("VASLUI", [
-				createAdresaCompleta("VASLUI"),
+				createAdresaCompleta("municipiul VASLUI, judetul VASLUI, România", "municipiul VASLUI, judetul VASLUI, Romania"),
                     createLoc("VASLUI", "oras"),
 					createLoc("Bahnari", "sat"),
 					createLoc("Brodoc", "sat"),
@@ -11,12 +11,12 @@ $municipii =[
                 ]),
 				
             createMunicipiu("BÂRLAD", [
-				createAdresaCompleta("VASLUI"),
+				createAdresaCompleta("municipiul VASLUI, judetul VASLUI, România", "municipiul VASLUI, judetul VASLUI, Romania"),
                     createLoc("BÂRLAD", "oras"),
                 ]),
 				
             createMunicipiu("HUȘI", [
-				createAdresaCompleta("VASLUI"),
+				createAdresaCompleta("municipiul VASLUI, judetul VASLUI, România", "municipiul VASLUI, judetul VASLUI, Romania"),
                     createLoc("HUȘI", "oras"),
                 ]),
 			

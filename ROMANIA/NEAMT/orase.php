@@ -1,7 +1,7 @@
 <?php
 $orase = [
     createOras("BICAZ", [
-				createAdresaCompleta("NEAMT"),
+				createAdresaCompleta("orasul BICAZ, judetul NEAMT, România", "orasul BICAZ, judetul NEAMT, Romania"),
         createLoc("BICAZ", "oras", [
             createLoc("Izvoru Alb", "sat"),
             createLoc("Potoci", "sat"),
@@ -13,7 +13,7 @@ $orase = [
     ]),
 
     createOras("TÂRGU-NEAMȚ", [
-				createAdresaCompleta("NEAMT"),
+				createAdresaCompleta("orasul BICAZ, judetul NEAMT, România", "orasul BICAZ, judetul NEAMT, Romania"),
         createLoc("TÂRGU-NEAMȚ", "oras"),
         createLoc("Blebea", "sat"),
         createLoc("Humulești", "sat"),
@@ -22,7 +22,7 @@ $orase = [
     ]),
 
     createOras("ROZNOV", [
-				createAdresaCompleta("NEAMT"),
+				createAdresaCompleta("orasul BICAZ, judetul NEAMT, România", "orasul BICAZ, judetul NEAMT, Romania"),
         createLoc("ROZNOV", "oras", [
             createLoc("Chintinici", "sat"),
             createLoc("Slobozia", "sat"),

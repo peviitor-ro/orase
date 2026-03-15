@@ -2,11 +2,11 @@
 $comune =[
 
 	createComuna("Bărăganul", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Bărăganul", "sat")
     ]),
     createComuna("Berteștii de Jos", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Berteștii de Jos", "sat"),
         createLoc("Berteștii de Sus", "sat"),
         createLoc("Gura Călmățui", "sat"),
@@ -15,31 +15,31 @@ $comune =[
         createLoc("Spiru Haret", "sat")
     ]),
     createComuna("Bordei Verde", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Bordei Verde", "sat"),
         createLoc("Constantin Gabrielescu", "sat"),
         createLoc("Filiu", "sat"),
         createLoc("Lișcoteanca", "sat")
     ]),
     createComuna("Cazasu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Cazasu", "sat")
     ]),
     createComuna("Chiscani", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Chiscani", "sat"),
         createLoc("Lacu Sărat", "sat"),
         createLoc("Vărsătura", "sat")
     ]),
     createComuna("Ciocile", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Ciocile", "sat"),
         createLoc("Chichinețu", "sat"),
         createLoc("Chioibășești", "sat"),
         createLoc("Odăieni", "sat")
     ]),
     createComuna("Cireșu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Cireșu", "sat"),
         createLoc("Batogu", "sat"),
         createLoc("Ionești", "sat"),
@@ -47,13 +47,13 @@ $comune =[
         createLoc("Vultureni", "sat")
     ]),
     createComuna("Dudești", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Dudești", "sat"),
         createLoc("Bumbăcari", "sat"),
         createLoc("Tătaru", "sat")
     ]),
     createComuna("Frecăței", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Frecăței", "sat"),
         createLoc("Agaua", "sat"),
         createLoc("Cistia", "sat"),
@@ -62,7 +62,7 @@ $comune =[
         createLoc("Titcov", "sat")
     ]),
     createComuna("Galbenu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Galbenu", "sat"),
         createLoc("Drogu", "sat"),
         createLoc("Pântecani", "sat"),
@@ -70,27 +70,27 @@ $comune =[
         createLoc("Zamfirești", "sat")
     ]),
     createComuna("Gemenele", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Gemenele", "sat"),
         createLoc("Găvani", "sat")
     ]),
     createComuna("Grădiștea", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Grădiștea", "sat"),
         createLoc("Ibrianu", "sat"),
         createLoc("Maraloiu", "sat")
     ]),
     createComuna("Gropeni", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Gropeni", "sat")
     ]),
     createComuna("Jirlău", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Jirlău", "sat"),
         createLoc("Brădeanca", "sat")
     ]),
     createComuna("Mărașu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Mărașu", "sat"),
         createLoc("Băndoiu", "sat"),
         createLoc("Măgureni", "sat"),
@@ -99,7 +99,7 @@ $comune =[
         createLoc("Țăcău", "sat")
     ]),
     createComuna("Măxineni", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Măxineni", "sat"),
         createLoc("Corbu Nou", "sat"),
         createLoc("Corbu Vechi", "sat"),
@@ -107,43 +107,43 @@ $comune =[
         createLoc("Voinești", "sat")
     ]),
     createComuna("Mircea Vodă", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Mircea Vodă", "sat"),
         createLoc("Dedulești", "sat")
     ]),
     createComuna("Movila Miresii", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Movila Miresii", "sat"),
         createLoc("Esna", "sat"),
         createLoc("Țepeș Vodă", "sat")
     ]),
     createComuna("Racovița", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Racovița", "sat"),
         createLoc("Corbeni", "sat"),
         createLoc("Custura", "sat")
     ]),
     createComuna("Râmnicelu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Râmnicelu", "sat"),
         createLoc("Boarca", "sat"),
         createLoc("Constantinești", "sat"),
         createLoc("Mihail Kogălniceanu", "sat")
     ]),
     createComuna("Romanu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Romanu", "sat"),
         createLoc("Oancea", "sat")
     ]),
     createComuna("Roșiori", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Roșiori", "sat"),
         createLoc("Colțea", "sat"),
         createLoc("Florica", "sat"),
         createLoc("Pribeagu", "sat")
     ]),
     createComuna("Salcia Tudor", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Salcia Tudor", "sat"),
         createLoc("Ariciu", "sat"),
         createLoc("Cuza Vodă", "sat"),
@@ -151,7 +151,7 @@ $comune =[
         createLoc("Olăneasca", "sat")
     ]),
     createComuna("Scorțaru Nou", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Scorțaru Nou", "sat"),
         createLoc("Deșirați", "sat"),
         createLoc("Gurguieți", "sat"),
@@ -160,7 +160,7 @@ $comune =[
         createLoc("Sihleanu", "sat")
     ]),
     createComuna("Siliștea", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Siliștea", "sat"),
         createLoc("Cotu Lung", "sat"),
         createLoc("Cotu Mihalea", "sat"),
@@ -169,86 +169,86 @@ $comune =[
         createLoc("Vameșu", "sat")
     ]),
     createComuna("Stăncuța", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Stăncuța", "sat"),
         createLoc("Cuza Vodă", "sat"),
         createLoc("Polizești", "sat"),
         createLoc("Stanca", "sat")
     ]),
     createComuna("Surdila-Găiseanca", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Surdila-Găiseanca", "sat"),
         createLoc("Filipești", "sat")
     ]),
     createComuna("Surdila-Greci", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Surdila-Greci", "sat"),
         createLoc("Brateșu Vechi", "sat"),
         createLoc("Făurei-Sat", "sat"),
         createLoc("Horia", "sat")
     ]),
     createComuna("Șuțești", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Șuțești", "sat"),
         createLoc("Mihail Kogălniceanu", "sat")
     ]),
     createComuna("Tichilești", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Tichilești", "sat"),
         createLoc("Albina", "sat")
     ]),
     createComuna("Traian", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Traian", "sat"),
         createLoc("Căldărușa", "sat"),
         createLoc("Silistraru", "sat"),
         createLoc("Urleasca", "sat")
     ]),
     createComuna("Tudor Vladimirescu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Tudor Vladimirescu", "sat"),
         createLoc("Comăneasca", "sat"),
         createLoc("Scorțaru Vechi", "sat")
     ]),
     createComuna("Tufești", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Tufești", "sat")
     ]),
     createComuna("Ulmu", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Ulmu", "sat"),
         createLoc("Jugureanu", "sat")
     ]),
     createComuna("Unirea", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Unirea", "sat"),
         createLoc("Morotești", "sat"),
         createLoc("Valea Cânepii", "sat")
     ]),
     createComuna("Vădeni", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Vădeni", "sat"),
         createLoc("Baldovinești", "sat"),
         createLoc("Pietroiu", "sat")
     ]),
     createComuna("Victoria", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Victoria", "sat"),
         createLoc("Mihai Bravu", "sat")
     ]),
     createComuna("Vișani", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Vișani", "sat"),
         createLoc("Câineni-Băi", "sat"),
         createLoc("Plăsoiu", "sat")
     ]),
     createComuna("Viziru", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Viziru", "sat"),
         createLoc("Lanurile", "sat")
     ]),
     createComuna("Zăvoaia", [
-        createAdresaCompleta("BRAILA"),
+        createAdresaCompleta("comuna Bărăganul, judetul BRAILA, România", "comuna Baraganul, judetul BRAILA, Romania"),
         createLoc("Zăvoaia", "sat"),
         createLoc("Dudescu", "sat")
     ]),								

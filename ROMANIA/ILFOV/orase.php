@@ -1,25 +1,25 @@
 <?php
 $orase = [
     createOras("BRAGADIRU", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("BRAGADIRU", "oras"),
     ]),
 
     createOras("BUFTEA", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("BUFTEA", "oras", [
             createLoc("Buciumeni", "sat"),
         ]),
     ]),
 
     createOras("CHITILA", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("CHITILA", "oras"),
         createLoc("Rudeni", "sat"),
     ]),
 
     createOras("MĂGURELE", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("MĂGURELE", "oras"),
         createLoc("Alunișu", "sat"),
         createLoc("Dumitrana", "sat"),
@@ -28,24 +28,24 @@ $orase = [
     ]),
 
     createOras("OTOPENI", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("OTOPENI", "oras", [
             createLoc("Odăile", "sat"),
         ]),
     ]),
 
     createOras("PANTELIMON", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("PANTELIMON", "oras"),
     ]),
 
     createOras("POPEȘTI-LEORDENI", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("POPEȘTI-LEORDENI", "oras"),
     ]),
 
     createOras("VOLUNTARI", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("orasul BRAGADIRU, judetul ILFOV, România", "orasul BRAGADIRU, judetul ILFOV, Romania"),
         createLoc("VOLUNTARI", "oras"),
     ]),
 ];

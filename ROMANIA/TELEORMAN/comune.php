@@ -2,40 +2,40 @@
 $comune =[
 
 	createComuna("Balaci", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Balaci", "sat"),
         createLoc("Burdeni", "sat"),
         createLoc("Tecuci", "sat")
     ]),
     
     createComuna("Băbăița", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Băbăița", "sat"),
         createLoc("Merișani", "sat")
     ]),
     
     createComuna("Beciu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Beciu", "sat"),
         createLoc("Bârseștii de Jos", "sat"),
         createLoc("Smârdan", "sat")
     ]),
     
     createComuna("Beuca", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Beuca", "sat"),
         createLoc("Plopi", "sat")
     ]),
     
     createComuna("Blejești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Blejești", "sat"),
         createLoc("Baciu", "sat"),
         createLoc("Sericu", "sat")
     ]),
     
     createComuna("Bogdana", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Bogdana", "sat"),
         createLoc("Broșteanca", "sat"),
         createLoc("Ulmeni", "sat"),
@@ -43,7 +43,7 @@ $comune =[
     ]),
     
     createComuna("Botoroaga", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Botoroaga", "sat"),
         createLoc("Călugăru", "sat"),
         createLoc("Târnava", "sat"),
@@ -52,33 +52,33 @@ $comune =[
     ]),
     
     createComuna("Bragadiru", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Bragadiru", "sat")
     ]),
     
     createComuna("Brânceni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Brânceni", "sat")
     ]),
     
     createComuna("Bujoreni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Bujoreni", "sat"),
         createLoc("Dărvaș", "sat"),
         createLoc("Prunaru", "sat")
     ]),
     createComuna("Bujoru", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Bujoru", "sat")
     ]),
     
     createComuna("Buzescu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Buzescu", "sat")
     ]),
     
     createComuna("Călinești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Călinești", "sat"),
         createLoc("Antonești", "sat"),
         createLoc("Copăceanca", "sat"),
@@ -87,7 +87,7 @@ $comune =[
     ]),
     
     createComuna("Călmățuiu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Călmățuiu", "sat"),
         createLoc("Bujoru", "sat"),
         createLoc("Caravaneți", "sat"),
@@ -95,54 +95,54 @@ $comune =[
     ]),
     
     createComuna("Călmățuiu de Sus", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Călmățuiu de Sus", "sat"),
         createLoc("Băcălești", "sat"),
         createLoc("Ionașcu", "sat")
     ]),
     
     createComuna("Cervenia", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Cervenia", "sat")
     ]),
     
     createComuna("Ciolănești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Ciolăneștii din Deal", "sat"),
         createLoc("Baldovinești", "sat"),
         createLoc("Ciolăneștii din Vale", "sat")
     ]),
     
     createComuna("Ciuperceni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Ciuperceni", "sat"),
         createLoc("Poiana", "sat")
     ]),
     
     createComuna("Conțești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Conțești", "sat")
     ]),
     
     createComuna("Cosmești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Cosmești", "sat"),
         createLoc("Ciuperceni", "sat")
     ]),
     createComuna("Crângu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Crângu", "sat"),
         createLoc("Secara", "sat")
     ]),
     
     createComuna("Crevenicu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Crevenicu", "sat"),
         createLoc("Rădulești", "sat")
     ]),
     
     createComuna("Crângeni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Crângeni", "sat"),
         createLoc("Balta Sărată", "sat"),
         createLoc("Dorobanțu", "sat"),
@@ -150,27 +150,27 @@ $comune =[
     ]),
     
     createComuna("Didești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Didești", "sat"),
         createLoc("Însurăței", "sat"),
         createLoc("Satu Nou", "sat")
     ]),
     
     createComuna("Dobrotești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Dobrotești", "sat"),
         createLoc("Merișani", "sat")
     ]),
     
     createComuna("Dracea", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Dracea", "sat"),
         createLoc("Florica", "sat"),
         createLoc("Zlata", "sat")
     ]),
     
     createComuna("Drăcșenei", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Drăcșenei", "sat"),
         createLoc("Drăcșani", "sat"),
         createLoc("Odobeasca", "sat"),
@@ -178,37 +178,37 @@ $comune =[
     ]),
     
     createComuna("Drăgănești de Vede", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Drăgănești de Vede", "sat"),
         createLoc("Măgura cu Liliac", "sat"),
         createLoc("Văcărești", "sat")
     ]),
     
     createComuna("Drăgănești-Vlașca", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Drăgănești-Vlașca", "sat"),
         createLoc("Comoara", "sat"),
         createLoc("Văceni", "sat")
     ]),
     
     createComuna("Fântânele", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Fântânele", "sat")
     ]),
     createComuna("Frăsinet", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Frăsinet", "sat"),
         createLoc("Clănița", "sat")
     ]),
     
     createComuna("Frumoasa", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Frumoasa", "sat"),
         createLoc("Păuleasca", "sat")
     ]),
     
     createComuna("Furculești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Furculești", "sat"),
         createLoc("Moșteni", "sat"),
         createLoc("Spătărei", "sat"),
@@ -216,71 +216,71 @@ $comune =[
     ]),
     
     createComuna("Gălăteni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Gălăteni", "sat"),
         createLoc("Bâscoveni", "sat"),
         createLoc("Grădișteanca", "sat")
     ]),
     
     createComuna("Gratia", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Gratia", "sat"),
         createLoc("Ciurari-Deal", "sat"),
         createLoc("Drăghinești", "sat")
     ]),
     
     createComuna("Islaz", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Islaz", "sat"),
         createLoc("Moldoveni", "sat")
     ]),
     
     createComuna("Izvoarele", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Izvoarele", "sat")
     ]),
     
     createComuna("Lisa", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Lisa", "sat"),
         createLoc("Vânători", "sat")
     ]),
     
     createComuna("Lița", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Lița", "sat")
     ]),
     
     createComuna("Lunca", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Lunca", "sat"),
         createLoc("Prundu", "sat")
     ]),
     createComuna("Mavrodin", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Mavrodin", "sat")
     ]),
     
     createComuna("Măgura", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Măgura", "sat"),
         createLoc("Guruieni", "sat")
     ]),
     
     createComuna("Măldăeni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Măldăeni", "sat")
     ]),
     
     createComuna("Mereni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Merenii de Jos", "sat"),
         createLoc("Merenii de Sus", "sat"),
         createLoc("Ștefeni", "sat")
     ]),
     
     createComuna("Mârzănești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Mârzănești", "sat"),
         createLoc("Cernetu", "sat"),
         createLoc("Teleormanu", "sat"),
@@ -288,75 +288,75 @@ $comune =[
     ]),
     
     createComuna("Moșteni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Moșteni", "sat")
     ]),
     
     createComuna("Nanov", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Nanov", "sat")
     ]),
     
     createComuna("Năsturelu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Năsturelu", "sat"),
         createLoc("Zimnicele", "sat")
     ]),
     
     createComuna("Necșești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Necșești", "sat"),
         createLoc("Belciug", "sat"),
         createLoc("Gârdești", "sat")
     ]),
     
     createComuna("Nenciulești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Nenciulești", "sat"),
         createLoc("Păru Rotund", "sat")
     ]),
     createComuna("Olteni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Olteni", "sat"),
         createLoc("Perii Broșteni", "sat")
     ]),
     
     createComuna("Orbeasca", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Orbeasca de Jos", "sat"),
         createLoc("Lăceni", "sat"),
         createLoc("Orbeasca de Sus", "sat")
     ]),
     
     createComuna("Peretu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Peretu", "sat")
     ]),
     
     createComuna("Piatra", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Piatra", "sat")
     ]),
     
     createComuna("Pietroșani", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Pietroșani", "sat")
     ]),
     
     createComuna("Plopii-Slăvitești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Plopii-Slăvitești", "sat"),
         createLoc("Brâncoveanca", "sat"),
         createLoc("Dudu", "sat")
     ]),
     
     createComuna("Plosca", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Plosca", "sat")
     ]),
     
     createComuna("Poeni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Poeni", "sat"),
         createLoc("Banov", "sat"),
         createLoc("Brătești", "sat"),
@@ -367,58 +367,58 @@ $comune =[
     ]),
     
     createComuna("Poroschia", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Poroschia", "sat"),
         createLoc("Calomfirești", "sat")
     ]),
     
     createComuna("Purani", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Purani de Sus", "sat"),
         createLoc("Purani", "sat")
     ]),
     createComuna("Putineiu", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Putineiu", "sat"),
         createLoc("Băduleasa", "sat"),
         createLoc("Cârlomanu", "sat")
     ]),
     
     createComuna("Rădoiești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Rădoiești-Vale", "sat"),
         createLoc("Cetatea", "sat"),
         createLoc("Rădoiești-Deal", "sat")
     ]),
     
     createComuna("Răsmirești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Răsmirești", "sat"),
         createLoc("Ludăneasca", "sat")
     ]),
     
     createComuna("Salcia", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Salcia", "sat"),
         createLoc("Băneasa", "sat"),
         createLoc("Tudor Vladimirescu", "sat")
     ]),
     
     createComuna("Săceni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Săceni", "sat"),
         createLoc("Butculești", "sat"),
         createLoc("Ciurari", "sat")
     ]),
     
     createComuna("Saelele", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Saelele", "sat"),
         createLoc("Pleașov", "sat")
     ]),
     
     createComuna("Scrioaștea", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Scrioaștea", "sat"),
         createLoc("Brebina", "sat"),
         createLoc("Cucueți", "sat"),
@@ -426,7 +426,7 @@ $comune =[
     ]),
     
     createComuna("Scurtu Mare", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Scurtu Mare", "sat"),
         createLoc("Albeni", "sat"),
         createLoc("Drăcești", "sat"),
@@ -436,54 +436,54 @@ $comune =[
     ]),
     
     createComuna("Seaca", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Seaca", "sat"),
         createLoc("Năvodari", "sat")
     ]),
     
     createComuna("Segarcea-Vale", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Segarcea-Vale", "sat"),
         createLoc("Olteanca", "sat"),
         createLoc("Segarcea-Deal", "sat")
     ]),
     createComuna("Sfințești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Sfințești", "sat")
     ]),
     
     createComuna("Siliștea", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Siliștea", "sat"),
         createLoc("Butești", "sat"),
         createLoc("Siliștea Mică", "sat")
     ]),
     
     createComuna("Siliștea-Gumești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Siliștea-Gumești", "sat")
     ]),
     
     createComuna("Sârbeni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Sârbenii de Jos", "sat"),
         createLoc("Sârbeni", "sat"),
         createLoc("Udeni", "sat")
     ]),
     
     createComuna("Slobozia Mândra", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Slobozia Mândra", "sat")
     ]),
     
     createComuna("Smârdioasa", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Smârdioasa", "sat"),
         createLoc("Șoimu", "sat")
     ]),
     
     createComuna("Stejaru", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Stejaru", "sat"),
         createLoc("Bratcovu", "sat"),
         createLoc("Gresia", "sat"),
@@ -491,18 +491,18 @@ $comune =[
     ]),
     
     createComuna("Suhaia", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Suhaia", "sat")
     ]),
     
     createComuna("Ștorobăneasa", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Ștorobăneasa", "sat"),
         createLoc("Beiu", "sat")
     ]),
     
     createComuna("Talpa", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Talpa-Ogrăzile", "sat"),
         createLoc("Linia Costii", "sat"),
         createLoc("Rotărești", "sat"),
@@ -510,7 +510,7 @@ $comune =[
         createLoc("Talpa Poștei", "sat")
     ]),
     createComuna("Tătărăștii de Jos", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Tătărăștii de Jos", "sat"),
         createLoc("Lada", "sat"),
         createLoc("Negreni", "sat"),
@@ -521,51 +521,51 @@ $comune =[
     ]),
     
     createComuna("Tătărăștii de Sus", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Tătărăștii de Sus", "sat"),
         createLoc("Dobreni", "sat"),
         createLoc("Udupu", "sat")
     ]),
     
     createComuna("Traian", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Traian", "sat")
     ]),
     
     createComuna("Trivalea-Moșteni", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Trivalea-Moșteni", "sat"),
         createLoc("Brătășani", "sat"),
         createLoc("Deparați", "sat")
     ]),
     
     createComuna("Troianul", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Troianul", "sat"),
         createLoc("Dulceni", "sat"),
         createLoc("Vatra", "sat")
     ]),
     
     createComuna("Țigănești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Țigănești", "sat")
     ]),
     
     createComuna("Uda-Clocociov", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Uda-Clocociov", "sat"),
         createLoc("Uda-Paciurea", "sat")
     ]),
     
     createComuna("Vârtoape", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Vârtoapele de Sus", "sat"),
         createLoc("Gărăgău", "sat"),
         createLoc("Vârtoapele de Jos", "sat")
     ]),
     
     createComuna("Vedea", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Vedea", "sat"),
         createLoc("Albești", "sat"),
         createLoc("Coșoteni", "sat"),
@@ -574,12 +574,12 @@ $comune =[
     ]),
     
     createComuna("Viișoara", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Viișoara", "sat")
     ]),
     
     createComuna("Vitănești", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Vitănești", "sat"),
         createLoc("Purani", "sat"),
         createLoc("Schitu Poienari", "sat"),
@@ -587,7 +587,7 @@ $comune =[
     ]),
     
     createComuna("Zâmbreasca", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("comuna Balaci, judetul TELEORMAN, România", "comuna Balaci, judetul TELEORMAN, Romania"),
         createLoc("Zâmbreasca", "sat")
     ]),								  
 			

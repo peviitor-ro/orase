@@ -3,7 +3,7 @@ $comune = [
 
     // Baldovinești
     createComuna("Baldovinești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Baldovinești", "sat"),
         createLoc("Gubandru", "sat"),
         createLoc("Pietriș", "sat")
@@ -11,19 +11,19 @@ $comune = [
 
     // Băbiciu
     createComuna("Băbiciu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Băbiciu", "sat")
     ]),
 
     // Bălteni
     createComuna("Bălteni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Bălteni", "sat")
     ]),
 
     // Bărăști
     createComuna("Bărăști", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Bărăștii de Vede", "oras"),
         createLoc("Bărăștii de Cepturi", "sat"),
         createLoc("Boroești", "sat"),
@@ -36,14 +36,14 @@ $comune = [
 
     // Bârza
     createComuna("Bârza", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Bârza", "sat"),
         createLoc("Braneț", "sat")
     ]),
 
     // Bobicești
     createComuna("Bobicești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Bobicești", "sat"),
         createLoc("Bechet", "sat"),
         createLoc("Belgun", "sat"),
@@ -56,21 +56,21 @@ $comune = [
 
     // Brastavățu
     createComuna("Brastavățu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Brastavățu", "sat"),
         createLoc("Crușovu", "sat")
     ]),
 
     // Brebeni
     createComuna("Brebeni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Brebeni", "sat"),
         createLoc("Teiușu", "sat")
     ]),
 
     // Brâncoveni
     createComuna("Brâncoveni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Brâncoveni", "sat"),
         createLoc("Mărgheni", "sat"),
         createLoc("Ociogi", "sat"),
@@ -79,20 +79,20 @@ $comune = [
 
     // Bucinișu
     createComuna("Bucinișu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Bucinișu", "sat"),
         createLoc("Bucinișu Mic", "sat")
     ]),
     // Călui
     createComuna("Călui", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Călui", "sat"),
         createLoc("Gura Căluiu", "sat")
     ]),
 
     // Cezieni
     createComuna("Cezieni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Cezieni", "sat"),
         createLoc("Bondrea", "sat"),
         createLoc("Corlătești", "sat")
@@ -100,13 +100,13 @@ $comune = [
 
     // Cilieni
     createComuna("Cilieni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Cilieni", "sat")
     ]),
 
     // Cârlogani
     createComuna("Cârlogani", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Cârlogani", "sat"),
         createLoc("Beculești", "sat"),
         createLoc("Cepari", "sat"),
@@ -116,7 +116,7 @@ $comune = [
 
     // Colonești
     createComuna("Colonești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Colonești", "sat"),
         createLoc("Bărăști", "sat"),
         createLoc("Bătăreni", "sat"),
@@ -130,7 +130,7 @@ $comune = [
 
     // Corbu
     createComuna("Corbu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Corbu", "sat"),
         createLoc("Burdulești", "sat"),
         createLoc("Buzești", "sat"),
@@ -140,20 +140,20 @@ $comune = [
 
     // Coteana
     createComuna("Coteana", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Coteana", "sat")
     ]),
 
     // Crâmpoia
     createComuna("Crâmpoia", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Crâmpoia", "sat"),
         createLoc("Buta", "sat")
     ]),
 
     // Curtișoara
     createComuna("Curtișoara", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Curtișoara", "sat"),
         createLoc("Dobrotinet", "sat"),
         createLoc("Linia din Vale", "sat"),
@@ -164,7 +164,7 @@ $comune = [
 
     // Cungrea
     createComuna("Cungrea", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Cungrea", "sat"),
         createLoc("Cepești", "sat"),
         createLoc("Ibănești", "sat"),
@@ -175,7 +175,7 @@ $comune = [
     ]),
     // Dăneasa
     createComuna("Dăneasa", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Dăneasa", "sat"),
         createLoc("Berindei", "sat"),
         createLoc("Cioflanu", "sat"),
@@ -185,14 +185,14 @@ $comune = [
 
     // Deveselu
     createComuna("Deveselu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Deveselu", "sat"),
         createLoc("Comanca", "sat")
     ]),
 
     // Dobrețu
     createComuna("Dobrețu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Dobrețu", "sat"),
         createLoc("Curtișoara", "sat"),
         createLoc("Horezu", "sat")
@@ -200,7 +200,7 @@ $comune = [
 
     // Dobrosloveni
     createComuna("Dobrosloveni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Dobrosloveni", "sat"),
         createLoc("Frăsinetu", "sat"),
         createLoc("Potopinu", "sat"),
@@ -210,7 +210,7 @@ $comune = [
 
     // Dobroteasa
     createComuna("Dobroteasa", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Dobroteasa", "sat"),
         createLoc("Batia", "sat"),
         createLoc("Câmpu Mare", "sat"),
@@ -219,7 +219,7 @@ $comune = [
 
     // Dobrun
     createComuna("Dobrun", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Dobrun", "sat"),
         createLoc("Chilii", "sat"),
         createLoc("Roșienii Mari", "sat"),
@@ -229,7 +229,7 @@ $comune = [
 
     // Drăghiceni
     createComuna("Drăghiceni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Drăghiceni", "sat"),
         createLoc("Grozăvești", "sat"),
         createLoc("Liiceni", "sat")
@@ -237,7 +237,7 @@ $comune = [
 
     // Făgețelu
     createComuna("Făgețelu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Făgețelu", "sat"),
         createLoc("Bâgești", "sat"),
         createLoc("Chilia", "sat"),
@@ -248,7 +248,7 @@ $comune = [
 
     // Fălcoiu
     createComuna("Fălcoiu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Fălcoiu", "sat"),
         createLoc("Cioroiașu", "sat"),
         createLoc("Cioroiu", "sat")
@@ -256,7 +256,7 @@ $comune = [
 
     // Fărcașele
     createComuna("Fărcașele", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Fărcașele", "sat"),
         createLoc("Fărcașu de Jos", "sat"),
         createLoc("Ghimpați", "sat"),
@@ -264,7 +264,7 @@ $comune = [
     ]),
     // Găneasa
     createComuna("Găneasa", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Găneasa", "sat"),
         createLoc("Dranovățu", "sat"),
         createLoc("Grădiștea", "sat"),
@@ -274,7 +274,7 @@ $comune = [
 
     // Găvănești
     createComuna("Găvănești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Găvănești", "sat"),
         createLoc("Băleasa", "sat"),
         createLoc("Broșteni", "sat"),
@@ -283,34 +283,34 @@ $comune = [
 
     // Gârcov
     createComuna("Gârcov", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Gârcov", "sat"),
         createLoc("Ursa", "sat")
     ]),
 
     // Ghimpețeni
     createComuna("Ghimpețeni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Ghimpețeni", "sat"),
         createLoc("Ghimpețenii Noi", "sat")
     ]),
 
     // Giuvărăști
     createComuna("Giuvărăști", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Giuvărăști", "sat")
     ]),
 
     // Gostavățu
     createComuna("Gostavățu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Gostavățu", "sat"),
         createLoc("Slăveni", "sat")
     ]),
 
     // Grădinari
     createComuna("Grădinari", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Grădinari", "sat"),
         createLoc("Petculești", "sat"),
         createLoc("Runcu Mare", "sat"),
@@ -319,7 +319,7 @@ $comune = [
 
     // Grădinile
     createComuna("Grădinile", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Grădinile", "sat"),
         createLoc("Arvăteasca", "sat"),
         createLoc("Plăviceanca", "sat")
@@ -327,27 +327,27 @@ $comune = [
 
     // Grojdibodu
     createComuna("Grojdibodu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Grojdibodu", "sat"),
         createLoc("Hotaru", "sat")
     ]),
 
     // Gura Padinii
     createComuna("Gura Padinii", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Gura Padinii", "sat"),
         createLoc("Satu Nou", "sat")
     ]),
     // Ianca
     createComuna("Ianca", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Ianca", "sat"),
         createLoc("Potelu", "sat")
     ]),
 
     // Iancu Jianu
     createComuna("Iancu Jianu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Iancu Jianu", "sat"),
         createLoc("Dobriceni", "sat"),
         createLoc("Preotești", "sat")
@@ -355,7 +355,7 @@ $comune = [
 
     // Icoana
     createComuna("Icoana", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Icoana", "sat"),
         createLoc("Floru", "sat"),
         createLoc("Ursoaia", "sat")
@@ -363,26 +363,26 @@ $comune = [
 
     // Ipotești
     createComuna("Ipotești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Ipotești", "sat")
     ]),
 
     // Izbiceni
     createComuna("Izbiceni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Izbiceni", "sat")
     ]),
 
     // Izvoarele
     createComuna("Izvoarele", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Izvoarele", "sat"),
         createLoc("Alimănești", "sat")
     ]),
 
     // Leleasca
     createComuna("Leleasca", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Leleasca", "sat"),
         createLoc("Afumați", "sat"),
         createLoc("Greerești", "sat"),
@@ -394,7 +394,7 @@ $comune = [
 
     // Mărunței
     createComuna("Mărunței", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Mărunței", "sat"),
         createLoc("Bălănești", "sat"),
         createLoc("Malu Roșu", "sat")
@@ -402,14 +402,14 @@ $comune = [
 
     // Mihăești
     createComuna("Mihăești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Mihăești", "sat"),
         createLoc("Bușca", "sat")
     ]),
 
     // Milcov
     createComuna("Milcov", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Ulmi", "sat"),
         createLoc("Milcovu din Deal", "sat"),
         createLoc("Milcovu din Vale", "sat"),
@@ -417,7 +417,7 @@ $comune = [
     ]),
     // Morunglav
     createComuna("Morunglav", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Morunglav", "sat"),
         createLoc("Bărăști", "sat"),
         createLoc("Ghioșani", "sat"),
@@ -427,20 +427,20 @@ $comune = [
 
     // Movileni
     createComuna("Movileni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Movileni", "sat"),
         createLoc("Bacea", "sat")
     ]),
 
     // Nicolae Titulescu
     createComuna("Nicolae Titulescu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Nicolae Titulescu", "sat")
     ]),
 
     // Obârșia
     createComuna("Obârșia", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Obârșia", "sat"),
         createLoc("Câmpu Părului", "sat"),
         createLoc("Coteni", "sat"),
@@ -450,13 +450,13 @@ $comune = [
 
     // Oboga
     createComuna("Oboga", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Oboga", "sat")
     ]),
 
     // Oporelu
     createComuna("Oporelu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Oporelu", "sat"),
         createLoc("Beria de Jos", "sat"),
         createLoc("Beria de Sus", "sat"),
@@ -465,27 +465,27 @@ $comune = [
 
     // Optași-Măgura
     createComuna("Optași-Măgura", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Optași", "sat")
     ]),
 
     // Orlea
     createComuna("Orlea", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Orlea", "sat"),
         createLoc("Orlea Nouă", "sat")
     ]),
 
     // Osica de Jos
     createComuna("Osica de Jos", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Osica de Jos", "sat"),
         createLoc("Bobu", "sat")
     ]),
 
     // Osica de Sus
     createComuna("Osica de Sus", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vlăduleni", "sat"),
         createLoc("Greci", "sat"),
         createLoc("Osica de Sus", "sat"),
@@ -495,7 +495,7 @@ $comune = [
     ]),
     // Perieți
     createComuna("Perieți", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Perieți", "sat"),
         createLoc("Măgura", "sat"),
         createLoc("Mierleștii de Sus", "sat")
@@ -503,7 +503,7 @@ $comune = [
 
     // Pârșcoveni
     createComuna("Pârșcoveni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Pârșcoveni", "sat"),
         createLoc("Butoi", "sat"),
         createLoc("Olari", "sat")
@@ -511,7 +511,7 @@ $comune = [
 
     // Pleșoiu
     createComuna("Pleșoiu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Pleșoiu", "sat"),
         createLoc("Arcești", "sat"),
         createLoc("Arcești-Cot", "sat"),
@@ -523,7 +523,7 @@ $comune = [
 
     // Poboru
     createComuna("Poboru", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Poboru", "sat"),
         createLoc("Albești", "sat"),
         createLoc("Cornățelu", "sat"),
@@ -534,7 +534,7 @@ $comune = [
 
     // Priseaca
     createComuna("Priseaca", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Priseaca", "sat"),
         createLoc("Buicești", "sat"),
         createLoc("Săltănești", "sat")
@@ -542,7 +542,7 @@ $comune = [
 
     // Radomirești
     createComuna("Radomirești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Radomirești", "sat"),
         createLoc("Călinești", "sat"),
         createLoc("Crăciunei", "sat"),
@@ -551,7 +551,7 @@ $comune = [
 
     // Redea
     createComuna("Redea", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Redea", "sat"),
         createLoc("Redișoara", "sat"),
         createLoc("Valea Soarelui", "sat")
@@ -559,25 +559,25 @@ $comune = [
 
     // Rotunda
     createComuna("Rotunda", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Rotunda", "sat")
     ]),
 
     // Rusănești
     createComuna("Rusănești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Rusănești", "sat"),
         createLoc("Jieni", "sat")
     ]),
 
     // Sârbii-Măgura
     createComuna("Sârbii-Măgura", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vitănești", "sat")
     ]),
     // Scărișoara
     createComuna("Scărișoara", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Scărișoara", "sat"),
         createLoc("Plăviceni", "sat"),
         createLoc("Rudari", "sat")
@@ -585,7 +585,7 @@ $comune = [
 
     // Schitu
     createComuna("Schitu", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Schitu", "sat"),
         createLoc("Catanele", "sat"),
         createLoc("Greci", "sat"),
@@ -595,13 +595,13 @@ $comune = [
 
     // Seaca
     createComuna("Seaca", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Seaca", "sat")
     ]),
 
     // Sâmburești
     createComuna("Sâmburești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Sâmburești", "sat"),
         createLoc("Cerbeni", "sat"),
         createLoc("Ionicești", "sat"),
@@ -613,14 +613,14 @@ $comune = [
 
     // Slătioara
     createComuna("Slătioara", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Slătioara", "sat"),
         createLoc("Salcia", "sat")
     ]),
 
     // Spineni
     createComuna("Spineni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Alunișu", "sat"),
         createLoc("Cuza Vodă", "sat"),
         createLoc("Davidești", "sat"),
@@ -632,7 +632,7 @@ $comune = [
 
     // Sprâncenata
     createComuna("Sprâncenata", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Sprâncenata", "sat"),
         createLoc("Bârseștii de Sus", "sat"),
         createLoc("Frunzaru", "sat"),
@@ -641,19 +641,19 @@ $comune = [
 
     // Stoenești
     createComuna("Stoenești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Stoenești", "sat")
     ]),
 
     // Stoicănești
     createComuna("Stoicănești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Stoicănești", "sat")
     ]),
 
     // Strejești
     createComuna("Strejești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Strejești", "sat"),
         createLoc("Colibași", "sat"),
         createLoc("Mamura", "sat"),
@@ -661,14 +661,14 @@ $comune = [
     ]),
     // Studina
     createComuna("Studina", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Studina", "sat"),
         createLoc("Studinița", "sat")
     ]),
 
     // Șerbănești
     createComuna("Șerbănești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Șerbănești", "sat"),
         createLoc("Strugurelu", "sat"),
         createLoc("Șerbăneștii de Sus", "sat")
@@ -676,20 +676,20 @@ $comune = [
 
     // Șopârlița
     createComuna("Șopârlița", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Șopârlița", "sat")
     ]),
 
     // Ștefan cel Mare
     createComuna("Ștefan cel Mare", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Ștefan cel Mare", "sat"),
         createLoc("Ianca Nouă", "sat")
     ]),
 
     // Tătulești
     createComuna("Tătulești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Tătulești", "sat"),
         createLoc("Bărbălăi", "sat"),
         createLoc("Lunca", "sat"),
@@ -700,7 +700,7 @@ $comune = [
 
     // Teslui
     createComuna("Teslui", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Teslui", "sat"),
         createLoc("Cherleștii din Deal", "sat"),
         createLoc("Cherleștii Moșteni", "sat"),
@@ -712,7 +712,7 @@ $comune = [
 
     // Tia Mare
     createComuna("Tia Mare", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Tia Mare", "sat"),
         createLoc("Doanca", "sat"),
         createLoc("Potlogeni", "sat")
@@ -720,7 +720,7 @@ $comune = [
 
     // Topana
     createComuna("Topana", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Topana", "sat"),
         createLoc("Ciorâca", "sat"),
         createLoc("Cândelești", "sat"),
@@ -730,27 +730,27 @@ $comune = [
 
     // Traian
     createComuna("Traian", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Traian", "sat")
     ]),
 
     // Tufeni
     createComuna("Tufeni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Tufeni", "sat"),
         createLoc("Barza", "sat"),
         createLoc("Stoborăști", "sat")
     ]),
     // Urzica
     createComuna("Urzica", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Urzica", "sat"),
         createLoc("Stăvaru", "sat")
     ]),
 
     // Valea Mare
     createComuna("Valea Mare", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Valea Mare", "sat"),
         createLoc("Bârca", "sat"),
         createLoc("Recea", "sat"),
@@ -760,19 +760,19 @@ $comune = [
 
     // Vădastra
     createComuna("Vădastra", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vădastra", "sat")
     ]),
 
     // Vădăstrița
     createComuna("Vădăstrița", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vădăstrița", "sat")
     ]),
 
     // Văleni
     createComuna("Văleni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Văleni", "sat"),
         createLoc("Mandra", "sat"),
         createLoc("Popești", "sat"),
@@ -781,7 +781,7 @@ $comune = [
 
     // Verguleasa
     createComuna("Verguleasa", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Verguleasa", "sat"),
         createLoc("Căzănești", "sat"),
         createLoc("Cucueți", "sat"),
@@ -793,19 +793,19 @@ $comune = [
 
     // Vișina
     createComuna("Vișina", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vișina", "sat")
     ]),
 
     // Vișina Nouă
     createComuna("Vișina Nouă", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vișina Nouă", "sat")
     ]),
 
     // Vitomirești
     createComuna("Vitomirești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vitomirești", "sat"),
         createLoc("Bulimanu", "sat"),
         createLoc("Dejești", "sat"),
@@ -816,14 +816,14 @@ $comune = [
 
     // Vâlcele
     createComuna("Vâlcele", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vâlcele", "sat"),
         createLoc("Bărcănești", "sat"),
         createLoc("Vâlcelele de Sus", "sat")
     ]),
     // Vlădila
     createComuna("Vlădila", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vlădila", "sat"),
         createLoc("Frăsinet-Gară", "sat"),
         createLoc("Vlădila Nouă", "sat")
@@ -831,7 +831,7 @@ $comune = [
 
     // Voineasa
     createComuna("Voineasa", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Voineasa", "sat"),
         createLoc("Blaj", "sat"),
         createLoc("Mărgăritești", "sat"),
@@ -841,7 +841,7 @@ $comune = [
 
     // Vulpeni
     createComuna("Vulpeni", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vulpeni", "sat"),
         createLoc("Cotorbești", "sat"),
         createLoc("Gropșani", "sat"),
@@ -856,7 +856,7 @@ $comune = [
 
     // Vulturești
     createComuna("Vulturești", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("comuna Baldovinești, judetul OLT, România", "comuna Baldovinesti, judetul OLT, Romania"),
         createLoc("Vulturești", "sat"),
         createLoc("Dienci", "sat"),
         createLoc("Valea lui Alb", "sat"),

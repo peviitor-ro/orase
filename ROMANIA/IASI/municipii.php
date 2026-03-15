@@ -2,12 +2,12 @@
 $municipii =
 [
 		createMunicipiu("IAȘI", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("municipiul IAȘI, judetul IASI, România", "municipiul IASI, judetul IASI, Romania"),
                     createLoc("IAȘI", "oras"),
 					
                 ]),
 		createMunicipiu("PAȘCANI", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("municipiul IAȘI, judetul IASI, România", "municipiul IASI, judetul IASI, Romania"),
                     createLoc("PAȘCANI", "oras"),
 					createLoc("Blăgești", "sat"),
 					createLoc("Boșteni", "sat"),

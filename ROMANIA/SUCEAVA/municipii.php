@@ -2,25 +2,25 @@
 $municipii =
 [
             createMunicipiu("SUCEAVA", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("municipiul SUCEAVA, judetul SUCEAVA, România", "municipiul SUCEAVA, judetul SUCEAVA, Romania"),
                     createLoc("SUCEAVA", "oras"),
                 ]),
             createMunicipiu("CÂMPULUNG MOLDOVENESC", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("municipiul SUCEAVA, judetul SUCEAVA, România", "municipiul SUCEAVA, judetul SUCEAVA, Romania"),
                     createLoc("CÂMPULUNG MOLDOVENESC", "oras"),
 													]),
             createMunicipiu("FĂLTICENI", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("municipiul SUCEAVA, judetul SUCEAVA, România", "municipiul SUCEAVA, judetul SUCEAVA, Romania"),
                     createLoc("FĂLTICENI", "oras"),
 					createLoc("Șoldănești", "sat"),
 					createLoc("Țarna Mare", "sat"),
                 ]),
             createMunicipiu("RĂDĂUȚI", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("municipiul SUCEAVA, judetul SUCEAVA, România", "municipiul SUCEAVA, judetul SUCEAVA, Romania"),
                     createLoc("RĂDĂUȚI", "oras"),
 					]),
             createMunicipiu("VATRA DORNEI", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("municipiul SUCEAVA, judetul SUCEAVA, România", "municipiul SUCEAVA, judetul SUCEAVA, Romania"),
                     createLoc("VATRA DORNEI", "oras"),
 					createLoc("Argestru", "sat"),
 					createLoc("Roșu", "sat"),

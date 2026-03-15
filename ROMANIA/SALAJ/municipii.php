@@ -2,7 +2,7 @@
 $municipii =
 [
             createMunicipiu("ZALĂU", [
-				createAdresaCompleta("SALAJ"),
+				createAdresaCompleta("municipiul ZALĂU, judetul SALAJ, România", "municipiul ZALAU, judetul SALAJ, Romania"),
                     createLoc("ZALĂU", "oras"),
 					createLoc("Stâna", "sat"),
                 ]),

@@ -2,7 +2,7 @@
 $comune =[
 
 	createComuna("Andreiașu de Jos", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Andreiașu de Jos", "sat"),
         createLoc("Andreiașu de Sus", "sat"),
         createLoc("Arșița", "sat"),
@@ -13,23 +13,23 @@ $comune =[
     ]),
     
     createComuna("Bălești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Bălești", "sat")
     ]),
     
     createComuna("Bârsești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Bârsești", "sat"),
         createLoc("Topești", "sat")
     ]),
     
     createComuna("Biliești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Biliești", "sat")
     ]),
     
     createComuna("Boghești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Boghești", "sat"),
         createLoc("Bichești", "sat"),
         createLoc("Bogheștii de Sus", "sat"),
@@ -42,7 +42,7 @@ $comune =[
     ]),
     
     createComuna("Bolotești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Bolotești", "sat"),
         createLoc("Găgești", "sat"),
         createLoc("Ivăncești", "sat"),
@@ -52,20 +52,20 @@ $comune =[
     ]),
     
     createComuna("Bordești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Bordești", "sat"),
         createLoc("Bordeștii de Jos", "sat")
     ]),
     
     createComuna("Broșteni", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Broșteni", "sat"),
         createLoc("Arva", "sat"),
         createLoc("Pitulușa", "sat")
     ]),
     
     createComuna("Chiojdeni", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Chiojdeni", "sat"),
         createLoc("Cătăuți", "sat"),
         createLoc("Lojnița", "sat"),
@@ -77,7 +77,7 @@ $comune =[
     ]),
     
     createComuna("Ciorăști", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Ciorăști", "sat"),
         createLoc("Codrești", "sat"),
         createLoc("Mihălceni", "sat"),
@@ -87,14 +87,14 @@ $comune =[
         createLoc("Spătăreasa", "sat")
     ]),
     createComuna("Câmpineanca", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Câmpineanca", "sat"),
         createLoc("Pietroasa", "sat"),
         createLoc("Vâlcele", "sat")
     ]),
     
     createComuna("Câmpuri", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Câmpuri", "sat"),
         createLoc("Fetești", "sat"),
         createLoc("Gura Văii", "sat"),
@@ -103,7 +103,7 @@ $comune =[
     ]),
     
     createComuna("Cârligele", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Cârligele", "sat"),
         createLoc("Blidari", "sat"),
         createLoc("Bonțești", "sat"),
@@ -111,7 +111,7 @@ $comune =[
     ]),
     
     createComuna("Corbița", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Șerbănești", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Corbița", "sat"),
@@ -124,7 +124,7 @@ $comune =[
     ]),
     
     createComuna("Cotești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Cotești", "sat"),
         createLoc("Budești", "sat"),
         createLoc("Goleștii de Sus", "sat"),
@@ -132,7 +132,7 @@ $comune =[
     ]),
     
     createComuna("Dumbrăveni", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Dumbrăveni", "sat"),
         createLoc("Alexandru Vlahuță", "sat"),
         createLoc("Cândești", "sat"),
@@ -140,7 +140,7 @@ $comune =[
     ]),
     
     createComuna("Dumitrești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Dumitrești", "sat"),
         createLoc("Biceștii de Jos", "sat"),
         createLoc("Biceștii de Sus", "sat"),
@@ -160,7 +160,7 @@ $comune =[
     ]),
     
     createComuna("Fitionești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Fitionești", "sat"),
         createLoc("Ciolănești", "sat"),
         createLoc("Ghimicești", "sat"),
@@ -169,7 +169,7 @@ $comune =[
     ]),
     
     createComuna("Garoafa", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Garoafa", "sat"),
         createLoc("Bizighești", "sat"),
         createLoc("Ciușlea", "sat"),
@@ -181,23 +181,23 @@ $comune =[
     ]),
     
     createComuna("Golești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Golești", "sat"),
         createLoc("Ceardac", "sat")
     ]),
     createComuna("Gologanu", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Gologanu", "sat")
     ]),
     
     createComuna("Gugești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Gugești", "sat"),
         createLoc("Oreavu", "sat")
     ]),
     
     createComuna("Gura Caliței", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Gura Caliței", "sat"),
         createLoc("Bălănești", "sat"),
         createLoc("Cocoșari", "sat"),
@@ -211,14 +211,14 @@ $comune =[
     ]),
     
     createComuna("Homocea", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Homocea", "sat"),
         createLoc("Costișa", "sat"),
         createLoc("Lespezi", "sat")
     ]),
     
     createComuna("Jariștea", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Jariștea", "sat"),
         createLoc("Pădureni", "sat"),
         createLoc("Scânteia", "sat"),
@@ -226,7 +226,7 @@ $comune =[
     ]),
     
     createComuna("Jitia", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Jitia", "sat"),
         createLoc("Cerbu", "sat"),
         createLoc("Dealu Sării", "sat"),
@@ -235,7 +235,7 @@ $comune =[
     ]),
     
     createComuna("Măicănești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Măicănești", "sat"),
         createLoc("Belciugele", "sat"),
         createLoc("Râmniceni", "sat"),
@@ -245,7 +245,7 @@ $comune =[
     ]),
     
     createComuna("Mera", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Mera", "sat"),
         createLoc("Livada", "sat"),
         createLoc("Milcovel", "sat"),
@@ -254,13 +254,13 @@ $comune =[
     ]),
     
     createComuna("Milcovul", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Milcovul", "sat"),
         createLoc("Lămotești", "sat")
     ]),
     
     createComuna("Movilița", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Movilița", "sat"),
         createLoc("Diocheți-Rediu", "sat"),
         createLoc("Frecăței", "sat"),
@@ -268,14 +268,14 @@ $comune =[
         createLoc("Văleni", "sat")
     ]),
     createComuna("Nănești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Nănești", "sat"),
         createLoc("Călienii Noi", "sat"),
         createLoc("Călienii Vechi", "sat")
     ]),
     
     createComuna("Năruja", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Năruja", "sat"),
         createLoc("Podu Nărujei", "sat"),
         createLoc("Podu Stoica", "sat"),
@@ -283,12 +283,12 @@ $comune =[
     ]),
     
     createComuna("Negrilești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Negrilești", "sat")
     ]),
     
     createComuna("Nereju", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Nereju", "sat"),
         createLoc("Brădăcești", "sat"),
         createLoc("Chiricani", "sat"),
@@ -297,7 +297,7 @@ $comune =[
     ]),
     
     createComuna("Nistorești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Nistorești", "sat"),
         createLoc("Bâtcari", "sat"),
         createLoc("Brădetu", "sat"),
@@ -310,12 +310,12 @@ $comune =[
     ]),
     
     createComuna("Obrejița", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Obrejița", "sat")
     ]),
     
     createComuna("Paltin", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Paltin", "sat"),
         createLoc("Ghebari", "sat"),
         createLoc("Prahuda", "sat"),
@@ -324,24 +324,24 @@ $comune =[
     ]),
     
     createComuna("Păulești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Păulești", "sat"),
         createLoc("Hăulișca", "sat")
     ]),
     
     createComuna("Păunești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Păunești", "sat"),
         createLoc("Viișoara", "sat")
     ]),
     
     createComuna("Ploscuțeni", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Ploscuțeni", "sat"),
         createLoc("Argea", "sat")
     ]),
     createComuna("Poiana Cristei", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Poiana Cristei", "sat"),
         createLoc("Dealu Cucului", "sat"),
         createLoc("Dumbrava", "sat"),
@@ -353,13 +353,13 @@ $comune =[
     ]),
     
     createComuna("Popești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Popești", "sat"),
         createLoc("Terchești", "sat")
     ]),
     
     createComuna("Pufești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Pufești", "sat"),
         createLoc("Ciorani", "sat"),
         createLoc("Domnești-Sat", "sat"),
@@ -367,7 +367,7 @@ $comune =[
     ]),
     
     createComuna("Răcoasa", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Răcoasa", "sat"),
         createLoc("Gogoiu", "sat"),
         createLoc("Mărăști", "sat"),
@@ -376,12 +376,12 @@ $comune =[
     ]),
     
     createComuna("Răstoaca", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Răstoaca", "sat")
     ]),
     
     createComuna("Reghiu", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Reghiu", "sat"),
         createLoc("Farcaș", "sat"),
         createLoc("Jgheaburi", "sat"),
@@ -393,7 +393,7 @@ $comune =[
     ]),
     
     createComuna("Ruginești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Ruginești", "sat"),
         createLoc("Anghelești", "sat"),
         createLoc("Copăcești", "sat"),
@@ -401,7 +401,7 @@ $comune =[
     ]),
     
     createComuna("Sihlea", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Sihlea", "sat"),
         createLoc("Bogza", "sat"),
         createLoc("Căiata", "sat"),
@@ -409,7 +409,7 @@ $comune =[
     ]),
     
     createComuna("Slobozia Bradului", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Slobozia Bradului", "sat"),
         createLoc("Cornetu", "sat"),
         createLoc("Coroteni", "sat"),
@@ -419,19 +419,19 @@ $comune =[
     ]),
     
     createComuna("Slobozia Ciorăști", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Slobozia Ciorăști", "sat"),
         createLoc("Armeni", "sat"),
         createLoc("Jiliște", "sat")
     ]),
     createComuna("Soveja", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Dragosloveni", "sat"),
         createLoc("Rucăreni", "sat")
     ]),
     
     createComuna("Spulber", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Spulber", "sat"),
         createLoc("Carșochești-Corăbița", "sat"),
         createLoc("Morărești", "sat"),
@@ -442,7 +442,7 @@ $comune =[
     ]),
     
     createComuna("Străoane", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Străoane", "sat"),
         createLoc("Muncelu", "sat"),
         createLoc("Repedea", "sat"),
@@ -450,12 +450,12 @@ $comune =[
     ]),
     
     createComuna("Suraia", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Suraia", "sat")
     ]),
     
     createComuna("Tănăsoaia", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Tănăsoaia", "sat"),
         createLoc("Călimăneasa", "sat"),
         createLoc("Costișa", "sat"),
@@ -469,7 +469,7 @@ $comune =[
     ]),
     
     createComuna("Tătăranu", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Tătăranu", "sat"),
         createLoc("Bordeasca Nouă", "sat"),
         createLoc("Bordeasca Veche", "sat"),
@@ -478,7 +478,7 @@ $comune =[
     ]),
     
     createComuna("Tâmboești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Tâmboești", "sat"),
         createLoc("Pădureni", "sat"),
         createLoc("Pietroasa", "sat"),
@@ -487,7 +487,7 @@ $comune =[
     ]),
     
     createComuna("Tulnici", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Tulnici", "sat"),
         createLoc("Coza", "sat"),
         createLoc("Greșu", "sat"),
@@ -495,7 +495,7 @@ $comune =[
     ]),
     
     createComuna("Țifești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Țifești", "sat"),
         createLoc("Bătinești", "sat"),
         createLoc("Clipicești", "sat"),
@@ -507,11 +507,11 @@ $comune =[
     ]),
     
     createComuna("Urechești", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Urechești", "sat")
     ]),
     createComuna("Valea Sării", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Valea Sării", "sat"),
         createLoc("Colacu", "sat"),
         createLoc("Mătăcina", "sat"),
@@ -520,7 +520,7 @@ $comune =[
     ]),
     
     createComuna("Vidra", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Vidra", "sat"),
         createLoc("Burca", "sat"),
         createLoc("Irești", "sat"),
@@ -533,7 +533,7 @@ $comune =[
     ]),
     
     createComuna("Vintileasca", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Vintileasca", "sat"),
         createLoc("Bahnele", "sat"),
         createLoc("După Măgura", "sat"),
@@ -543,7 +543,7 @@ $comune =[
     ]),
     
     createComuna("Vizantea-Livezi", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Livezile", "sat"),
         createLoc("Mesteacănu", "sat"),
         createLoc("Piscu Radului", "sat"),
@@ -552,7 +552,7 @@ $comune =[
     ]),
     
     createComuna("Vânători", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Vânători", "sat"),
         createLoc("Balta Raței", "sat"),
         createLoc("Jorăști", "sat"),
@@ -563,7 +563,7 @@ $comune =[
     ]),
     
     createComuna("Vârteșcoiu", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Vârteșcoiu", "sat"),
         createLoc("Beciu", "sat"),
         createLoc("Faraoanele", "sat"),
@@ -573,7 +573,7 @@ $comune =[
     ]),
     
     createComuna("Vrâncioaia", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Vrâncioaia", "sat"),
         createLoc("Bodești", "sat"),
         createLoc("Muncei", "sat"),
@@ -583,7 +583,7 @@ $comune =[
     ]),
     
     createComuna("Vulturu", [
-				createAdresaCompleta("VRANCEA"),
+				createAdresaCompleta("comuna Andreiașu de Jos, judetul VRANCEA, România", "comuna Andreiasu de Jos, judetul VRANCEA, Romania"),
         createLoc("Vulturu", "sat"),
         createLoc("Boțârlău", "sat"),
         createLoc("Hângulești", "sat"),

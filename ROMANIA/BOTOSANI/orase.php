@@ -1,7 +1,7 @@
 <?php
 $orase=[
             createOras("BUCECEA",[
-			    createAdresaCompleta("BOTOSANI"),
+			    createAdresaCompleta("orasul BUCECEA, judetul BOTOSANI, România", "orasul BUCECEA, judetul BOTOSANI, Romania"),
 			    createLoc("BUCECEA", "oras",[
 						createLoc("Bohoghina", "sat"),
 				  ]),
@@ -9,7 +9,7 @@ $orase=[
 			                   ]),
 							   
             createOras("DARABANI",[
-			    createAdresaCompleta("BOTOSANI"),
+			    createAdresaCompleta("orasul BUCECEA, judetul BOTOSANI, România", "orasul BUCECEA, judetul BOTOSANI, Romania"),
 			    createLoc("DARABANI", "oras", [
 						createLoc("Bajura", "sat"),
 						createLoc("Eșanca", "sat"),
@@ -18,7 +18,7 @@ $orase=[
 			                   ]),
 							   
             createOras("FLĂMÂNZI",[
-			    createAdresaCompleta("BOTOSANI"),
+			    createAdresaCompleta("orasul BUCECEA, judetul BOTOSANI, România", "orasul BUCECEA, judetul BOTOSANI, Romania"),
 			    createLoc("FLĂMÂNZI", "oras",[
 						createLoc("Chițoveni", "sat"),
 						createLoc("Prisăcani", "sat"),
@@ -28,7 +28,7 @@ $orase=[
 			                   ]),
 							   
             createOras("SĂVENI",[
-			    createAdresaCompleta("BOTOSANI"),
+			    createAdresaCompleta("orasul BUCECEA, judetul BOTOSANI, România", "orasul BUCECEA, judetul BOTOSANI, Romania"),
 			    createLoc("SĂVENI", "oras", [
 						createLoc("Bodeasa", "sat"),
 						createLoc("Bozieni", "sat"),
@@ -40,7 +40,7 @@ $orase=[
 			                   ]),							   
 
             createOras("ȘTEFĂNEȘTI",[
-			    createAdresaCompleta("BOTOSANI"),
+			    createAdresaCompleta("orasul BUCECEA, judetul BOTOSANI, România", "orasul BUCECEA, judetul BOTOSANI, Romania"),
 			    createLoc("ȘTEFĂNEȘTI", "oras", [
 						createLoc("Bădiuți", "sat"),
 						createLoc("Bobulești", "sat"),

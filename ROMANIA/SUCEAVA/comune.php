@@ -2,47 +2,47 @@
 $comune =[
 
 	createComuna("Adâncata", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Adâncata", "sat"),
         createLoc("Călugăreni", "sat"),
         createLoc("Fetești", "sat")
     ]),
     createComuna("Arbore", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Arbore", "sat"),
         createLoc("Bodnăreni", "sat"),
         createLoc("Clit", "sat")
     ]),
     createComuna("Baia", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Baia", "sat"),
         createLoc("Bogata", "sat")
     ]),
     createComuna("Bălăceana", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Bălăceana", "sat")
     ]),
     createComuna("Bălcăuți", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Bălcăuți", "sat"),
         createLoc("Gropeni", "sat"),
         createLoc("Negostina", "sat")
     ]),
     createComuna("Berchișești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Berchișești", "sat"),
         createLoc("Corlata", "sat")
     ]),
     createComuna("Bilca", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Bilca", "sat")
     ]),
     createComuna("Bogdănești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Bogdănești", "sat")
     ]),
     createComuna("Boroaia", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Boroaia", "sat"),
         createLoc("Bărăști", "sat"),
         createLoc("Giulești", "sat"),
@@ -50,22 +50,22 @@ $comune =[
         createLoc("Săcuța", "sat")
     ]),
     createComuna("Bosanci", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Bosanci", "sat"),
         createLoc("Cumpărătura", "sat")
     ]),
     createComuna("Botoșana", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Botoșana", "sat")
     ]),
     createComuna("Breaza", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Breaza", "sat"),
         createLoc("Breaza de Sus", "sat"),
         createLoc("Pârâu Negrei", "sat")
     ]),
     createComuna("Brodina", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Brodina", "sat"),
         createLoc("Brodina de Jos", "sat"),
         createLoc("Cununschi", "sat"),
@@ -78,7 +78,7 @@ $comune =[
         createLoc("Zalomestra", "sat")
     ]),
     createComuna("Bunești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Bunești", "sat"),
         createLoc("Petia", "sat"),
         createLoc("Podeni", "sat"),
@@ -86,11 +86,11 @@ $comune =[
         createLoc("Uncești", "sat")
     ]),
     createComuna("Burla", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Burla", "sat")
     ]),
     createComuna("Cacica", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Pârteștii de Sus", "sat"),
         createLoc("Cacica", "sat"),
         createLoc("Maidan", "sat"),
@@ -98,25 +98,25 @@ $comune =[
         createLoc("Solonețu Nou", "sat")
     ]),
     createComuna("Calafindești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Calafindești", "sat"),
         createLoc("Botoșanița Mare", "sat")
     ]),
     createComuna("Capu Câmpului", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Capu Câmpului", "sat")
     ]),
     createComuna("Ciocănești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Ciocănești", "sat"),
         createLoc("Botoș", "sat")
     ]),
     createComuna("Ciprian Porumbescu", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Ciprian Porumbescu", "sat")
     ]),
     createComuna("Cârlibaba", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Cârlibaba", "sat"),
         createLoc("Cârlibaba Nouă", "sat"),
         createLoc("Iedu", "sat"),
@@ -125,12 +125,12 @@ $comune =[
         createLoc("Valea Stânei", "sat")
     ]),
     createComuna("Comănești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Comănești", "sat"),
         createLoc("Humoreni", "sat")
     ]),
     createComuna("Cornu Luncii", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Cornu Luncii", "sat"),
         createLoc("Băișești", "sat"),
         createLoc("Brăiești", "sat"),
@@ -142,7 +142,7 @@ $comune =[
         createLoc("Șinca", "sat")
     ]),
     createComuna("Coșna", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Coșna", "sat"),
         createLoc("Podu Coșnei", "sat"),
         createLoc("Valea Bancului", "sat"),
@@ -150,14 +150,14 @@ $comune =[
         createLoc("Românești", "sat")
     ]),
     createComuna("Crucea", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Crucea", "sat"),
         createLoc("Chiril", "sat"),
         createLoc("Cojoci", "sat"),
         createLoc("Satu Mare", "sat")
     ]),
     createComuna("Dărmănești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Măriței", "sat"),
         createLoc("Dănila", "sat"),
         createLoc("Dărmănești", "sat"),
@@ -166,13 +166,13 @@ $comune =[
         createLoc("Mărițeia Mică", "sat")
     ]),
     createComuna("Dolhești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Dolheștii Mari", "sat"),
         createLoc("Dolheștii Mici", "sat"),
         createLoc("Valea Bourei", "sat")
     ]),
     createComuna("Dorna-Arini", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Cozănești", "sat"),
         createLoc("Dorna-Arini", "sat"),
         createLoc("Gheorghițeni", "sat"),
@@ -181,42 +181,42 @@ $comune =[
         createLoc("Sunători", "sat")
     ]),
     createComuna("Dorna Candrenilor", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Dorna Candrenilor", "sat"),
         createLoc("Dealu Floreni", "sat"),
         createLoc("Poiana Negrii", "sat")
     ]),
     createComuna("Dornești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Dornești", "sat"),
         createLoc("Iaz", "sat")
     ]),
     createComuna("Drăgoiești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Măzănăești", "sat"),
         createLoc("Drăgoiești", "sat"),
         createLoc("Lucăcești", "sat")
     ]),
     createComuna("Drăgușeni", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Drăgușeni", "sat"),
         createLoc("Broșteni", "sat"),
         createLoc("Gara Leu", "sat")
     ]),
     createComuna("Dumbrăveni", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Dumbrăveni", "sat"),
         createLoc("Sălăgeni", "sat")
     ]),
     createComuna("Fântâna Mare", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Fântâna Mare", "sat"),
         createLoc("Cotu Băii", "sat"),
         createLoc("Praxia", "sat"),
         createLoc("Spătărești", "sat")
     ]),
     createComuna("Fântânele", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Fântânele", "sat"),
         createLoc("Bănești", "sat"),
         createLoc("Cotu Dobei", "sat"),
@@ -224,7 +224,7 @@ $comune =[
         createLoc("Stamate", "sat")
     ]),
     createComuna("Forăști", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Forăști", "sat"),
         createLoc("Antoceni", "sat"),
         createLoc("Boura", "sat"),
@@ -236,23 +236,23 @@ $comune =[
         createLoc("Uidești", "sat")
     ]),
     createComuna("Frătăuții Noi", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Frătăuții Noi", "sat"),
         createLoc("Costișa", "sat")
     ]),
     createComuna("Frătăuții Vechi", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Frătăuții Vechi", "sat"),
         createLoc("Măneuți", "sat")
     ]),
     createComuna("Frumosu", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Frumosu", "sat"),
         createLoc("Deia", "sat"),
         createLoc("Dragoșa", "sat")
     ]),
     createComuna("Fundu Moldovei", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Fundu Moldovei", "sat"),
         createLoc("Botușel", "sat"),
         createLoc("Botuș", "sat"),
@@ -265,12 +265,12 @@ $comune =[
         createLoc("Smida Ungurenilor", "sat")
     ]),
     createComuna("Gălănești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Gălănești", "sat"),
         createLoc("Hurjuieni", "sat")
     ]),
     createComuna("Grămești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Grămești", "sat"),
         createLoc("Bălinești", "sat"),
         createLoc("Botoșanița Mică", "sat"),
@@ -278,7 +278,7 @@ $comune =[
         createLoc("Verbia", "sat")
     ]),
     createComuna("Grănicești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Grănicești", "sat"),
         createLoc("Dumbrava", "sat"),
         createLoc("Gura Solcii", "sat"),
@@ -287,17 +287,17 @@ $comune =[
         createLoc("Slobozia Sucevei", "sat")
     ]),
     createComuna("Hănțești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Hănțești", "sat"),
         createLoc("Arțari", "sat"),
         createLoc("Berești", "sat")
     ]),
     createComuna("Hârtop", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Hârtop", "sat")
     ]),
     createComuna("Horodniceni", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Horodniceni", "sat"),
         createLoc("Botești", "sat"),
         createLoc("Brădățel", "sat"),
@@ -305,45 +305,45 @@ $comune =[
         createLoc("Rotopănești", "sat")
     ]),
     createComuna("Horodnic de Jos", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Horodnic de Jos", "sat")
     ]),
     createComuna("Horodnic de Sus", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Horodnic de Sus", "sat")
     ]),
     createComuna("Iacobeni", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Iacobeni", "sat"),
         createLoc("Mestecăniș", "sat")
     ]),
     createComuna("Iaslovăț", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Iaslovăț", "sat")
     ]),
     createComuna("Ilișești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Ilișești", "sat"),
         createLoc("Brașca", "sat")
     ]),
     createComuna("Ipotești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Ipotești", "sat"),
         createLoc("Lisaura", "sat"),
         createLoc("Tișăuți", "sat")
     ]),
     createComuna("Izvoarele Sucevei", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Izvoarele Sucevei", "sat"),
         createLoc("Bobeica", "sat"),
         createLoc("Brodina", "sat")
     ]),
     createComuna("Marginea", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Marginea", "sat")
     ]),
     createComuna("Mălini", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Mălini", "sat"),
         createLoc("Iesle", "sat"),
         createLoc("Pâraie", "sat"),
@@ -351,20 +351,20 @@ $comune =[
         createLoc("Văleni-Stânișoara", "sat")
     ]),
     createComuna("Mănăstirea Humorului", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Mănăstirea Humorului", "sat"),
         createLoc("Pleșa", "sat"),
         createLoc("Poiana Micului", "sat")
     ]),
     createComuna("Mitocu Dragomirnei", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Mitocu Dragomirnei", "sat"),
         createLoc("Dragomirna", "sat"),
         createLoc("Lipoveni", "sat"),
         createLoc("Mitocași", "sat")
     ]),
     createComuna("Moara", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Moara Nica", "sat"),
         createLoc("Bulai", "sat"),
         createLoc("Frumoasa", "sat"),
@@ -375,19 +375,19 @@ $comune =[
         createLoc("Vornicenii Mici", "sat")
     ]),
     createComuna("Moldova-Sulița", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Moldova-Sulița", "sat"),
         createLoc("Benia", "sat")
     ]),
     createComuna("Moldovița", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Moldovița", "sat"),
         createLoc("Argel", "sat"),
         createLoc("Demacușa", "sat"),
         createLoc("Rașca", "sat")
     ]),
     createComuna("Mușenița", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Baineț", "sat"),
         createLoc("Băncești", "sat"),
         createLoc("Climăuți", "sat"),
@@ -396,12 +396,12 @@ $comune =[
         createLoc("Vicșani", "sat")
     ]),
     createComuna("Ostra", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Ostra", "sat"),
         createLoc("Tărnicioara", "sat")
     ]),
     createComuna("Panaci", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Panaci", "sat"),
         createLoc("Catrinari", "sat"),
         createLoc("Coverca", "sat"),
@@ -410,23 +410,23 @@ $comune =[
         createLoc("Păltiniș", "sat")
     ]),
     createComuna("Păltinoasa", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Păltinoasa", "sat"),
         createLoc("Capu Codrului", "sat")
     ]),
     createComuna("Pârteștii de Jos", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Pârteștii de Jos", "sat"),
         createLoc("Deleni", "sat"),
         createLoc("Varvata", "sat"),
         createLoc("Vârfu Dealului", "sat")
     ]),
     createComuna("Pătrăuți", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Pătrăuți", "sat")
     ]),
     createComuna("Poiana Stampei", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Poiana Stampei", "sat"),
         createLoc("Căsoi", "sat"),
         createLoc("Dornișoara", "sat"),
@@ -436,16 +436,16 @@ $comune =[
         createLoc("Teșna", "sat")
     ]),
     createComuna("Poieni-Solca", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Poieni-Solca", "sat")
     ]),
     createComuna("Pojorâta", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Pojorâta", "sat"),
         createLoc("Valea Putnei", "sat")
     ]),
     createComuna("Preutești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Preutești", "sat"),
         createLoc("Arghira", "sat"),
         createLoc("Basarabi", "sat"),
@@ -454,18 +454,18 @@ $comune =[
         createLoc("Leucușești", "sat")
     ]),
     createComuna("Putna", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Putna", "sat"),
         createLoc("Gura Putnei", "sat")
     ]),
     createComuna("Rădășeni", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Rădășeni", "sat"),
         createLoc("Lămășeni", "sat"),
         createLoc("Pocoleni", "sat")
     ]),
     createComuna("Râșca", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Râșca", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Dumbrăveni", "sat"),
@@ -473,37 +473,37 @@ $comune =[
         createLoc("Slătioara", "sat")
     ]),
     createComuna("Sadova", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Sadova", "sat")
     ]),
     createComuna("Satu Mare", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Satu Mare", "sat"),
         createLoc("Țibeni", "sat")
     ]),
     createComuna("Siminicea", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Siminicea", "sat"),
         createLoc("Grigorești", "sat")
     ]),
     createComuna("Slatina", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Slatina", "sat"),
         createLoc("Găinești", "sat"),
         createLoc("Herla", "sat")
     ]),
     createComuna("Straja", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Straja", "sat")
     ]),
     createComuna("Stroiești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Stroiești", "sat"),
         createLoc("Vâlcelele", "sat"),
         createLoc("Zaharești", "sat")
     ]),
     createComuna("Stulpicani", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Stulpicani", "sat"),
         createLoc("Gemenea", "sat"),
         createLoc("Negrileasa", "sat"),
@@ -511,12 +511,12 @@ $comune =[
         createLoc("Vadu Negrilesei", "sat")
     ]),
     createComuna("Sucevița", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Sucevița", "sat"),
         createLoc("Voievodeasa", "sat")
     ]),
     createComuna("Șaru Dornei", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Neagra Șarului", "sat"),
         createLoc("Gura Haitii", "sat"),
         createLoc("Plaiu Șarului", "sat"),
@@ -526,7 +526,7 @@ $comune =[
         createLoc("Șaru Dornei", "sat")
     ]),
     createComuna("Șcheia", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Șcheia", "sat"),
         createLoc("Florinta", "sat"),
         createLoc("Mihoveni", "sat"),
@@ -534,12 +534,12 @@ $comune =[
         createLoc("Trei Movile", "sat")
     ]),
     createComuna("Șerbăuți", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Șerbăuți", "sat"),
         createLoc("Călinești", "sat")
     ]),
     createComuna("Todirești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Todirești", "sat"),
         createLoc("Costâna", "sat"),
         createLoc("Părhăuți", "sat"),
@@ -547,7 +547,7 @@ $comune =[
         createLoc("Soloneț", "sat")
     ]),
     createComuna("Udești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Udești", "sat"),
         createLoc("Chilișeni", "sat"),
         createLoc("Luncușoara", "sat"),
@@ -561,7 +561,7 @@ $comune =[
         createLoc("Știrbăț", "sat")
     ]),
     createComuna("Ulma", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Ulma", "sat"),
         createLoc("Costileva", "sat"),
         createLoc("Lupcina", "sat"),
@@ -569,7 +569,7 @@ $comune =[
         createLoc("Nisipitu", "sat")
     ]),
     createComuna("Vadu Moldovei", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Vadu Moldovei", "sat"),
         createLoc("Cămârzani", "sat"),
         createLoc("Ciumulești", "sat"),
@@ -580,44 +580,44 @@ $comune =[
         createLoc("Nigotești", "sat")
     ]),
     createComuna("Valea Moldovei", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Valea Moldovei", "sat"),
         createLoc("Mironu", "sat")
     ]),
     createComuna("Vama", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Vama", "sat"),
         createLoc("Molid", "sat"),
         createLoc("Prisaca Dornei", "sat"),
         createLoc("Strâmtura", "sat")
     ]),
     createComuna("Vatra Moldoviței", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Vatra Moldoviței", "sat"),
         createLoc("Ciumârna", "sat"),
         createLoc("Paltinu", "sat")
     ]),
     createComuna("Verești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Verești", "sat"),
         createLoc("Bursuceni", "sat"),
         createLoc("Corocăiești", "sat"),
         createLoc("Hancea", "sat")
     ]),
     createComuna("Vicovu de Jos", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Vicovu de Jos", "sat")
     ]),
     createComuna("Voitinel", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Voitinel", "sat")
     ]),
     createComuna("Volovăț", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Volovăț", "sat")
     ]),
     createComuna("Vulturești", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Pleșești", "sat"),
         createLoc("Giurgești", "sat"),
         createLoc("Hreațca", "sat"),
@@ -628,7 +628,7 @@ $comune =[
         createLoc("Vulturești", "sat")
     ]),
     createComuna("Zamostea", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Zamostea", "sat"),
         createLoc("Badragi", "sat"),
         createLoc("Ciomârtan", "sat"),
@@ -640,7 +640,7 @@ $comune =[
         createLoc("Tăutești", "sat")
     ]),
     createComuna("Zvoriștea", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("comuna Adâncata, judetul SUCEAVA, România", "comuna Adancata, judetul SUCEAVA, Romania"),
         createLoc("Zvoriștea", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Dealu", "sat"),

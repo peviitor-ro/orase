@@ -2,7 +2,7 @@
 $comune =[
 
     createComuna("Alexandru I. Cuza", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Alexandru I. Cuza", "sat"),
         createLoc("Kogălniceni", "sat"),
         createLoc("Scheia", "sat"),
@@ -10,7 +10,7 @@ $comune =[
     ]),
     
     createComuna("Andrieșeni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Andrieșeni", "sat"),
         createLoc("Buhăeni", "sat"),
         createLoc("Drăgănești", "sat"),
@@ -21,7 +21,7 @@ $comune =[
     ]),
     
     createComuna("Aroneanu", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Aroneanu", "sat"),
         createLoc("Dorobanț", "sat"),
         createLoc("Rediu Aldei", "sat"),
@@ -29,14 +29,14 @@ $comune =[
     ]),
     
     createComuna("Balș", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Balș", "sat"),
         createLoc("Boureni", "sat"),
         createLoc("Coasta Măgurii", "sat")
     ]),
     
     createComuna("Bălțați", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Bălțați", "sat"),
         createLoc("Cotârgaci", "sat"),
         createLoc("Filiași", "sat"),
@@ -47,7 +47,7 @@ $comune =[
     ]),
     
     createComuna("Belcești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Belcești", "sat"),
         createLoc("Liteni", "sat"),
         createLoc("Munteni", "sat"),
@@ -57,7 +57,7 @@ $comune =[
     ]),
     
     createComuna("Bivolari", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Bivolari", "sat"),
         createLoc("Buruienești", "sat"),
         createLoc("Soloneț", "sat"),
@@ -66,7 +66,7 @@ $comune =[
     ]),
     
     createComuna("Bârnova", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Bârnova", "sat"),
         createLoc("Cercu", "sat"),
         createLoc("Păun", "sat"),
@@ -76,7 +76,7 @@ $comune =[
     ]),
     
     createComuna("Brăești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Brăești", "sat"),
         createLoc("Albești", "sat"),
         createLoc("Buda", "sat"),
@@ -85,12 +85,12 @@ $comune =[
     ]),
     
     createComuna("Butea", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Butea", "sat"),
         createLoc("Miclăușeni", "sat")
     ]),
     createComuna("Ceplenița", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Ceplenița", "sat"),
         createLoc("Buhalnița", "sat"),
         createLoc("Poiana Mărului", "sat"),
@@ -98,12 +98,12 @@ $comune =[
     ]),
     
     createComuna("Ciohorăni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Ciohorăni", "sat")
     ]),
     
     createComuna("Ciortești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Ciortești", "sat"),
         createLoc("Coropceni", "sat"),
         createLoc("Deleni", "sat"),
@@ -112,7 +112,7 @@ $comune =[
     ]),
     
     createComuna("Ciurea", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Ciurea", "sat"),
         createLoc("Curături", "sat"),
         createLoc("Dumbrava", "sat"),
@@ -123,14 +123,14 @@ $comune =[
     ]),
     
     createComuna("Coarnele Caprei", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Coarnele Caprei", "sat"),
         createLoc("Arama", "sat"),
         createLoc("Petroșica", "sat")
     ]),
     
     createComuna("Comarna", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Osoi", "sat"),
         createLoc("Comarna", "sat"),
         createLoc("Curagău", "sat"),
@@ -138,13 +138,13 @@ $comune =[
     ]),
     
     createComuna("Costești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Costești", "sat"),
         createLoc("Giurgești", "sat")
     ]),
     
     createComuna("Costuleni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Costuleni", "sat"),
         createLoc("Covasna", "sat"),
         createLoc("Cozia", "sat"),
@@ -152,7 +152,7 @@ $comune =[
     ]),
     
     createComuna("Cotnari", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Cotnari", "sat"),
         createLoc("Bahluiu", "sat"),
         createLoc("Cireșeni", "sat"),
@@ -167,19 +167,19 @@ $comune =[
     ]),
     
     createComuna("Cozmești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Cozmești", "sat"),
         createLoc("Podolenii de Jos", "sat"),
         createLoc("Podolenii de Sus", "sat")
     ]),
     createComuna("Cristești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Cristești", "sat"),
         createLoc("Homița", "sat")
     ]),
     
     createComuna("Cucuteni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Cucuteni", "sat"),
         createLoc("Băiceni", "sat"),
         createLoc("Bărbătești", "sat"),
@@ -187,7 +187,7 @@ $comune =[
     ]),
     
     createComuna("Dagâța", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Dagâța", "sat"),
         createLoc("Bălușești", "sat"),
         createLoc("Boatca", "sat"),
@@ -200,7 +200,7 @@ $comune =[
     ]),
     
     createComuna("Deleni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Deleni", "sat"),
         createLoc("Feredeni", "sat"),
         createLoc("Leahu-Nacu", "sat"),
@@ -210,25 +210,25 @@ $comune =[
     ]),
     
     createComuna("Dobrovăț", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Dobrovăț", "sat")
     ]),
     
     createComuna("Dolhești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Dolhești", "sat"),
         createLoc("Brădicești", "sat"),
         createLoc("Pietriș", "sat")
     ]),
     
     createComuna("Drăgușeni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Drăgușeni", "sat"),
         createLoc("Frenciugi", "sat")
     ]),
     
     createComuna("Dumești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Dumești", "sat"),
         createLoc("Banu", "sat"),
         createLoc("Chilișoaia", "sat"),
@@ -237,7 +237,7 @@ $comune =[
     ]),
     
     createComuna("Erbiceni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Erbiceni", "sat"),
         createLoc("Bârlești", "sat"),
         createLoc("Spinoasa", "sat"),
@@ -246,16 +246,16 @@ $comune =[
     ]),
     
     createComuna("Fântânele", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Fântânele", "sat")
     ]),
     createComuna("Focuri", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Focuri", "sat")
     ]),
     
     createComuna("Golăiești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Golăiești", "sat"),
         createLoc("Bran", "sat"),
         createLoc("Cilibiu", "sat"),
@@ -267,7 +267,7 @@ $comune =[
     ]),
     
     createComuna("Gorban", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Gorban", "sat"),
         createLoc("Gura Bohotin", "sat"),
         createLoc("Podu Hagiului", "sat"),
@@ -276,7 +276,7 @@ $comune =[
     ]),
     
     createComuna("Grajduri", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Grajduri", "sat"),
         createLoc("Cărbunari", "sat"),
         createLoc("Corcodel", "sat"),
@@ -287,7 +287,7 @@ $comune =[
     ]),
     
     createComuna("Gropnița", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Gropnița", "sat"),
         createLoc("Bulbucani", "sat"),
         createLoc("Forăști", "sat"),
@@ -297,27 +297,27 @@ $comune =[
     ]),
     
     createComuna("Grozești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Grozești", "sat"),
         createLoc("Colțu Cornii", "sat"),
         createLoc("Sălăgeni", "sat")
     ]),
     
     createComuna("Hălăucești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Hălăucești", "sat"),
         createLoc("Luncași", "sat")
     ]),
     
     createComuna("Hărmănești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Hărmăneștii Vechi", "sat"),
         createLoc("Boldești", "sat"),
         createLoc("Hărmăneștii Noi", "sat")
     ]),
     
     createComuna("Heleșteni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Heleșteni", "sat"),
         createLoc("Hărmăneasa", "sat"),
         createLoc("Movileni", "sat"),
@@ -325,7 +325,7 @@ $comune =[
     ]),
     
     createComuna("Holboca", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Holboca", "sat"),
         createLoc("Cristești", "sat"),
         createLoc("Dancu", "sat"),
@@ -335,14 +335,14 @@ $comune =[
         createLoc("Valea Lungă", "sat")
     ]),
     createComuna("Horlești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Horlești", "sat"),
         createLoc("Bogdănești", "sat"),
         createLoc("Scoposeni", "sat")
     ]),
     
     createComuna("Ion Neculce", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Buznea", "sat"),
         createLoc("Dădești", "sat"),
         createLoc("Gănești", "sat"),
@@ -352,7 +352,7 @@ $comune =[
     ]),
     
     createComuna("Ipatele", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Ipatele", "sat"),
         createLoc("Alexești", "sat"),
         createLoc("Bâcu", "sat"),
@@ -360,7 +360,7 @@ $comune =[
     ]),
     
     createComuna("Lespezi", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Lespezi", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Bursuc-Deal", "sat"),
@@ -370,7 +370,7 @@ $comune =[
     ]),
     
     createComuna("Lețcani", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Lețcani", "sat"),
         createLoc("Bogonos", "sat"),
         createLoc("Cogeasca", "sat"),
@@ -378,7 +378,7 @@ $comune =[
     ]),
     
     createComuna("Lungani", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Lungani", "sat"),
         createLoc("Crucea", "sat"),
         createLoc("Goești", "sat"),
@@ -386,27 +386,27 @@ $comune =[
     ]),
     
     createComuna("Mădârjac", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Mădârjac", "sat"),
         createLoc("Bojila", "sat"),
         createLoc("Frumușica", "sat")
     ]),
     
     createComuna("Mircești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Mircești", "sat"),
         createLoc("Iugani", "sat")
     ]),
     
     createComuna("Mironeasa", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Mironeasa", "sat"),
         createLoc("Schitu Hadâmbului", "sat"),
         createLoc("Urșița", "sat")
     ]),
     
     createComuna("Miroslava", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Miroslava", "sat"),
         createLoc("Balciu", "sat"),
         createLoc("Brătuleni", "sat"),
@@ -422,7 +422,7 @@ $comune =[
         createLoc("Vorovești", "sat")
     ]),
     createComuna("Miroslovești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Miroslovești", "sat"),
         createLoc("Mitești", "sat"),
         createLoc("Soci", "sat"),
@@ -430,7 +430,7 @@ $comune =[
     ]),
     
     createComuna("Mogoșești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Mogoșești", "sat"),
         createLoc("Budești", "sat"),
         createLoc("Hadâmbu", "sat"),
@@ -438,25 +438,25 @@ $comune =[
     ]),
     
     createComuna("Mogoșești-Siret", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Mogoșești-Siret", "sat"),
         createLoc("Muncelu de Sus", "sat"),
         createLoc("Tudor Vladimirescu", "sat")
     ]),
     
     createComuna("Moșna", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Moșna", "sat")
     ]),
     
     createComuna("Moțca", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Moțca", "sat"),
         createLoc("Boureni", "sat")
     ]),
     
     createComuna("Movileni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Movileni", "sat"),
         createLoc("Iepureni", "sat"),
         createLoc("Larga-Jijia", "sat"),
@@ -464,20 +464,20 @@ $comune =[
     ]),
     
     createComuna("Oțeleni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Oțeleni", "sat"),
         createLoc("Hândrești", "sat")
     ]),
     
     createComuna("Plugari", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Plugari", "sat"),
         createLoc("Borosoaia", "sat"),
         createLoc("Onești", "sat")
     ]),
     
     createComuna("Popești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Popești", "sat"),
         createLoc("Doroșcani", "sat"),
         createLoc("Hărpășești", "sat"),
@@ -487,7 +487,7 @@ $comune =[
     ]),
     
     createComuna("Popricani", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Popricani", "sat"),
         createLoc("Cârlig", "sat"),
         createLoc("Cotu Morii", "sat"),
@@ -499,21 +499,21 @@ $comune =[
         createLoc("Vulturi", "sat")
     ]),
     createComuna("Prisăcani", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Prisăcani", "sat"),
         createLoc("Măcărești", "sat"),
         createLoc("Moreni", "sat")
     ]),
     
     createComuna("Probota", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Probota", "sat"),
         createLoc("Bălteni", "sat"),
         createLoc("Perieni", "sat")
     ]),
     
     createComuna("Răducăneni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Răducăneni", "sat"),
         createLoc("Bohotin", "sat"),
         createLoc("Isaiia", "sat"),
@@ -521,14 +521,14 @@ $comune =[
     ]),
     
     createComuna("Răchiteni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Răchiteni", "sat"),
         createLoc("Izvoarele", "sat"),
         createLoc("Ursărești", "sat")
     ]),
     
     createComuna("Rediu", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Rediu", "sat"),
         createLoc("Breazu", "sat"),
         createLoc("Horlești", "sat"),
@@ -536,20 +536,20 @@ $comune =[
     ]),
     
     createComuna("Românești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Românești", "sat"),
         createLoc("Avântu", "sat"),
         createLoc("Ursoaia", "sat")
     ]),
     
     createComuna("Roșcani", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Rădeni", "sat"),
         createLoc("Roșcani", "sat")
     ]),
     
     createComuna("Ruginoasa", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Ruginoasa", "sat"),
         createLoc("Dumbrăvița", "sat"),
         createLoc("Rediu", "sat"),
@@ -557,7 +557,7 @@ $comune =[
     ]),
     
     createComuna("Schitu Duca", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Schitu Duca", "sat"),
         createLoc("Blaga", "sat"),
         createLoc("Dumitreștii Gălății", "sat"),
@@ -569,7 +569,7 @@ $comune =[
     ]),
     
     createComuna("Scânteia", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Scânteia", "sat"),
         createLoc("Bodești", "sat"),
         createLoc("Boroșești", "sat"),
@@ -579,7 +579,7 @@ $comune =[
         createLoc("Tufeștii de Sus", "sat")
     ]),
     createComuna("Scobinți", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Scobinți", "sat"),
         createLoc("Bădeni", "sat"),
         createLoc("Fetești", "sat"),
@@ -588,7 +588,7 @@ $comune =[
     ]),
     
     createComuna("Sinești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Sinești", "sat"),
         createLoc("Bocnița", "sat"),
         createLoc("Osoi", "sat"),
@@ -596,7 +596,7 @@ $comune =[
     ]),
     
     createComuna("Sirețel", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Sirețel", "sat"),
         createLoc("Berezlogi", "sat"),
         createLoc("Humosu", "sat"),
@@ -605,14 +605,14 @@ $comune =[
     ]),
     
     createComuna("Stolniceni-Prăjescu", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Stolniceni-Prăjescu", "sat"),
         createLoc("Brătești", "sat"),
         createLoc("Cozmești", "sat")
     ]),
     
     createComuna("Strunga", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Strunga", "sat"),
         createLoc("Brătulești", "sat"),
         createLoc("Crivești", "sat"),
@@ -624,7 +624,7 @@ $comune =[
     ]),
     
     createComuna("Șcheia", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Șcheia", "sat"),
         createLoc("Căuești", "sat"),
         createLoc("Cioca-Boca", "sat"),
@@ -633,7 +633,7 @@ $comune =[
     ]),
     
     createComuna("Șipote", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Șipote", "sat"),
         createLoc("Chișcăreni", "sat"),
         createLoc("Hălceni", "sat"),
@@ -643,13 +643,13 @@ $comune =[
     ]),
     
     createComuna("Tansa", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Tansa", "sat"),
         createLoc("Suhuleț", "sat")
     ]),
     
     createComuna("Tătăruși", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Tătăruși", "sat"),
         createLoc("Iorcani", "sat"),
         createLoc("Pietrosu", "sat"),
@@ -658,13 +658,13 @@ $comune =[
     ]),
     
     createComuna("Todirești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Todirești", "sat"),
         createLoc("Băiceni", "sat"),
         createLoc("Stroești", "sat")
     ]),
     createComuna("Tomești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Tomești", "sat"),
         createLoc("Chicerea", "sat"),
         createLoc("Goruni", "sat"),
@@ -672,7 +672,7 @@ $comune =[
     ]),
     
     createComuna("Trifești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Trifești", "sat"),
         createLoc("Hermeziu", "sat"),
         createLoc("Vladomira", "sat"),
@@ -680,7 +680,7 @@ $comune =[
     ]),
     
     createComuna("Țibana", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Țibana", "sat"),
         createLoc("Alexeni", "sat"),
         createLoc("Domnița", "sat"),
@@ -694,7 +694,7 @@ $comune =[
     ]),
     
     createComuna("Țibănești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Țibănești", "sat"),
         createLoc("Glodenii Gândului", "sat"),
         createLoc("Griești", "sat"),
@@ -706,7 +706,7 @@ $comune =[
     ]),
     
     createComuna("Țigănași", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Țigănași", "sat"),
         createLoc("Cârniceni", "sat"),
         createLoc("Mihail Kogălniceanu", "sat"),
@@ -714,14 +714,14 @@ $comune =[
     ]),
     
     createComuna("Țuțora", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Țuțora", "sat"),
         createLoc("Chiperești", "sat"),
         createLoc("Oprișeni", "sat")
     ]),
     
     createComuna("Ungheni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Bosia", "sat"),
         createLoc("Coada Stâncii", "sat"),
         createLoc("Mânzătești", "sat"),
@@ -729,19 +729,19 @@ $comune =[
     ]),
     
     createComuna("Valea Lupului", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Valea Lupului", "sat")
     ]),
     
     createComuna("Valea Seacă", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Valea Seacă", "sat"),
         createLoc("Conțești", "sat"),
         createLoc("Topile", "sat")
     ]),
     
     createComuna("Victoria", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Victoria", "sat"),
         createLoc("Frăsuleni", "sat"),
         createLoc("Icușeni", "sat"),
@@ -751,7 +751,7 @@ $comune =[
         createLoc("Șendreni", "sat")
     ]),
     createComuna("Vânători", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Vânători", "sat"),
         createLoc("Crivești", "sat"),
         createLoc("Gura Bâdiliței", "sat"),
@@ -760,7 +760,7 @@ $comune =[
     ]),
     
     createComuna("Vlădeni", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Vlădeni", "sat"),
         createLoc("Alexandru cel Bun", "sat"),
         createLoc("Borșa", "sat"),
@@ -770,7 +770,7 @@ $comune =[
     ]),
     
     createComuna("Voinești", [
-				createAdresaCompleta("IASI"),
+				createAdresaCompleta("comuna Alexandru I. Cuza, judetul IASI, România", "comuna Alexandru I. Cuza, judetul IASI, Romania"),
         createLoc("Voinești", "sat"),
         createLoc("Lungani", "sat"),
         createLoc("Schitu Stavnic", "sat"),

@@ -2,47 +2,47 @@
 $comune =[
 
 	createComuna("Alma", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Alma", "sat"),
         createLoc("Giacăș", "sat"),
         createLoc("Șmig", "sat")
     ]),
     createComuna("Alțina", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Alțina", "sat"),
         createLoc("Benești", "sat"),
         createLoc("Ghijasa de Sus", "sat")
     ]),
     createComuna("Apoldu de Jos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Apoldu de Jos", "sat"),
         createLoc("Sângătin", "sat")
     ]),
     createComuna("Arpașu de Jos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Arpașu de Jos", "sat"),
         createLoc("Arpașu de Sus", "sat"),
         createLoc("Nou Român", "sat")
     ]),
     createComuna("Ațel", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Ațel", "sat"),
         createLoc("Dupuș", "sat")
     ]),
     createComuna("Axente Sever", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Axente Sever", "sat"),
         createLoc("Agârbiciu", "sat"),
         createLoc("Șoala", "sat")
     ]),
     createComuna("Bazna", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Bazna", "sat"),
         createLoc("Boian", "sat"),
         createLoc("Velț", "sat")
     ]),
     createComuna("Bârghiș", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Bârghiș", "sat"),
         createLoc("Apoș", "sat"),
         createLoc("Ighișu Vechi", "sat"),
@@ -51,79 +51,79 @@ $comune =[
         createLoc("Zlagna", "sat")
     ]),
     createComuna("Biertan", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Biertan", "sat"),
         createLoc("Copșa Mare", "sat"),
         createLoc("Richiș", "sat")
     ]),
     createComuna("Blăjel", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Blăjel", "sat"),
         createLoc("Păucea", "sat"),
         createLoc("Romanești", "sat")
     ]),
     createComuna("Boița", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Boița", "sat"),
         createLoc("Lazaret", "sat"),
         createLoc("Lotrioara", "sat"),
         createLoc("Paltin", "sat")
     ]),
     createComuna("Brateiu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Brateiu", "sat"),
         createLoc("Buzd", "sat")
     ]),
     createComuna("Brădeni", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Brădeni", "sat"),
         createLoc("Retiș", "sat"),
         createLoc("Țeline", "sat")
     ]),
     createComuna("Bruiu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Bruiu", "sat"),
         createLoc("Gherdeal", "sat"),
         createLoc("Șomartin", "sat")
     ]),
     createComuna("Cârța", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Cârța", "sat"),
         createLoc("Poienița", "sat")
     ]),
     createComuna("Cârțișoara", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Cârțișoara", "sat")
     ]),
     createComuna("Chirpăr", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Chirpăr", "sat"),
         createLoc("Săsăuș", "sat"),
         createLoc("Vărd", "sat"),
         createLoc("Veseud", "sat")
     ]),
     createComuna("Cristian", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Cristian", "sat")
     ]),
     createComuna("Dârlos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Dârlos", "sat"),
         createLoc("Curciu", "sat"),
         createLoc("Valea Lungă", "sat")
     ]),
     createComuna("Gura Râului", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Gura Râului", "sat")
     ]),
     createComuna("Hoghilag", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Hoghilag", "sat"),
         createLoc("Prod", "sat"),
         createLoc("Valchid", "sat")
     ]),
     createComuna("Iacobeni", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Iacobeni", "sat"),
         createLoc("Movile", "sat"),
         createLoc("Netuș", "sat"),
@@ -131,11 +131,11 @@ $comune =[
         createLoc("Stejărișu", "sat")
     ]),
     createComuna("Jina", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Jina", "sat")
     ]),
     createComuna("Laslea", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Laslea", "sat"),
         createLoc("Florești", "sat"),
         createLoc("Mălâncrav", "sat"),
@@ -143,7 +143,7 @@ $comune =[
         createLoc("Roandola", "sat")
     ]),
     createComuna("Loamneș", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Loamneș", "sat"),
         createLoc("Alămor", "sat"),
         createLoc("Armeni", "sat"),
@@ -152,29 +152,29 @@ $comune =[
         createLoc("Sădinca", "sat")
     ]),
     createComuna("Ludoș", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Ludoș", "sat"),
         createLoc("Gusu", "sat")
     ]),
     createComuna("Marpod", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Marpod", "sat"),
         createLoc("Ilimbav", "sat")
     ]),
     createComuna("Merghindeal", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Merghindeal", "sat"),
         createLoc("Dealu Frumos", "sat")
     ]),
     createComuna("Micăsasa", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Micăsasa", "sat"),
         createLoc("Chesler", "sat"),
         createLoc("Țapu", "sat"),
         createLoc("Văleni", "sat")
     ]),
     createComuna("Mihăileni", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Mihăileni", "sat"),
         createLoc("Metiș", "sat"),
         createLoc("Moardăș", "sat"),
@@ -182,13 +182,13 @@ $comune =[
         createLoc("Șalcău", "sat")
     ]),
     createComuna("Moșna", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Moșna", "sat"),
         createLoc("Alma Vii", "sat"),
         createLoc("Nemșa", "sat")
     ]),
     createComuna("Nocrich", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Nocrich", "sat"),
         createLoc("Fofeldea", "sat"),
         createLoc("Ghijasa de Jos", "sat"),
@@ -196,26 +196,26 @@ $comune =[
         createLoc("Țichindeal", "sat")
     ]),
     createComuna("Orlat", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Orlat", "sat")
     ]),
     createComuna("Păuca", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Păuca", "sat"),
         createLoc("Bogatu Român", "sat"),
         createLoc("Broșteni", "sat"),
         createLoc("Presaca", "sat")
     ]),
     createComuna("Poiana Sibiului", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Poiana Sibiului", "sat")
     ]),
     createComuna("Poplaca", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Poplaca", "sat")
     ]),
     createComuna("Porumbacu de Jos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Porumbacu de Jos", "sat"),
         createLoc("Colun", "sat"),
         createLoc("Porumbacu de Sus", "sat"),
@@ -223,21 +223,21 @@ $comune =[
         createLoc("Scoreiu", "sat")
     ]),
     createComuna("Racovița", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Racovița", "sat"),
         createLoc("Sebeșu de Sus", "sat")
     ]),
     createComuna("Rășinari", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Rășinari", "sat"),
         createLoc("Prislop", "sat")
     ]),
     createComuna("Râu Sadului", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Râu Sadului", "sat")
     ]),
     createComuna("Roșia", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Roșia", "sat"),
         createLoc("Cașolț", "sat"),
         createLoc("Cornățel", "sat"),
@@ -246,11 +246,11 @@ $comune =[
         createLoc("Nucet", "sat")
     ]),
     createComuna("Sadu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Sadu", "sat")
     ]),
     createComuna("Slimnic", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Slimnic", "sat"),
         createLoc("Albi", "sat"),
         createLoc("Pădureni", "sat"),
@@ -258,7 +258,7 @@ $comune =[
         createLoc("Veseud", "sat")
     ]),
     createComuna("Șeica Mare", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Șeica Mare", "sat"),
         createLoc("Boarta", "sat"),
         createLoc("Buia", "sat"),
@@ -267,49 +267,49 @@ $comune =[
         createLoc("Ștenea", "sat")
     ]),
     createComuna("Șeica Mică", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Șeica Mică", "sat"),
         createLoc("Soroștin", "sat")
     ]),
     createComuna("Șelimbăr", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Șelimbăr", "sat"),
         createLoc("Bungard", "sat"),
         createLoc("Mohu", "sat"),
         createLoc("Veștem", "sat")
     ]),
     createComuna("Șura Mare", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Șura Mare", "sat"),
         createLoc("Hamba", "sat")
     ]),
     createComuna("Șura Mică", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Șura Mică", "sat"),
         createLoc("Rusciori", "sat")
     ]),
     createComuna("Târnava", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Târnava", "sat"),
         createLoc("Colonia Târnava", "sat")
     ]),
     createComuna("Tilișca", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Tilișca", "sat"),
         createLoc("Rod", "sat")
     ]),
     createComuna("Turnu Roșu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Turnu Roșu", "sat"),
         createLoc("Sebeșu de Jos", "sat")
     ]),
     createComuna("Valea Viilor", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Valea Viilor", "sat"),
         createLoc("Motiș", "sat")
     ]),
     createComuna("Vurpăr", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("comuna Alma, judetul SIBIU, România", "comuna Alma, judetul SIBIU, Romania"),
         createLoc("Vurpăr", "sat")
     ]),
     								  

@@ -2,15 +2,15 @@
 $municipii =
 [
             createMunicipiu("ALEXANDRIA", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("municipiul ALEXANDRIA, judetul TELEORMAN, România", "municipiul ALEXANDRIA, judetul TELEORMAN, Romania"),
                     createLoc("ALEXANDRIA", "oras"),
                 ]),
             createMunicipiu("ROȘIORI DE VEDE", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("municipiul ALEXANDRIA, judetul TELEORMAN, România", "municipiul ALEXANDRIA, judetul TELEORMAN, Romania"),
                     createLoc("ROȘIORI DE VEDE", "oras"),
                 ]),
             createMunicipiu("TURNU MĂGURELE", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("municipiul ALEXANDRIA, judetul TELEORMAN, România", "municipiul ALEXANDRIA, judetul TELEORMAN, Romania"),
                     createLoc("TURNU MĂGURELE", "oras"),
 							]),
 			

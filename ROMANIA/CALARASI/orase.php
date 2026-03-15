@@ -1,7 +1,7 @@
 <?php
 $orase=[
             createOras("BUDEȘTI",[
-			    createAdresaCompleta("CALARASI"),
+			    createAdresaCompleta("orasul BUDEȘTI, judetul CALARASI, România", "orasul BUDESTI, judetul CALARASI, Romania"),
 			    createLoc("BUDEȘTI", "oras",[
 						createLoc("Aprozi", "sat"),
 						createLoc("Buciumeni", "sat"),
@@ -10,7 +10,7 @@ $orase=[
 				
 				  ]),	
             createOras("FUNDULEA",[
-			    createAdresaCompleta("CALARASI"),
+			    createAdresaCompleta("orasul BUDEȘTI, judetul CALARASI, România", "orasul BUDESTI, judetul CALARASI, Romania"),
 			    createLoc("FUNDULEA", "oras",[
 						createLoc("Alexandru I. Cuza", "sat"),
 						createLoc("Gostilele", "sat"),
@@ -18,7 +18,7 @@ $orase=[
 				
 				  ]),	
             createOras("LEHLIU-GARĂ",[
-			    createAdresaCompleta("CALARASI"),
+			    createAdresaCompleta("orasul BUDEȘTI, judetul CALARASI, România", "orasul BUDESTI, judetul CALARASI, Romania"),
 			    createLoc("LEHLIU-GARĂ", "oras",[
 						createLoc("Buzoeni", "sat"),
 						createLoc("Răzvani", "sat"),

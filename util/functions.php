@@ -1,5 +1,22 @@
 <?php
 
+function removeDiacritics($text) {
+    $diacritics = [
+        'ă' => 'a', 'â' => 'a', 'ș' => 's', 'ț' => 't', 'î' => 'i',
+        'Ă' => 'A', 'Â' => 'A', 'Ș' => 'S', 'Ț' => 'T', 'Î' => 'I',
+        'á' => 'a', 'é' => 'e', 'í' => 'i', 'ó' => 'o', 'ú' => 'u',
+        'Á' => 'A', 'É' => 'E', 'Í' => 'I', 'Ó' => 'O', 'Ú' => 'U'
+    ];
+    return strtr($text, $diacritics);
+}
+
+function createAdresaCompleta($textWithDiacritics, $textWithoutDiacritics = null) {
+    if ($textWithoutDiacritics === null) {
+        $textWithoutDiacritics = removeDiacritics($textWithDiacritics);
+    }
+    return [$textWithDiacritics, $textWithoutDiacritics];
+}
+
 function createLoc($nume, $tip, $locuri = []) {
     $loc = new stdClass();
     $loc->nume = $nume;

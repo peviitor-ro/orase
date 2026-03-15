@@ -2,7 +2,7 @@
 $municipii =
 [
             createMunicipiu("RÂMNICU VÂLCEA", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("municipiul RÂMNICU VÂLCEA, judetul VALCEA, România", "municipiul RAMNICU VALCEA, judetul VALCEA, Romania"),
                     createLoc("RÂMNICU VÂLCEA", "oras",[
 							createLoc("Goranu", "sat"),
 							createLoc("Fețeni", "sat"),
@@ -21,7 +21,7 @@ $municipii =
                 ]),		
 
             createMunicipiu("DRĂGĂȘANI", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("municipiul RÂMNICU VÂLCEA, judetul VALCEA, România", "municipiul RAMNICU VALCEA, judetul VALCEA, Romania"),
                     createLoc("DRĂGĂȘANI", "oras"),
 					createLoc("Valea Caselor", "sat"),
 					createLoc("Zărneni", "sat"),

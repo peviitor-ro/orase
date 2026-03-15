@@ -2,7 +2,7 @@
 $comune = [
 
     createComuna("Albeni", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Albeni", "sat"),
         createLoc("Bârzeiu de Gilort", "sat"),
         createLoc("Bolbocești", "sat"),
@@ -12,7 +12,7 @@ $comune = [
     ]),
 
     createComuna("Alimpești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Alimpești", "sat"),
         createLoc("Ciupercenii de Olteț", "sat"),
         createLoc("Corșoru", "sat"),
@@ -21,7 +21,7 @@ $comune = [
     ]),
 
     createComuna("Aninoasa", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Aninoasa", "sat"),
         createLoc("Bobaia", "sat"),
         createLoc("Costești", "sat"),
@@ -30,7 +30,7 @@ $comune = [
     ]),
 
     createComuna("Arcani", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Arcani", "sat"),
         createLoc("Câmpofeni", "sat"),
         createLoc("Sănătești", "sat"),
@@ -38,13 +38,13 @@ $comune = [
     ]),
 
     createComuna("Baia de Fier", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Baia de Fier", "sat"),
         createLoc("Cernădia", "sat")
     ]),
 
     createComuna("Bălănești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Voiteștii din Vale", "sat"),
         createLoc("Bălănești", "sat"),
         createLoc("Blidari", "sat"),
@@ -55,7 +55,7 @@ $comune = [
     ]),
 
     createComuna("Bălești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Bălești", "sat"),
         createLoc("Ceauru", "sat"),
         createLoc("Cornești", "sat"),
@@ -68,7 +68,7 @@ $comune = [
     ]),
 
     createComuna("Bărbătești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Bărbătești", "sat"),
         createLoc("Musculești", "sat"),
         createLoc("Petrești", "sat"),
@@ -76,7 +76,7 @@ $comune = [
     ]),
 
     createComuna("Bengești-Ciocadia", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Bengești", "sat"),
         createLoc("Bălcești", "sat"),
         createLoc("Bircii", "sat"),
@@ -84,7 +84,7 @@ $comune = [
     ]),
 
     createComuna("Berlești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Berlești", "sat"),
         createLoc("Bârzeiu", "sat"),
         createLoc("Gâlcești", "sat"),
@@ -94,7 +94,7 @@ $comune = [
         createLoc("Scurtu", "sat")
     ]),
     createComuna("Bâlteni", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Bâlteni", "sat"),
         createLoc("Cocoreni", "sat"),
         createLoc("Moi", "sat"),
@@ -103,7 +103,7 @@ $comune = [
     ]),
 
     createComuna("Bolboși", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Bolboși", "sat"),
         createLoc("Bălăcești", "sat"),
         createLoc("Bolboasa", "sat"),
@@ -114,7 +114,7 @@ $comune = [
     ]),
 
     createComuna("Borăscu", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Borăscu", "sat"),
         createLoc("Baniu", "sat"),
         createLoc("Calapăru", "sat"),
@@ -125,7 +125,7 @@ $comune = [
     ]),
 
     createComuna("Brănești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Brănești", "sat"),
         createLoc("Bădești", "sat"),
         createLoc("Brebenei", "sat"),
@@ -135,14 +135,14 @@ $comune = [
     ]),
 
     createComuna("Bumbești-Pițic", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Bumbești-Pițic", "sat"),
         createLoc("Cârligei", "sat"),
         createLoc("Poienari", "sat")
     ]),
 
     createComuna("Bustuchin", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Bustuchin", "sat"),
         createLoc("Cionți", "sat"),
         createLoc("Motorgi", "sat"),
@@ -154,7 +154,7 @@ $comune = [
     ]),
 
     createComuna("Căpreni", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Căpreni", "sat"),
         createLoc("Aluniș", "sat"),
         createLoc("Brătești", "sat"),
@@ -166,7 +166,7 @@ $comune = [
     ]),
 
     createComuna("Cătunele", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Cătunele", "sat"),
         createLoc("Dealu Viilor", "sat"),
         createLoc("Lupoaia", "sat"),
@@ -176,7 +176,7 @@ $comune = [
     ]),
 
     createComuna("Ciuperceni", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Ciuperceni", "sat"),
         createLoc("Boboiești", "sat"),
         createLoc("Peșteana-Vulcan", "sat"),
@@ -187,7 +187,7 @@ $comune = [
     ]),
 
     createComuna("Câlnic", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Câlnic", "sat"),
         createLoc("Câlnicu de Sus", "sat"),
         createLoc("Didilești", "sat"),
@@ -199,7 +199,7 @@ $comune = [
         createLoc("Vâlceaua", "sat")
     ]),
     createComuna("Crasna", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Crasna", "sat"),
         createLoc("Aninișu din Deal", "sat"),
         createLoc("Aninișu din Vale", "sat"),
@@ -212,7 +212,7 @@ $comune = [
     ]),
 
     createComuna("Crușeț", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Crușeț", "sat"),
         createLoc("Bojinu", "sat"),
         createLoc("Marinești", "sat"),
@@ -226,7 +226,7 @@ $comune = [
     ]),
 
     createComuna("Dănciulești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Dănciulești", "sat"),
         createLoc("Bibulești", "sat"),
         createLoc("Hălăngești", "sat"),
@@ -237,7 +237,7 @@ $comune = [
     ]),
 
     createComuna("Dănești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Dănești", "sat"),
         createLoc("Barza", "sat"),
         createLoc("Botorogi", "sat"),
@@ -252,14 +252,14 @@ $comune = [
     ]),
 
     createComuna("Drăgotești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Drăgotești", "sat"),
         createLoc("Corobăi", "sat"),
         createLoc("Trestioara", "sat")
     ]),
 
     createComuna("Drăguțești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Drăguțești", "sat"),
         createLoc("Cârbești", "sat"),
         createLoc("Dâmbova", "sat"),
@@ -269,7 +269,7 @@ $comune = [
     ]),
 
     createComuna("Fărcășești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Fărcășești", "sat"),
         createLoc("Fărcășești-Moșneni", "sat"),
         createLoc("Peșteana de Jos", "sat"),
@@ -280,7 +280,7 @@ $comune = [
     ]),
 
     createComuna("Glogova", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Iormănești", "sat"),
         createLoc("Cămuiești", "sat"),
         createLoc("Cleșnești", "sat"),
@@ -289,7 +289,7 @@ $comune = [
     ]),
 
     createComuna("Godinești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Godinești", "sat"),
         createLoc("Arjoci", "sat"),
         createLoc("Chiliu", "sat"),
@@ -300,7 +300,7 @@ $comune = [
     ]),
 
     createComuna("Hurezani", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Hurezani", "sat"),
         createLoc("Busuioci", "sat"),
         createLoc("Pegeni", "sat"),
@@ -308,7 +308,7 @@ $comune = [
         createLoc("Totea de Hurezani", "sat")
     ]),
     createComuna("Ionești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Ionești", "sat"),
         createLoc("Gura Șușiței", "sat"),
         createLoc("Iliești", "sat"),
@@ -316,7 +316,7 @@ $comune = [
     ]),
 
     createComuna("Jupânești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Jupânești", "sat"),
         createLoc("Boia", "sat"),
         createLoc("Pârâu Boia", "sat"),
@@ -325,14 +325,14 @@ $comune = [
     ]),
 
     createComuna("Lelești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Lelești", "sat"),
         createLoc("Frătești", "sat"),
         createLoc("Rasovița", "sat")
     ]),
 
     createComuna("Licurici", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Licurici", "sat"),
         createLoc("Frumușei", "sat"),
         createLoc("Negreni", "sat"),
@@ -340,7 +340,7 @@ $comune = [
     ]),
 
     createComuna("Logrești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Târgu Logrești", "oras"),
         createLoc("Colțești", "sat"),
         createLoc("Frunza", "sat"),
@@ -351,7 +351,7 @@ $comune = [
     ]),
 
     createComuna("Mătăsari", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Mătăsari", "sat"),
         createLoc("Brădet", "sat"),
         createLoc("Brădețel", "sat"),
@@ -360,7 +360,7 @@ $comune = [
     ]),
 
     createComuna("Mușetești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Mușetești", "sat"),
         createLoc("Arșeni", "sat"),
         createLoc("Bârcaciu", "sat"),
@@ -371,7 +371,7 @@ $comune = [
     ]),
 
     createComuna("Negomir", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Negomir", "sat"),
         createLoc("Artanu", "sat"),
         createLoc("Bohorel", "sat"),
@@ -385,7 +385,7 @@ $comune = [
     ]),
 
     createComuna("Padeș", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Călugăreni", "sat"),
         createLoc("Apa Neagră", "sat"),
         createLoc("Cerna-Sat", "sat"),
@@ -397,7 +397,7 @@ $comune = [
     ]),
 
     createComuna("Peștișani", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Peștișani", "sat"),
         createLoc("Boroșteni", "sat"),
         createLoc("Brădiceni", "sat"),
@@ -407,7 +407,7 @@ $comune = [
         createLoc("Seuca", "sat")
     ]),
     createComuna("Plopșoru", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Plopșoru", "sat"),
         createLoc("Broșteni", "sat"),
         createLoc("Broștenii de Sus", "sat"),
@@ -422,13 +422,13 @@ $comune = [
     ]),
 
     createComuna("Polovragi", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Polovragi", "sat"),
         createLoc("Racovița", "sat")
     ]),
 
     createComuna("Prigoria", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Prigoria", "sat"),
         createLoc("Bucșana", "sat"),
         createLoc("Burlani", "sat"),
@@ -439,7 +439,7 @@ $comune = [
     ]),
 
     createComuna("Roșia de Amaradia", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Roșia de Amaradia", "sat"),
         createLoc("Becheni", "sat"),
         createLoc("Dealu Viei", "sat"),
@@ -450,7 +450,7 @@ $comune = [
     ]),
 
     createComuna("Runcu", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Runcu", "sat"),
         createLoc("Bâlta", "sat"),
         createLoc("Bâltișoara", "sat"),
@@ -461,7 +461,7 @@ $comune = [
     ]),
 
     createComuna("Samarinești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Samarinești", "sat"),
         createLoc("Băzăvani", "sat"),
         createLoc("Boca", "sat"),
@@ -474,7 +474,7 @@ $comune = [
     ]),
 
     createComuna("Săcelu", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Săcelu", "sat"),
         createLoc("Blahnița de Sus", "sat"),
         createLoc("Hăiești", "sat"),
@@ -483,7 +483,7 @@ $comune = [
     ]),
 
     createComuna("Săulești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Săulești", "sat"),
         createLoc("Bibești", "sat"),
         createLoc("Dolcești", "sat"),
@@ -491,7 +491,7 @@ $comune = [
     ]),
 
     createComuna("Scoarța", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Scoarța", "sat"),
         createLoc("Bobu", "sat"),
         createLoc("Budieni", "sat"),
@@ -506,7 +506,7 @@ $comune = [
     ]),
 
     createComuna("Schela", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Sâmbotin", "sat"),
         createLoc("Arsuri", "sat"),
         createLoc("Gornăcel", "sat"),
@@ -514,7 +514,7 @@ $comune = [
         createLoc("Schela", "sat")
     ]),
     createComuna("Slivilești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Slivilești", "sat"),
         createLoc("Cojmănești", "sat"),
         createLoc("Miculești", "sat"),
@@ -526,7 +526,7 @@ $comune = [
     ]),
 
     createComuna("Stănești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Stănești", "sat"),
         createLoc("Alexeni", "sat"),
         createLoc("Bălani", "sat"),
@@ -540,7 +540,7 @@ $comune = [
     ]),
 
     createComuna("Stejari", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Stejari", "sat"),
         createLoc("Baloșani", "sat"),
         createLoc("Băcești", "sat"),
@@ -550,7 +550,7 @@ $comune = [
     ]),
 
     createComuna("Stoina", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Stoina", "sat"),
         createLoc("Ciorari", "sat"),
         createLoc("Mielușei", "sat"),
@@ -561,14 +561,14 @@ $comune = [
     ]),
 
     createComuna("Telești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Telești", "sat"),
         createLoc("Buduhala", "sat"),
         createLoc("Șomănești", "sat")
     ]),
 
     createComuna("Turburea", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Turburea", "sat"),
         createLoc("Cocorova", "sat"),
         createLoc("Poiana", "sat"),
@@ -577,7 +577,7 @@ $comune = [
     ]),
 
     createComuna("Turcinești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Turcinești", "sat"),
         createLoc("Cartiu", "sat"),
         createLoc("Horezu", "sat"),
@@ -585,7 +585,7 @@ $comune = [
     ]),
 
     createComuna("Țânțăreni", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Țânțăreni", "sat"),
         createLoc("Arpadia", "sat"),
         createLoc("Chiciora", "sat"),
@@ -593,14 +593,14 @@ $comune = [
     ]),
 
     createComuna("Urdari", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Urdari", "sat"),
         createLoc("Fântânele", "sat"),
         createLoc("Hotăroasa", "sat")
     ]),
 
     createComuna("Văgiulești", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Văgiulești", "sat"),
         createLoc("Cârciu", "sat"),
         createLoc("Covrigi", "sat"),
@@ -608,7 +608,7 @@ $comune = [
         createLoc("Valea Motrului", "sat")
     ]),
     createComuna("Vladimir", [
-				createAdresaCompleta("GORJ"),
+				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
         createLoc("Andreești", "sat"),
         createLoc("Frasin", "sat"),
         createLoc("Valea Deșului", "sat"),

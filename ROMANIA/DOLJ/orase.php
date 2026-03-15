@@ -2,18 +2,18 @@
 $orase=[
 
 			createOras("BECHET", [
-				createAdresaCompleta("DOLJ"),
+				createAdresaCompleta("orasul BECHET, judetul DOLJ, România", "orasul BECHET, judetul DOLJ, Romania"),
 			    createLoc("BECHET", "oras"),
 			                     ]),
 	
 			createOras("DĂBULENI", [
-				createAdresaCompleta("DOLJ"),
+				createAdresaCompleta("orasul BECHET, judetul DOLJ, România", "orasul BECHET, judetul DOLJ, Romania"),
 			    createLoc("DĂBULENI", "oras",[
 					createLoc("Chiașu", "sat"),
 							]),
 			                     ]),
 			createOras("FILIAȘI", [
-				createAdresaCompleta("DOLJ"),
+				createAdresaCompleta("orasul BECHET, judetul DOLJ, România", "orasul BECHET, judetul DOLJ, Romania"),
 			    createLoc("FILIAȘI", "oras",[
 					createLoc("Almăjel", "sat"),
 				        createLoc("Bâlta", "sat"),
@@ -24,7 +24,7 @@ $orase=[
 							]),
 			                     ]),
 			createOras("ȘEGARCEA", [
-				createAdresaCompleta("DOLJ"),
+				createAdresaCompleta("orasul BECHET, judetul DOLJ, România", "orasul BECHET, judetul DOLJ, Romania"),
 			    createLoc("ȘEGARCEA", "oras"),
 			                     ]),
 			

@@ -2,7 +2,7 @@
 $comune =[
 
     createComuna("Baia de Criș", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Baia de Criș", "sat"),
         createLoc("Baldovin", "sat"),
         createLoc("Căraci", "sat"),
@@ -15,7 +15,7 @@ $comune =[
     ]),
     
     createComuna("Balșa", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Balșa", "sat"),
         createLoc("Almașu Mic de Munte", "sat"),
         createLoc("Ardeu", "sat"),
@@ -33,7 +33,7 @@ $comune =[
     ]),
     
     createComuna("Baru", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Baru", "sat"),
         createLoc("Livadia", "sat"),
         createLoc("Petros", "sat"),
@@ -41,7 +41,7 @@ $comune =[
     ]),
     
     createComuna("Băcia", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Băcia", "sat"),
         createLoc("Petreni", "sat"),
         createLoc("Tâmpa", "sat"),
@@ -49,7 +49,7 @@ $comune =[
     ]),
     
     createComuna("Băița", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Băița", "sat"),
         createLoc("Barbura", "sat"),
         createLoc("Căinelu de Sus", "sat"),
@@ -64,14 +64,14 @@ $comune =[
     ]),
     
     createComuna("Bănița", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Bănița", "sat"),
         createLoc("Crivadia", "sat"),
         createLoc("Merișor", "sat")
     ]),
     
     createComuna("Bătrâna", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Bătrâna", "sat"),
         createLoc("Fața Roșie", "sat"),
         createLoc("Piatra", "sat"),
@@ -79,7 +79,7 @@ $comune =[
     ]),
     
     createComuna("Beriu", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Beriu", "sat"),
         createLoc("Căstău", "sat"),
         createLoc("Cucuiș", "sat"),
@@ -91,7 +91,7 @@ $comune =[
     ]),
     
     createComuna("Blăjeni", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Blăjeni", "sat"),
         createLoc("Blăjeni-Vulcan", "sat"),
         createLoc("Criș", "sat"),
@@ -103,7 +103,7 @@ $comune =[
     ]),
     
     createComuna("Boșorod", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Boșorod", "sat"),
         createLoc("Alun", "sat"),
         createLoc("Bobaia", "sat"),
@@ -115,7 +115,7 @@ $comune =[
         createLoc("Târsa", "sat")
     ]),
     createComuna("Brănișca", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Brănișca", "sat"),
         createLoc("Boz", "sat"),
         createLoc("Bărăștii Iliei", "sat"),
@@ -128,7 +128,7 @@ $comune =[
     ]),
     
     createComuna("Bretea Română", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Bretea Română", "sat"),
         createLoc("Bățălar", "sat"),
         createLoc("Bercu", "sat"),
@@ -145,7 +145,7 @@ $comune =[
     ]),
     
     createComuna("Buceș", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Buceș", "sat"),
         createLoc("Buceș-Vulcan", "sat"),
         createLoc("Dupăpiatră", "sat"),
@@ -156,7 +156,7 @@ $comune =[
     ]),
     
     createComuna("Bucureșci", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Bucureșci", "sat"),
         createLoc("Curechiu", "sat"),
         createLoc("Merișor", "sat"),
@@ -165,7 +165,7 @@ $comune =[
     ]),
     
     createComuna("Bulzeștii de Sus", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Bulzeștii de Sus", "sat"),
         createLoc("Bulzeștii de Jos", "sat"),
         createLoc("Giurgești", "sat"),
@@ -178,7 +178,7 @@ $comune =[
     ]),
     
     createComuna("Bunila", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Bunila", "sat"),
         createLoc("Alun", "sat"),
         createLoc("Cernișoara Florese", "sat"),
@@ -187,7 +187,7 @@ $comune =[
     ]),
     
     createComuna("Burjuc", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Burjuc", "sat"),
         createLoc("Brădățel", "sat"),
         createLoc("Glodghilești", "sat"),
@@ -197,7 +197,7 @@ $comune =[
     ]),
     
     createComuna("Cerbăl", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Cerbăl", "sat"),
         createLoc("Arănieș", "sat"),
         createLoc("Feregi", "sat"),
@@ -209,7 +209,7 @@ $comune =[
     ]),
     
     createComuna("Certeju de Sus", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Certeju de Sus", "sat"),
         createLoc("Bocșa Mare", "sat"),
         createLoc("Bocșa Mică", "sat"),
@@ -221,7 +221,7 @@ $comune =[
         createLoc("Vărmaga", "sat")
     ]),
     createComuna("Cârjiți", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Cârjiți", "sat"),
         createLoc("Almașu Sec", "sat"),
         createLoc("Chergheș", "sat"),
@@ -230,7 +230,7 @@ $comune =[
     ]),
     
     createComuna("Crișcior", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Crișcior", "sat"),
         createLoc("Barza", "sat"),
         createLoc("Valea Arsului", "sat"),
@@ -238,7 +238,7 @@ $comune =[
     ]),
     
     createComuna("Densuș", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Densuș", "sat"),
         createLoc("Criva", "sat"),
         createLoc("Hățăgel", "sat"),
@@ -249,7 +249,7 @@ $comune =[
     ]),
     
     createComuna("Dobra", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Dobra", "sat"),
         createLoc("Abucea", "sat"),
         createLoc("Bujoru", "sat"),
@@ -266,7 +266,7 @@ $comune =[
     ]),
     
     createComuna("General Berthelot", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("General Berthelot", "sat"),
         createLoc("Crăguiș", "sat"),
         createLoc("Fărcădin", "sat"),
@@ -275,7 +275,7 @@ $comune =[
     ]),
     
     createComuna("Ghelari", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Ghelari", "sat"),
         createLoc("Govăjdia", "sat"),
         createLoc("Plop", "sat"),
@@ -283,7 +283,7 @@ $comune =[
     ]),
     
     createComuna("Gurasada", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Gurasada", "sat"),
         createLoc("Boiu de Jos", "sat"),
         createLoc("Boiu de Sus", "sat"),
@@ -298,7 +298,7 @@ $comune =[
     ]),
     
     createComuna("Hărău", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Hărău", "sat"),
         createLoc("Banpotoc", "sat"),
         createLoc("Bârsău", "sat"),
@@ -306,7 +306,7 @@ $comune =[
     ]),
     
     createComuna("Ilia", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Ilia", "sat"),
         createLoc("Bacea", "sat"),
         createLoc("Bretea Mureșană", "sat"),
@@ -319,7 +319,7 @@ $comune =[
     ]),
     
     createComuna("Lăpugiu de Jos", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Lăpugiu de Jos", "sat"),
         createLoc("Baștea", "sat"),
         createLoc("Cosești", "sat"),
@@ -332,14 +332,14 @@ $comune =[
         createLoc("Teiu", "sat")
     ]),
     createComuna("Lelese", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Lelese", "sat"),
         createLoc("Cerișor", "sat"),
         createLoc("Runcu Mare", "sat"),
         createLoc("Sohodol", "sat")
     ]),
     createComuna("Lunca Cernii de Jos", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Lunca Cernii de Jos", "sat"),
         createLoc("Ciumița", "sat"),
         createLoc("Fântâna", "sat"),
@@ -351,7 +351,7 @@ $comune =[
     ]),
     
     createComuna("Luncoiu de Jos", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Luncoiu de Jos", "sat"),
         createLoc("Dudești", "sat"),
         createLoc("Luncoiu de Sus", "sat"),
@@ -360,7 +360,7 @@ $comune =[
     ]),
     
     createComuna("Mărtinești", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Mărtinești", "sat"),
         createLoc("Dâncu Mare", "sat"),
         createLoc("Dâncu Mic", "sat"),
@@ -371,7 +371,7 @@ $comune =[
     ]),
     
     createComuna("Orăștioara de Sus", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Orăștioara de Sus", "sat"),
         createLoc("Bucium", "sat"),
         createLoc("Costești", "sat"),
@@ -383,7 +383,7 @@ $comune =[
     ]),
     
     createComuna("Pestișu Mic", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Pestișu Mic", "sat"),
         createLoc("Almașu Mic", "sat"),
         createLoc("Ciulpăz", "sat"),
@@ -396,7 +396,7 @@ $comune =[
     ]),
     
     createComuna("Pui", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Pui", "sat"),
         createLoc("Băiești", "sat"),
         createLoc("Federi", "sat"),
@@ -412,7 +412,7 @@ $comune =[
     ]),
     
     createComuna("Rapoltu Mare", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Rapoltu Mare", "sat"),
         createLoc("Bobâlna", "sat"),
         createLoc("Boiu", "sat"),
@@ -421,7 +421,7 @@ $comune =[
     ]),
     
     createComuna("Răchitova", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Răchitova", "sat"),
         createLoc("Boița", "sat"),
         createLoc("Ciula Mare", "sat"),
@@ -432,7 +432,7 @@ $comune =[
     ]),
     
     createComuna("Ribița", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Ribița", "sat"),
         createLoc("Crișan", "sat"),
         createLoc("Dumbrava de Jos", "sat"),
@@ -442,7 +442,7 @@ $comune =[
     ]),
     
     createComuna("Râu de Mori", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Râu de Mori", "sat"),
         createLoc("Brazi", "sat"),
         createLoc("Clopotiva", "sat"),
@@ -456,7 +456,7 @@ $comune =[
         createLoc("Valea Dâljii", "sat")
     ]),
     createComuna("Romos", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Romos", "sat"),
         createLoc("Ciungu Mare", "sat"),
         createLoc("Pișchinți", "sat"),
@@ -465,7 +465,7 @@ $comune =[
     ]),
     
     createComuna("Sarmizegetusa", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Sarmizegetusa", "sat"),
         createLoc("Breazova", "sat"),
         createLoc("Hobița-Grădiște", "sat"),
@@ -474,7 +474,7 @@ $comune =[
     ]),
     
     createComuna("Sălașu de Sus", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Sălașu de Sus", "sat"),
         createLoc("Coroiești", "sat"),
         createLoc("Mălăiești", "sat"),
@@ -489,7 +489,7 @@ $comune =[
     ]),
     
     createComuna("Sântămăria-Orlea", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Sântămăria-Orlea", "sat"),
         createLoc("Balomir", "sat"),
         createLoc("Bărăștii Hațegului", "sat"),
@@ -502,7 +502,7 @@ $comune =[
     ]),
     
     createComuna("Șoimuș", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Șoimuș", "sat"),
         createLoc("Bălata", "sat"),
         createLoc("Boholt", "sat"),
@@ -516,7 +516,7 @@ $comune =[
     ]),
     
     createComuna("Teliucu Inferior", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Teliucu Inferior", "sat"),
         createLoc("Cinciș-Cerna", "sat"),
         createLoc("Izvoarele", "sat"),
@@ -524,7 +524,7 @@ $comune =[
     ]),
     
     createComuna("Tomești", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Tomești", "sat"),
         createLoc("Dobroț", "sat"),
         createLoc("Leauț", "sat"),
@@ -536,7 +536,7 @@ $comune =[
     ]),
     
     createComuna("Toplița", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Toplița", "sat"),
         createLoc("Curpenii Silvașului", "sat"),
         createLoc("Dealu Mic", "sat"),
@@ -548,7 +548,7 @@ $comune =[
     ]),
     
     createComuna("Totești", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Totești", "sat"),
         createLoc("Cârnești", "sat"),
         createLoc("Copaci", "sat"),
@@ -557,14 +557,14 @@ $comune =[
     ]),
     
     createComuna("Turdaș", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Turdaș", "sat"),
         createLoc("Pricaz", "sat"),
         createLoc("Râpaș", "sat"),
         createLoc("Spini", "sat")
     ]),
     createComuna("Vața de Jos", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Vața de Jos", "sat"),
         createLoc("Basarabasa", "sat"),
         createLoc("Birtin", "sat"),
@@ -581,7 +581,7 @@ $comune =[
     ]),
     
     createComuna("Vălișoara", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Vălișoara", "sat"),
         createLoc("Dealu Mare", "sat"),
         createLoc("Săliștioara", "sat"),
@@ -589,7 +589,7 @@ $comune =[
     ]),
     
     createComuna("Vețel", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Vețel", "sat"),
         createLoc("Boia Bârzii", "sat"),
         createLoc("Bretelin", "sat"),
@@ -603,7 +603,7 @@ $comune =[
     ]),
     
     createComuna("Vorța", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Vorța", "sat"),
         createLoc("Certeju de Jos", "sat"),
         createLoc("Coaja", "sat"),
@@ -614,7 +614,7 @@ $comune =[
     ]),
     
     createComuna("Zam", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("comuna Baia de Criș, judetul HUNEDOARA, România", "comuna Baia de Cris, judetul HUNEDOARA, Romania"),
         createLoc("Zam", "sat"),
         createLoc("Almaș-Săliște", "sat"),
         createLoc("Almășel", "sat"),

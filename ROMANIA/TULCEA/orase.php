@@ -1,21 +1,21 @@
 <?php
 $orase = [
 	createOras("BABADAG", [
-				createAdresaCompleta("TULCEA"),
+				createAdresaCompleta("orasul BABADAG, judetul TULCEA, România", "orasul BABADAG, judetul TULCEA, Romania"),
 		createLoc("BABADAG", "oras"),
 	]),
 	createOras("ISACCEA", [
-				createAdresaCompleta("TULCEA"),
+				createAdresaCompleta("orasul BABADAG, judetul TULCEA, România", "orasul BABADAG, judetul TULCEA, Romania"),
 		createLoc("ISACCEA", "oras"),
 		createLoc("Revărsarea", "sat"),
 		createLoc("Tichilești", "sat"),
 	]),
 	createOras("MĂCIN", [
-				createAdresaCompleta("TULCEA"),
+				createAdresaCompleta("orasul BABADAG, judetul TULCEA, România", "orasul BABADAG, judetul TULCEA, Romania"),
 		createLoc("MĂCIN", "oras"),
 	]),
 	createOras("SULINA", [
-				createAdresaCompleta("TULCEA"),
+				createAdresaCompleta("orasul BABADAG, judetul TULCEA, România", "orasul BABADAG, judetul TULCEA, Romania"),
 		createLoc("SULINA", "oras"),
 	]),
 

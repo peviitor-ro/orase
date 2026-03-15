@@ -2,7 +2,7 @@
 $comune =[
 
 	createComuna("Alunu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Alunu", "sat"),
         createLoc("Bodești", "sat"),
         createLoc("Coltești", "sat"),
@@ -13,7 +13,7 @@ $comune =[
     ]),
     
     createComuna("Amărăști", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Amărăști", "sat"),
         createLoc("Mereșești", "sat"),
         createLoc("Nemoiu", "sat"),
@@ -23,7 +23,7 @@ $comune =[
     ]),
     
     createComuna("Bărbătești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Bodești", "sat"),
         createLoc("Bărbătești", "sat"),
         createLoc("Bârzești", "sat"),
@@ -31,7 +31,7 @@ $comune =[
     ]),
     
     createComuna("Berislăvești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Stoenești", "sat"),
         createLoc("Berislăvești", "sat"),
         createLoc("Brădișor", "sat"),
@@ -42,14 +42,14 @@ $comune =[
     ]),
     
     createComuna("Boișoara", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Boișoara", "sat"),
         createLoc("Bumbuești", "sat"),
         createLoc("Găujani", "sat")
     ]),
     
     createComuna("Budești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Budești", "sat"),
         createLoc("Barza", "sat"),
         createLoc("Bercioiu", "sat"),
@@ -61,7 +61,7 @@ $comune =[
     ]),
     
     createComuna("Bujoreni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Olteni", "sat"),
         createLoc("Bogdănești", "sat"),
         createLoc("Bujoreni", "sat"),
@@ -72,7 +72,7 @@ $comune =[
     ]),
     
     createComuna("Bunești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Bunești", "sat"),
         createLoc("Coasta Mare", "sat"),
         createLoc("Firești", "sat"),
@@ -82,7 +82,7 @@ $comune =[
     ]),
     
     createComuna("Cernișoara", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Armășești", "sat"),
         createLoc("Cernișoara", "sat"),
         createLoc("Groși", "sat"),
@@ -93,7 +93,7 @@ $comune =[
     ]),
     
     createComuna("Câineni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Câinenii Mici", "sat"),
         createLoc("Câinenii Mari", "sat"),
         createLoc("Greblești", "sat"),
@@ -102,7 +102,7 @@ $comune =[
         createLoc("Robești", "sat")
     ]),
     createComuna("Copăceni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Ulmetu", "sat"),
         createLoc("Bălteni", "sat"),
         createLoc("Bondoci", "sat"),
@@ -112,7 +112,7 @@ $comune =[
     ]),
     
     createComuna("Costești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Costești", "sat"),
         createLoc("Bistrița", "sat"),
         createLoc("Pietreni", "sat"),
@@ -120,7 +120,7 @@ $comune =[
     ]),
     
     createComuna("Crețeni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Crețeni", "sat"),
         createLoc("Izvoru", "sat"),
         createLoc("Mrenești", "sat"),
@@ -128,7 +128,7 @@ $comune =[
     ]),
     
     createComuna("Dăești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Dăești", "sat"),
         createLoc("Băbuești", "sat"),
         createLoc("Fedeleșoiu", "sat"),
@@ -136,7 +136,7 @@ $comune =[
     ]),
     
     createComuna("Dănicei", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Dealu Lăunele", "sat"),
         createLoc("Bădeni", "sat"),
         createLoc("Ceretu", "sat"),
@@ -153,7 +153,7 @@ $comune =[
     ]),
     
     createComuna("Diculești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Băbeni-Oltețu", "sat"),
         createLoc("Budești", "sat"),
         createLoc("Colelia", "sat"),
@@ -161,14 +161,14 @@ $comune =[
     ]),
     
     createComuna("Drăgoești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Drăgoești", "sat"),
         createLoc("Buciumeni", "sat"),
         createLoc("Geamăna", "sat")
     ]),
     
     createComuna("Făurești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Milești", "sat"),
         createLoc("Bungețani", "sat"),
         createLoc("Făurești", "sat"),
@@ -177,7 +177,7 @@ $comune =[
     ]),
     
     createComuna("Fârtățești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Fârtățești", "sat"),
         createLoc("Afânata", "sat"),
         createLoc("Becșani", "sat"),
@@ -201,7 +201,7 @@ $comune =[
     ]),
     
     createComuna("Frâncești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Frâncești", "sat"),
         createLoc("Băluțoaia", "sat"),
         createLoc("Coșani", "sat"),
@@ -213,7 +213,7 @@ $comune =[
         createLoc("Viișoara", "sat")
     ]),
     createComuna("Galicea", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Galicea", "sat"),
         createLoc("Bratia din Deal", "sat"),
         createLoc("Bratia din Vale", "sat"),
@@ -226,7 +226,7 @@ $comune =[
     ]),
     
     createComuna("Ghioroiu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Ghioroiu", "sat"),
         createLoc("Căzănești", "sat"),
         createLoc("Herăști", "sat"),
@@ -236,7 +236,7 @@ $comune =[
     ]),
     
     createComuna("Glăvile", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Glăvile", "sat"),
         createLoc("Aninoasa", "sat"),
         createLoc("Jaroștea", "sat"),
@@ -245,7 +245,7 @@ $comune =[
     ]),
     
     createComuna("Golești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Popești", "sat"),
         createLoc("Aldești", "sat"),
         createLoc("Blidari", "sat"),
@@ -260,7 +260,7 @@ $comune =[
     ]),
     
     createComuna("Grădiștea", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Grădiștea", "sat"),
         createLoc("Diaconești", "sat"),
         createLoc("Dobricea", "sat"),
@@ -273,7 +273,7 @@ $comune =[
     ]),
     
     createComuna("Gușoeni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Gușoeni", "sat"),
         createLoc("Burdălești", "sat"),
         createLoc("Dealu Mare", "sat"),
@@ -283,7 +283,7 @@ $comune =[
     ]),
     
     createComuna("Ionești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Ionești", "sat"),
         createLoc("Bucșani", "sat"),
         createLoc("Dealu Mare", "sat"),
@@ -296,7 +296,7 @@ $comune =[
     ]),
     
     createComuna("Lăcusteni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Contea", "sat"),
         createLoc("Gănești", "sat"),
         createLoc("Lăcusteni", "sat"),
@@ -305,7 +305,7 @@ $comune =[
     ]),
     
     createComuna("Laloșu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Laloșu", "sat"),
         createLoc("Berbești", "sat"),
         createLoc("Ghindari", "sat"),
@@ -315,7 +315,7 @@ $comune =[
     ]),
     
     createComuna("Lădești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Lădești", "sat"),
         createLoc("Cermegești", "sat"),
         createLoc("Chiricești", "sat"),
@@ -328,7 +328,7 @@ $comune =[
         createLoc("Popești", "sat")
     ]),
     createComuna("Lăpușata", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Sărulești", "sat"),
         createLoc("Berești", "sat"),
         createLoc("Broșteni", "sat"),
@@ -339,7 +339,7 @@ $comune =[
     ]),
     
     createComuna("Livezi", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Livezi", "sat"),
         createLoc("Părăușani", "sat"),
         createLoc("Pârâienii de Jos", "sat"),
@@ -350,7 +350,7 @@ $comune =[
     ]),
     
     createComuna("Lungești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Lungești", "sat"),
         createLoc("Carcadiești", "sat"),
         createLoc("Dumbrava", "sat"),
@@ -360,21 +360,21 @@ $comune =[
     ]),
     
     createComuna("Malaia", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Malaia", "sat"),
         createLoc("Ciungetu", "sat"),
         createLoc("Săliștea", "sat")
     ]),
     
     createComuna("Mateești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Mateești", "sat"),
         createLoc("Greci", "sat"),
         createLoc("Turcești", "sat")
     ]),
     
     createComuna("Măciuca", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Oveselu", "sat"),
         createLoc("Bocșa", "sat"),
         createLoc("Botorani", "sat"),
@@ -387,7 +387,7 @@ $comune =[
     ]),
     
     createComuna("Mădulari", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Mădulari", "sat"),
         createLoc("Bălșoara", "sat"),
         createLoc("Bănțești", "sat"),
@@ -397,7 +397,7 @@ $comune =[
     ]),
     
     createComuna("Măldărești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Măldărești", "sat"),
         createLoc("Măldăreștii de Jos", "sat"),
         createLoc("Roșoveni", "sat"),
@@ -405,7 +405,7 @@ $comune =[
     ]),
     
     createComuna("Mihăești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Buleta", "sat"),
         createLoc("Arsanca", "sat"),
         createLoc("Bârsești", "sat"),
@@ -422,7 +422,7 @@ $comune =[
     ]),
     
     createComuna("Milcoiu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Milcoiu", "sat"),
         createLoc("Căzănești", "sat"),
         createLoc("Ciutești", "sat"),
@@ -431,7 +431,7 @@ $comune =[
         createLoc("Tepșenari", "sat")
     ]),
     createComuna("Mitrofani", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Mitrofani", "sat"),
         createLoc("Cetățeaua", "sat"),
         createLoc("Izvorașu", "sat"),
@@ -439,7 +439,7 @@ $comune =[
     ]),
     
     createComuna("Muereasca", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Muereasca", "sat"),
         createLoc("Andreiești", "sat"),
         createLoc("Frâncești-Coasta", "sat"),
@@ -451,7 +451,7 @@ $comune =[
     ]),
     
     createComuna("Nicolae Bălcescu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Rotărăști", "sat"),
         createLoc("Bănești", "sat"),
         createLoc("Corbii din Vale", "sat"),
@@ -472,7 +472,7 @@ $comune =[
     ]),
     
     createComuna("Olanu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Olanu", "sat"),
         createLoc("Casa Veche", "sat"),
         createLoc("Cioboți", "sat"),
@@ -482,7 +482,7 @@ $comune =[
     ]),
     
     createComuna("Orlești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Orlești", "sat"),
         createLoc("Aurești", "sat"),
         createLoc("Procopoaia", "sat"),
@@ -491,7 +491,7 @@ $comune =[
     ]),
     
     createComuna("Oteșani", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Oteșani", "sat"),
         createLoc("Bogdănești", "sat"),
         createLoc("Cârstănești", "sat"),
@@ -500,7 +500,7 @@ $comune =[
     ]),
     
     createComuna("Păușești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Păușești", "sat"),
         createLoc("Barcanele", "sat"),
         createLoc("Buzdugan", "sat"),
@@ -512,7 +512,7 @@ $comune =[
     ]),
     
     createComuna("Păușești-Măglași", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Păușești-Măglași", "sat"),
         createLoc("Coasta", "sat"),
         createLoc("Pietrari", "sat"),
@@ -522,7 +522,7 @@ $comune =[
     ]),
     
     createComuna("Perișani", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Perișani", "sat"),
         createLoc("Băiașu", "sat"),
         createLoc("Mlăceni", "sat"),
@@ -534,7 +534,7 @@ $comune =[
     ]),
     
     createComuna("Pesceana", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Pesceana", "sat"),
         createLoc("Cermegești", "sat"),
         createLoc("Lupoaia", "sat"),
@@ -543,13 +543,13 @@ $comune =[
         createLoc("Ursoaia", "sat")
     ]),
     createComuna("Pietrari", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Pietrari", "sat"),
         createLoc("Pietrarii de Sus", "sat")
     ]),
     
     createComuna("Popești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Popești", "sat"),
         createLoc("Curtea", "sat"),
         createLoc("Dăești", "sat"),
@@ -560,7 +560,7 @@ $comune =[
     ]),
     
     createComuna("Prundeni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Prundeni", "sat"),
         createLoc("Bărbuceni", "sat"),
         createLoc("Călina", "sat"),
@@ -568,7 +568,7 @@ $comune =[
     ]),
     
     createComuna("Racovița", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Racovița", "sat"),
         createLoc("Balota", "sat"),
         createLoc("Blănoiu", "sat"),
@@ -579,7 +579,7 @@ $comune =[
     ]),
     
     createComuna("Roești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Roești", "sat"),
         createLoc("Băiașa", "sat"),
         createLoc("Băjenari", "sat"),
@@ -593,7 +593,7 @@ $comune =[
     ]),
     
     createComuna("Roșiile", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Roșiile", "sat"),
         createLoc("Balaciu", "sat"),
         createLoc("Cherăști", "sat"),
@@ -608,7 +608,7 @@ $comune =[
     ]),
     
     createComuna("Runcu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Runcu", "sat"),
         createLoc("Căligi", "sat"),
         createLoc("Gropeni", "sat"),
@@ -619,7 +619,7 @@ $comune =[
     ]),
     
     createComuna("Sălătrucel", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Sălătrucel", "sat"),
         createLoc("Pătești", "sat"),
         createLoc("Seaca", "sat"),
@@ -627,7 +627,7 @@ $comune =[
     ]),
     
     createComuna("Scundu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Scundu", "sat"),
         createLoc("Avrămești", "sat"),
         createLoc("Blejani", "sat"),
@@ -635,7 +635,7 @@ $comune =[
     ]),
     
     createComuna("Sinești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Sinești", "sat"),
         createLoc("Ciucheți", "sat"),
         createLoc("Dealu Bisericii", "sat"),
@@ -644,7 +644,7 @@ $comune =[
         createLoc("Urzica", "sat")
     ]),
     createComuna("Slătioara", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Slătioara", "sat"),
         createLoc("Coasta Cerbului", "sat"),
         createLoc("Gorunești", "sat"),
@@ -654,7 +654,7 @@ $comune =[
     ]),
     
     createComuna("Stănești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Stănești", "sat"),
         createLoc("Bărcănești", "sat"),
         createLoc("Cioponești", "sat"),
@@ -667,7 +667,7 @@ $comune =[
     ]),
     
     createComuna("Stoenești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Stoenești", "sat"),
         createLoc("Bârlogu", "sat"),
         createLoc("Budurăști", "sat"),
@@ -684,7 +684,7 @@ $comune =[
     ]),
     
     createComuna("Stoilești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Stoilești", "sat"),
         createLoc("Balomireasa", "sat"),
         createLoc("Bârsoiu", "sat"),
@@ -703,7 +703,7 @@ $comune =[
     ]),
     
     createComuna("Stroești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Stroești", "sat"),
         createLoc("Cireșu", "sat"),
         createLoc("Dianu", "sat"),
@@ -712,7 +712,7 @@ $comune =[
     ]),
     
     createComuna("Sutești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Sutești", "sat"),
         createLoc("Boroșești", "sat"),
         createLoc("Măzili", "sat"),
@@ -720,7 +720,7 @@ $comune =[
     ]),
     
     createComuna("Șirineasa", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Șirineasa", "sat"),
         createLoc("Aricioaia", "sat"),
         createLoc("Ciorăști", "sat"),
@@ -729,7 +729,7 @@ $comune =[
     ]),
     
     createComuna("Ștefănești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Ștefănești", "sat"),
         createLoc("Condoiești", "sat"),
         createLoc("Dobrușa", "sat"),
@@ -737,7 +737,7 @@ $comune =[
     ]),
     
     createComuna("Șușani", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Șușani", "sat"),
         createLoc("Râmești", "sat"),
         createLoc("Sârbi", "sat"),
@@ -746,7 +746,7 @@ $comune =[
     ]),
     
     createComuna("Tetoiu", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Tetoiu", "sat"),
         createLoc("Băroiu", "sat"),
         createLoc("Budele", "sat"),
@@ -756,14 +756,14 @@ $comune =[
         createLoc("Țepești", "sat")
     ]),
     createComuna("Titești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Titești", "sat"),
         createLoc("Bratovești", "sat"),
         createLoc("Cucoiu", "sat")
     ]),
     
     createComuna("Tomșani", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Tomșani", "sat"),
         createLoc("Băltățeni", "sat"),
         createLoc("Bogdănești", "sat"),
@@ -775,7 +775,7 @@ $comune =[
     ]),
     
     createComuna("Vaideeni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Vaideeni", "sat"),
         createLoc("Cerna", "sat"),
         createLoc("Cornet", "sat"),
@@ -784,7 +784,7 @@ $comune =[
     ]),
     
     createComuna("Valea Mare", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Valea Mare", "sat"),
         createLoc("Bătășani", "sat"),
         createLoc("Delureni", "sat"),
@@ -794,7 +794,7 @@ $comune =[
     ]),
     
     createComuna("Vlădești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Vlădești", "sat"),
         createLoc("Fundătura", "sat"),
         createLoc("Pleașa", "sat"),
@@ -803,21 +803,21 @@ $comune =[
     ]),
     
     createComuna("Voicești", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Voicești", "sat"),
         createLoc("Tighina", "sat"),
         createLoc("Voiceștii din Vale", "sat")
     ]),
     
     createComuna("Voineasa", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Voineasa", "sat"),
         createLoc("Valea Măceșului", "sat"),
         createLoc("Voineșița", "sat")
     ]),
     
     createComuna("Zătreni", [
-				createAdresaCompleta("VALCEA"),
+				createAdresaCompleta("comuna Alunu, judetul VALCEA, România", "comuna Alunu, judetul VALCEA, Romania"),
         createLoc("Zătreni", "sat"),
         createLoc("Butanu", "sat"),
         createLoc("Ciortești", "sat"),
