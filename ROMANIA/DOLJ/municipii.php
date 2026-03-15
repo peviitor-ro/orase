@@ -2,7 +2,7 @@
 $municipii =
 	[
 		createMunicipiu("CRAIOVA", [
-				createAdresaCompleta("DOLJ"),
+				createAdresaCompleta("DOLJ", "DOLJ"),
 			createLoc("CRAIOVA", "oras", [
 				createLoc("Cernele", "sat"),
 				createLoc("Cernele de Sus", "sat"),
@@ -15,12 +15,12 @@ $municipii =
 			createLoc("Șimnicu de Jos", "sat"),
 		]),
 		createMunicipiu("BĂILEȘTI", [
-				createAdresaCompleta("DOLJ"),
+				createAdresaCompleta("DOLJ", "DOLJ"),
 			createLoc("BĂILEȘTI", "oras"),
 			createLoc("Balasan", "sat"),
 		]),
 		createMunicipiu("CALAFAT", [
-				createAdresaCompleta("DOLJ"),
+				createAdresaCompleta("DOLJ", "DOLJ"),
 			createLoc("CALAFAT", "oras", [
 				createLoc("Basarabi", "sat"),
 				createLoc("Ciupercenii Vechi", "sat"),

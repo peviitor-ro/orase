@@ -2,7 +2,7 @@
 $municipii =
 [
 		createMunicipiu("BISTRIȚA", [
-                    createAdresaCompleta("BISTRITA-NASAUD"),
+                    createAdresaCompleta("BISTRITA-NASAUD", "BISTRITA-NASAUD"),
                     createLoc("BISTRIȚA", "oras"),
                     createLoc("Ghinda", "sat"),
 					createLoc("Sărata", "sat"),

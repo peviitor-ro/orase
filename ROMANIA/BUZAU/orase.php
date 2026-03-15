@@ -1,7 +1,7 @@
 <?php
 $orase=[
             createOras("NEHOIU",[
-			    createAdresaCompleta("BUZAU"),
+			    createAdresaCompleta("BUZAU", "BUZAU"),
 			    createLoc("NEHOIU", "oras",[
 						createLoc("Bâsca Rozilei", "sat"),
 						createLoc("Chirlești", "sat"),
@@ -15,7 +15,7 @@ $orase=[
 							]),
 				]),
             createOras("PĂTÂRLAGELE",[
-			    createAdresaCompleta("BUZAU"),
+			    createAdresaCompleta("BUZAU", "BUZAU"),
 			    createLoc("PĂTÂRLAGELE", "oras",[
 						createLoc("Mușcel", "sat"),
 						createLoc("Poienile", "sat"),
@@ -35,7 +35,7 @@ $orase=[
 				  ]),
 
             createOras("POGOANELE",[
-			    createAdresaCompleta("BUZAU"),
+			    createAdresaCompleta("BUZAU", "BUZAU"),
 			    createLoc("POGOANELE", "oras",[
 						createLoc("Căldărăști", "sat"),
 				  ]),				  

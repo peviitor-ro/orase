@@ -1,25 +1,25 @@
 <?php
 $orase = [
     createOras("BRAGADIRU", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("BRAGADIRU", "oras"),
     ]),
 
     createOras("BUFTEA", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("BUFTEA", "oras", [
             createLoc("Buciumeni", "sat"),
         ]),
     ]),
 
     createOras("CHITILA", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("CHITILA", "oras"),
         createLoc("Rudeni", "sat"),
     ]),
 
     createOras("MĂGURELE", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("MĂGURELE", "oras"),
         createLoc("Alunișu", "sat"),
         createLoc("Dumitrana", "sat"),
@@ -28,24 +28,24 @@ $orase = [
     ]),
 
     createOras("OTOPENI", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("OTOPENI", "oras", [
             createLoc("Odăile", "sat"),
         ]),
     ]),
 
     createOras("PANTELIMON", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("PANTELIMON", "oras"),
     ]),
 
     createOras("POPEȘTI-LEORDENI", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("POPEȘTI-LEORDENI", "oras"),
     ]),
 
     createOras("VOLUNTARI", [
-				createAdresaCompleta("ILFOV"),
+				createAdresaCompleta("ILFOV", "ILFOV"),
         createLoc("VOLUNTARI", "oras"),
     ]),
 ];

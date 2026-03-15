@@ -2,47 +2,47 @@
 $comune =[
 
 	createComuna("Alma", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Alma", "sat"),
         createLoc("Giacăș", "sat"),
         createLoc("Șmig", "sat")
     ]),
     createComuna("Alțina", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Alțina", "sat"),
         createLoc("Benești", "sat"),
         createLoc("Ghijasa de Sus", "sat")
     ]),
     createComuna("Apoldu de Jos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Apoldu de Jos", "sat"),
         createLoc("Sângătin", "sat")
     ]),
     createComuna("Arpașu de Jos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Arpașu de Jos", "sat"),
         createLoc("Arpașu de Sus", "sat"),
         createLoc("Nou Român", "sat")
     ]),
     createComuna("Ațel", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Ațel", "sat"),
         createLoc("Dupuș", "sat")
     ]),
     createComuna("Axente Sever", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Axente Sever", "sat"),
         createLoc("Agârbiciu", "sat"),
         createLoc("Șoala", "sat")
     ]),
     createComuna("Bazna", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Bazna", "sat"),
         createLoc("Boian", "sat"),
         createLoc("Velț", "sat")
     ]),
     createComuna("Bârghiș", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Bârghiș", "sat"),
         createLoc("Apoș", "sat"),
         createLoc("Ighișu Vechi", "sat"),
@@ -51,79 +51,79 @@ $comune =[
         createLoc("Zlagna", "sat")
     ]),
     createComuna("Biertan", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Biertan", "sat"),
         createLoc("Copșa Mare", "sat"),
         createLoc("Richiș", "sat")
     ]),
     createComuna("Blăjel", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Blăjel", "sat"),
         createLoc("Păucea", "sat"),
         createLoc("Romanești", "sat")
     ]),
     createComuna("Boița", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Boița", "sat"),
         createLoc("Lazaret", "sat"),
         createLoc("Lotrioara", "sat"),
         createLoc("Paltin", "sat")
     ]),
     createComuna("Brateiu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Brateiu", "sat"),
         createLoc("Buzd", "sat")
     ]),
     createComuna("Brădeni", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Brădeni", "sat"),
         createLoc("Retiș", "sat"),
         createLoc("Țeline", "sat")
     ]),
     createComuna("Bruiu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Bruiu", "sat"),
         createLoc("Gherdeal", "sat"),
         createLoc("Șomartin", "sat")
     ]),
     createComuna("Cârța", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Cârța", "sat"),
         createLoc("Poienița", "sat")
     ]),
     createComuna("Cârțișoara", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Cârțișoara", "sat")
     ]),
     createComuna("Chirpăr", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Chirpăr", "sat"),
         createLoc("Săsăuș", "sat"),
         createLoc("Vărd", "sat"),
         createLoc("Veseud", "sat")
     ]),
     createComuna("Cristian", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Cristian", "sat")
     ]),
     createComuna("Dârlos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Dârlos", "sat"),
         createLoc("Curciu", "sat"),
         createLoc("Valea Lungă", "sat")
     ]),
     createComuna("Gura Râului", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Gura Râului", "sat")
     ]),
     createComuna("Hoghilag", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Hoghilag", "sat"),
         createLoc("Prod", "sat"),
         createLoc("Valchid", "sat")
     ]),
     createComuna("Iacobeni", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Iacobeni", "sat"),
         createLoc("Movile", "sat"),
         createLoc("Netuș", "sat"),
@@ -131,11 +131,11 @@ $comune =[
         createLoc("Stejărișu", "sat")
     ]),
     createComuna("Jina", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Jina", "sat")
     ]),
     createComuna("Laslea", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Laslea", "sat"),
         createLoc("Florești", "sat"),
         createLoc("Mălâncrav", "sat"),
@@ -143,7 +143,7 @@ $comune =[
         createLoc("Roandola", "sat")
     ]),
     createComuna("Loamneș", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Loamneș", "sat"),
         createLoc("Alămor", "sat"),
         createLoc("Armeni", "sat"),
@@ -152,29 +152,29 @@ $comune =[
         createLoc("Sădinca", "sat")
     ]),
     createComuna("Ludoș", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Ludoș", "sat"),
         createLoc("Gusu", "sat")
     ]),
     createComuna("Marpod", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Marpod", "sat"),
         createLoc("Ilimbav", "sat")
     ]),
     createComuna("Merghindeal", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Merghindeal", "sat"),
         createLoc("Dealu Frumos", "sat")
     ]),
     createComuna("Micăsasa", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Micăsasa", "sat"),
         createLoc("Chesler", "sat"),
         createLoc("Țapu", "sat"),
         createLoc("Văleni", "sat")
     ]),
     createComuna("Mihăileni", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Mihăileni", "sat"),
         createLoc("Metiș", "sat"),
         createLoc("Moardăș", "sat"),
@@ -182,13 +182,13 @@ $comune =[
         createLoc("Șalcău", "sat")
     ]),
     createComuna("Moșna", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Moșna", "sat"),
         createLoc("Alma Vii", "sat"),
         createLoc("Nemșa", "sat")
     ]),
     createComuna("Nocrich", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Nocrich", "sat"),
         createLoc("Fofeldea", "sat"),
         createLoc("Ghijasa de Jos", "sat"),
@@ -196,26 +196,26 @@ $comune =[
         createLoc("Țichindeal", "sat")
     ]),
     createComuna("Orlat", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Orlat", "sat")
     ]),
     createComuna("Păuca", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Păuca", "sat"),
         createLoc("Bogatu Român", "sat"),
         createLoc("Broșteni", "sat"),
         createLoc("Presaca", "sat")
     ]),
     createComuna("Poiana Sibiului", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Poiana Sibiului", "sat")
     ]),
     createComuna("Poplaca", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Poplaca", "sat")
     ]),
     createComuna("Porumbacu de Jos", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Porumbacu de Jos", "sat"),
         createLoc("Colun", "sat"),
         createLoc("Porumbacu de Sus", "sat"),
@@ -223,21 +223,21 @@ $comune =[
         createLoc("Scoreiu", "sat")
     ]),
     createComuna("Racovița", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Racovița", "sat"),
         createLoc("Sebeșu de Sus", "sat")
     ]),
     createComuna("Rășinari", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Rășinari", "sat"),
         createLoc("Prislop", "sat")
     ]),
     createComuna("Râu Sadului", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Râu Sadului", "sat")
     ]),
     createComuna("Roșia", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Roșia", "sat"),
         createLoc("Cașolț", "sat"),
         createLoc("Cornățel", "sat"),
@@ -246,11 +246,11 @@ $comune =[
         createLoc("Nucet", "sat")
     ]),
     createComuna("Sadu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Sadu", "sat")
     ]),
     createComuna("Slimnic", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Slimnic", "sat"),
         createLoc("Albi", "sat"),
         createLoc("Pădureni", "sat"),
@@ -258,7 +258,7 @@ $comune =[
         createLoc("Veseud", "sat")
     ]),
     createComuna("Șeica Mare", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Șeica Mare", "sat"),
         createLoc("Boarta", "sat"),
         createLoc("Buia", "sat"),
@@ -267,49 +267,49 @@ $comune =[
         createLoc("Ștenea", "sat")
     ]),
     createComuna("Șeica Mică", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Șeica Mică", "sat"),
         createLoc("Soroștin", "sat")
     ]),
     createComuna("Șelimbăr", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Șelimbăr", "sat"),
         createLoc("Bungard", "sat"),
         createLoc("Mohu", "sat"),
         createLoc("Veștem", "sat")
     ]),
     createComuna("Șura Mare", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Șura Mare", "sat"),
         createLoc("Hamba", "sat")
     ]),
     createComuna("Șura Mică", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Șura Mică", "sat"),
         createLoc("Rusciori", "sat")
     ]),
     createComuna("Târnava", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Târnava", "sat"),
         createLoc("Colonia Târnava", "sat")
     ]),
     createComuna("Tilișca", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Tilișca", "sat"),
         createLoc("Rod", "sat")
     ]),
     createComuna("Turnu Roșu", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Turnu Roșu", "sat"),
         createLoc("Sebeșu de Jos", "sat")
     ]),
     createComuna("Valea Viilor", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Valea Viilor", "sat"),
         createLoc("Motiș", "sat")
     ]),
     createComuna("Vurpăr", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("Vurpăr", "sat")
     ]),
     								  

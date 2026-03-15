@@ -1,7 +1,7 @@
 <?php
 $orase=[
 			createOras("BROȘTENI", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("BROȘTENI", "oras",[
 						createLoc("Cotârgași", "sat"),
 											]),
@@ -19,7 +19,7 @@ $orase=[
 			                     ]),
 	
 			createOras("CAJVANA", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("CAJVANA", "oras",[
 						createLoc("Codru", "sat"),
 											]),
@@ -27,7 +27,7 @@ $orase=[
 			                     ]),
 	
 			createOras("DOLHASCA", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("DOLHASCA", "oras",[
 						createLoc("Budeni", "sat"),
 					  	createLoc("Gulia", "sat"),
@@ -41,7 +41,7 @@ $orase=[
 			                     ]),
 	
 			createOras("FRASIN", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("FRASIN", "oras",[
 						createLoc("Doroteia", "sat"),
 											]),
@@ -52,7 +52,7 @@ $orase=[
 			                     ]),
 	
 			createOras("GURA HUMORULUI", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("GURA HUMORULUI", "oras",[
 						createLoc("Doroteia", "sat"),
 											]),
@@ -63,7 +63,7 @@ $orase=[
 			                     ]),
 	
 			createOras("LITENI", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("LITENI", "oras",[
 						createLoc("Corni", "sat"),
 					  	createLoc("Roșcani", "sat"),
@@ -75,7 +75,7 @@ $orase=[
 			                     ]),
 	
 			createOras("MILIȘĂUȚI", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("MILIȘĂUȚI", "oras",[
 						createLoc("Gara", "sat"),
 											]),
@@ -86,7 +86,7 @@ $orase=[
 			                     ]),
 	
 			createOras("SALCEA", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("SALCEA", "oras",[
 						createLoc("Prelipca", "sat"),
 											]),
@@ -97,20 +97,20 @@ $orase=[
 			                     ]),
 	
 			createOras("SIRET", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("SIRET", "oras"),
 				createLoc("Mănăstioara", "sat"),
 				createLoc("Pădureni", "sat"),
 				
 			                     ]),
 			createOras("SOLCA", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("SOLCA", "oras"),
 				
 			                     ]),
 	
 			createOras("VICOVU DE SUS", [
-				createAdresaCompleta("SUCEAVA"),
+				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
 				createLoc("VICOVU DE SUS", "oras"),
 				createLoc("Bivolăria", "sat"),
 				

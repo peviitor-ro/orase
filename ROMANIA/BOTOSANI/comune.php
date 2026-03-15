@@ -1,12 +1,12 @@
 <?php
 $comune =[
     createComuna("Adășeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Adășeni", "sat"),
         createLoc("Zoițani", "sat")
     ]),
     createComuna("Albești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Albești", "sat"),
         createLoc("Buimăceni", "sat"),
         createLoc("Coștiugeni", "sat"),
@@ -15,7 +15,7 @@ $comune =[
         createLoc("Tudor Vladimirescu", "sat")
     ]),
     createComuna("Avrămeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Avrămeni", "sat"),
         createLoc("Aurel Vlaicu", "sat"),
         createLoc("Dimitrie Cantemir", "sat"),
@@ -25,7 +25,7 @@ $comune =[
         createLoc("Tudor Vladimirescu", "sat")
     ]),
     createComuna("Bălușeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Bălușeni", "sat"),
         createLoc("Bălușenii Noi", "sat"),
         createLoc("Buzeni", "sat"),
@@ -34,76 +34,76 @@ $comune =[
         createLoc("Zăicești", "sat")
     ]),
     createComuna("Blândești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Blândești", "sat"),
         createLoc("Cerchejeni", "sat"),
         createLoc("Șoldănești", "sat")
     ]),
     createComuna("Brăești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Brăești", "sat"),
         createLoc("Poiana", "sat"),
         createLoc("Popeni", "sat"),
         createLoc("Vâlcelele", "sat")
     ]),
     createComuna("Broscăuți", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Broscăuți", "sat"),
         createLoc("Slobozia", "sat")
     ]),
     createComuna("Călărași", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Călărași", "sat"),
         createLoc("Libertatea", "sat"),
         createLoc("Pleșani", "sat")
     ]),
     createComuna("Cândești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Cândești", "sat"),
         createLoc("Călinești", "sat"),
         createLoc("Talpa", "sat"),
         createLoc("Vițcani", "sat")
     ]),
     createComuna("Concești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Concești", "sat"),
         createLoc("Movileni", "sat")
     ]),
     createComuna("Copălău", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Copălău", "sat"),
         createLoc("Cerbu", "sat"),
         createLoc("Cotu", "sat")
     ]),
     createComuna("Cordăreni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Cordăreni", "sat"),
         createLoc("Grivița", "sat"),
         createLoc("Slobozia", "sat")
     ]),
     createComuna("Corlăteni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Corlăteni", "sat"),
         createLoc("Carasa", "sat"),
         createLoc("Podeni", "sat"),
         createLoc("Vlădeni", "sat")
     ]),
     createComuna("Corni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Corni", "sat"),
         createLoc("Balta Arsă", "sat"),
         createLoc("Mesteacăn", "sat"),
         createLoc("Sarafinești", "sat")
     ]),
     createComuna("Coșula", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Coșula", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Pădureni", "sat"),
         createLoc("Șupitca", "sat")
     ]),
     createComuna("Coțușca", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Coțușca", "sat"),
         createLoc("Avram Iancu", "sat"),
         createLoc("Cotu Miculinți", "sat"),
@@ -115,14 +115,14 @@ $comune =[
         createLoc("Puțureni", "sat")
     ]),
     createComuna("Cristești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Cristești", "sat"),
         createLoc("Oneaga", "sat"),
         createLoc("Schit-Orășeni", "sat"),
         createLoc("Unguroaia", "sat")
     ]),
     createComuna("Cristinești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Cristinești", "sat"),
         createLoc("Baranca", "sat"),
         createLoc("Dămileni", "sat"),
@@ -131,7 +131,7 @@ $comune =[
         createLoc("Poiana", "sat")
     ]),
     createComuna("Curtești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Curtești", "sat"),
         createLoc("Agafton", "sat"),
         createLoc("Băiceni", "sat"),
@@ -141,24 +141,24 @@ $comune =[
         createLoc("Orășeni-Vale", "sat")
     ]),
     createComuna("Dersca", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Dersca", "sat")
     ]),
     createComuna("Dimăcheni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Dimăcheni", "sat"),
         createLoc("Mateieni", "sat"),
         createLoc("Recia-Verbia", "sat")
     ]),
     createComuna("Dângeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Dângeni", "sat"),
         createLoc("Hulub", "sat"),
         createLoc("Iacobeni", "sat"),
         createLoc("Strahotin", "sat")
     ]),
     createComuna("Dobârceni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Dobârceni", "sat"),
         createLoc("Bivolari", "sat"),
         createLoc("Brăteni", "sat"),
@@ -167,13 +167,13 @@ $comune =[
         createLoc("Murguța", "sat")
     ]),
     createComuna("Drăgușeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Drăgușeni", "sat"),
         createLoc("Podriga", "sat"),
         createLoc("Sarata-Drăgușeni", "sat")
     ]),
     createComuna("Durnești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Durnești", "sat"),
         createLoc("Băbiceni", "sat"),
         createLoc("Bârsănești", "sat"),
@@ -182,7 +182,7 @@ $comune =[
         createLoc("Guranda", "sat")
     ]),
     createComuna("Frumușica", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Frumușica", "sat"),
         createLoc("Boscoteni", "sat"),
         createLoc("Rădeni", "sat"),
@@ -191,7 +191,7 @@ $comune =[
         createLoc("Vlădeni-Deal", "sat")
     ]),
     createComuna("George Enescu", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Dumeni", "sat"),
         createLoc("Arborea", "sat"),
         createLoc("George Enescu", "sat"),
@@ -199,7 +199,7 @@ $comune =[
         createLoc("Stânca", "sat")
     ]),
     createComuna("Gorbănești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Gorbănești", "sat"),
         createLoc("Bătrânești", "sat"),
         createLoc("George Coșbuc", "sat"),
@@ -210,7 +210,7 @@ $comune =[
         createLoc("Vânători", "sat")
     ]),
     createComuna("Havârna", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Havârna", "sat"),
         createLoc("Balinți", "sat"),
         createLoc("Galbeni", "sat"),
@@ -219,7 +219,7 @@ $comune =[
         createLoc("Tătărășeni", "sat")
     ]),
     createComuna("Hănești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Hănești", "sat"),
         createLoc("Borolea", "sat"),
         createLoc("Moara Jorii", "sat"),
@@ -227,7 +227,7 @@ $comune =[
         createLoc("Slobozia Hănești", "sat")
     ]),
     createComuna("Hilișeu-Horia", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Hilișeu-Horia", "sat"),
         createLoc("Corjăuți", "sat"),
         createLoc("Hilișeu-Cloșca", "sat"),
@@ -235,13 +235,13 @@ $comune =[
         createLoc("Iezer", "sat")
     ]),
     createComuna("Hlipiceni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Hlipiceni", "sat"),
         createLoc("Dragalina", "sat"),
         createLoc("Victoria", "sat")
     ]),
     createComuna("Hudești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Hudești", "sat"),
         createLoc("Alba", "sat"),
         createLoc("Baranca", "sat"),
@@ -250,12 +250,12 @@ $comune =[
         createLoc("Vatra", "sat")
     ]),
     createComuna("Ibănești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Ibănești", "sat"),
         createLoc("Dumbrăvița", "sat")
     ]),
     createComuna("Leorda", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Leorda", "sat"),
         createLoc("Belcea", "sat"),
         createLoc("Costinești", "sat"),
@@ -263,18 +263,18 @@ $comune =[
         createLoc("Mitoc", "sat")
     ]),
     createComuna("Lozna", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Lozna", "sat"),
         createLoc("Străteni", "sat")
     ]),
     createComuna("Lunca", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Lunca", "sat"),
         createLoc("Stroiești", "sat"),
         createLoc("Zlătunoaia", "sat")
     ]),
     createComuna("Manoleasa", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Manoleasa", "sat"),
         createLoc("Bold", "sat"),
         createLoc("Flondora", "sat"),
@@ -287,7 +287,7 @@ $comune =[
         createLoc("Zahoreni", "sat")
     ]),
     createComuna("Mihai Eminescu", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Ipotești", "sat"),
         createLoc("Baisa", "sat"),
         createLoc("Cătămărești", "sat"),
@@ -299,13 +299,13 @@ $comune =[
         createLoc("Stâncești", "sat")
     ]),
     createComuna("Mihăileni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Mihăileni", "sat"),
         createLoc("Pârâu Negru", "sat"),
         createLoc("Rogojești", "sat")
     ]),
     createComuna("Mihălășeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Mihălășeni", "sat"),
         createLoc("Caraiman", "sat"),
         createLoc("Năstase", "sat"),
@@ -315,58 +315,58 @@ $comune =[
         createLoc("Slobozia Silișcani", "sat")
     ]),
     createComuna("Mileanca", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Mileanca", "sat"),
         createLoc("Codreni", "sat"),
         createLoc("Scutari", "sat"),
         createLoc("Seliștea", "sat")
     ]),
     createComuna("Mitoc", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Mitoc", "sat"),
         createLoc("Horia", "sat")
     ]),
     createComuna("Nicșeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Nicșeni", "sat"),
         createLoc("Dacia", "sat"),
         createLoc("Dorobanți", "sat")
     ]),
     createComuna("Păltiniș", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Păltiniș", "sat"),
         createLoc("Cuzlău", "sat"),
         createLoc("Horodiștea", "sat"),
         createLoc("Slobozia", "sat")
     ]),
     createComuna("Pomârla", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Pomârla", "sat"),
         createLoc("Hulubești", "sat"),
         createLoc("Racovăț", "sat")
     ]),
     createComuna("Prăjeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Prăjeni", "sat"),
         createLoc("Câmpeni", "sat"),
         createLoc("Lupăria", "sat"),
         createLoc("Miletin", "sat")
     ]),
     createComuna("Răchiți", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Răchiți", "sat"),
         createLoc("Cișmea", "sat"),
         createLoc("Costești", "sat"),
         createLoc("Roșiori", "sat")
     ]),
     createComuna("Rădăuți-Prut", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Rădăuți-Prut", "sat"),
         createLoc("Miorcani", "sat"),
         createLoc("Rediu", "sat")
     ]),
     createComuna("Răuseni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Răuseni", "sat"),
         createLoc("Doina", "sat"),
         createLoc("Pogorăști", "sat"),
@@ -374,7 +374,7 @@ $comune =[
         createLoc("Stolniceni", "sat")
     ]),
     createComuna("Ripiceni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Ripiceni", "sat"),
         createLoc("Cinghiniia", "sat"),
         createLoc("Lehnești", "sat"),
@@ -384,19 +384,19 @@ $comune =[
         createLoc("Râșca", "sat")
     ]),
     createComuna("Roma", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Roma", "sat"),
         createLoc("Cotârgaci", "sat")
     ]),
     createComuna("Românești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Românești", "sat"),
         createLoc("Dămideni", "sat"),
         createLoc("Românești-Vale", "sat"),
         createLoc("Sărata", "sat")
     ]),
     createComuna("Santa Mare", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Santa Mare", "sat"),
         createLoc("Bădărăi", "sat"),
         createLoc("Berza", "sat"),
@@ -407,14 +407,14 @@ $comune =[
         createLoc("Rânghilești-Deal", "sat")
     ]),
     createComuna("Stăuceni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Stăuceni", "sat"),
         createLoc("Siliștea", "sat"),
         createLoc("Tocileni", "sat"),
         createLoc("Victoria", "sat")
     ]),
     createComuna("Suharău", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Suharău", "sat"),
         createLoc("Izvoare", "sat"),
         createLoc("Lișna", "sat"),
@@ -423,25 +423,25 @@ $comune =[
         createLoc("Smârdan", "sat")
     ]),
     createComuna("Sulița", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Sulița", "sat"),
         createLoc("Cheliș", "sat"),
         createLoc("Dracșani", "sat")
     ]),
     createComuna("Șendriceni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Șendriceni", "sat"),
         createLoc("Horlăceni", "sat"),
         createLoc("Pădureni", "sat")
     ]),
     createComuna("Știubieni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Știubieni", "sat"),
         createLoc("Ibăneasa", "sat"),
         createLoc("Negreni", "sat")
     ]),
     createComuna("Todireni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Todireni", "sat"),
         createLoc("Cernești", "sat"),
         createLoc("Florești", "sat"),
@@ -449,7 +449,7 @@ $comune =[
         createLoc("Iurești", "sat")
     ]),
     createComuna("Trușești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Trușești", "sat"),
         createLoc("Buhăceni", "sat"),
         createLoc("Ciritei", "sat"),
@@ -458,11 +458,11 @@ $comune =[
         createLoc("Păsăteni", "sat")
     ]),
     createComuna("Tudora", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Tudora", "sat")
     ]),
     createComuna("Ungureni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Ungureni", "sat"),
         createLoc("Borzești", "sat"),
         createLoc("Călugăreni", "sat"),
@@ -476,7 +476,7 @@ $comune =[
         createLoc("Vicoleni", "sat")
     ]),
     createComuna("Unțeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Unțeni", "sat"),
         createLoc("Burla", "sat"),
         createLoc("Burlești", "sat"),
@@ -486,13 +486,13 @@ $comune =[
         createLoc("Vultureni", "sat")
     ]),
     createComuna("Văculești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Văculești", "sat"),
         createLoc("Gorovei", "sat"),
         createLoc("Saucenița", "sat")
     ]),
     createComuna("Vârfu Câmpului", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Vârfu Câmpului", "sat"),
         createLoc("Dobrinăuți-Hapăi", "sat"),
         createLoc("Ionășeni", "sat"),
@@ -501,13 +501,13 @@ $comune =[
         createLoc("Lunca", "sat")
     ]),
     createComuna("Viișoara", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Viișoara", "sat"),
         createLoc("Cuza Vodă", "sat"),
         createLoc("Viișoara Mică", "sat")
     ]),
     createComuna("Vlădeni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Vlădeni", "sat"),
         createLoc("Brehuiești", "sat"),
         createLoc("Hrișcani", "sat"),
@@ -515,19 +515,19 @@ $comune =[
         createLoc("Mândrești", "sat")
     ]),
     createComuna("Vlăsinești", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Vlăsinești", "sat"),
         createLoc("Miron Costin", "sat"),
         createLoc("Sârbi", "sat")
     ]),
     createComuna("Vorniceni", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Vorniceni", "sat"),
         createLoc("Davidoaia", "sat"),
         createLoc("Dealu Crucii", "sat")
     ]),
     createComuna("Vorona", [
-        createAdresaCompleta("BOTOSANI"),
+        createAdresaCompleta("BOTOSANI", "BOTOSANI"),
         createLoc("Vorona", "sat"),
         createLoc("Icușeni", "sat"),
         createLoc("Joldești", "sat"),

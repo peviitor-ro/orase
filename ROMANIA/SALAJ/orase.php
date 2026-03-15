@@ -2,7 +2,7 @@
 $orase=[
 
     createOras("CEHU SILVANIEI", [
-				createAdresaCompleta("SALAJ"),
+				createAdresaCompleta("SALAJ", "SALAJ"),
         createLoc("CEHU SILVANIEI", "oras", [
             createLoc("Horoatu Cehului", "sat"),
             createLoc("Motiș", "sat"),
@@ -14,7 +14,7 @@ $orase=[
     ]),
 	
     createOras("JIBOU", [
-				createAdresaCompleta("SALAJ"),
+				createAdresaCompleta("SALAJ", "SALAJ"),
         createLoc("JIBOU", "oras", [
             createLoc("Cuceu", "sat"),
             createLoc("Husia", "sat"),
@@ -25,7 +25,7 @@ $orase=[
 	
     ]),
     createOras("ȘIMLEU SILVANIEI", [
-				createAdresaCompleta("SALAJ"),
+				createAdresaCompleta("SALAJ", "SALAJ"),
         createLoc("ȘIMLEU SILVANIEI", "oras"),
 	createLoc("Bic", "sat"),
 	createLoc("Cehei", "sat"),

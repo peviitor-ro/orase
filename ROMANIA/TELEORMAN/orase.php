@@ -1,13 +1,13 @@
 <?php
 $orase=[
 			createOras("VIDELE", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("TELEORMAN", "TELEORMAN"),
 			    	createLoc("VIDELE", "oras",[
 					createLoc("Coșoaia", "sat"),
 										]),
 			                     ]),
 			createOras("ZIMNICEA", [
-				createAdresaCompleta("TELEORMAN"),
+				createAdresaCompleta("TELEORMAN", "TELEORMAN"),
 			    	createLoc("ZIMNICEA", "oras"),
 										]),						  
 			

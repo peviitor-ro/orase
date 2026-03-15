@@ -1,14 +1,14 @@
 <?php
 $orase = [
     createOras("ANINOASA", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("HUNEDOARA", "HUNEDOARA"),
         createLoc("ANINOASA", "oras", [
             createLoc("Iscroni", "sat"),
         ]),
     ]),
 
     createOras("CĂLAN", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("HUNEDOARA", "HUNEDOARA"),
         createLoc("CĂLAN", "oras", [
             createLoc("Batiz", "sat"),      
             createLoc("Călanu Mic", "sat"),
@@ -26,7 +26,7 @@ $orase = [
     ]),
 
     createOras("GEOAGIU", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("HUNEDOARA", "HUNEDOARA"),
         createLoc("GEOAGIU", "oras", [
             createLoc("Aurel Vlaicu", "sat"),
             createLoc("Băcâia", "sat"),
@@ -42,7 +42,7 @@ $orase = [
     ]),
 
     createOras("HAȚEG", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("HUNEDOARA", "HUNEDOARA"),
         createLoc("HAȚEG", "oras", [
             createLoc("Silvașu de Jos", "sat"),           
             createLoc("Silvașu de Sus", "sat"),
@@ -51,7 +51,7 @@ $orase = [
     ]),
 
     createOras("PETRILA", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("HUNEDOARA", "HUNEDOARA"),
         createLoc("PETRILA", "oras"),
         createLoc("Cimpa", "sat"),
         createLoc("Jieț", "sat"),
@@ -60,7 +60,7 @@ $orase = [
     ]),
 
     createOras("SIMERIA", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("HUNEDOARA", "HUNEDOARA"),
         createLoc("SIMERIA", "oras", [
             createLoc("Bârcea Mare", "sat"),
             createLoc("Cărpiniș", "sat"),
@@ -72,7 +72,7 @@ $orase = [
     ]),
 
     createOras("URICANI", [
-				createAdresaCompleta("HUNEDOARA"),
+				createAdresaCompleta("HUNEDOARA", "HUNEDOARA"),
         createLoc("URICANI", "oras"),
         createLoc("Câmpu lui Neag", "sat"),
         createLoc("Valea de Brazi", "sat"),

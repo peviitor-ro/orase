@@ -1,14 +1,14 @@
 <?php
 $orase = [
     createOras("AGNITA", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("AGNITA", "oras"),
         createLoc("Coveș", "sat"),
         createLoc("Ruja", "sat"),
     ]),
 
     createOras("AVRIG", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("AVRIG", "oras", [
             createLoc("Bradu", "sat"),
             createLoc("Glâmboaca", "sat"),
@@ -18,25 +18,25 @@ $orase = [
     ]),
 
     createOras("CISNĂDIE", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("CISNĂDIE", "oras"),
         createLoc("Cisnădioara", "sat"),
     ]),
 
     createOras("COPȘA MICĂ", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("COPȘA MICĂ", "oras"),
     ]),
 
     createOras("DUMBRĂVENI", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("DUMBRĂVENI", "oras"),
         createLoc("Ernea", "sat"),
         createLoc("Șaroș pe Târnave", "sat"),
     ]),
 
     createOras("MIERCUREA SIBIULUI", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("MIERCUREA SIBIULUI", "oras", [
             createLoc("Apoldu de Sus", "sat"),
             createLoc("Dobârca", "sat"),
@@ -44,14 +44,14 @@ $orase = [
     ]),
 
     createOras("OCNA SIBIULUI", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("OCNA SIBIULUI", "oras", [
             createLoc("Topârcea", "sat"),
         ]),
     ]),
 
     createOras("SĂLIȘTE", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("SĂLIȘTE", "oras", [
             createLoc("Aciliu", "sat"),
             createLoc("Amnaș", "sat"),
@@ -66,7 +66,7 @@ $orase = [
     ]),
 
     createOras("TĂLMACIU", [
-				createAdresaCompleta("SIBIU"),
+				createAdresaCompleta("SIBIU", "SIBIU"),
         createLoc("TĂLMACIU", "oras", [
             createLoc("Colonia Tălmaciu", "sat"),
             createLoc("Tălmăcel", "sat"),

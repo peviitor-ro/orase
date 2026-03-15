@@ -1,7 +1,7 @@
 <?php
 $orase = [
     createOras("BALȘ", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("OLT", "OLT"),
         createLoc("BALȘ", "oras", [
             createLoc("Teiș", "sat"),
             
@@ -11,7 +11,7 @@ $orase = [
     ]),
 
     createOras("CORABIA", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("OLT", "OLT"),
         createLoc("CORABIA", "oras", [
             createLoc("Vârtopu", "sat"),
             
@@ -20,14 +20,14 @@ $orase = [
     ]),
 
     createOras("DRĂGĂNEȘTI-OLT", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("OLT", "OLT"),
         createLoc("DRĂGĂNEȘTI-OLT", "oras", [
             createLoc("Comani", "sat"),
         ]),
     ]),
 
     createOras("PIATRA-OLT", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("OLT", "OLT"),
         createLoc("PIATRA-OLT", "oras", [
             createLoc("Bistrița Nouă", "sat"),
             createLoc("Criva de Jos", "sat"),
@@ -38,7 +38,7 @@ $orase = [
     ]),
 
     createOras("POTCOAVA", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("OLT", "OLT"),
         createLoc("POTCOAVA", "oras", [
             createLoc("Potcoava-Fălcoeni", "sat"),
             createLoc("Sinești", "sat"),
@@ -48,7 +48,7 @@ $orase = [
     ]),
 
     createOras("SCORNICEȘTI", [
-				createAdresaCompleta("OLT"),
+				createAdresaCompleta("OLT", "OLT"),
         createLoc("SCORNICEȘTI", "oras", [
             createLoc("Bălțați", "sat"),
             createLoc("Bircii", "sat"),

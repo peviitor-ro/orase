@@ -1,7 +1,7 @@
 <?php
 $orase = [
     createOras("IERNUT", [
-				createAdresaCompleta("MURES"),
+				createAdresaCompleta("MURES", "MURES"),
         createLoc("IERNUT", "oras", [
             createLoc("Cipău", "sat"),
             createLoc("Deag", "sat"),
@@ -15,7 +15,7 @@ $orase = [
     ]),
 
     createOras("LUDUȘ", [
-				createAdresaCompleta("MURES"),
+				createAdresaCompleta("MURES", "MURES"),
         createLoc("LUDUȘ", "oras"),
         createLoc("Avrămești", "sat"),
         createLoc("Cioarga", "sat"),
@@ -26,7 +26,7 @@ $orase = [
     ]),
 
     createOras("MIERCUREA NIRAJULUI", [
-				createAdresaCompleta("MURES"),
+				createAdresaCompleta("MURES", "MURES"),
         createLoc("MIERCUREA NIRAJULUI", "oras", [
             createLoc("Beu", "sat"),
             createLoc("Dumitreștii", "sat"),
@@ -39,7 +39,7 @@ $orase = [
     ]),
 
     createOras("SĂRMAȘU", [
-				createAdresaCompleta("MURES"),
+				createAdresaCompleta("MURES", "MURES"),
         createLoc("SĂRMAȘU", "oras", [
             createLoc("Balda", "sat"),
             createLoc("Larga", "sat"),
@@ -52,7 +52,7 @@ $orase = [
     ]),
 
     createOras("SÂNGEORGIU DE PĂDURE", [
-				createAdresaCompleta("MURES"),
+				createAdresaCompleta("MURES", "MURES"),
         createLoc("SÂNGEORGIU DE PĂDURE", "oras", [
             createLoc("Bezid", "sat"),
             createLoc("Bezidu Nou", "sat"),
@@ -61,7 +61,7 @@ $orase = [
     ]),
 
     createOras("SOVATA", [
-				createAdresaCompleta("MURES"),
+				createAdresaCompleta("MURES", "MURES"),
         createLoc("SOVATA", "oras"),
         createLoc("Căpeți", "sat"),
         createLoc("Ilieși", "sat"),
@@ -69,7 +69,7 @@ $orase = [
     ]),
 
     createOras("UNGHENI", [
-				createAdresaCompleta("MURES"),
+				createAdresaCompleta("MURES", "MURES"),
         createLoc("Ungheni", "oras", [
             createLoc("Cerghid", "sat"),
             createLoc("Cerghizel", "sat"),

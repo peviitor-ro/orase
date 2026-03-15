@@ -1,14 +1,14 @@
 <?php
 $orase = [
     createOras("BUZIAȘ", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("BUZIAȘ", "oras", [
             createLoc("Bacova", "sat"),
         ]),
         createLoc("Silagiu", "sat"),
     ]),
     createOras("CIACOVA", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("CIACOVA", "oras", [
             createLoc("Cebza", "sat"),
             createLoc("Macedonia", "sat"),
@@ -17,13 +17,13 @@ $orase = [
         ]),
     ]),
     createOras("DETA", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("DETA", "oras", [
             createLoc("Opatița", "sat"),
         ]),
     ]),
     createOras("FĂGET", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("FĂGET", "oras", [
             createLoc("Bătești", "sat"),
             createLoc("Begheiu Mic", "sat"),
@@ -38,7 +38,7 @@ $orase = [
         ]),
     ]),
     createOras("GĂTAIA", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("GĂTAIA", "oras", [
             createLoc("Butin", "sat"),
             createLoc("Percosova", "sat"),
@@ -48,11 +48,11 @@ $orase = [
         ]),
     ]),
     createOras("JIMBOLIA", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("JIMBOLIA", "oras"),
     ]),
     createOras("RECAȘ", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("RECAȘ", "oras", [
             createLoc("Bazoș", "sat"),
             createLoc("Herneacova", "sat"),
@@ -63,7 +63,7 @@ $orase = [
         ]),
     ]),
     createOras("SÂNNICOLAU MARE", [
-				createAdresaCompleta("TIMIS"),
+				createAdresaCompleta("TIMIS", "TIMIS"),
         createLoc("SÂNNICOLAU MARE", "oras"),
     ]),
 ];

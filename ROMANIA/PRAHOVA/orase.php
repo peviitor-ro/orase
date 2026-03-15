@@ -1,12 +1,12 @@
 <?php
 $orase = [
     createOras("AZUGA", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("AZUGA", "oras"),
     ]),
 
     createOras("BĂICOI", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("BĂICOI", "oras"),
             createLoc("Dâmbu", "sat"),
             createLoc("Liliești", "sat"),
@@ -17,13 +17,13 @@ $orase = [
     ]),
 
     createOras("BOLDEȘTI-SCĂENI", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("BOLDEȘTI-SCĂENI", "oras"),
         createLoc("Seciu", "sat"),
     ]),
 
     createOras("BREAZA", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("BREAZA DE JOS", "oras"),
         createLoc("Breaza de Sus", "sat"),
         createLoc("Frăsinet", "sat"),
@@ -37,13 +37,13 @@ $orase = [
     ]),
 
     createOras("BUȘTENI", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("BUȘTENI", "oras"),
         createLoc("Poiana Țapului", "sat"),
     ]),
 
     createOras("COMARNIC", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("COMARNIC", "oras"),
         createLoc("Ghioșești", "sat"),
         createLoc("Podu Lung", "sat"),
@@ -52,30 +52,30 @@ $orase = [
     ]),
 
     createOras("MIZIL", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("MIZIL", "oras"),
         createLoc("Fefelei", "sat"),
     ]),
 
     createOras("PLOPENI", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("PLOPENI", "oras"),
     ]),
 
     createOras("SINAIA", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("SINAIA", "oras"),
     ]),
 
     createOras("SLĂNIC", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("SLĂNIC", "oras"),
         createLoc("Groșani", "sat"),
         createLoc("Prăjani", "sat"),
     ]),
 
     createOras("URLAȚI", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("URLAȚI", "oras"),
         createLoc("Arioneștii Noi", "sat"),
         createLoc("Arioneștii Vechi", "sat"),
@@ -96,7 +96,7 @@ $orase = [
     ]),
 
     createOras("VĂLENII DE MUNTE", [
-				createAdresaCompleta("PRAHOVA"),
+				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
         createLoc("VĂLENII DE MUNTE", "oras"),
     ]),
 ];
