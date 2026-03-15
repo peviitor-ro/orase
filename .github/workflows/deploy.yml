@@ -1,0 +1,24 @@
+name: Deploy ORASE to Pi4
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: pi4-orase
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Deploy to Pi4
+        run: |
+          cd /home/sebi/orase
+          git stash
+          git pull origin main
+          docker restart orase-api
