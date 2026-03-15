@@ -1,6 +1,7 @@
 <?php
 $orase=[
 			createOras("BROȘTENI", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("BROȘTENI", "oras",[
 						createLoc("Cotârgași", "sat"),
 											]),
@@ -18,6 +19,7 @@ $orase=[
 			                     ]),
 	
 			createOras("CAJVANA", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("CAJVANA", "oras",[
 						createLoc("Codru", "sat"),
 											]),
@@ -25,6 +27,7 @@ $orase=[
 			                     ]),
 	
 			createOras("DOLHASCA", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("DOLHASCA", "oras",[
 						createLoc("Budeni", "sat"),
 					  	createLoc("Gulia", "sat"),
@@ -38,6 +41,7 @@ $orase=[
 			                     ]),
 	
 			createOras("FRASIN", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("FRASIN", "oras",[
 						createLoc("Doroteia", "sat"),
 											]),
@@ -48,6 +52,7 @@ $orase=[
 			                     ]),
 	
 			createOras("GURA HUMORULUI", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("GURA HUMORULUI", "oras",[
 						createLoc("Doroteia", "sat"),
 											]),
@@ -58,6 +63,7 @@ $orase=[
 			                     ]),
 	
 			createOras("LITENI", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("LITENI", "oras",[
 						createLoc("Corni", "sat"),
 					  	createLoc("Roșcani", "sat"),
@@ -69,6 +75,7 @@ $orase=[
 			                     ]),
 	
 			createOras("MILIȘĂUȚI", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("MILIȘĂUȚI", "oras",[
 						createLoc("Gara", "sat"),
 											]),
@@ -79,6 +86,7 @@ $orase=[
 			                     ]),
 	
 			createOras("SALCEA", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("SALCEA", "oras",[
 						createLoc("Prelipca", "sat"),
 											]),
@@ -89,17 +97,20 @@ $orase=[
 			                     ]),
 	
 			createOras("SIRET", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("SIRET", "oras"),
 				createLoc("Mănăstioara", "sat"),
 				createLoc("Pădureni", "sat"),
 				
 			                     ]),
 			createOras("SOLCA", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("SOLCA", "oras"),
 				
 			                     ]),
 	
 			createOras("VICOVU DE SUS", [
+				createAdresaCompleta("SUCEAVA"),
 				createLoc("VICOVU DE SUS", "oras"),
 				createLoc("Bivolăria", "sat"),
 				
