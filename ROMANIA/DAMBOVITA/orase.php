@@ -10,23 +10,25 @@ $orase=[
 		createLoc("GĂEȘTI", "oras", createAdresaCompleta("orasul GĂEȘTI, judetul DÂMBOVIȚA, România")),
 	], createAdresaCompleta("orasul GĂEȘTI, judetul DÂMBOVIȚA, România")),
 	createOras("PUCIOASA", [
-		createLoc("PUCIOASA", "oras", createAdresaCompleta("orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
-		createLoc("Bela", "sat", createAdresaCompleta("sat Bela, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
-		createLoc("Diaconești", "sat", createAdresaCompleta("sat Diaconești, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
-		createLoc("Glodeni", "sat", createAdresaCompleta("sat Glodeni, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
-		createLoc("Malurile", "sat", createAdresaCompleta("sat Malurile, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
-		createLoc("Miculești", "sat", createAdresaCompleta("sat Miculești, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
-		createLoc("Pucioasa-Sat", "sat", createAdresaCompleta("sat Pucioasa-Sat, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
-	], createAdresaCompleta("orasul PUCIOASA, judetul DÂMBOVIȚA, România)),
+		createLoc("PUCIOASA", "oras", [
+			createLoc("Bela", "sat", createAdresaCompleta("sat Bela, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
+			createLoc("Diaconești", "sat", createAdresaCompleta("sat Diaconești, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
+			createLoc("Glodeni", "sat", createAdresaCompleta("sat Glodeni, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
+			createLoc("Malurile", "sat", createAdresaCompleta("sat Malurile, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
+			createLoc("Miculești", "sat", createAdresaCompleta("sat Miculești, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
+			createLoc("Pucioasa-Sat", "sat", createAdresaCompleta("sat Pucioasa-Sat, orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
+		], createAdresaCompleta("orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
+	], createAdresaCompleta("orasul PUCIOASA, judetul DÂMBOVIȚA, România")),
 	createOras("RĂCARI", [
-		createLoc("RĂCARI", "oras", createAdresaCompleta("orasul RĂCARI, judetul DÂMBOVIȚA, România")),
-		createLoc("Bălănești", "sat", createAdresaCompleta("sat Bălănești, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
-		createLoc("Colacu", "sat", createAdresaCompleta("sat Colacu, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
-		createLoc("Ghergani", "sat", createAdresaCompleta("sat Ghergani, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
-		createLoc("Ghimpați", "sat", createAdresaCompleta("sat Ghimpați, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
-		createLoc("Mavrodin", "sat", createAdresaCompleta("sat Mavrodin, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
-		createLoc("Săbiești", "sat", createAdresaCompleta("sat Săbiești, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
-		createLoc("Stănești", "sat", createAdresaCompleta("sat Stănești, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+		createLoc("RĂCARI", "oras", [
+			createLoc("Bălănești", "sat", createAdresaCompleta("sat Bălănești, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+			createLoc("Colacu", "sat", createAdresaCompleta("sat Colacu, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+			createLoc("Ghergani", "sat", createAdresaCompleta("sat Ghergani, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+			createLoc("Ghimpați", "sat", createAdresaCompleta("sat Ghimpați, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+			createLoc("Mavrodin", "sat", createAdresaCompleta("sat Mavrodin, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+			createLoc("Săbiești", "sat", createAdresaCompleta("sat Săbiești, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+			createLoc("Stănești", "sat", createAdresaCompleta("sat Stănești, orasul RĂCARI, judetul DÂMBOVIȚA, România")),
+		], createAdresaCompleta("orasul RĂCARI, judetul DÂMBOVIȚA, România")),
 	], createAdresaCompleta("orasul RĂCARI, judetul DÂMBOVIȚA, România")),
 	createOras("TITU", [
 		createLoc("TITU", "oras", [
@@ -38,5 +40,4 @@ $orase=[
 		], createAdresaCompleta("orasul TITU, judetul DÂMBOVIȚA, România")),
 	], createAdresaCompleta("orasul TITU, judetul DÂMBOVIȚA, România")),
 ];
-
 ?>
