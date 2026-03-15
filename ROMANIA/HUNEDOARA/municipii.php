@@ -2,6 +2,7 @@
 $municipii =
 	[
 		createMunicipiu("DEVA", [
+				createAdresaCompleta("HUNEDOARA"),
 			createLoc("DEVA", "oras", [
 				createLoc("Archia", "sat"),
 				createLoc("Bârcea Mică", "sat"),
@@ -10,6 +11,7 @@ $municipii =
 			createLoc("Sântuhalm", "sat")
 		]),
 		createMunicipiu("BRAD", [
+				createAdresaCompleta("HUNEDOARA"),
 			createLoc("BRAD", "oras", [
 				createLoc("Mesteacăn", "sat"),
 				createLoc("Potingani", "sat"),
@@ -19,6 +21,7 @@ $municipii =
 			]),
 		]),
 		createMunicipiu("HUNEDOARA", [
+				createAdresaCompleta("HUNEDOARA"),
 			createLoc("HUNEDOARA", "oras", [
 				createLoc("Boș", "sat"),
 				createLoc("Groș", "sat"),
@@ -28,14 +31,17 @@ $municipii =
 			createLoc("Răcăștia", "sat")
 		]),
 		createMunicipiu("LUPENI", [
+				createAdresaCompleta("HUNEDOARA"),
 			createLoc("LUPENI", "oras"),
 
 		]),
 		createMunicipiu("ORĂȘTIE", [
+				createAdresaCompleta("HUNEDOARA"),
 			createLoc("ORĂȘTIE", "oras"),
 
 		]),
 		createMunicipiu("PETROȘANI", [
+				createAdresaCompleta("HUNEDOARA"),
 			createLoc("PETROȘANI", "oras"),
 			createLoc("Dâlja Mare", "sat"),
 			createLoc("Dâlja Mică", "sat"),
@@ -44,6 +50,7 @@ $municipii =
 
 		]),
 		createMunicipiu("VULCAN", [
+				createAdresaCompleta("HUNEDOARA"),
 			createLoc("VULCAN", "oras"),
 			createLoc("Dealu Babii", "sat"),
 			createLoc("Jiu-Paroșeni", "sat"),

@@ -2,12 +2,14 @@
 $municipii =
 [
             createMunicipiu("BAIA MARE", [
+				createAdresaCompleta("MARAMURES"),
                     createLoc("BAIA MARE", "oras"),
                     createLoc("Blidari", "sat"),
                     createLoc("Firiza", "sat"),
                     createLoc("Valea Neagră", "sat"),
                 ]),
             createMunicipiu("SIGHETU MARMAȚIEI", [
+				createAdresaCompleta("MARAMURES"),
                     createLoc("SIGHETU MARMAȚIEI", "oras"),
                     createLoc("Iapa", "sat"),
                     createLoc("Lazu Baciului", "sat"),

@@ -2,6 +2,7 @@
 $orase=[
 	
 			createOras("BĂBENI", [
+				createAdresaCompleta("VALCEA"),
 			    createLoc("BĂBENI", "oras",[
 					createLoc("Bonciu", "sat"),
 					createLoc("Capu Dealului", "sat"),
@@ -12,12 +13,14 @@ $orase=[
 										]),
 			                     ]),
 			createOras("BĂILE GOVORA", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("PRAJILA", "oras"),
 				createLoc("Curăturile", "sat"),
 				createLoc("Gătejești", "sat"),
 			                     ]),	
 	
 			createOras("BĂILE OLĂNEȘTI", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("LIVADIA", "oras"),
 				createLoc("Cheia", "sat"),
 				createLoc("Comanca", "sat"),
@@ -29,6 +32,7 @@ $orase=[
 			                     ]),	
 	
 			createOras("BĂLCEȘTI", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("BĂLCEȘTI", "oras", [
 					  createLoc("Benești", "sat"),
 					  createLoc("Cârlogani", "sat"),
@@ -44,6 +48,7 @@ $orase=[
 			                     ]),	
 	
 			createOras("BERBEȘTI", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("BERBEȘTI", "oras", [
 					  createLoc("Dămțeni", "sat"),
 					  createLoc("Dealu Aluniș", "sat"),
@@ -56,6 +61,7 @@ $orase=[
 			                     ]),
 
 			createOras("BREZOI", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("BREZOI", "oras", [
 					  createLoc("Călinești", "sat"),
 					  createLoc("Corbu", "sat"),
@@ -71,6 +77,7 @@ $orase=[
 			                     ]),
 	
 			createOras("CĂLIMĂNEȘTI", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("CĂLIMĂNEȘTI", "oras"),
 				createLoc("Căciulata", "sat"),
 				createLoc("Jiblea Nouă", "sat"),
@@ -81,6 +88,7 @@ $orase=[
 			                     ]),
 	
 			createOras("HOREZU", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("HOREZU", "oras", [
 					  createLoc("Ifrimești", "sat"),
 					  createLoc("Râmești", "sat"),
@@ -94,6 +102,7 @@ $orase=[
 			                     ]),
 	
 			createOras("OCNELE MARI", [
+				createAdresaCompleta("VALCEA"),
 			    	createLoc("GURA SUHAȘULUI", "oras"),
 				createLoc("Buda", "sat"),
 				createLoc("Cosota", "sat"),

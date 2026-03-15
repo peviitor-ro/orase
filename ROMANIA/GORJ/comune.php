@@ -2,6 +2,7 @@
 $comune = [
 
     createComuna("Albeni", [
+				createAdresaCompleta("GORJ"),
         createLoc("Albeni", "sat"),
         createLoc("Bârzeiu de Gilort", "sat"),
         createLoc("Bolbocești", "sat"),
@@ -11,6 +12,7 @@ $comune = [
     ]),
 
     createComuna("Alimpești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Alimpești", "sat"),
         createLoc("Ciupercenii de Olteț", "sat"),
         createLoc("Corșoru", "sat"),
@@ -19,6 +21,7 @@ $comune = [
     ]),
 
     createComuna("Aninoasa", [
+				createAdresaCompleta("GORJ"),
         createLoc("Aninoasa", "sat"),
         createLoc("Bobaia", "sat"),
         createLoc("Costești", "sat"),
@@ -27,6 +30,7 @@ $comune = [
     ]),
 
     createComuna("Arcani", [
+				createAdresaCompleta("GORJ"),
         createLoc("Arcani", "sat"),
         createLoc("Câmpofeni", "sat"),
         createLoc("Sănătești", "sat"),
@@ -34,11 +38,13 @@ $comune = [
     ]),
 
     createComuna("Baia de Fier", [
+				createAdresaCompleta("GORJ"),
         createLoc("Baia de Fier", "sat"),
         createLoc("Cernădia", "sat")
     ]),
 
     createComuna("Bălănești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Voiteștii din Vale", "sat"),
         createLoc("Bălănești", "sat"),
         createLoc("Blidari", "sat"),
@@ -49,6 +55,7 @@ $comune = [
     ]),
 
     createComuna("Bălești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Bălești", "sat"),
         createLoc("Ceauru", "sat"),
         createLoc("Cornești", "sat"),
@@ -61,6 +68,7 @@ $comune = [
     ]),
 
     createComuna("Bărbătești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Bărbătești", "sat"),
         createLoc("Musculești", "sat"),
         createLoc("Petrești", "sat"),
@@ -68,6 +76,7 @@ $comune = [
     ]),
 
     createComuna("Bengești-Ciocadia", [
+				createAdresaCompleta("GORJ"),
         createLoc("Bengești", "sat"),
         createLoc("Bălcești", "sat"),
         createLoc("Bircii", "sat"),
@@ -75,6 +84,7 @@ $comune = [
     ]),
 
     createComuna("Berlești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Berlești", "sat"),
         createLoc("Bârzeiu", "sat"),
         createLoc("Gâlcești", "sat"),
@@ -84,6 +94,7 @@ $comune = [
         createLoc("Scurtu", "sat")
     ]),
     createComuna("Bâlteni", [
+				createAdresaCompleta("GORJ"),
         createLoc("Bâlteni", "sat"),
         createLoc("Cocoreni", "sat"),
         createLoc("Moi", "sat"),
@@ -92,6 +103,7 @@ $comune = [
     ]),
 
     createComuna("Bolboși", [
+				createAdresaCompleta("GORJ"),
         createLoc("Bolboși", "sat"),
         createLoc("Bălăcești", "sat"),
         createLoc("Bolboasa", "sat"),
@@ -102,6 +114,7 @@ $comune = [
     ]),
 
     createComuna("Borăscu", [
+				createAdresaCompleta("GORJ"),
         createLoc("Borăscu", "sat"),
         createLoc("Baniu", "sat"),
         createLoc("Calapăru", "sat"),
@@ -112,6 +125,7 @@ $comune = [
     ]),
 
     createComuna("Brănești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Brănești", "sat"),
         createLoc("Bădești", "sat"),
         createLoc("Brebenei", "sat"),
@@ -121,12 +135,14 @@ $comune = [
     ]),
 
     createComuna("Bumbești-Pițic", [
+				createAdresaCompleta("GORJ"),
         createLoc("Bumbești-Pițic", "sat"),
         createLoc("Cârligei", "sat"),
         createLoc("Poienari", "sat")
     ]),
 
     createComuna("Bustuchin", [
+				createAdresaCompleta("GORJ"),
         createLoc("Bustuchin", "sat"),
         createLoc("Cionți", "sat"),
         createLoc("Motorgi", "sat"),
@@ -138,6 +154,7 @@ $comune = [
     ]),
 
     createComuna("Căpreni", [
+				createAdresaCompleta("GORJ"),
         createLoc("Căpreni", "sat"),
         createLoc("Aluniș", "sat"),
         createLoc("Brătești", "sat"),
@@ -149,6 +166,7 @@ $comune = [
     ]),
 
     createComuna("Cătunele", [
+				createAdresaCompleta("GORJ"),
         createLoc("Cătunele", "sat"),
         createLoc("Dealu Viilor", "sat"),
         createLoc("Lupoaia", "sat"),
@@ -158,6 +176,7 @@ $comune = [
     ]),
 
     createComuna("Ciuperceni", [
+				createAdresaCompleta("GORJ"),
         createLoc("Ciuperceni", "sat"),
         createLoc("Boboiești", "sat"),
         createLoc("Peșteana-Vulcan", "sat"),
@@ -168,6 +187,7 @@ $comune = [
     ]),
 
     createComuna("Câlnic", [
+				createAdresaCompleta("GORJ"),
         createLoc("Câlnic", "sat"),
         createLoc("Câlnicu de Sus", "sat"),
         createLoc("Didilești", "sat"),
@@ -179,6 +199,7 @@ $comune = [
         createLoc("Vâlceaua", "sat")
     ]),
     createComuna("Crasna", [
+				createAdresaCompleta("GORJ"),
         createLoc("Crasna", "sat"),
         createLoc("Aninișu din Deal", "sat"),
         createLoc("Aninișu din Vale", "sat"),
@@ -191,6 +212,7 @@ $comune = [
     ]),
 
     createComuna("Crușeț", [
+				createAdresaCompleta("GORJ"),
         createLoc("Crușeț", "sat"),
         createLoc("Bojinu", "sat"),
         createLoc("Marinești", "sat"),
@@ -204,6 +226,7 @@ $comune = [
     ]),
 
     createComuna("Dănciulești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Dănciulești", "sat"),
         createLoc("Bibulești", "sat"),
         createLoc("Hălăngești", "sat"),
@@ -214,6 +237,7 @@ $comune = [
     ]),
 
     createComuna("Dănești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Dănești", "sat"),
         createLoc("Barza", "sat"),
         createLoc("Botorogi", "sat"),
@@ -228,12 +252,14 @@ $comune = [
     ]),
 
     createComuna("Drăgotești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Drăgotești", "sat"),
         createLoc("Corobăi", "sat"),
         createLoc("Trestioara", "sat")
     ]),
 
     createComuna("Drăguțești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Drăguțești", "sat"),
         createLoc("Cârbești", "sat"),
         createLoc("Dâmbova", "sat"),
@@ -243,6 +269,7 @@ $comune = [
     ]),
 
     createComuna("Fărcășești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Fărcășești", "sat"),
         createLoc("Fărcășești-Moșneni", "sat"),
         createLoc("Peșteana de Jos", "sat"),
@@ -253,6 +280,7 @@ $comune = [
     ]),
 
     createComuna("Glogova", [
+				createAdresaCompleta("GORJ"),
         createLoc("Iormănești", "sat"),
         createLoc("Cămuiești", "sat"),
         createLoc("Cleșnești", "sat"),
@@ -261,6 +289,7 @@ $comune = [
     ]),
 
     createComuna("Godinești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Godinești", "sat"),
         createLoc("Arjoci", "sat"),
         createLoc("Chiliu", "sat"),
@@ -271,6 +300,7 @@ $comune = [
     ]),
 
     createComuna("Hurezani", [
+				createAdresaCompleta("GORJ"),
         createLoc("Hurezani", "sat"),
         createLoc("Busuioci", "sat"),
         createLoc("Pegeni", "sat"),
@@ -278,6 +308,7 @@ $comune = [
         createLoc("Totea de Hurezani", "sat")
     ]),
     createComuna("Ionești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Ionești", "sat"),
         createLoc("Gura Șușiței", "sat"),
         createLoc("Iliești", "sat"),
@@ -285,6 +316,7 @@ $comune = [
     ]),
 
     createComuna("Jupânești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Jupânești", "sat"),
         createLoc("Boia", "sat"),
         createLoc("Pârâu Boia", "sat"),
@@ -293,12 +325,14 @@ $comune = [
     ]),
 
     createComuna("Lelești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Lelești", "sat"),
         createLoc("Frătești", "sat"),
         createLoc("Rasovița", "sat")
     ]),
 
     createComuna("Licurici", [
+				createAdresaCompleta("GORJ"),
         createLoc("Licurici", "sat"),
         createLoc("Frumușei", "sat"),
         createLoc("Negreni", "sat"),
@@ -306,6 +340,7 @@ $comune = [
     ]),
 
     createComuna("Logrești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Târgu Logrești", "oras"),
         createLoc("Colțești", "sat"),
         createLoc("Frunza", "sat"),
@@ -316,6 +351,7 @@ $comune = [
     ]),
 
     createComuna("Mătăsari", [
+				createAdresaCompleta("GORJ"),
         createLoc("Mătăsari", "sat"),
         createLoc("Brădet", "sat"),
         createLoc("Brădețel", "sat"),
@@ -324,6 +360,7 @@ $comune = [
     ]),
 
     createComuna("Mușetești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Mușetești", "sat"),
         createLoc("Arșeni", "sat"),
         createLoc("Bârcaciu", "sat"),
@@ -334,6 +371,7 @@ $comune = [
     ]),
 
     createComuna("Negomir", [
+				createAdresaCompleta("GORJ"),
         createLoc("Negomir", "sat"),
         createLoc("Artanu", "sat"),
         createLoc("Bohorel", "sat"),
@@ -347,6 +385,7 @@ $comune = [
     ]),
 
     createComuna("Padeș", [
+				createAdresaCompleta("GORJ"),
         createLoc("Călugăreni", "sat"),
         createLoc("Apa Neagră", "sat"),
         createLoc("Cerna-Sat", "sat"),
@@ -358,6 +397,7 @@ $comune = [
     ]),
 
     createComuna("Peștișani", [
+				createAdresaCompleta("GORJ"),
         createLoc("Peștișani", "sat"),
         createLoc("Boroșteni", "sat"),
         createLoc("Brădiceni", "sat"),
@@ -367,6 +407,7 @@ $comune = [
         createLoc("Seuca", "sat")
     ]),
     createComuna("Plopșoru", [
+				createAdresaCompleta("GORJ"),
         createLoc("Plopșoru", "sat"),
         createLoc("Broșteni", "sat"),
         createLoc("Broștenii de Sus", "sat"),
@@ -381,11 +422,13 @@ $comune = [
     ]),
 
     createComuna("Polovragi", [
+				createAdresaCompleta("GORJ"),
         createLoc("Polovragi", "sat"),
         createLoc("Racovița", "sat")
     ]),
 
     createComuna("Prigoria", [
+				createAdresaCompleta("GORJ"),
         createLoc("Prigoria", "sat"),
         createLoc("Bucșana", "sat"),
         createLoc("Burlani", "sat"),
@@ -396,6 +439,7 @@ $comune = [
     ]),
 
     createComuna("Roșia de Amaradia", [
+				createAdresaCompleta("GORJ"),
         createLoc("Roșia de Amaradia", "sat"),
         createLoc("Becheni", "sat"),
         createLoc("Dealu Viei", "sat"),
@@ -406,6 +450,7 @@ $comune = [
     ]),
 
     createComuna("Runcu", [
+				createAdresaCompleta("GORJ"),
         createLoc("Runcu", "sat"),
         createLoc("Bâlta", "sat"),
         createLoc("Bâltișoara", "sat"),
@@ -416,6 +461,7 @@ $comune = [
     ]),
 
     createComuna("Samarinești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Samarinești", "sat"),
         createLoc("Băzăvani", "sat"),
         createLoc("Boca", "sat"),
@@ -428,6 +474,7 @@ $comune = [
     ]),
 
     createComuna("Săcelu", [
+				createAdresaCompleta("GORJ"),
         createLoc("Săcelu", "sat"),
         createLoc("Blahnița de Sus", "sat"),
         createLoc("Hăiești", "sat"),
@@ -436,6 +483,7 @@ $comune = [
     ]),
 
     createComuna("Săulești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Săulești", "sat"),
         createLoc("Bibești", "sat"),
         createLoc("Dolcești", "sat"),
@@ -443,6 +491,7 @@ $comune = [
     ]),
 
     createComuna("Scoarța", [
+				createAdresaCompleta("GORJ"),
         createLoc("Scoarța", "sat"),
         createLoc("Bobu", "sat"),
         createLoc("Budieni", "sat"),
@@ -457,6 +506,7 @@ $comune = [
     ]),
 
     createComuna("Schela", [
+				createAdresaCompleta("GORJ"),
         createLoc("Sâmbotin", "sat"),
         createLoc("Arsuri", "sat"),
         createLoc("Gornăcel", "sat"),
@@ -464,6 +514,7 @@ $comune = [
         createLoc("Schela", "sat")
     ]),
     createComuna("Slivilești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Slivilești", "sat"),
         createLoc("Cojmănești", "sat"),
         createLoc("Miculești", "sat"),
@@ -475,6 +526,7 @@ $comune = [
     ]),
 
     createComuna("Stănești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Stănești", "sat"),
         createLoc("Alexeni", "sat"),
         createLoc("Bălani", "sat"),
@@ -488,6 +540,7 @@ $comune = [
     ]),
 
     createComuna("Stejari", [
+				createAdresaCompleta("GORJ"),
         createLoc("Stejari", "sat"),
         createLoc("Baloșani", "sat"),
         createLoc("Băcești", "sat"),
@@ -497,6 +550,7 @@ $comune = [
     ]),
 
     createComuna("Stoina", [
+				createAdresaCompleta("GORJ"),
         createLoc("Stoina", "sat"),
         createLoc("Ciorari", "sat"),
         createLoc("Mielușei", "sat"),
@@ -507,12 +561,14 @@ $comune = [
     ]),
 
     createComuna("Telești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Telești", "sat"),
         createLoc("Buduhala", "sat"),
         createLoc("Șomănești", "sat")
     ]),
 
     createComuna("Turburea", [
+				createAdresaCompleta("GORJ"),
         createLoc("Turburea", "sat"),
         createLoc("Cocorova", "sat"),
         createLoc("Poiana", "sat"),
@@ -521,6 +577,7 @@ $comune = [
     ]),
 
     createComuna("Turcinești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Turcinești", "sat"),
         createLoc("Cartiu", "sat"),
         createLoc("Horezu", "sat"),
@@ -528,6 +585,7 @@ $comune = [
     ]),
 
     createComuna("Țânțăreni", [
+				createAdresaCompleta("GORJ"),
         createLoc("Țânțăreni", "sat"),
         createLoc("Arpadia", "sat"),
         createLoc("Chiciora", "sat"),
@@ -535,12 +593,14 @@ $comune = [
     ]),
 
     createComuna("Urdari", [
+				createAdresaCompleta("GORJ"),
         createLoc("Urdari", "sat"),
         createLoc("Fântânele", "sat"),
         createLoc("Hotăroasa", "sat")
     ]),
 
     createComuna("Văgiulești", [
+				createAdresaCompleta("GORJ"),
         createLoc("Văgiulești", "sat"),
         createLoc("Cârciu", "sat"),
         createLoc("Covrigi", "sat"),
@@ -548,6 +608,7 @@ $comune = [
         createLoc("Valea Motrului", "sat")
     ]),
     createComuna("Vladimir", [
+				createAdresaCompleta("GORJ"),
         createLoc("Andreești", "sat"),
         createLoc("Frasin", "sat"),
         createLoc("Valea Deșului", "sat"),

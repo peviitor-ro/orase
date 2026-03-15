@@ -2,6 +2,7 @@
 $comune =[
 
 	createComuna("Andreiașu de Jos", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Andreiașu de Jos", "sat"),
         createLoc("Andreiașu de Sus", "sat"),
         createLoc("Arșița", "sat"),
@@ -12,19 +13,23 @@ $comune =[
     ]),
     
     createComuna("Bălești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Bălești", "sat")
     ]),
     
     createComuna("Bârsești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Bârsești", "sat"),
         createLoc("Topești", "sat")
     ]),
     
     createComuna("Biliești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Biliești", "sat")
     ]),
     
     createComuna("Boghești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Boghești", "sat"),
         createLoc("Bichești", "sat"),
         createLoc("Bogheștii de Sus", "sat"),
@@ -37,6 +42,7 @@ $comune =[
     ]),
     
     createComuna("Bolotești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Bolotești", "sat"),
         createLoc("Găgești", "sat"),
         createLoc("Ivăncești", "sat"),
@@ -46,17 +52,20 @@ $comune =[
     ]),
     
     createComuna("Bordești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Bordești", "sat"),
         createLoc("Bordeștii de Jos", "sat")
     ]),
     
     createComuna("Broșteni", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Broșteni", "sat"),
         createLoc("Arva", "sat"),
         createLoc("Pitulușa", "sat")
     ]),
     
     createComuna("Chiojdeni", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Chiojdeni", "sat"),
         createLoc("Cătăuți", "sat"),
         createLoc("Lojnița", "sat"),
@@ -68,6 +77,7 @@ $comune =[
     ]),
     
     createComuna("Ciorăști", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Ciorăști", "sat"),
         createLoc("Codrești", "sat"),
         createLoc("Mihălceni", "sat"),
@@ -77,12 +87,14 @@ $comune =[
         createLoc("Spătăreasa", "sat")
     ]),
     createComuna("Câmpineanca", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Câmpineanca", "sat"),
         createLoc("Pietroasa", "sat"),
         createLoc("Vâlcele", "sat")
     ]),
     
     createComuna("Câmpuri", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Câmpuri", "sat"),
         createLoc("Fetești", "sat"),
         createLoc("Gura Văii", "sat"),
@@ -91,6 +103,7 @@ $comune =[
     ]),
     
     createComuna("Cârligele", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Cârligele", "sat"),
         createLoc("Blidari", "sat"),
         createLoc("Bonțești", "sat"),
@@ -98,6 +111,7 @@ $comune =[
     ]),
     
     createComuna("Corbița", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Șerbănești", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Corbița", "sat"),
@@ -110,6 +124,7 @@ $comune =[
     ]),
     
     createComuna("Cotești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Cotești", "sat"),
         createLoc("Budești", "sat"),
         createLoc("Goleștii de Sus", "sat"),
@@ -117,6 +132,7 @@ $comune =[
     ]),
     
     createComuna("Dumbrăveni", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Dumbrăveni", "sat"),
         createLoc("Alexandru Vlahuță", "sat"),
         createLoc("Cândești", "sat"),
@@ -124,6 +140,7 @@ $comune =[
     ]),
     
     createComuna("Dumitrești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Dumitrești", "sat"),
         createLoc("Biceștii de Jos", "sat"),
         createLoc("Biceștii de Sus", "sat"),
@@ -143,6 +160,7 @@ $comune =[
     ]),
     
     createComuna("Fitionești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Fitionești", "sat"),
         createLoc("Ciolănești", "sat"),
         createLoc("Ghimicești", "sat"),
@@ -151,6 +169,7 @@ $comune =[
     ]),
     
     createComuna("Garoafa", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Garoafa", "sat"),
         createLoc("Bizighești", "sat"),
         createLoc("Ciușlea", "sat"),
@@ -162,19 +181,23 @@ $comune =[
     ]),
     
     createComuna("Golești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Golești", "sat"),
         createLoc("Ceardac", "sat")
     ]),
     createComuna("Gologanu", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Gologanu", "sat")
     ]),
     
     createComuna("Gugești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Gugești", "sat"),
         createLoc("Oreavu", "sat")
     ]),
     
     createComuna("Gura Caliței", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Gura Caliței", "sat"),
         createLoc("Bălănești", "sat"),
         createLoc("Cocoșari", "sat"),
@@ -188,12 +211,14 @@ $comune =[
     ]),
     
     createComuna("Homocea", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Homocea", "sat"),
         createLoc("Costișa", "sat"),
         createLoc("Lespezi", "sat")
     ]),
     
     createComuna("Jariștea", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Jariștea", "sat"),
         createLoc("Pădureni", "sat"),
         createLoc("Scânteia", "sat"),
@@ -201,6 +226,7 @@ $comune =[
     ]),
     
     createComuna("Jitia", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Jitia", "sat"),
         createLoc("Cerbu", "sat"),
         createLoc("Dealu Sării", "sat"),
@@ -209,6 +235,7 @@ $comune =[
     ]),
     
     createComuna("Măicănești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Măicănești", "sat"),
         createLoc("Belciugele", "sat"),
         createLoc("Râmniceni", "sat"),
@@ -218,6 +245,7 @@ $comune =[
     ]),
     
     createComuna("Mera", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Mera", "sat"),
         createLoc("Livada", "sat"),
         createLoc("Milcovel", "sat"),
@@ -226,11 +254,13 @@ $comune =[
     ]),
     
     createComuna("Milcovul", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Milcovul", "sat"),
         createLoc("Lămotești", "sat")
     ]),
     
     createComuna("Movilița", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Movilița", "sat"),
         createLoc("Diocheți-Rediu", "sat"),
         createLoc("Frecăței", "sat"),
@@ -238,12 +268,14 @@ $comune =[
         createLoc("Văleni", "sat")
     ]),
     createComuna("Nănești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Nănești", "sat"),
         createLoc("Călienii Noi", "sat"),
         createLoc("Călienii Vechi", "sat")
     ]),
     
     createComuna("Năruja", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Năruja", "sat"),
         createLoc("Podu Nărujei", "sat"),
         createLoc("Podu Stoica", "sat"),
@@ -251,10 +283,12 @@ $comune =[
     ]),
     
     createComuna("Negrilești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Negrilești", "sat")
     ]),
     
     createComuna("Nereju", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Nereju", "sat"),
         createLoc("Brădăcești", "sat"),
         createLoc("Chiricani", "sat"),
@@ -263,6 +297,7 @@ $comune =[
     ]),
     
     createComuna("Nistorești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Nistorești", "sat"),
         createLoc("Bâtcari", "sat"),
         createLoc("Brădetu", "sat"),
@@ -275,10 +310,12 @@ $comune =[
     ]),
     
     createComuna("Obrejița", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Obrejița", "sat")
     ]),
     
     createComuna("Paltin", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Paltin", "sat"),
         createLoc("Ghebari", "sat"),
         createLoc("Prahuda", "sat"),
@@ -287,20 +324,24 @@ $comune =[
     ]),
     
     createComuna("Păulești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Păulești", "sat"),
         createLoc("Hăulișca", "sat")
     ]),
     
     createComuna("Păunești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Păunești", "sat"),
         createLoc("Viișoara", "sat")
     ]),
     
     createComuna("Ploscuțeni", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Ploscuțeni", "sat"),
         createLoc("Argea", "sat")
     ]),
     createComuna("Poiana Cristei", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Poiana Cristei", "sat"),
         createLoc("Dealu Cucului", "sat"),
         createLoc("Dumbrava", "sat"),
@@ -312,11 +353,13 @@ $comune =[
     ]),
     
     createComuna("Popești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Popești", "sat"),
         createLoc("Terchești", "sat")
     ]),
     
     createComuna("Pufești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Pufești", "sat"),
         createLoc("Ciorani", "sat"),
         createLoc("Domnești-Sat", "sat"),
@@ -324,6 +367,7 @@ $comune =[
     ]),
     
     createComuna("Răcoasa", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Răcoasa", "sat"),
         createLoc("Gogoiu", "sat"),
         createLoc("Mărăști", "sat"),
@@ -332,10 +376,12 @@ $comune =[
     ]),
     
     createComuna("Răstoaca", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Răstoaca", "sat")
     ]),
     
     createComuna("Reghiu", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Reghiu", "sat"),
         createLoc("Farcaș", "sat"),
         createLoc("Jgheaburi", "sat"),
@@ -347,6 +393,7 @@ $comune =[
     ]),
     
     createComuna("Ruginești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Ruginești", "sat"),
         createLoc("Anghelești", "sat"),
         createLoc("Copăcești", "sat"),
@@ -354,6 +401,7 @@ $comune =[
     ]),
     
     createComuna("Sihlea", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Sihlea", "sat"),
         createLoc("Bogza", "sat"),
         createLoc("Căiata", "sat"),
@@ -361,6 +409,7 @@ $comune =[
     ]),
     
     createComuna("Slobozia Bradului", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Slobozia Bradului", "sat"),
         createLoc("Cornetu", "sat"),
         createLoc("Coroteni", "sat"),
@@ -370,16 +419,19 @@ $comune =[
     ]),
     
     createComuna("Slobozia Ciorăști", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Slobozia Ciorăști", "sat"),
         createLoc("Armeni", "sat"),
         createLoc("Jiliște", "sat")
     ]),
     createComuna("Soveja", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Dragosloveni", "sat"),
         createLoc("Rucăreni", "sat")
     ]),
     
     createComuna("Spulber", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Spulber", "sat"),
         createLoc("Carșochești-Corăbița", "sat"),
         createLoc("Morărești", "sat"),
@@ -390,6 +442,7 @@ $comune =[
     ]),
     
     createComuna("Străoane", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Străoane", "sat"),
         createLoc("Muncelu", "sat"),
         createLoc("Repedea", "sat"),
@@ -397,10 +450,12 @@ $comune =[
     ]),
     
     createComuna("Suraia", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Suraia", "sat")
     ]),
     
     createComuna("Tănăsoaia", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Tănăsoaia", "sat"),
         createLoc("Călimăneasa", "sat"),
         createLoc("Costișa", "sat"),
@@ -414,6 +469,7 @@ $comune =[
     ]),
     
     createComuna("Tătăranu", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Tătăranu", "sat"),
         createLoc("Bordeasca Nouă", "sat"),
         createLoc("Bordeasca Veche", "sat"),
@@ -422,6 +478,7 @@ $comune =[
     ]),
     
     createComuna("Tâmboești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Tâmboești", "sat"),
         createLoc("Pădureni", "sat"),
         createLoc("Pietroasa", "sat"),
@@ -430,6 +487,7 @@ $comune =[
     ]),
     
     createComuna("Tulnici", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Tulnici", "sat"),
         createLoc("Coza", "sat"),
         createLoc("Greșu", "sat"),
@@ -437,6 +495,7 @@ $comune =[
     ]),
     
     createComuna("Țifești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Țifești", "sat"),
         createLoc("Bătinești", "sat"),
         createLoc("Clipicești", "sat"),
@@ -448,9 +507,11 @@ $comune =[
     ]),
     
     createComuna("Urechești", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Urechești", "sat")
     ]),
     createComuna("Valea Sării", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Valea Sării", "sat"),
         createLoc("Colacu", "sat"),
         createLoc("Mătăcina", "sat"),
@@ -459,6 +520,7 @@ $comune =[
     ]),
     
     createComuna("Vidra", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Vidra", "sat"),
         createLoc("Burca", "sat"),
         createLoc("Irești", "sat"),
@@ -471,6 +533,7 @@ $comune =[
     ]),
     
     createComuna("Vintileasca", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Vintileasca", "sat"),
         createLoc("Bahnele", "sat"),
         createLoc("După Măgura", "sat"),
@@ -480,6 +543,7 @@ $comune =[
     ]),
     
     createComuna("Vizantea-Livezi", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Livezile", "sat"),
         createLoc("Mesteacănu", "sat"),
         createLoc("Piscu Radului", "sat"),
@@ -488,6 +552,7 @@ $comune =[
     ]),
     
     createComuna("Vânători", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Vânători", "sat"),
         createLoc("Balta Raței", "sat"),
         createLoc("Jorăști", "sat"),
@@ -498,6 +563,7 @@ $comune =[
     ]),
     
     createComuna("Vârteșcoiu", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Vârteșcoiu", "sat"),
         createLoc("Beciu", "sat"),
         createLoc("Faraoanele", "sat"),
@@ -507,6 +573,7 @@ $comune =[
     ]),
     
     createComuna("Vrâncioaia", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Vrâncioaia", "sat"),
         createLoc("Bodești", "sat"),
         createLoc("Muncei", "sat"),
@@ -516,6 +583,7 @@ $comune =[
     ]),
     
     createComuna("Vulturu", [
+				createAdresaCompleta("VRANCEA"),
         createLoc("Vulturu", "sat"),
         createLoc("Boțârlău", "sat"),
         createLoc("Hângulești", "sat"),

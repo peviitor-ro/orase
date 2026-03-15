@@ -1,10 +1,12 @@
 <?php
 $orase = [
     createOras("AZUGA", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("AZUGA", "oras"),
     ]),
 
     createOras("BĂICOI", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("BĂICOI", "oras"),
             createLoc("Dâmbu", "sat"),
             createLoc("Liliești", "sat"),
@@ -15,11 +17,13 @@ $orase = [
     ]),
 
     createOras("BOLDEȘTI-SCĂENI", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("BOLDEȘTI-SCĂENI", "oras"),
         createLoc("Seciu", "sat"),
     ]),
 
     createOras("BREAZA", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("BREAZA DE JOS", "oras"),
         createLoc("Breaza de Sus", "sat"),
         createLoc("Frăsinet", "sat"),
@@ -33,11 +37,13 @@ $orase = [
     ]),
 
     createOras("BUȘTENI", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("BUȘTENI", "oras"),
         createLoc("Poiana Țapului", "sat"),
     ]),
 
     createOras("COMARNIC", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("COMARNIC", "oras"),
         createLoc("Ghioșești", "sat"),
         createLoc("Podu Lung", "sat"),
@@ -46,25 +52,30 @@ $orase = [
     ]),
 
     createOras("MIZIL", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("MIZIL", "oras"),
         createLoc("Fefelei", "sat"),
     ]),
 
     createOras("PLOPENI", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("PLOPENI", "oras"),
     ]),
 
     createOras("SINAIA", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("SINAIA", "oras"),
     ]),
 
     createOras("SLĂNIC", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("SLĂNIC", "oras"),
         createLoc("Groșani", "sat"),
         createLoc("Prăjani", "sat"),
     ]),
 
     createOras("URLAȚI", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("URLAȚI", "oras"),
         createLoc("Arioneștii Noi", "sat"),
         createLoc("Arioneștii Vechi", "sat"),
@@ -85,6 +96,7 @@ $orase = [
     ]),
 
     createOras("VĂLENII DE MUNTE", [
+				createAdresaCompleta("PRAHOVA"),
         createLoc("VĂLENII DE MUNTE", "oras"),
     ]),
 ];

@@ -2,6 +2,7 @@
 $comune =[
 
 	createComuna("Albești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Albești", "sat"),
         createLoc("Corni-Albești", "sat"),
         createLoc("Crasna", "sat"),
@@ -9,6 +10,7 @@ $comune =[
     ]),
     
     createComuna("Alexandru Vlahuță", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Alexandru Vlahuță", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Ghicani", "sat"),
@@ -16,6 +18,7 @@ $comune =[
     ]),
     
     createComuna("Arsura", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Arsura", "sat"),
         createLoc("Fundătura", "sat"),
         createLoc("Mihail Kogălniceanu", "sat"),
@@ -23,6 +26,7 @@ $comune =[
     ]),
     
     createComuna("Banca", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Gara Banca", "sat"),
         createLoc("Banca", "sat"),
         createLoc("Ghermănești", "sat"),
@@ -38,6 +42,7 @@ $comune =[
     ]),
     
     createComuna("Băcani", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Băcani", "sat"),
         createLoc("Băltățeni", "sat"),
         createLoc("Drujești", "sat"),
@@ -46,6 +51,7 @@ $comune =[
     ]),
     
     createComuna("Băcești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Băcești", "sat"),
         createLoc("Armășeni", "sat"),
         createLoc("Băbușa", "sat"),
@@ -55,12 +61,14 @@ $comune =[
     ]),
     
     createComuna("Bălteni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Bălteni", "sat"),
         createLoc("Bălteni-Deal", "sat"),
         createLoc("Chetrești", "sat")
     ]),
     
     createComuna("Berezeni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Berezeni", "sat"),
         createLoc("Mușata", "sat"),
         createLoc("Rânceni", "sat"),
@@ -69,12 +77,14 @@ $comune =[
     ]),
     
     createComuna("Blăgești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Blăgești", "sat"),
         createLoc("Igești", "sat"),
         createLoc("Sipeni", "sat")
     ]),
     
     createComuna("Bogdana", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Bogdana", "sat"),
         createLoc("Arșița", "sat"),
         createLoc("Fântâna Blănarului", "sat"),
@@ -86,6 +96,7 @@ $comune =[
         createLoc("Verdeș", "sat")
     ]),
     createComuna("Bogdănești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Bogdănești", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Horoiata", "sat"),
@@ -98,6 +109,7 @@ $comune =[
     ]),
     
     createComuna("Bogdănița", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Bogdănița", "sat"),
         createLoc("Cepești", "sat"),
         createLoc("Cârțibași", "sat"),
@@ -108,6 +120,7 @@ $comune =[
     ]),
     
     createComuna("Boțești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Boțești", "sat"),
         createLoc("Gănești", "sat"),
         createLoc("Gugești", "sat"),
@@ -115,6 +128,7 @@ $comune =[
     ]),
     
     createComuna("Bunești-Averești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Averești", "sat"),
         createLoc("Armășeni", "sat"),
         createLoc("Bunești", "sat"),
@@ -125,6 +139,7 @@ $comune =[
     ]),
     
     createComuna("Ciocani", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Ciocani", "sat"),
         createLoc("Crâng", "sat"),
         createLoc("Crângu Nou", "sat"),
@@ -132,6 +147,7 @@ $comune =[
     ]),
     
     createComuna("Codăești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Codăești", "sat"),
         createLoc("Ghergheleu", "sat"),
         createLoc("Pribești", "sat"),
@@ -139,6 +155,7 @@ $comune =[
     ]),
     
     createComuna("Coroiești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Coroiești", "sat"),
         createLoc("Chilieni", "sat"),
         createLoc("Coroieștii de Sus", "sat"),
@@ -149,6 +166,7 @@ $comune =[
     ]),
     
     createComuna("Costești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Costești", "sat"),
         createLoc("Chițcani", "sat"),
         createLoc("Dinga", "sat"),
@@ -158,6 +176,7 @@ $comune =[
     ]),
     
     createComuna("Cozmești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Bălești", "sat"),
         createLoc("Cozmești", "sat"),
         createLoc("Fâstâci", "sat"),
@@ -165,12 +184,14 @@ $comune =[
     ]),
     
     createComuna("Crețești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Crețești", "sat"),
         createLoc("Budești", "sat"),
         createLoc("Crețeștii de Sus", "sat"),
         createLoc("Satu Nou", "sat")
     ]),
     createComuna("Dănești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Dănești", "sat"),
         createLoc("Bereasa", "sat"),
         createLoc("Boțoaia", "sat"),
@@ -180,6 +201,7 @@ $comune =[
     ]),
     
     createComuna("Deleni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Deleni", "sat"),
         createLoc("Bulboaca", "sat"),
         createLoc("Moreni", "sat"),
@@ -187,6 +209,7 @@ $comune =[
     ]),
     
     createComuna("Delești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Delești", "sat"),
         createLoc("Albești", "sat"),
         createLoc("Fundătura", "sat"),
@@ -196,6 +219,7 @@ $comune =[
     ]),
     
     createComuna("Dimitrie Cantemir", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Hurdugi", "sat"),
         createLoc("Grumezoaia", "sat"),
         createLoc("Gușiței", "sat"),
@@ -204,11 +228,13 @@ $comune =[
     ]),
     
     createComuna("Dodești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Dodești", "sat"),
         createLoc("Urdești", "sat")
     ]),
     
     createComuna("Dragomirești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Dragomirești", "sat"),
         createLoc("Băbuța", "sat"),
         createLoc("Belzeni", "sat"),
@@ -224,6 +250,7 @@ $comune =[
     ]),
     
     createComuna("Drânceni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Ghermănești", "sat"),
         createLoc("Albița", "sat"),
         createLoc("Băile Drânceni", "sat"),
@@ -233,6 +260,7 @@ $comune =[
     ]),
     
     createComuna("Duda-Epureni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Epureni", "sat"),
         createLoc("Bobești", "sat"),
         createLoc("Duda", "sat"),
@@ -240,6 +268,7 @@ $comune =[
     ]),
     
     createComuna("Dumești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Dumești", "sat"),
         createLoc("Dumeștii Vechi", "sat"),
         createLoc("Schinetea", "sat"),
@@ -247,12 +276,14 @@ $comune =[
     ]),
     
     createComuna("Epureni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Epureni", "sat"),
         createLoc("Bârlălești", "sat"),
         createLoc("Bursuci", "sat"),
         createLoc("Horga", "sat")
     ]),
     createComuna("Fălciu", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Fălciu", "sat"),
         createLoc("Bogdănești", "sat"),
         createLoc("Bozia", "sat"),
@@ -262,15 +293,18 @@ $comune =[
     ]),
     
     createComuna("Ferești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Ferești", "sat")
     ]),
     
     createComuna("Fruntișeni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Fruntișeni", "sat"),
         createLoc("Grăjdeni", "sat")
     ]),
     
     createComuna("Găgești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Găgești", "sat"),
         createLoc("Giurcani", "sat"),
         createLoc("Peicani", "sat"),
@@ -279,6 +313,7 @@ $comune =[
     ]),
     
     createComuna("Gherghești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Gherghești", "sat"),
         createLoc("Chetrosu", "sat"),
         createLoc("Corodești", "sat"),
@@ -291,6 +326,7 @@ $comune =[
     ]),
     
     createComuna("Gârceni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Gârceni", "sat"),
         createLoc("Dumbrăveni", "sat"),
         createLoc("Racova", "sat"),
@@ -300,12 +336,14 @@ $comune =[
     ]),
     
     createComuna("Grivița", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Grivița", "sat"),
         createLoc("Odaia Bursucani", "sat"),
         createLoc("Trestiana", "sat")
     ]),
     
     createComuna("Hoceni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Hoceni", "sat"),
         createLoc("Barboși", "sat"),
         createLoc("Deleni", "sat"),
@@ -316,6 +354,7 @@ $comune =[
     ]),
     
     createComuna("Iana", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Iana", "sat"),
         createLoc("Hălărești", "sat"),
         createLoc("Recea", "sat"),
@@ -324,11 +363,13 @@ $comune =[
     ]),
     
     createComuna("Ibănești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Ibănești", "sat"),
         createLoc("Mânzați", "sat"),
         createLoc("Puțu Olarului", "sat")
     ]),
     createComuna("Ivănești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Ivănești", "sat"),
         createLoc("Albina", "sat"),
         createLoc("Bleșca", "sat"),
@@ -346,10 +387,12 @@ $comune =[
     ]),
     
     createComuna("Ivești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Ivești", "sat")
     ]),
     
     createComuna("Laza", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Laza", "sat"),
         createLoc("Bejenești", "sat"),
         createLoc("Râșnița", "sat"),
@@ -357,6 +400,7 @@ $comune =[
     ]),
     
     createComuna("Lipovăț", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Lipovăț", "sat"),
         createLoc("Căpușneni", "sat"),
         createLoc("Chițoc", "sat"),
@@ -365,6 +409,7 @@ $comune =[
     ]),
     
     createComuna("Lunca Banului", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Lunca Banului", "sat"),
         createLoc("Broscoșești", "sat"),
         createLoc("Condrea", "sat"),
@@ -375,6 +420,7 @@ $comune =[
     ]),
     
     createComuna("Mălușteni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Mălușteni", "sat"),
         createLoc("Ghireasca", "sat"),
         createLoc("Lupești", "sat"),
@@ -384,12 +430,14 @@ $comune =[
     ]),
     
     createComuna("Miclești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Miclești", "sat"),
         createLoc("Chircești", "sat"),
         createLoc("Popești", "sat")
     ]),
     
     createComuna("Muntenii de Jos", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Muntenii de Jos", "sat"),
         createLoc("Băcăoani", "sat"),
         createLoc("Mânjești", "sat"),
@@ -397,11 +445,13 @@ $comune =[
     ]),
     
     createComuna("Muntenii de Sus", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Muntenii de Sus", "sat"),
         createLoc("Satu Nou", "sat")
     ]),
     
     createComuna("Oltenești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Oltenești", "sat"),
         createLoc("Curteni", "sat"),
         createLoc("Pâhna", "sat"),
@@ -410,6 +460,7 @@ $comune =[
         createLoc("Zgura", "sat")
     ]),
     createComuna("Oșești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Oșești", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Pădureni", "sat"),
@@ -417,6 +468,7 @@ $comune =[
     ]),
     
     createComuna("Pădureni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Pădureni", "sat"),
         createLoc("Căpotești", "sat"),
         createLoc("Davidești", "sat"),
@@ -428,10 +480,12 @@ $comune =[
     ]),
     
     createComuna("Perieni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Perieni", "sat")
     ]),
     
     createComuna("Pochidia", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Pochidia", "sat"),
         createLoc("Borodești", "sat"),
         createLoc("Satu Nou", "sat"),
@@ -439,6 +493,7 @@ $comune =[
     ]),
     
     createComuna("Pogana", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Pogana", "sat"),
         createLoc("Bogești", "sat"),
         createLoc("Cârjoani", "sat"),
@@ -447,12 +502,14 @@ $comune =[
     ]),
     
     createComuna("Pogonești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Pogonești", "sat"),
         createLoc("Belcești", "sat"),
         createLoc("Polocin", "sat")
     ]),
     
     createComuna("Poienești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Poienești", "sat"),
         createLoc("Dealu Secării", "sat"),
         createLoc("Florești", "sat"),
@@ -463,6 +520,7 @@ $comune =[
     ]),
     
     createComuna("Puiești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Puiești", "sat"),
         createLoc("Bărtăluș-Mocani", "sat"),
         createLoc("Bărtăluș-Răzeși", "sat"),
@@ -479,6 +537,7 @@ $comune =[
     ]),
     
     createComuna("Pungești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Pungești", "sat"),
         createLoc("Armășoaia", "sat"),
         createLoc("Cursești-Deal", "sat"),
@@ -491,16 +550,19 @@ $comune =[
     ]),
     
     createComuna("Pușcași", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Pușcași", "sat"),
         createLoc("Poiana lui Alexa", "sat"),
         createLoc("Teișoru", "sat"),
         createLoc("Valea Târgului", "sat")
     ]),
     createComuna("Rafaila", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Rafaila", "sat")
     ]),
     
     createComuna("Rebricea", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Rebricea", "sat"),
         createLoc("Bolați", "sat"),
         createLoc("Crăciunești", "sat"),
@@ -513,6 +575,7 @@ $comune =[
     ]),
     
     createComuna("Roșiești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Roșiești", "sat"),
         createLoc("Codreni", "sat"),
         createLoc("Gara Roșiești", "sat"),
@@ -523,6 +586,7 @@ $comune =[
     ]),
     
     createComuna("Solești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Solești", "sat"),
         createLoc("Boușori", "sat"),
         createLoc("Iaz", "sat"),
@@ -533,6 +597,7 @@ $comune =[
     ]),
     
     createComuna("Stănilești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Stănilești", "sat"),
         createLoc("Bogdana-Voloseni", "sat"),
         createLoc("Budu Cantemir", "sat"),
@@ -543,6 +608,7 @@ $comune =[
     ]),
     
     createComuna("Ștefan cel Mare", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Ștefan cel Mare", "sat"),
         createLoc("Bârzești", "sat"),
         createLoc("Brăhășoaia", "sat"),
@@ -553,6 +619,7 @@ $comune =[
     ]),
     
     createComuna("Șuletea", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Șuletea", "sat"),
         createLoc("Fedești", "sat"),
         createLoc("Jigălia", "sat"),
@@ -560,11 +627,13 @@ $comune =[
     ]),
     
     createComuna("Tanacu", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Tanacu", "sat"),
         createLoc("Benești", "sat")
     ]),
     
     createComuna("Tăcuta", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Tăcuta", "sat"),
         createLoc("Cujba", "sat"),
         createLoc("Dumasca", "sat"),
@@ -575,6 +644,7 @@ $comune =[
     ]),
     
     createComuna("Tătărăni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Tătărăni", "sat"),
         createLoc("Bălțați", "sat"),
         createLoc("Crăsnășeni", "sat"),
@@ -586,6 +656,7 @@ $comune =[
         createLoc("Valea Seacă", "sat")
     ]),
     createComuna("Todirești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Todirești", "sat"),
         createLoc("Cotic", "sat"),
         createLoc("Drăgești", "sat"),
@@ -598,6 +669,7 @@ $comune =[
     ]),
     
     createComuna("Tutova", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Tutova", "sat"),
         createLoc("Bădeana", "sat"),
         createLoc("Ciortolom", "sat"),
@@ -607,16 +679,19 @@ $comune =[
     ]),
     
     createComuna("Văleni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Văleni", "sat"),
         createLoc("Moara Domnească", "sat")
     ]),
     
     createComuna("Vetrișoaia", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Vetrișoaia", "sat"),
         createLoc("Bumbăta", "sat")
     ]),
     
     createComuna("Viișoara", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Viișoara", "sat"),
         createLoc("Halta Dodești", "sat"),
         createLoc("Văleni", "sat"),
@@ -624,6 +699,7 @@ $comune =[
     ]),
     
     createComuna("Vinderei", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Vinderei", "sat"),
         createLoc("Brădești", "sat"),
         createLoc("Docani", "sat"),
@@ -635,6 +711,7 @@ $comune =[
     ]),
     
     createComuna("Voinești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Voinești", "sat"),
         createLoc("Avrămești", "sat"),
         createLoc("Băncești", "sat"),
@@ -649,6 +726,7 @@ $comune =[
     ]),
     
     createComuna("Vulturești", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Vulturești", "sat"),
         createLoc("Buhăiești", "sat"),
         createLoc("Podeni", "sat"),
@@ -656,12 +734,14 @@ $comune =[
     ]),
     
     createComuna("Vutcani", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Vutcani", "sat"),
         createLoc("Mălăiești", "sat"),
         createLoc("Poșta Elan", "sat")
     ]),
     
     createComuna("Zăpodeni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Zăpodeni", "sat"),
         createLoc("Butucăria", "sat"),
         createLoc("Ciofeni", "sat"),
@@ -674,6 +754,7 @@ $comune =[
     ]),
     
     createComuna("Zorleni", [
+				createAdresaCompleta("VASLUI"),
         createLoc("Zorleni", "sat"),
         createLoc("Dealu Mare", "sat"),
         createLoc("Popeni", "sat"),
