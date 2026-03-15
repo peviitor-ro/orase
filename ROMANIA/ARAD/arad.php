@@ -1,8 +1,8 @@
 <?php
 
-require_once 'municipiiarad.php';
-require_once 'orasearad.php';
-require_once 'comunearad.php';
+require_once 'municipii.php';
+require_once 'orase.php';
+require_once 'comune.php';
 
 $arad =
 createJudet(

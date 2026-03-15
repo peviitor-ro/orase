@@ -1,8 +1,8 @@
 <?php
 
-require_once 'municipiiarges.php';
-require_once 'orasearges.php';
-require_once 'comunearges.php';
+require_once 'municipii.php';
+require_once 'orase.php';
+require_once 'comune.php';
 
 $arges =
 createJudet(
