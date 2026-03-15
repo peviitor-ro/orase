@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: pi4-orase
+    runs-on: self-hosted
 
     steps:
       - name: Checkout code
