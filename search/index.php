@@ -118,11 +118,13 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         preg_match($pattern, $content, $adrMatch);
         $judetFromAdr = isset($adrMatch[1]) ? removeDiacritics(strtolower($adrMatch[1])) : '';
 
+        $isJudetSearch = ($queryNormalized === $judetFromAdr);
+
         $pattern = '/create(Oras|Municipiu)\("([^"]+)"/iu';
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[2] as $orasName) {
                 $orasNameNormalized = removeDiacritics(strtolower($orasName));
-                if ($orasNameNormalized === $queryNormalized || $queryNormalized === $judetFromAdr) {
+                if ($orasNameNormalized === $queryNormalized || $isJudetSearch) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $oraseResults[] = [
                         'nume' => $orasName,
@@ -142,11 +144,13 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         preg_match($pattern, $content, $adrMatch);
         $judetFromAdr = isset($adrMatch[1]) ? removeDiacritics(strtolower($adrMatch[1])) : '';
 
+        $isJudetSearch = ($queryNormalized === $judetFromAdr);
+
         $pattern = '/createComuna\("([^"]+)"/iu';
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[1] as $comunaName) {
                 $comunaNameNormalized = removeDiacritics(strtolower($comunaName));
-                if ($comunaNameNormalized === $queryNormalized || $queryNormalized === $judetFromAdr) {
+                if ($comunaNameNormalized === $queryNormalized || $isJudetSearch) {
                     $comuneResults[] = [
                         'nume' => $comunaName,
                         'tip' => 'comuna',
