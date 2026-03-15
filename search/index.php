@@ -5,10 +5,17 @@ header("Content-Type: application/json");
 include_once __DIR__ . '/../util/functions.php';
 
 $query = isset($_GET['q']) ? trim($_GET['q']) : '';
+$judetFilter = isset($_GET['judet']) ? trim($_GET['judet']) : null;
 
 if (empty($query)) {
     echo json_encode(["error" => "Parametrul 'q' este obligatoriu"], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     exit;
+}
+
+// Normalize judet filter if provided
+$judetFilterUpper = null;
+if ($judetFilter !== null) {
+    $judetFilterUpper = strtoupper(removeDiacritics($judetFilter));
 }
 
 $judeteMap = [
@@ -179,6 +186,27 @@ foreach ($judeteResults as $j) {
 // Add other results
 foreach ($results as $r) {
     $allResults[] = $r;
+}
+
+// Filter by judet if provided
+if ($judetFilterUpper !== null) {
+    $filteredResults = [];
+    foreach ($allResults as $r) {
+        if ($r['type'] === 'judet') {
+            $judetNameUpper = strtoupper(removeDiacritics($r['data']['nume']));
+            $judetDiacUpper = strtoupper(removeDiacritics($r['data']['numeDiacritice'] ?? $r['data']['nume']));
+            if ($judetNameUpper === $judetFilterUpper || $judetDiacUpper === $judetFilterUpper) {
+                $filteredResults[] = $r;
+            }
+        } else {
+            $resultJudetName = strtoupper(removeDiacritics($r['data']['judet']['nume']));
+            $resultJudetDiac = strtoupper(removeDiacritics($r['data']['judet']['numeDiacritice'] ?? $r['data']['judet']['nume']));
+            if ($resultJudetName === $judetFilterUpper || $resultJudetDiac === $judetFilterUpper) {
+                $filteredResults[] = $r;
+            }
+        }
+    }
+    $allResults = $filteredResults;
 }
 
 if (count($allResults) === 0) {
