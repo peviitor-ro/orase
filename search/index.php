@@ -2,7 +2,18 @@
 header("Access-Control-Allow-Origin: *");
 header("Content-Type: application/json");
 
+function removeDiacritics($text) {
+    $diacritics = [
+        'ă' => 'a', 'â' => 'a', 'ș' => 's', 'ț' => 't', 'î' => 'i',
+        'Ă' => 'A', 'Â' => 'A', 'Ș' => 'S', 'Ț' => 'T', 'Î' => 'I',
+        'á' => 'a', 'é' => 'e', 'í' => 'i', 'ó' => 'o', 'ú' => 'u',
+        'Á' => 'A', 'É' => 'E', 'Í' => 'I', 'Ó' => 'O', 'Ú' => 'U'
+    ];
+    return strtr($text, $diacritics);
+}
+
 $query = isset($_GET['q']) ? strtolower(trim($_GET['q'])) : '';
+$queryNormalized = removeDiacritics($query);
 
 if (empty($query)) {
     echo json_encode(["error" => "Parametrul 'q' este obligatoriu"], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
@@ -56,9 +67,11 @@ $judete = [
 
 $judeteResults = [];
 foreach ($judete as $judet) {
+    $numeNormalized = removeDiacritics(strtolower($judet['nume']));
+    $numeDiacriticeNormalized = removeDiacritics(strtolower($judet['numeDiacritice']));
     if (
-        strpos(strtolower($judet['nume']), $query) !== false ||
-        strpos(strtolower($judet['numeDiacritice']), $query) !== false ||
+        strpos($numeNormalized, $queryNormalized) !== false ||
+        strpos($numeDiacriticeNormalized, $queryNormalized) !== false ||
         strpos(strtolower($judet['cod']), $query) !== false
     ) {
         $judeteResults[] = $judet;
@@ -85,11 +98,14 @@ $judeteFolderMap = [
 ];
 
 $oraseResults = [];
+$comuneResults = [];
 $basePath = __DIR__ . '/../ROMANIA';
 
 foreach ($judeteFolderMap as $folderName => $judetNume) {
     $judetPath = $basePath . '/' . $folderName;
     if (!is_dir($judetPath)) continue;
+
+    $judetData = $judeteMap[strtoupper($judetNume)] ?? null;
 
     $files = ['orase.php', 'municipii.php'];
     foreach ($files as $file) {
@@ -101,13 +117,31 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
         $pattern = '/create(Oras|Municipiu)\("([^"]+)"/i';
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[2] as $orasName) {
-                $orasNameLower = strtolower($orasName);
-                if (strpos($orasNameLower, $query) !== false) {
+                $orasNameNormalized = removeDiacritics(strtolower($orasName));
+                if (strpos($orasNameNormalized, $queryNormalized) !== false) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
                     $oraseResults[] = [
                         'nume' => $orasName,
                         'tip' => $tip,
-                        'judet' => $judeteMap[$judetNume]
+                        'judet' => $judetData
+                    ];
+                }
+            }
+        }
+    }
+
+    $comunaFilePath = $judetPath . '/comune.php';
+    if (file_exists($comunaFilePath)) {
+        $content = file_get_contents($comunaFilePath);
+        $pattern = '/createComuna\("([^"]+)"/i';
+        if (preg_match_all($pattern, $content, $matches)) {
+            foreach ($matches[1] as $comunaName) {
+                $comunaNameNormalized = removeDiacritics(strtolower($comunaName));
+                if (strpos($comunaNameNormalized, $queryNormalized) !== false) {
+                    $comuneResults[] = [
+                        'nume' => $comunaName,
+                        'tip' => 'comuna',
+                        'judet' => $judetData
                     ];
                 }
             }
@@ -141,6 +175,15 @@ if (count($oraseResults) === 1) {
         $allResults[] = [
             'type' => $o['tip'],
             'data' => $o
+        ];
+    }
+}
+
+if (count($comuneResults) > 0) {
+    foreach ($comuneResults as $c) {
+        $allResults[] = [
+            'type' => 'comuna',
+            'data' => $c
         ];
     }
 }
