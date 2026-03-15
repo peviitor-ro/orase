@@ -2,17 +2,16 @@
 $municipii =
 [
                 createMunicipiu("BACĂU", [
-                    createLoc("BACĂU", "oras"),
-                ]),
+                    createLoc("BACĂU", "oras", createAdresaCompleta("municipiul BACĂU, judetul BACĂU, România")),
+                ], createAdresaCompleta("municipiul BACĂU, judetul BACĂU, România")),
                 createMunicipiu("MOINEȘTI", [
-                    createLoc("MOINEȘTI", "oras"),
-                    createLoc("Găzărie ", "sat"),
-                ]),
+                    createLoc("MOINEȘTI", "oras", createAdresaCompleta("municipiul MOINEȘTI, judetul BACĂU, România")),
+                    createLoc("Găzărie ", "sat", createAdresaCompleta("sat Găzărie, municipiul MOINEȘTI, judetul BACĂU, România")),
+                ], createAdresaCompleta("municipiul MOINEȘTI, judetul BACĂU, România")),
                 createMunicipiu("ONEȘTI", [
-                    createLoc("ONEȘTI", "oras"),
-                    createLoc("Borzești", "sat"),
-                    createLoc("Slobozia", "sat"),
-                ]),				
-			
+                    createLoc("ONEȘTI", "oras", createAdresaCompleta("municipiul ONEȘTI, judetul BACĂU, România")),
+                    createLoc("Borzești", "sat", createAdresaCompleta("sat Borzești, municipiul ONEȘTI, judetul BACĂU, România")),
+                    createLoc("Slobozia", "sat", createAdresaCompleta("sat Slobozia, municipiul ONEȘTI, judetul BACĂU, România")),
+                ], createAdresaCompleta("municipiul ONEȘTI, judetul BACĂU, România")),
 ];
 ?>
