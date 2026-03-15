@@ -7,7 +7,7 @@ $municipii =
                     createLoc("Micești", "sat"),
                     createLoc("Oarda", "sat"),
                     createLoc("Pâclișa", "sat"),
-                ]),
+                ], createAdresaCompleta("municipiul ALBA IULIA, judetul ALBA, România")),
                 createMunicipiu("AIUD",[
 				    createLoc("AIUD", "oras",[
 					   createLoc("Ciumbrud", "sat"),
