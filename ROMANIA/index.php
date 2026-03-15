@@ -73,5 +73,5 @@ $tara = createTara(
     "https://legislatie.just.ro/Public/DetaliiDocument/189",
     "România",$judete,$bucuresti);
 	
-echo json_encode($tara, JSON_PRETTY_PRINT);
+echo json_encode($tara, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 ?>
