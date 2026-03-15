@@ -3,6 +3,7 @@ $comune =[
 
 	// Agapia
 createComuna("Agapia", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Agapia", "sat"),
     createLoc("Filioara", "sat"),
     createLoc("Săcălușești", "sat"),
@@ -11,6 +12,7 @@ createComuna("Agapia", [
 
 // Alexandru cel Bun
 createComuna("Alexandru cel Bun", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Viișoara", "sat"),
     createLoc("Agârcia", "sat"),
     createLoc("Bisericani", "sat"),
@@ -22,6 +24,7 @@ createComuna("Alexandru cel Bun", [
 
 // Bahna
 createComuna("Bahna", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bahna", "sat"),
     createLoc("Arămești", "sat"),
     createLoc("Băhnișoara", "sat"),
@@ -34,6 +37,7 @@ createComuna("Bahna", [
 
 // Bălțătești
 createComuna("Bălțătești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bălțătești", "sat"),
     createLoc("Valea Arini", "sat"),
     createLoc("Valea Seacă", "sat")
@@ -41,6 +45,7 @@ createComuna("Bălțătești", [
 
 // Bicaz-Chei
 createComuna("Bicaz-Chei", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bicaz-Chei", "sat"),
     createLoc("Bârnadu", "sat"),
     createLoc("Gherman", "sat"),
@@ -49,6 +54,7 @@ createComuna("Bicaz-Chei", [
 
 // Bicazu Ardelean
 createComuna("Bicazu Ardelean", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bicazu Ardelean", "sat"),
     createLoc("Telec", "sat"),
     createLoc("Ticoș", "sat")
@@ -56,6 +62,7 @@ createComuna("Bicazu Ardelean", [
 
 // Bira
 createComuna("Bira", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bira", "sat"),
     createLoc("Negrești", "sat"),
     createLoc("Rediu", "sat")
@@ -63,6 +70,7 @@ createComuna("Bira", [
 
 // Bârgăuani
 createComuna("Bârgăuani", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bârgăuani", "sat"),
     createLoc("Bahna Mare", "sat"),
     createLoc("Baratca", "sat"),
@@ -80,6 +88,7 @@ createComuna("Bârgăuani", [
 
 // Bodești
 createComuna("Bodești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bodești", "sat"),
     createLoc("Bodeștii de Jos", "sat"),
     createLoc("Corni", "sat"),
@@ -88,6 +97,7 @@ createComuna("Bodești", [
 
 // Boghicea
 createComuna("Boghicea", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Boghicea", "sat"),
     createLoc("Căușeni", "sat"),
     createLoc("Nistria", "sat"),
@@ -95,6 +105,7 @@ createComuna("Boghicea", [
 ]),
 // Borca
 createComuna("Borca", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Borca", "sat"),
     createLoc("Lunca", "sat"),
     createLoc("Mădei", "sat"),
@@ -106,6 +117,7 @@ createComuna("Borca", [
 
 // Borlești
 createComuna("Borlești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Borlești", "sat"),
     createLoc("Nechit", "sat"),
     createLoc("Mastacăn", "sat"),
@@ -115,6 +127,7 @@ createComuna("Borlești", [
 
 // Botești
 createComuna("Botești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Botești", "sat"),
     createLoc("Barticești", "sat"),
     createLoc("Nisiporești", "sat")
@@ -122,6 +135,7 @@ createComuna("Botești", [
 
 // Bozieni
 createComuna("Bozieni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Bozieni", "sat"),
     createLoc("Băneasa", "sat"),
     createLoc("Crăiești", "sat"),
@@ -131,6 +145,7 @@ createComuna("Bozieni", [
 
 // Brusturi
 createComuna("Brusturi", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Brusturi", "sat"),
     createLoc("Groși", "sat"),
     createLoc("Poiana", "sat"),
@@ -139,6 +154,7 @@ createComuna("Brusturi", [
 
 // Ceahlău
 createComuna("Ceahlău", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Ceahlău", "sat"),
     createLoc("Bistricioara", "sat"),
     createLoc("Pârâul Mare", "sat")
@@ -146,6 +162,7 @@ createComuna("Ceahlău", [
 
 // Cândești
 createComuna("Cândești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Cândești", "sat"),
     createLoc("Bărcănești", "sat"),
     createLoc("Dragova", "sat"),
@@ -156,6 +173,7 @@ createComuna("Cândești", [
 
 // Cordun
 createComuna("Cordun", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Cordun", "sat"),
     createLoc("Pildești", "sat"),
     createLoc("Simionești", "sat")
@@ -163,6 +181,7 @@ createComuna("Cordun", [
 
 // Costișa
 createComuna("Costișa", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Costișa", "sat"),
     createLoc("Dornești", "sat"),
     createLoc("Frunzeni", "sat"),
@@ -171,6 +190,7 @@ createComuna("Costișa", [
 
 // Crăcăoani
 createComuna("Crăcăoani", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Crăcăoani", "sat"),
     createLoc("Cracăul Negru", "sat"),
     createLoc("Magazia", "sat"),
@@ -179,6 +199,7 @@ createComuna("Crăcăoani", [
 ]),
 // Dămuc
 createComuna("Dămuc", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Dămuc", "sat"),
     createLoc("Huisurez", "sat"),
     createLoc("Trei Fântâni", "sat")
@@ -186,6 +207,7 @@ createComuna("Dămuc", [
 
 // Dobreni
 createComuna("Dobreni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Dobreni", "sat"),
     createLoc("Cășăria", "sat"),
     createLoc("Sărata", "sat")
@@ -193,12 +215,14 @@ createComuna("Dobreni", [
 
 // Dochia
 createComuna("Dochia", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Dochia", "sat"),
     createLoc("Bălușești", "sat")
 ]),
 
 // Doljești
 createComuna("Doljești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Doljești", "sat"),
     createLoc("Buhonca", "sat"),
     createLoc("Buruienești", "sat"),
@@ -207,6 +231,7 @@ createComuna("Doljești", [
 
 // Dragomirești
 createComuna("Dragomirești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Dragomirești", "sat"),
     createLoc("Borniș", "sat"),
     createLoc("Hlăpești", "sat"),
@@ -217,6 +242,7 @@ createComuna("Dragomirești", [
 
 // Drăgănești
 createComuna("Drăgănești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Drăgănești", "sat"),
     createLoc("Orțăști", "sat"),
     createLoc("Râșca", "sat"),
@@ -225,6 +251,7 @@ createComuna("Drăgănești", [
 
 // Dulcești
 createComuna("Dulcești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Dulcești", "sat"),
     createLoc("Brițcani", "sat"),
     createLoc("Cârlig", "sat"),
@@ -235,6 +262,7 @@ createComuna("Dulcești", [
 
 // Dumbrava Roșie
 createComuna("Dumbrava Roșie", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Dumbrava Roșie", "sat"),
     createLoc("Brășăuți", "sat"),
     createLoc("Cut", "sat"),
@@ -243,6 +271,7 @@ createComuna("Dumbrava Roșie", [
 
 // Farcașa
 createComuna("Farcașa", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Farcașa", "sat"),
     createLoc("Bușmei", "sat"),
     createLoc("Frumosu", "sat"),
@@ -252,6 +281,7 @@ createComuna("Farcașa", [
 
 // Făurei
 createComuna("Făurei", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Făurei", "sat"),
     createLoc("Budești", "sat"),
     createLoc("Climești", "sat"),
@@ -259,6 +289,7 @@ createComuna("Făurei", [
 ]),
 // Gherăești
 createComuna("Gherăești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Gherăești", "sat"),
     createLoc("Gherăeștii Noi", "sat"),
     createLoc("Tețcani", "sat")
@@ -266,11 +297,13 @@ createComuna("Gherăești", [
 
 // Ghindăoani
 createComuna("Ghindăoani", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Ghindăoani", "sat")
 ]),
 
 // Girov
 createComuna("Girov", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Girov", "sat"),
     createLoc("Boțești", "sat"),
     createLoc("Căciulești", "sat"),
@@ -284,11 +317,13 @@ createComuna("Girov", [
 
 // Gâdinți
 createComuna("Gâdinți", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Gâdinți", "sat")
 ]),
 
 // Gârcina
 createComuna("Gârcina", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Gârcina", "sat"),
     createLoc("Almaș", "sat"),
     createLoc("Cuejdiu", "sat")
@@ -296,6 +331,7 @@ createComuna("Gârcina", [
 
 // Grințieș
 createComuna("Grințieș", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Grințieș", "sat"),
     createLoc("Bradu", "sat"),
     createLoc("Poiana", "sat")
@@ -303,6 +339,7 @@ createComuna("Grințieș", [
 
 // Grumăzești
 createComuna("Grumăzești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Grumăzești", "sat"),
     createLoc("Curechiștea", "sat"),
     createLoc("Netezi", "sat"),
@@ -311,6 +348,7 @@ createComuna("Grumăzești", [
 
 // Hangu
 createComuna("Hangu", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Hangu", "sat"),
     createLoc("Buhalnița", "sat"),
     createLoc("Chirițeni", "sat"),
@@ -320,12 +358,14 @@ createComuna("Hangu", [
 
 // Horia
 createComuna("Horia", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Horia", "sat"),
     createLoc("Cotu Vameș", "sat")
 ]),
 
 // Icușești
 createComuna("Icușești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Icușești", "sat"),
     createLoc("Bălușești", "sat"),
     createLoc("Bătrânești", "sat"),
@@ -336,6 +376,7 @@ createComuna("Icușești", [
 ]),
 // Ion Creangă
 createComuna("Ion Creangă", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Ion Creangă", "sat"),
     createLoc("Averești", "sat"),
     createLoc("Izvoru", "sat"),
@@ -346,6 +387,7 @@ createComuna("Ion Creangă", [
 
 // Mărgineni
 createComuna("Mărgineni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Mărgineni", "sat"),
     createLoc("Hârțești", "sat"),
     createLoc("Hoisești", "sat"),
@@ -354,18 +396,21 @@ createComuna("Mărgineni", [
 
 // Moldoveni
 createComuna("Moldoveni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Moldoveni", "sat"),
     createLoc("Hociungi", "sat")
 ]),
 
 // Negrești
 createComuna("Negrești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Negrești", "sat"),
     createLoc("Poiana", "sat")
 ]),
 
 // Oniceni
 createComuna("Oniceni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Oniceni", "sat"),
     createLoc("Ciornei", "sat"),
     createLoc("Gorun", "sat"),
@@ -381,6 +426,7 @@ createComuna("Oniceni", [
 
 // Pâncești
 createComuna("Pâncești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Pâncești", "sat"),
     createLoc("Ciurea", "sat"),
     createLoc("Holm", "sat"),
@@ -390,6 +436,7 @@ createComuna("Pâncești", [
 
 // Păstrăveni
 createComuna("Păstrăveni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Păstrăveni", "sat"),
     createLoc("Lunca Moldovei", "sat"),
     createLoc("Rădeni", "sat"),
@@ -398,6 +445,7 @@ createComuna("Păstrăveni", [
 
 // Petricani
 createComuna("Petricani", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Petricani", "sat"),
     createLoc("Boiștea", "sat"),
     createLoc("Târpești", "sat"),
@@ -406,6 +454,7 @@ createComuna("Petricani", [
 
 // Piatra Șoimului
 createComuna("Piatra Șoimului", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Piatra Șoimului", "sat"),
     createLoc("Luminiș", "sat"),
     createLoc("Negulești", "sat"),
@@ -414,6 +463,7 @@ createComuna("Piatra Șoimului", [
 
 // Pipirig
 createComuna("Pipirig", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Pipirig", "sat"),
     createLoc("Boboiești", "sat"),
     createLoc("Dolhești", "sat"),
@@ -424,6 +474,7 @@ createComuna("Pipirig", [
 ]),
 // Pângărați
 createComuna("Pângărați", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Pângărați", "sat"),
     createLoc("Oanțu", "sat"),
     createLoc("Pângărăcior", "sat"),
@@ -434,12 +485,14 @@ createComuna("Pângărați", [
 
 // Podoleni
 createComuna("Podoleni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Podoleni", "sat"),
     createLoc("Negritești", "sat")
 ]),
 
 // Poienari
 createComuna("Poienari", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Poienari", "sat"),
     createLoc("Bunghi", "sat"),
     createLoc("Săcăleni", "sat")
@@ -447,6 +500,7 @@ createComuna("Poienari", [
 
 // Poiana Teiului
 createComuna("Poiana Teiului", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Poiana Teiului", "sat"),
     createLoc("Călugăreni", "sat"),
     createLoc("Dreptu", "sat"),
@@ -462,6 +516,7 @@ createComuna("Poiana Teiului", [
 
 // Răucești
 createComuna("Răucești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Răucești", "sat"),
     createLoc("Oglinzi", "sat"),
     createLoc("Săvești", "sat"),
@@ -470,6 +525,7 @@ createComuna("Răucești", [
 
 // Războieni
 createComuna("Războieni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Războienii de Jos", "sat"),
     createLoc("Borșeni", "sat"),
     createLoc("Războieni", "sat"),
@@ -479,6 +535,7 @@ createComuna("Războieni", [
 
 // Rediu
 createComuna("Rediu", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Rediu", "sat"),
     createLoc("Bețești", "sat"),
     createLoc("Poloboc", "sat"),
@@ -487,6 +544,7 @@ createComuna("Rediu", [
 
 // Români
 createComuna("Români", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Români", "sat"),
     createLoc("Goșmani", "sat"),
     createLoc("Siliștea", "sat")
@@ -494,30 +552,35 @@ createComuna("Români", [
 
 // Ruginoasa
 createComuna("Ruginoasa", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Ruginoasa", "sat"),
     createLoc("Bozienii de Sus", "sat")
 ]),
 
 // Sagna
 createComuna("Sagna", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Sagna", "sat"),
     createLoc("Luțca", "sat"),
     createLoc("Vulpășești", "sat")
 ]),
 // Săbăoani
 createComuna("Săbăoani", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Săbăoani", "sat"),
     createLoc("Traian", "sat")
 ]),
 
 // Săvinești
 createComuna("Săvinești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Săvinești", "sat"),
     createLoc("Dumbrava-Deal", "sat")
 ]),
 
 // Secuieni
 createComuna("Secuieni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Secuieni", "sat"),
     createLoc("Bașta", "sat"),
     createLoc("Bârjoveni", "sat"),
@@ -531,6 +594,7 @@ createComuna("Secuieni", [
 
 // Stănița
 createComuna("Stănița", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Stănița", "sat"),
     createLoc("Chicerea", "sat"),
     createLoc("Ghidion", "sat"),
@@ -542,6 +606,7 @@ createComuna("Stănița", [
 
 // Ștefan cel Mare
 createComuna("Ștefan cel Mare", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Ștefan cel Mare", "sat"),
     createLoc("Bordea", "sat"),
     createLoc("Cârligi", "sat"),
@@ -553,6 +618,7 @@ createComuna("Ștefan cel Mare", [
 
 // Tarcău
 createComuna("Tarcău", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Tarcău", "sat"),
     createLoc("Ardeluța", "sat"),
     createLoc("Brateș", "sat"),
@@ -563,6 +629,7 @@ createComuna("Tarcău", [
 
 // Tașca
 createComuna("Tașca", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Tașca", "sat"),
     createLoc("Hamzoaia", "sat"),
     createLoc("Neagra", "sat"),
@@ -571,17 +638,20 @@ createComuna("Tașca", [
 
 // Tazlău
 createComuna("Tazlău", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Tazlău", "sat")
 ]),
 
 // Tămășeni
 createComuna("Tămășeni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Tămășeni", "sat"),
     createLoc("Adjudeni", "sat")
 ]),
 
 // Timișești
 createComuna("Timișești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Timișești", "sat"),
     createLoc("Dumbrava", "sat"),
     createLoc("Plăieșu", "sat"),
@@ -590,12 +660,14 @@ createComuna("Timișești", [
 ]),
 // Trifești
 createComuna("Trifești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Trifești", "sat"),
     createLoc("Miron Costin", "sat")
 ]),
 
 // Tupilați
 createComuna("Tupilați", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Tupilați", "sat"),
     createLoc("Arămoaia", "sat"),
     createLoc("Hanul Ancuței", "sat"),
@@ -604,6 +676,7 @@ createComuna("Tupilați", [
 
 // Țibucani
 createComuna("Țibucani", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Țibucani", "sat"),
     createLoc("Davideni", "sat"),
     createLoc("Țibucanii de Jos", "sat")
@@ -611,6 +684,7 @@ createComuna("Țibucani", [
 
 // Urecheni
 createComuna("Urecheni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Urecheni", "sat"),
     createLoc("Ingărești", "sat"),
     createLoc("Plugari", "sat")
@@ -618,6 +692,7 @@ createComuna("Urecheni", [
 
 // Valea Ursului
 createComuna("Valea Ursului", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Valea Ursului", "sat"),
     createLoc("Bucium", "sat"),
     createLoc("Chilii", "sat"),
@@ -627,6 +702,7 @@ createComuna("Valea Ursului", [
 
 // Văleni
 createComuna("Văleni", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Văleni", "sat"),
     createLoc("David", "sat"),
     createLoc("Moreni", "sat"),
@@ -635,6 +711,7 @@ createComuna("Văleni", [
 
 // Vânători-Neamț
 createComuna("Vânători-Neamț", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Vânători-Neamț", "sat"),
     createLoc("Lunca", "sat"),
     createLoc("Mânăstirea Neamț", "sat"),
@@ -643,6 +720,7 @@ createComuna("Vânători-Neamț", [
 
 // Zănești
 createComuna("Zănești", [
+				createAdresaCompleta("NEAMT"),
     createLoc("Zănești", "sat"),
     createLoc("Traian", "sat")
 ]),								  
