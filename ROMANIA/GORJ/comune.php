@@ -3,616 +3,616 @@ $comune = [
 
     createComuna("Albeni", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Albeni", "sat"),
-        createLoc("Bârzeiu de Gilort", "sat"),
-        createLoc("Bolbocești", "sat"),
-        createLoc("Doseni", "sat"),
-        createLoc("Mirosloveni", "sat"),
-        createLoc("Prunești", "sat")
+        createLoc("Albeni", "sat", createAdresaCompleta("sat Albeni, comuna Albeni, judetul Gorj, România", "sat Albeni, comuna Albeni, judetul Gorj, Romania"))),
+        createLoc("Bârzeiu de Gilort", "sat", createAdresaCompleta("sat Bârzeiu de Gilort, comuna Albeni, judetul Gorj, România", "sat Barzeiu de Gilort, comuna Albeni, judetul Gorj, Romania"))),
+        createLoc("Bolbocești", "sat", createAdresaCompleta("sat Bolbocești, comuna Albeni, judetul Gorj, România", "sat Bolbocesti, comuna Albeni, judetul Gorj, Romania"))),
+        createLoc("Doseni", "sat", createAdresaCompleta("sat Doseni, comuna Albeni, judetul Gorj, România", "sat Doseni, comuna Albeni, judetul Gorj, Romania"))),
+        createLoc("Mirosloveni", "sat", createAdresaCompleta("sat Mirosloveni, comuna Albeni, judetul Gorj, România", "sat Mirosloveni, comuna Albeni, judetul Gorj, Romania"))),
+        createLoc("Prunești", "sat", createAdresaCompleta("sat Prunești, comuna Albeni, judetul Gorj, România", "sat Prunesti, comuna Albeni, judetul Gorj, Romania")))
     ]),
 
     createComuna("Alimpești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Alimpești", "sat"),
-        createLoc("Ciupercenii de Olteț", "sat"),
-        createLoc("Corșoru", "sat"),
-        createLoc("Nistorești", "sat"),
-        createLoc("Sârbești", "sat")
+        createLoc("Alimpești", "sat", createAdresaCompleta("sat Alimpești, comuna Alimpești, judetul Gorj, România", "sat Alimpesti, comuna Alimpesti, judetul Gorj, Romania"))),
+        createLoc("Ciupercenii de Olteț", "sat", createAdresaCompleta("sat Ciupercenii de Olteț, comuna Alimpești, judetul Gorj, România", "sat Ciupercenii de Oltet, comuna Alimpesti, judetul Gorj, Romania"))),
+        createLoc("Corșoru", "sat", createAdresaCompleta("sat Corșoru, comuna Alimpești, judetul Gorj, România", "sat Corsoru, comuna Alimpesti, judetul Gorj, Romania"))),
+        createLoc("Nistorești", "sat", createAdresaCompleta("sat Nistorești, comuna Alimpești, judetul Gorj, România", "sat Nistoresti, comuna Alimpesti, judetul Gorj, Romania"))),
+        createLoc("Sârbești", "sat", createAdresaCompleta("sat Sârbești, comuna Alimpești, judetul Gorj, România", "sat Sarbesti, comuna Alimpesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Aninoasa", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Aninoasa", "sat"),
-        createLoc("Bobaia", "sat"),
-        createLoc("Costești", "sat"),
-        createLoc("Groșerea", "sat"),
-        createLoc("Sterpoaia", "sat")
+        createLoc("Aninoasa", "sat", createAdresaCompleta("sat Aninoasa, comuna Aninoasa, judetul Gorj, România", "sat Aninoasa, comuna Aninoasa, judetul Gorj, Romania"))),
+        createLoc("Bobaia", "sat", createAdresaCompleta("sat Bobaia, comuna Aninoasa, judetul Gorj, România", "sat Bobaia, comuna Aninoasa, judetul Gorj, Romania"))),
+        createLoc("Costești", "sat", createAdresaCompleta("sat Costești, comuna Aninoasa, judetul Gorj, România", "sat Costesti, comuna Aninoasa, judetul Gorj, Romania"))),
+        createLoc("Groșerea", "sat", createAdresaCompleta("sat Groșerea, comuna Aninoasa, judetul Gorj, România", "sat Groserea, comuna Aninoasa, judetul Gorj, Romania"))),
+        createLoc("Sterpoaia", "sat", createAdresaCompleta("sat Sterpoaia, comuna Aninoasa, judetul Gorj, România", "sat Sterpoaia, comuna Aninoasa, judetul Gorj, Romania")))
     ]),
 
     createComuna("Arcani", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Arcani", "sat"),
-        createLoc("Câmpofeni", "sat"),
-        createLoc("Sănătești", "sat"),
-        createLoc("Stroiești", "sat")
+        createLoc("Arcani", "sat", createAdresaCompleta("sat Arcani, comuna Arcani, judetul Gorj, România", "sat Arcani, comuna Arcani, judetul Gorj, Romania"))),
+        createLoc("Câmpofeni", "sat", createAdresaCompleta("sat Câmpofeni, comuna Arcani, judetul Gorj, România", "sat Campofeni, comuna Arcani, judetul Gorj, Romania"))),
+        createLoc("Sănătești", "sat", createAdresaCompleta("sat Sănătești, comuna Arcani, judetul Gorj, România", "sat Sanatesti, comuna Arcani, judetul Gorj, Romania"))),
+        createLoc("Stroiești", "sat", createAdresaCompleta("sat Stroiești, comuna Arcani, judetul Gorj, România", "sat Stroiesti, comuna Arcani, judetul Gorj, Romania")))
     ]),
 
     createComuna("Baia de Fier", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Baia de Fier", "sat"),
-        createLoc("Cernădia", "sat")
+        createLoc("Baia de Fier", "sat", createAdresaCompleta("sat Baia de Fier, comuna Baia de Fier, judetul Gorj, România", "sat Baia de Fier, comuna Baia de Fier, judetul Gorj, Romania"))),
+        createLoc("Cernădia", "sat", createAdresaCompleta("sat Cernădia, comuna Baia de Fier, judetul Gorj, România", "sat Cernadia, comuna Baia de Fier, judetul Gorj, Romania")))
     ]),
 
     createComuna("Bălănești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Voiteștii din Vale", "sat"),
-        createLoc("Bălănești", "sat"),
-        createLoc("Blidari", "sat"),
-        createLoc("Cânepești", "sat"),
-        createLoc("Glodeni", "sat"),
-        createLoc("Ohaba", "sat"),
-        createLoc("Voiteștii din Deal", "sat")
+        createLoc("Voiteștii din Vale", "sat", createAdresaCompleta("sat Voiteștii din Vale, comuna Bălănești, judetul Gorj, România", "sat Voitestii din Vale, comuna Balanesti, judetul Gorj, Romania"))),
+        createLoc("Bălănești", "sat", createAdresaCompleta("sat Bălănești, comuna Bălănești, judetul Gorj, România", "sat Balanesti, comuna Balanesti, judetul Gorj, Romania"))),
+        createLoc("Blidari", "sat", createAdresaCompleta("sat Blidari, comuna Bălănești, judetul Gorj, România", "sat Blidari, comuna Balanesti, judetul Gorj, Romania"))),
+        createLoc("Cânepești", "sat", createAdresaCompleta("sat Cânepești, comuna Bălănești, judetul Gorj, România", "sat Canepesti, comuna Balanesti, judetul Gorj, Romania"))),
+        createLoc("Glodeni", "sat", createAdresaCompleta("sat Glodeni, comuna Bălănești, judetul Gorj, România", "sat Glodeni, comuna Balanesti, judetul Gorj, Romania"))),
+        createLoc("Ohaba", "sat", createAdresaCompleta("sat Ohaba, comuna Bălănești, judetul Gorj, România", "sat Ohaba, comuna Balanesti, judetul Gorj, Romania"))),
+        createLoc("Voiteștii din Deal", "sat", createAdresaCompleta("sat Voiteștii din Deal, comuna Bălănești, judetul Gorj, România", "sat Voitestii din Deal, comuna Balanesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Bălești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Bălești", "sat"),
-        createLoc("Ceauru", "sat"),
-        createLoc("Cornești", "sat"),
-        createLoc("Găvănești", "sat"),
-        createLoc("Rasova", "sat"),
-        createLoc("Stolojani", "sat"),
-        createLoc("Tălpășești", "sat"),
-        createLoc("Tămășești", "sat"),
-        createLoc("Voinigești", "sat")
+        createLoc("Bălești", "sat", createAdresaCompleta("sat Bălești, comuna Bălești, judetul Gorj, România", "sat Balesti, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Ceauru", "sat", createAdresaCompleta("sat Ceauru, comuna Bălești, judetul Gorj, România", "sat Ceauru, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Cornești", "sat", createAdresaCompleta("sat Cornești, comuna Bălești, judetul Gorj, România", "sat Cornesti, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Găvănești", "sat", createAdresaCompleta("sat Găvănești, comuna Bălești, judetul Gorj, România", "sat Gavanesti, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Rasova", "sat", createAdresaCompleta("sat Rasova, comuna Bălești, judetul Gorj, România", "sat Rasova, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Stolojani", "sat", createAdresaCompleta("sat Stolojani, comuna Bălești, judetul Gorj, România", "sat Stolojani, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Tălpășești", "sat", createAdresaCompleta("sat Tălpășești, comuna Bălești, judetul Gorj, România", "sat Talpasesti, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Tămășești", "sat", createAdresaCompleta("sat Tămășești, comuna Bălești, judetul Gorj, România", "sat Tamasesti, comuna Balesti, judetul Gorj, Romania"))),
+        createLoc("Voinigești", "sat", createAdresaCompleta("sat Voinigești, comuna Bălești, judetul Gorj, România", "sat Voinigesti, comuna Balesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Bărbătești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Bărbătești", "sat"),
-        createLoc("Musculești", "sat"),
-        createLoc("Petrești", "sat"),
-        createLoc("Socu", "sat")
+        createLoc("Bărbătești", "sat", createAdresaCompleta("sat Bărbătești, comuna Bărbătești, judetul Gorj, România", "sat Barbatesti, comuna Barbatesti, judetul Gorj, Romania"))),
+        createLoc("Musculești", "sat", createAdresaCompleta("sat Musculești, comuna Bărbătești, judetul Gorj, România", "sat Musculesti, comuna Barbatesti, judetul Gorj, Romania"))),
+        createLoc("Petrești", "sat", createAdresaCompleta("sat Petrești, comuna Bărbătești, judetul Gorj, România", "sat Petresti, comuna Barbatesti, judetul Gorj, Romania"))),
+        createLoc("Socu", "sat", createAdresaCompleta("sat Socu, comuna Bărbătești, judetul Gorj, România", "sat Socu, comuna Barbatesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Bengești-Ciocadia", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Bengești", "sat"),
-        createLoc("Bălcești", "sat"),
-        createLoc("Bircii", "sat"),
-        createLoc("Ciocadia", "sat")
+        createLoc("Bengești", "sat", createAdresaCompleta("sat Bengești, comuna Bengești-Ciocadia, judetul Gorj, România", "sat Bengesti, comuna Bengesti-Ciocadia, judetul Gorj, Romania"))),
+        createLoc("Bălcești", "sat", createAdresaCompleta("sat Bălcești, comuna Bengești-Ciocadia, judetul Gorj, România", "sat Balcesti, comuna Bengesti-Ciocadia, judetul Gorj, Romania"))),
+        createLoc("Bircii", "sat", createAdresaCompleta("sat Bircii, comuna Bengești-Ciocadia, judetul Gorj, România", "sat Bircii, comuna Bengesti-Ciocadia, judetul Gorj, Romania"))),
+        createLoc("Ciocadia", "sat", createAdresaCompleta("sat Ciocadia, comuna Bengești-Ciocadia, judetul Gorj, România", "sat Ciocadia, comuna Bengesti-Ciocadia, judetul Gorj, Romania")))
     ]),
 
     createComuna("Berlești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Berlești", "sat"),
-        createLoc("Bârzeiu", "sat"),
-        createLoc("Gâlcești", "sat"),
-        createLoc("Lihulești", "sat"),
-        createLoc("Pârâu Viu", "sat"),
-        createLoc("Scrada", "sat"),
-        createLoc("Scurtu", "sat")
+        createLoc("Berlești", "sat", createAdresaCompleta("sat Berlești, comuna Berlești, judetul Gorj, România", "sat Berlesti, comuna Berlesti, judetul Gorj, Romania"))),
+        createLoc("Bârzeiu", "sat", createAdresaCompleta("sat Bârzeiu, comuna Berlești, judetul Gorj, România", "sat Barzeiu, comuna Berlesti, judetul Gorj, Romania"))),
+        createLoc("Gâlcești", "sat", createAdresaCompleta("sat Gâlcești, comuna Berlești, judetul Gorj, România", "sat Galcesti, comuna Berlesti, judetul Gorj, Romania"))),
+        createLoc("Lihulești", "sat", createAdresaCompleta("sat Lihulești, comuna Berlești, judetul Gorj, România", "sat Lihulesti, comuna Berlesti, judetul Gorj, Romania"))),
+        createLoc("Pârâu Viu", "sat", createAdresaCompleta("sat Pârâu Viu, comuna Berlești, judetul Gorj, România", "sat Parau Viu, comuna Berlesti, judetul Gorj, Romania"))),
+        createLoc("Scrada", "sat", createAdresaCompleta("sat Scrada, comuna Berlești, judetul Gorj, România", "sat Scrada, comuna Berlesti, judetul Gorj, Romania"))),
+        createLoc("Scurtu", "sat", createAdresaCompleta("sat Scurtu, comuna Berlești, judetul Gorj, România", "sat Scurtu, comuna Berlesti, judetul Gorj, Romania")))
     ]),
     createComuna("Bâlteni", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Bâlteni", "sat"),
-        createLoc("Cocoreni", "sat"),
-        createLoc("Moi", "sat"),
-        createLoc("Peșteana-Jiu", "sat"),
-        createLoc("Vlăduleni", "sat")
+        createLoc("Bâlteni", "sat", createAdresaCompleta("sat Bâlteni, comuna Bâlteni, judetul Gorj, România", "sat Balteni, comuna Balteni, judetul Gorj, Romania"))),
+        createLoc("Cocoreni", "sat", createAdresaCompleta("sat Cocoreni, comuna Bâlteni, judetul Gorj, România", "sat Cocoreni, comuna Balteni, judetul Gorj, Romania"))),
+        createLoc("Moi", "sat", createAdresaCompleta("sat Moi, comuna Bâlteni, judetul Gorj, România", "sat Moi, comuna Balteni, judetul Gorj, Romania"))),
+        createLoc("Peșteana-Jiu", "sat", createAdresaCompleta("sat Peșteana-Jiu, comuna Bâlteni, judetul Gorj, România", "sat Pesteana-Jiu, comuna Balteni, judetul Gorj, Romania"))),
+        createLoc("Vlăduleni", "sat", createAdresaCompleta("sat Vlăduleni, comuna Bâlteni, judetul Gorj, România", "sat Vladuleni, comuna Balteni, judetul Gorj, Romania")))
     ]),
 
     createComuna("Bolboși", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Bolboși", "sat"),
-        createLoc("Bălăcești", "sat"),
-        createLoc("Bolboasa", "sat"),
-        createLoc("Igirosu", "sat"),
-        createLoc("Miclosu", "sat"),
-        createLoc("Ohaba-Jiu", "sat"),
-        createLoc("Valea", "sat")
+        createLoc("Bolboși", "sat", createAdresaCompleta("sat Bolboși, comuna Bolboși, judetul Gorj, România", "sat Bolbosi, comuna Bolbosi, judetul Gorj, Romania"))),
+        createLoc("Bălăcești", "sat", createAdresaCompleta("sat Bălăcești, comuna Bolboși, judetul Gorj, România", "sat Balacesti, comuna Bolbosi, judetul Gorj, Romania"))),
+        createLoc("Bolboasa", "sat", createAdresaCompleta("sat Bolboasa, comuna Bolboși, judetul Gorj, România", "sat Bolboasa, comuna Bolbosi, judetul Gorj, Romania"))),
+        createLoc("Igirosu", "sat", createAdresaCompleta("sat Igirosu, comuna Bolboși, judetul Gorj, România", "sat Igirosu, comuna Bolbosi, judetul Gorj, Romania"))),
+        createLoc("Miclosu", "sat", createAdresaCompleta("sat Miclosu, comuna Bolboși, judetul Gorj, România", "sat Miclosu, comuna Bolbosi, judetul Gorj, Romania"))),
+        createLoc("Ohaba-Jiu", "sat", createAdresaCompleta("sat Ohaba-Jiu, comuna Bolboși, judetul Gorj, România", "sat Ohaba-Jiu, comuna Bolbosi, judetul Gorj, Romania"))),
+        createLoc("Valea", "sat", createAdresaCompleta("sat Valea, comuna Bolboși, judetul Gorj, România", "sat Valea, comuna Bolbosi, judetul Gorj, Romania")))
     ]),
 
     createComuna("Borăscu", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Borăscu", "sat"),
-        createLoc("Baniu", "sat"),
-        createLoc("Calapăru", "sat"),
-        createLoc("Gura-Menți", "sat"),
-        createLoc("Menții din Dos", "sat"),
-        createLoc("Miluta", "sat"),
-        createLoc("Scorușu", "sat")
+        createLoc("Borăscu", "sat", createAdresaCompleta("sat Borăscu, comuna Borăscu, judetul Gorj, România", "sat Borascu, comuna Borascu, judetul Gorj, Romania"))),
+        createLoc("Baniu", "sat", createAdresaCompleta("sat Baniu, comuna Borăscu, judetul Gorj, România", "sat Baniu, comuna Borascu, judetul Gorj, Romania"))),
+        createLoc("Calapăru", "sat", createAdresaCompleta("sat Calapăru, comuna Borăscu, judetul Gorj, România", "sat Calaparu, comuna Borascu, judetul Gorj, Romania"))),
+        createLoc("Gura-Menți", "sat", createAdresaCompleta("sat Gura-Menți, comuna Borăscu, judetul Gorj, România", "sat Gura-Menti, comuna Borascu, judetul Gorj, Romania"))),
+        createLoc("Menții din Dos", "sat", createAdresaCompleta("sat Menții din Dos, comuna Borăscu, judetul Gorj, România", "sat Mentii din Dos, comuna Borascu, judetul Gorj, Romania"))),
+        createLoc("Miluta", "sat", createAdresaCompleta("sat Miluta, comuna Borăscu, judetul Gorj, România", "sat Miluta, comuna Borascu, judetul Gorj, Romania"))),
+        createLoc("Scorușu", "sat", createAdresaCompleta("sat Scorușu, comuna Borăscu, judetul Gorj, România", "sat Scorusu, comuna Borascu, judetul Gorj, Romania")))
     ]),
 
     createComuna("Brănești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Brănești", "sat"),
-        createLoc("Bădești", "sat"),
-        createLoc("Brebenei", "sat"),
-        createLoc("Capu Dealului", "sat"),
-        createLoc("Gilortu", "sat"),
-        createLoc("Pârâu", "sat")
+        createLoc("Brănești", "sat", createAdresaCompleta("sat Brănești, comuna Brănești, judetul Gorj, România", "sat Branesti, comuna Branesti, judetul Gorj, Romania"))),
+        createLoc("Bădești", "sat", createAdresaCompleta("sat Bădești, comuna Brănești, judetul Gorj, România", "sat Badesti, comuna Branesti, judetul Gorj, Romania"))),
+        createLoc("Brebenei", "sat", createAdresaCompleta("sat Brebenei, comuna Brănești, judetul Gorj, România", "sat Brebenei, comuna Branesti, judetul Gorj, Romania"))),
+        createLoc("Capu Dealului", "sat", createAdresaCompleta("sat Capu Dealului, comuna Brănești, judetul Gorj, România", "sat Capu Dealului, comuna Branesti, judetul Gorj, Romania"))),
+        createLoc("Gilortu", "sat", createAdresaCompleta("sat Gilortu, comuna Brănești, judetul Gorj, România", "sat Gilortu, comuna Branesti, judetul Gorj, Romania"))),
+        createLoc("Pârâu", "sat", createAdresaCompleta("sat Pârâu, comuna Brănești, judetul Gorj, România", "sat Parau, comuna Branesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Bumbești-Pițic", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Bumbești-Pițic", "sat"),
-        createLoc("Cârligei", "sat"),
-        createLoc("Poienari", "sat")
+        createLoc("Bumbești-Pițic", "sat", createAdresaCompleta("sat Bumbești-Pițic, comuna Bumbești-Pițic, judetul Gorj, România", "sat Bumbesti-Pitic, comuna Bumbesti-Pitic, judetul Gorj, Romania"))),
+        createLoc("Cârligei", "sat", createAdresaCompleta("sat Cârligei, comuna Bumbești-Pițic, judetul Gorj, România", "sat Carligei, comuna Bumbesti-Pitic, judetul Gorj, Romania"))),
+        createLoc("Poienari", "sat", createAdresaCompleta("sat Poienari, comuna Bumbești-Pițic, judetul Gorj, România", "sat Poienari, comuna Bumbesti-Pitic, judetul Gorj, Romania")))
     ]),
 
     createComuna("Bustuchin", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Bustuchin", "sat"),
-        createLoc("Cionți", "sat"),
-        createLoc("Motorgi", "sat"),
-        createLoc("Nămete", "sat"),
-        createLoc("Poiana-Seciuri", "sat"),
-        createLoc("Poienița", "sat"),
-        createLoc("Pojaru", "sat"),
-        createLoc("Valea Pojarului", "sat")
+        createLoc("Bustuchin", "sat", createAdresaCompleta("sat Bustuchin, comuna Bustuchin, judetul Gorj, România", "sat Bustuchin, comuna Bustuchin, judetul Gorj, Romania"))),
+        createLoc("Cionți", "sat", createAdresaCompleta("sat Cionți, comuna Bustuchin, judetul Gorj, România", "sat Cionti, comuna Bustuchin, judetul Gorj, Romania"))),
+        createLoc("Motorgi", "sat", createAdresaCompleta("sat Motorgi, comuna Bustuchin, judetul Gorj, România", "sat Motorgi, comuna Bustuchin, judetul Gorj, Romania"))),
+        createLoc("Nămete", "sat", createAdresaCompleta("sat Nămete, comuna Bustuchin, judetul Gorj, România", "sat Namete, comuna Bustuchin, judetul Gorj, Romania"))),
+        createLoc("Poiana-Seciuri", "sat", createAdresaCompleta("sat Poiana-Seciuri, comuna Bustuchin, judetul Gorj, România", "sat Poiana-Seciuri, comuna Bustuchin, judetul Gorj, Romania"))),
+        createLoc("Poienița", "sat", createAdresaCompleta("sat Poienița, comuna Bustuchin, judetul Gorj, România", "sat Poienita, comuna Bustuchin, judetul Gorj, Romania"))),
+        createLoc("Pojaru", "sat", createAdresaCompleta("sat Pojaru, comuna Bustuchin, judetul Gorj, România", "sat Pojaru, comuna Bustuchin, judetul Gorj, Romania"))),
+        createLoc("Valea Pojarului", "sat", createAdresaCompleta("sat Valea Pojarului, comuna Bustuchin, judetul Gorj, România", "sat Valea Pojarului, comuna Bustuchin, judetul Gorj, Romania")))
     ]),
 
     createComuna("Căpreni", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Căpreni", "sat"),
-        createLoc("Aluniș", "sat"),
-        createLoc("Brătești", "sat"),
-        createLoc("Bulbuceni", "sat"),
-        createLoc("Cetatea", "sat"),
-        createLoc("Cornetu", "sat"),
-        createLoc("Dealu Spirei", "sat"),
-        createLoc("Satu Nou", "sat")
+        createLoc("Căpreni", "sat", createAdresaCompleta("sat Căpreni, comuna Căpreni, judetul Gorj, România", "sat Capreni, comuna Capreni, judetul Gorj, Romania"))),
+        createLoc("Aluniș", "sat", createAdresaCompleta("sat Aluniș, comuna Căpreni, judetul Gorj, România", "sat Alunis, comuna Capreni, judetul Gorj, Romania"))),
+        createLoc("Brătești", "sat", createAdresaCompleta("sat Brătești, comuna Căpreni, judetul Gorj, România", "sat Bratesti, comuna Capreni, judetul Gorj, Romania"))),
+        createLoc("Bulbuceni", "sat", createAdresaCompleta("sat Bulbuceni, comuna Căpreni, judetul Gorj, România", "sat Bulbuceni, comuna Capreni, judetul Gorj, Romania"))),
+        createLoc("Cetatea", "sat", createAdresaCompleta("sat Cetatea, comuna Căpreni, judetul Gorj, România", "sat Cetatea, comuna Capreni, judetul Gorj, Romania"))),
+        createLoc("Cornetu", "sat", createAdresaCompleta("sat Cornetu, comuna Căpreni, judetul Gorj, România", "sat Cornetu, comuna Capreni, judetul Gorj, Romania"))),
+        createLoc("Dealu Spirei", "sat", createAdresaCompleta("sat Dealu Spirei, comuna Căpreni, judetul Gorj, România", "sat Dealu Spirei, comuna Capreni, judetul Gorj, Romania"))),
+        createLoc("Satu Nou", "sat", createAdresaCompleta("sat Satu Nou, comuna Căpreni, judetul Gorj, România", "sat Satu Nou, comuna Capreni, judetul Gorj, Romania")))
     ]),
 
     createComuna("Cătunele", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Cătunele", "sat"),
-        createLoc("Dealu Viilor", "sat"),
-        createLoc("Lupoaia", "sat"),
-        createLoc("Steic", "sat"),
-        createLoc("Valea Mânăstirii", "sat"),
-        createLoc("Valea Perilor", "sat")
+        createLoc("Cătunele", "sat", createAdresaCompleta("sat Cătunele, comuna Cătunele, judetul Gorj, România", "sat Catunele, comuna Catunele, judetul Gorj, Romania"))),
+        createLoc("Dealu Viilor", "sat", createAdresaCompleta("sat Dealu Viilor, comuna Cătunele, judetul Gorj, România", "sat Dealu Viilor, comuna Catunele, judetul Gorj, Romania"))),
+        createLoc("Lupoaia", "sat", createAdresaCompleta("sat Lupoaia, comuna Cătunele, judetul Gorj, România", "sat Lupoaia, comuna Catunele, judetul Gorj, Romania"))),
+        createLoc("Steic", "sat", createAdresaCompleta("sat Steic, comuna Cătunele, judetul Gorj, România", "sat Steic, comuna Catunele, judetul Gorj, Romania"))),
+        createLoc("Valea Mânăstirii", "sat", createAdresaCompleta("sat Valea Mânăstirii, comuna Cătunele, judetul Gorj, România", "sat Valea Manastirii, comuna Catunele, judetul Gorj, Romania"))),
+        createLoc("Valea Perilor", "sat", createAdresaCompleta("sat Valea Perilor, comuna Cătunele, judetul Gorj, România", "sat Valea Perilor, comuna Catunele, judetul Gorj, Romania")))
     ]),
 
     createComuna("Ciuperceni", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Ciuperceni", "sat"),
-        createLoc("Boboiești", "sat"),
-        createLoc("Peșteana-Vulcan", "sat"),
-        createLoc("Priporu", "sat"),
-        createLoc("Strâmba-Vulcan", "sat"),
-        createLoc("Vârtopu", "sat"),
-        createLoc("Zorzila", "sat")
+        createLoc("Ciuperceni", "sat", createAdresaCompleta("sat Ciuperceni, comuna Ciuperceni, judetul Gorj, România", "sat Ciuperceni, comuna Ciuperceni, judetul Gorj, Romania"))),
+        createLoc("Boboiești", "sat", createAdresaCompleta("sat Boboiești, comuna Ciuperceni, judetul Gorj, România", "sat Boboiesti, comuna Ciuperceni, judetul Gorj, Romania"))),
+        createLoc("Peșteana-Vulcan", "sat", createAdresaCompleta("sat Peșteana-Vulcan, comuna Ciuperceni, judetul Gorj, România", "sat Pesteana-Vulcan, comuna Ciuperceni, judetul Gorj, Romania"))),
+        createLoc("Priporu", "sat", createAdresaCompleta("sat Priporu, comuna Ciuperceni, judetul Gorj, România", "sat Priporu, comuna Ciuperceni, judetul Gorj, Romania"))),
+        createLoc("Strâmba-Vulcan", "sat", createAdresaCompleta("sat Strâmba-Vulcan, comuna Ciuperceni, judetul Gorj, România", "sat Stramba-Vulcan, comuna Ciuperceni, judetul Gorj, Romania"))),
+        createLoc("Vârtopu", "sat", createAdresaCompleta("sat Vârtopu, comuna Ciuperceni, judetul Gorj, România", "sat Vartopu, comuna Ciuperceni, judetul Gorj, Romania"))),
+        createLoc("Zorzila", "sat", createAdresaCompleta("sat Zorzila, comuna Ciuperceni, judetul Gorj, România", "sat Zorzila, comuna Ciuperceni, judetul Gorj, Romania")))
     ]),
 
     createComuna("Câlnic", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Câlnic", "sat"),
-        createLoc("Câlnicu de Sus", "sat"),
-        createLoc("Didilești", "sat"),
-        createLoc("Găleșoaia", "sat"),
-        createLoc("Hodoreasca", "sat"),
-        createLoc("Pieptani", "sat"),
-        createLoc("Pinoasa", "sat"),
-        createLoc("Stejerei", "sat"),
-        createLoc("Vâlceaua", "sat")
+        createLoc("Câlnic", "sat", createAdresaCompleta("sat Câlnic, comuna Câlnic, judetul Gorj, România", "sat Calnic, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Câlnicu de Sus", "sat", createAdresaCompleta("sat Câlnicu de Sus, comuna Câlnic, judetul Gorj, România", "sat Calnicu de Sus, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Didilești", "sat", createAdresaCompleta("sat Didilești, comuna Câlnic, judetul Gorj, România", "sat Didilesti, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Găleșoaia", "sat", createAdresaCompleta("sat Găleșoaia, comuna Câlnic, judetul Gorj, România", "sat Galesoaia, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Hodoreasca", "sat", createAdresaCompleta("sat Hodoreasca, comuna Câlnic, judetul Gorj, România", "sat Hodoreasca, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Pieptani", "sat", createAdresaCompleta("sat Pieptani, comuna Câlnic, judetul Gorj, România", "sat Pieptani, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Pinoasa", "sat", createAdresaCompleta("sat Pinoasa, comuna Câlnic, judetul Gorj, România", "sat Pinoasa, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Stejerei", "sat", createAdresaCompleta("sat Stejerei, comuna Câlnic, judetul Gorj, România", "sat Stejerei, comuna Calnic, judetul Gorj, Romania"))),
+        createLoc("Vâlceaua", "sat", createAdresaCompleta("sat Vâlceaua, comuna Câlnic, judetul Gorj, România", "sat Valceaua, comuna Calnic, judetul Gorj, Romania")))
     ]),
     createComuna("Crasna", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Crasna", "sat"),
-        createLoc("Aninișu din Deal", "sat"),
-        createLoc("Aninișu din Vale", "sat"),
-        createLoc("Buzești", "sat"),
-        createLoc("Cărpiniș", "sat"),
-        createLoc("Crasna din Deal", "sat"),
-        createLoc("Drăgoiești", "sat"),
-        createLoc("Dumbrăveni", "sat"),
-        createLoc("Radoși", "sat")
+        createLoc("Crasna", "sat", createAdresaCompleta("sat Crasna, comuna Crasna, judetul Gorj, România", "sat Crasna, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Aninișu din Deal", "sat", createAdresaCompleta("sat Aninișu din Deal, comuna Crasna, judetul Gorj, România", "sat Aninisu din Deal, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Aninișu din Vale", "sat", createAdresaCompleta("sat Aninișu din Vale, comuna Crasna, judetul Gorj, România", "sat Aninisu din Vale, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Buzești", "sat", createAdresaCompleta("sat Buzești, comuna Crasna, judetul Gorj, România", "sat Buzesti, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Cărpiniș", "sat", createAdresaCompleta("sat Cărpiniș, comuna Crasna, judetul Gorj, România", "sat Carpinis, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Crasna din Deal", "sat", createAdresaCompleta("sat Crasna din Deal, comuna Crasna, judetul Gorj, România", "sat Crasna din Deal, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Drăgoiești", "sat", createAdresaCompleta("sat Drăgoiești, comuna Crasna, judetul Gorj, România", "sat Dragoiesti, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Dumbrăveni", "sat", createAdresaCompleta("sat Dumbrăveni, comuna Crasna, judetul Gorj, România", "sat Dumbraveni, comuna Crasna, judetul Gorj, Romania"))),
+        createLoc("Radoși", "sat", createAdresaCompleta("sat Radoși, comuna Crasna, judetul Gorj, România", "sat Radosi, comuna Crasna, judetul Gorj, Romania")))
     ]),
 
     createComuna("Crușeț", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Crușeț", "sat"),
-        createLoc("Bojinu", "sat"),
-        createLoc("Marinești", "sat"),
-        createLoc("Măiag", "sat"),
-        createLoc("Mierea", "sat"),
-        createLoc("Miericeaua", "sat"),
-        createLoc("Slămnești", "sat"),
-        createLoc("Slăvuța", "sat"),
-        createLoc("Urda de Jos", "sat"),
-        createLoc("Văluța", "sat")
+        createLoc("Crușeț", "sat", createAdresaCompleta("sat Crușeț, comuna Crușeț, judetul Gorj, România", "sat Cruset, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Bojinu", "sat", createAdresaCompleta("sat Bojinu, comuna Crușeț, judetul Gorj, România", "sat Bojinu, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Marinești", "sat", createAdresaCompleta("sat Marinești, comuna Crușeț, judetul Gorj, România", "sat Marinesti, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Măiag", "sat", createAdresaCompleta("sat Măiag, comuna Crușeț, judetul Gorj, România", "sat Maiag, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Mierea", "sat", createAdresaCompleta("sat Mierea, comuna Crușeț, judetul Gorj, România", "sat Mierea, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Miericeaua", "sat", createAdresaCompleta("sat Miericeaua, comuna Crușeț, judetul Gorj, România", "sat Miericeaua, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Slămnești", "sat", createAdresaCompleta("sat Slămnești, comuna Crușeț, judetul Gorj, România", "sat Slamnesti, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Slăvuța", "sat", createAdresaCompleta("sat Slăvuța, comuna Crușeț, judetul Gorj, România", "sat Slavuta, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Urda de Jos", "sat", createAdresaCompleta("sat Urda de Jos, comuna Crușeț, judetul Gorj, România", "sat Urda de Jos, comuna Cruset, judetul Gorj, Romania"))),
+        createLoc("Văluța", "sat", createAdresaCompleta("sat Văluța, comuna Crușeț, judetul Gorj, România", "sat Valuta, comuna Cruset, judetul Gorj, Romania")))
     ]),
 
     createComuna("Dănciulești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Dănciulești", "sat"),
-        createLoc("Bibulești", "sat"),
-        createLoc("Hălăngești", "sat"),
-        createLoc("Obârșia", "sat"),
-        createLoc("Petrăchei", "sat"),
-        createLoc("Rădinești", "sat"),
-        createLoc("Zăicoiu", "sat")
+        createLoc("Dănciulești", "sat", createAdresaCompleta("sat Dănciulești, comuna Dănciulești, judetul Gorj, România", "sat Danciulesti, comuna Danciulesti, judetul Gorj, Romania"))),
+        createLoc("Bibulești", "sat", createAdresaCompleta("sat Bibulești, comuna Dănciulești, judetul Gorj, România", "sat Bibulesti, comuna Danciulesti, judetul Gorj, Romania"))),
+        createLoc("Hălăngești", "sat", createAdresaCompleta("sat Hălăngești, comuna Dănciulești, judetul Gorj, România", "sat Halangesti, comuna Danciulesti, judetul Gorj, Romania"))),
+        createLoc("Obârșia", "sat", createAdresaCompleta("sat Obârșia, comuna Dănciulești, judetul Gorj, România", "sat Obarsia, comuna Danciulesti, judetul Gorj, Romania"))),
+        createLoc("Petrăchei", "sat", createAdresaCompleta("sat Petrăchei, comuna Dănciulești, judetul Gorj, România", "sat Petrachei, comuna Danciulesti, judetul Gorj, Romania"))),
+        createLoc("Rădinești", "sat", createAdresaCompleta("sat Rădinești, comuna Dănciulești, judetul Gorj, România", "sat Radinesti, comuna Danciulesti, judetul Gorj, Romania"))),
+        createLoc("Zăicoiu", "sat", createAdresaCompleta("sat Zăicoiu, comuna Dănciulești, judetul Gorj, România", "sat Zaicoiu, comuna Danciulesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Dănești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Dănești", "sat"),
-        createLoc("Barza", "sat"),
-        createLoc("Botorogi", "sat"),
-        createLoc("Brătuia", "sat"),
-        createLoc("Bucureasa", "sat"),
-        createLoc("Merfulești", "sat"),
-        createLoc("Șasa", "sat"),
-        createLoc("Trocani", "sat"),
-        createLoc("Țârculești", "sat"),
-        createLoc("Ungureni", "sat"),
-        createLoc("Văcarea", "sat")
+        createLoc("Dănești", "sat", createAdresaCompleta("sat Dănești, comuna Dănești, judetul Gorj, România", "sat Danesti, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Barza", "sat", createAdresaCompleta("sat Barza, comuna Dănești, judetul Gorj, România", "sat Barza, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Botorogi", "sat", createAdresaCompleta("sat Botorogi, comuna Dănești, judetul Gorj, România", "sat Botorogi, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Brătuia", "sat", createAdresaCompleta("sat Brătuia, comuna Dănești, judetul Gorj, România", "sat Bratuia, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Bucureasa", "sat", createAdresaCompleta("sat Bucureasa, comuna Dănești, judetul Gorj, România", "sat Bucureasa, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Merfulești", "sat", createAdresaCompleta("sat Merfulești, comuna Dănești, judetul Gorj, România", "sat Merfulesti, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Șasa", "sat", createAdresaCompleta("sat Șasa, comuna Dănești, judetul Gorj, România", "sat Sasa, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Trocani", "sat", createAdresaCompleta("sat Trocani, comuna Dănești, judetul Gorj, România", "sat Trocani, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Țârculești", "sat", createAdresaCompleta("sat Țârculești, comuna Dănești, judetul Gorj, România", "sat Tarculesti, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Ungureni", "sat", createAdresaCompleta("sat Ungureni, comuna Dănești, judetul Gorj, România", "sat Ungureni, comuna Danesti, judetul Gorj, Romania"))),
+        createLoc("Văcarea", "sat", createAdresaCompleta("sat Văcarea, comuna Dănești, judetul Gorj, România", "sat Vacarea, comuna Danesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Drăgotești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Drăgotești", "sat"),
-        createLoc("Corobăi", "sat"),
-        createLoc("Trestioara", "sat")
+        createLoc("Drăgotești", "sat", createAdresaCompleta("sat Drăgotești, comuna Drăgotești, judetul Gorj, România", "sat Dragotesti, comuna Dragotesti, judetul Gorj, Romania"))),
+        createLoc("Corobăi", "sat", createAdresaCompleta("sat Corobăi, comuna Drăgotești, judetul Gorj, România", "sat Corobai, comuna Dragotesti, judetul Gorj, Romania"))),
+        createLoc("Trestioara", "sat", createAdresaCompleta("sat Trestioara, comuna Drăgotești, judetul Gorj, România", "sat Trestioara, comuna Dragotesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Drăguțești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Drăguțești", "sat"),
-        createLoc("Cârbești", "sat"),
-        createLoc("Dâmbova", "sat"),
-        createLoc("Iași-Gorj", "sat"),
-        createLoc("Tâlvești", "sat"),
-        createLoc("Urechești", "sat")
+        createLoc("Drăguțești", "sat", createAdresaCompleta("sat Drăguțești, comuna Drăguțești, judetul Gorj, România", "sat Dragutesti, comuna Dragutesti, judetul Gorj, Romania"))),
+        createLoc("Cârbești", "sat", createAdresaCompleta("sat Cârbești, comuna Drăguțești, judetul Gorj, România", "sat Carbesti, comuna Dragutesti, judetul Gorj, Romania"))),
+        createLoc("Dâmbova", "sat", createAdresaCompleta("sat Dâmbova, comuna Drăguțești, judetul Gorj, România", "sat Dambova, comuna Dragutesti, judetul Gorj, Romania"))),
+        createLoc("Iași-Gorj", "sat", createAdresaCompleta("sat Iași-Gorj, comuna Drăguțești, judetul Gorj, România", "sat Iasi-Gorj, comuna Dragutesti, judetul Gorj, Romania"))),
+        createLoc("Tâlvești", "sat", createAdresaCompleta("sat Tâlvești, comuna Drăguțești, judetul Gorj, România", "sat Talvesti, comuna Dragutesti, judetul Gorj, Romania"))),
+        createLoc("Urechești", "sat", createAdresaCompleta("sat Urechești, comuna Drăguțești, judetul Gorj, România", "sat Urechesti, comuna Dragutesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Fărcășești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Fărcășești", "sat"),
-        createLoc("Fărcășești-Moșneni", "sat"),
-        createLoc("Peșteana de Jos", "sat"),
-        createLoc("Rogojel", "sat"),
-        createLoc("Roșia-Jiu", "sat"),
-        createLoc("Timișeni", "sat"),
-        createLoc("Valea cu Apă", "sat")
+        createLoc("Fărcășești", "sat", createAdresaCompleta("sat Fărcășești, comuna Fărcășești, judetul Gorj, România", "sat Farcasesti, comuna Farcasesti, judetul Gorj, Romania"))),
+        createLoc("Fărcășești-Moșneni", "sat", createAdresaCompleta("sat Fărcășești-Moșneni, comuna Fărcășești, judetul Gorj, România", "sat Farcasesti-Mosneni, comuna Farcasesti, judetul Gorj, Romania"))),
+        createLoc("Peșteana de Jos", "sat", createAdresaCompleta("sat Peșteana de Jos, comuna Fărcășești, judetul Gorj, România", "sat Pesteana de Jos, comuna Farcasesti, judetul Gorj, Romania"))),
+        createLoc("Rogojel", "sat", createAdresaCompleta("sat Rogojel, comuna Fărcășești, judetul Gorj, România", "sat Rogojel, comuna Farcasesti, judetul Gorj, Romania"))),
+        createLoc("Roșia-Jiu", "sat", createAdresaCompleta("sat Roșia-Jiu, comuna Fărcășești, judetul Gorj, România", "sat Rosia-Jiu, comuna Farcasesti, judetul Gorj, Romania"))),
+        createLoc("Timișeni", "sat", createAdresaCompleta("sat Timișeni, comuna Fărcășești, judetul Gorj, România", "sat Timiseni, comuna Farcasesti, judetul Gorj, Romania"))),
+        createLoc("Valea cu Apă", "sat", createAdresaCompleta("sat Valea cu Apă, comuna Fărcășești, judetul Gorj, România", "sat Valea cu Apa, comuna Farcasesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Glogova", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Iormănești", "sat"),
-        createLoc("Cămuiești", "sat"),
-        createLoc("Cleșnești", "sat"),
-        createLoc("Glogova", "sat"),
-        createLoc("Olteanu", "sat")
+        createLoc("Iormănești", "sat", createAdresaCompleta("sat Iormănești, comuna Glogova, judetul Gorj, România", "sat Iormanesti, comuna Glogova, judetul Gorj, Romania"))),
+        createLoc("Cămuiești", "sat", createAdresaCompleta("sat Cămuiești, comuna Glogova, judetul Gorj, România", "sat Camuiesti, comuna Glogova, judetul Gorj, Romania"))),
+        createLoc("Cleșnești", "sat", createAdresaCompleta("sat Cleșnești, comuna Glogova, judetul Gorj, România", "sat Clesnesti, comuna Glogova, judetul Gorj, Romania"))),
+        createLoc("Glogova", "sat", createAdresaCompleta("sat Glogova, comuna Glogova, judetul Gorj, România", "sat Glogova, comuna Glogova, judetul Gorj, Romania"))),
+        createLoc("Olteanu", "sat", createAdresaCompleta("sat Olteanu, comuna Glogova, judetul Gorj, România", "sat Olteanu, comuna Glogova, judetul Gorj, Romania")))
     ]),
 
     createComuna("Godinești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Godinești", "sat"),
-        createLoc("Arjoci", "sat"),
-        createLoc("Chiliu", "sat"),
-        createLoc("Câlcești", "sat"),
-        createLoc("Pârâu de Pripor", "sat"),
-        createLoc("Pârâu de Vale", "sat"),
-        createLoc("Rătez", "sat")
+        createLoc("Godinești", "sat", createAdresaCompleta("sat Godinești, comuna Godinești, judetul Gorj, România", "sat Godinesti, comuna Godinesti, judetul Gorj, Romania"))),
+        createLoc("Arjoci", "sat", createAdresaCompleta("sat Arjoci, comuna Godinești, judetul Gorj, România", "sat Arjoci, comuna Godinesti, judetul Gorj, Romania"))),
+        createLoc("Chiliu", "sat", createAdresaCompleta("sat Chiliu, comuna Godinești, judetul Gorj, România", "sat Chiliu, comuna Godinesti, judetul Gorj, Romania"))),
+        createLoc("Câlcești", "sat", createAdresaCompleta("sat Câlcești, comuna Godinești, judetul Gorj, România", "sat Calcesti, comuna Godinesti, judetul Gorj, Romania"))),
+        createLoc("Pârâu de Pripor", "sat", createAdresaCompleta("sat Pârâu de Pripor, comuna Godinești, judetul Gorj, România", "sat Parau de Pripor, comuna Godinesti, judetul Gorj, Romania"))),
+        createLoc("Pârâu de Vale", "sat", createAdresaCompleta("sat Pârâu de Vale, comuna Godinești, judetul Gorj, România", "sat Parau de Vale, comuna Godinesti, judetul Gorj, Romania"))),
+        createLoc("Rătez", "sat", createAdresaCompleta("sat Rătez, comuna Godinești, judetul Gorj, România", "sat Ratez, comuna Godinesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Hurezani", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Hurezani", "sat"),
-        createLoc("Busuioci", "sat"),
-        createLoc("Pegeni", "sat"),
-        createLoc("Plopu", "sat"),
-        createLoc("Totea de Hurezani", "sat")
+        createLoc("Hurezani", "sat", createAdresaCompleta("sat Hurezani, comuna Hurezani, judetul Gorj, România", "sat Hurezani, comuna Hurezani, judetul Gorj, Romania"))),
+        createLoc("Busuioci", "sat", createAdresaCompleta("sat Busuioci, comuna Hurezani, judetul Gorj, România", "sat Busuioci, comuna Hurezani, judetul Gorj, Romania"))),
+        createLoc("Pegeni", "sat", createAdresaCompleta("sat Pegeni, comuna Hurezani, judetul Gorj, România", "sat Pegeni, comuna Hurezani, judetul Gorj, Romania"))),
+        createLoc("Plopu", "sat", createAdresaCompleta("sat Plopu, comuna Hurezani, judetul Gorj, România", "sat Plopu, comuna Hurezani, judetul Gorj, Romania"))),
+        createLoc("Totea de Hurezani", "sat", createAdresaCompleta("sat Totea de Hurezani, comuna Hurezani, judetul Gorj, România", "sat Totea de Hurezani, comuna Hurezani, judetul Gorj, Romania")))
     ]),
     createComuna("Ionești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Ionești", "sat"),
-        createLoc("Gura Șușiței", "sat"),
-        createLoc("Iliești", "sat"),
-        createLoc("Picu", "sat")
+        createLoc("Ionești", "sat", createAdresaCompleta("sat Ionești, comuna Ionești, judetul Gorj, România", "sat Ionesti, comuna Ionesti, judetul Gorj, Romania"))),
+        createLoc("Gura Șușiței", "sat", createAdresaCompleta("sat Gura Șușiței, comuna Ionești, judetul Gorj, România", "sat Gura Susitei, comuna Ionesti, judetul Gorj, Romania"))),
+        createLoc("Iliești", "sat", createAdresaCompleta("sat Iliești, comuna Ionești, judetul Gorj, România", "sat Iliesti, comuna Ionesti, judetul Gorj, Romania"))),
+        createLoc("Picu", "sat", createAdresaCompleta("sat Picu, comuna Ionești, judetul Gorj, România", "sat Picu, comuna Ionesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Jupânești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Jupânești", "sat"),
-        createLoc("Boia", "sat"),
-        createLoc("Pârâu Boia", "sat"),
-        createLoc("Vidin", "sat"),
-        createLoc("Vierșani", "sat")
+        createLoc("Jupânești", "sat", createAdresaCompleta("sat Jupânești, comuna Jupânești, judetul Gorj, România", "sat Jupanesti, comuna Jupanesti, judetul Gorj, Romania"))),
+        createLoc("Boia", "sat", createAdresaCompleta("sat Boia, comuna Jupânești, judetul Gorj, România", "sat Boia, comuna Jupanesti, judetul Gorj, Romania"))),
+        createLoc("Pârâu Boia", "sat", createAdresaCompleta("sat Pârâu Boia, comuna Jupânești, judetul Gorj, România", "sat Parau Boia, comuna Jupanesti, judetul Gorj, Romania"))),
+        createLoc("Vidin", "sat", createAdresaCompleta("sat Vidin, comuna Jupânești, judetul Gorj, România", "sat Vidin, comuna Jupanesti, judetul Gorj, Romania"))),
+        createLoc("Vierșani", "sat", createAdresaCompleta("sat Vierșani, comuna Jupânești, judetul Gorj, România", "sat Viersani, comuna Jupanesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Lelești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Lelești", "sat"),
-        createLoc("Frătești", "sat"),
-        createLoc("Rasovița", "sat")
+        createLoc("Lelești", "sat", createAdresaCompleta("sat Lelești, comuna Lelești, judetul Gorj, România", "sat Lelesti, comuna Lelesti, judetul Gorj, Romania"))),
+        createLoc("Frătești", "sat", createAdresaCompleta("sat Frătești, comuna Lelești, judetul Gorj, România", "sat Fratesti, comuna Lelesti, judetul Gorj, Romania"))),
+        createLoc("Rasovița", "sat", createAdresaCompleta("sat Rasovița, comuna Lelești, judetul Gorj, România", "sat Rasovita, comuna Lelesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Licurici", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Licurici", "sat"),
-        createLoc("Frumușei", "sat"),
-        createLoc("Negreni", "sat"),
-        createLoc("Totea", "sat")
+        createLoc("Licurici", "sat", createAdresaCompleta("sat Licurici, comuna Licurici, judetul Gorj, România", "sat Licurici, comuna Licurici, judetul Gorj, Romania"))),
+        createLoc("Frumușei", "sat", createAdresaCompleta("sat Frumușei, comuna Licurici, judetul Gorj, România", "sat Frumusei, comuna Licurici, judetul Gorj, Romania"))),
+        createLoc("Negreni", "sat", createAdresaCompleta("sat Negreni, comuna Licurici, judetul Gorj, România", "sat Negreni, comuna Licurici, judetul Gorj, Romania"))),
+        createLoc("Totea", "sat", createAdresaCompleta("sat Totea, comuna Licurici, judetul Gorj, România", "sat Totea, comuna Licurici, judetul Gorj, Romania")))
     ]),
 
     createComuna("Logrești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Târgu Logrești", "oras"),
-        createLoc("Colțești", "sat"),
-        createLoc("Frunza", "sat"),
-        createLoc("Logrești-Moșteni", "sat"),
-        createLoc("Măru", "sat"),
-        createLoc("Popești", "sat"),
-        createLoc("Seaca", "sat")
+        createLoc("Târgu Logrești", "oras", createAdresaCompleta("orasul Târgu Logrești, judetul Gorj, România", "orasul Targu Logresti, judetul Gorj, Romania"))),
+        createLoc("Colțești", "sat", createAdresaCompleta("sat Colțești, comuna Logrești, judetul Gorj, România", "sat Coltesti, comuna Logresti, judetul Gorj, Romania"))),
+        createLoc("Frunza", "sat", createAdresaCompleta("sat Frunza, comuna Logrești, judetul Gorj, România", "sat Frunza, comuna Logresti, judetul Gorj, Romania"))),
+        createLoc("Logrești-Moșteni", "sat", createAdresaCompleta("sat Logrești-Moșteni, comuna Logrești, judetul Gorj, România", "sat Logresti-Mosteni, comuna Logresti, judetul Gorj, Romania"))),
+        createLoc("Măru", "sat", createAdresaCompleta("sat Măru, comuna Logrești, judetul Gorj, România", "sat Maru, comuna Logresti, judetul Gorj, Romania"))),
+        createLoc("Popești", "sat", createAdresaCompleta("sat Popești, comuna Logrești, judetul Gorj, România", "sat Popesti, comuna Logresti, judetul Gorj, Romania"))),
+        createLoc("Seaca", "sat", createAdresaCompleta("sat Seaca, comuna Logrești, judetul Gorj, România", "sat Seaca, comuna Logresti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Mătăsari", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Mătăsari", "sat"),
-        createLoc("Brădet", "sat"),
-        createLoc("Brădețel", "sat"),
-        createLoc("Croici", "sat"),
-        createLoc("Runcurel", "sat")
+        createLoc("Mătăsari", "sat", createAdresaCompleta("sat Mătăsari, comuna Mătăsari, judetul Gorj, România", "sat Matasari, comuna Matasari, judetul Gorj, Romania"))),
+        createLoc("Brădet", "sat", createAdresaCompleta("sat Brădet, comuna Mătăsari, judetul Gorj, România", "sat Bradet, comuna Matasari, judetul Gorj, Romania"))),
+        createLoc("Brădețel", "sat", createAdresaCompleta("sat Brădețel, comuna Mătăsari, judetul Gorj, România", "sat Bradetel, comuna Matasari, judetul Gorj, Romania"))),
+        createLoc("Croici", "sat", createAdresaCompleta("sat Croici, comuna Mătăsari, judetul Gorj, România", "sat Croici, comuna Matasari, judetul Gorj, Romania"))),
+        createLoc("Runcurel", "sat", createAdresaCompleta("sat Runcurel, comuna Mătăsari, judetul Gorj, România", "sat Runcurel, comuna Matasari, judetul Gorj, Romania")))
     ]),
 
     createComuna("Mușetești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Mușetești", "sat"),
-        createLoc("Arșeni", "sat"),
-        createLoc("Bârcaciu", "sat"),
-        createLoc("Gămani", "sat"),
-        createLoc("Grui", "sat"),
-        createLoc("Stăncești", "sat"),
-        createLoc("Stăncești-Larga", "sat")
+        createLoc("Mușetești", "sat", createAdresaCompleta("sat Mușetești, comuna Mușetești, judetul Gorj, România", "sat Musetesti, comuna Musetesti, judetul Gorj, Romania"))),
+        createLoc("Arșeni", "sat", createAdresaCompleta("sat Arșeni, comuna Mușetești, judetul Gorj, România", "sat Arseni, comuna Musetesti, judetul Gorj, Romania"))),
+        createLoc("Bârcaciu", "sat", createAdresaCompleta("sat Bârcaciu, comuna Mușetești, judetul Gorj, România", "sat Barcaciu, comuna Musetesti, judetul Gorj, Romania"))),
+        createLoc("Gămani", "sat", createAdresaCompleta("sat Gămani, comuna Mușetești, judetul Gorj, România", "sat Gamani, comuna Musetesti, judetul Gorj, Romania"))),
+        createLoc("Grui", "sat", createAdresaCompleta("sat Grui, comuna Mușetești, judetul Gorj, România", "sat Grui, comuna Musetesti, judetul Gorj, Romania"))),
+        createLoc("Stăncești", "sat", createAdresaCompleta("sat Stăncești, comuna Mușetești, judetul Gorj, România", "sat Stancesti, comuna Musetesti, judetul Gorj, Romania"))),
+        createLoc("Stăncești-Larga", "sat", createAdresaCompleta("sat Stăncești-Larga, comuna Mușetești, judetul Gorj, România", "sat Stancesti-Larga, comuna Musetesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Negomir", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Negomir", "sat"),
-        createLoc("Artanu", "sat"),
-        createLoc("Bohorel", "sat"),
-        createLoc("Condeiești", "sat"),
-        createLoc("Nucetu", "sat"),
-        createLoc("Orzu", "sat"),
-        createLoc("Paltinu", "sat"),
-        createLoc("Raci", "sat"),
-        createLoc("Ursoaia", "sat"),
-        createLoc("Valea Racilor", "sat")
+        createLoc("Negomir", "sat", createAdresaCompleta("sat Negomir, comuna Negomir, judetul Gorj, România", "sat Negomir, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Artanu", "sat", createAdresaCompleta("sat Artanu, comuna Negomir, judetul Gorj, România", "sat Artanu, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Bohorel", "sat", createAdresaCompleta("sat Bohorel, comuna Negomir, judetul Gorj, România", "sat Bohorel, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Condeiești", "sat", createAdresaCompleta("sat Condeiești, comuna Negomir, judetul Gorj, România", "sat Condeiesti, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Nucetu", "sat", createAdresaCompleta("sat Nucetu, comuna Negomir, judetul Gorj, România", "sat Nucetu, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Orzu", "sat", createAdresaCompleta("sat Orzu, comuna Negomir, judetul Gorj, România", "sat Orzu, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Paltinu", "sat", createAdresaCompleta("sat Paltinu, comuna Negomir, judetul Gorj, România", "sat Paltinu, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Raci", "sat", createAdresaCompleta("sat Raci, comuna Negomir, judetul Gorj, România", "sat Raci, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Ursoaia", "sat", createAdresaCompleta("sat Ursoaia, comuna Negomir, judetul Gorj, România", "sat Ursoaia, comuna Negomir, judetul Gorj, Romania"))),
+        createLoc("Valea Racilor", "sat", createAdresaCompleta("sat Valea Racilor, comuna Negomir, judetul Gorj, România", "sat Valea Racilor, comuna Negomir, judetul Gorj, Romania")))
     ]),
 
     createComuna("Padeș", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Călugăreni", "sat"),
-        createLoc("Apa Neagră", "sat"),
-        createLoc("Cerna-Sat", "sat"),
-        createLoc("Cloșani", "sat"),
-        createLoc("Motru Sec", "sat"),
-        createLoc("Orzești", "sat"),
-        createLoc("Padeș", "sat"),
-        createLoc("Văieni", "sat")
+        createLoc("Călugăreni", "sat", createAdresaCompleta("sat Călugăreni, comuna Padeș, judetul Gorj, România", "sat Calugareni, comuna Pades, judetul Gorj, Romania"))),
+        createLoc("Apa Neagră", "sat", createAdresaCompleta("sat Apa Neagră, comuna Padeș, judetul Gorj, România", "sat Apa Neagra, comuna Pades, judetul Gorj, Romania"))),
+        createLoc("Cerna-Sat", "sat", createAdresaCompleta("sat Cerna-Sat, comuna Padeș, judetul Gorj, România", "sat Cerna-Sat, comuna Pades, judetul Gorj, Romania"))),
+        createLoc("Cloșani", "sat", createAdresaCompleta("sat Cloșani, comuna Padeș, judetul Gorj, România", "sat Closani, comuna Pades, judetul Gorj, Romania"))),
+        createLoc("Motru Sec", "sat", createAdresaCompleta("sat Motru Sec, comuna Padeș, judetul Gorj, România", "sat Motru Sec, comuna Pades, judetul Gorj, Romania"))),
+        createLoc("Orzești", "sat", createAdresaCompleta("sat Orzești, comuna Padeș, judetul Gorj, România", "sat Orzesti, comuna Pades, judetul Gorj, Romania"))),
+        createLoc("Padeș", "sat", createAdresaCompleta("sat Padeș, comuna Padeș, judetul Gorj, România", "sat Pades, comuna Pades, judetul Gorj, Romania"))),
+        createLoc("Văieni", "sat", createAdresaCompleta("sat Văieni, comuna Padeș, judetul Gorj, România", "sat Vaieni, comuna Pades, judetul Gorj, Romania")))
     ]),
 
     createComuna("Peștișani", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Peștișani", "sat"),
-        createLoc("Boroșteni", "sat"),
-        createLoc("Brădiceni", "sat"),
-        createLoc("Frâncești", "sat"),
-        createLoc("Gureni", "sat"),
-        createLoc("Hobița", "sat"),
-        createLoc("Seuca", "sat")
+        createLoc("Peștișani", "sat", createAdresaCompleta("sat Peștișani, comuna Peștișani, judetul Gorj, România", "sat Pestisani, comuna Pestisani, judetul Gorj, Romania"))),
+        createLoc("Boroșteni", "sat", createAdresaCompleta("sat Boroșteni, comuna Peștișani, judetul Gorj, România", "sat Borosteni, comuna Pestisani, judetul Gorj, Romania"))),
+        createLoc("Brădiceni", "sat", createAdresaCompleta("sat Brădiceni, comuna Peștișani, judetul Gorj, România", "sat Bradiceni, comuna Pestisani, judetul Gorj, Romania"))),
+        createLoc("Frâncești", "sat", createAdresaCompleta("sat Frâncești, comuna Peștișani, judetul Gorj, România", "sat Francesti, comuna Pestisani, judetul Gorj, Romania"))),
+        createLoc("Gureni", "sat", createAdresaCompleta("sat Gureni, comuna Peștișani, judetul Gorj, România", "sat Gureni, comuna Pestisani, judetul Gorj, Romania"))),
+        createLoc("Hobița", "sat", createAdresaCompleta("sat Hobița, comuna Peștișani, judetul Gorj, România", "sat Hobita, comuna Pestisani, judetul Gorj, Romania"))),
+        createLoc("Seuca", "sat", createAdresaCompleta("sat Seuca, comuna Peștișani, judetul Gorj, România", "sat Seuca, comuna Pestisani, judetul Gorj, Romania")))
     ]),
     createComuna("Plopșoru", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Plopșoru", "sat"),
-        createLoc("Broșteni", "sat"),
-        createLoc("Broștenii de Sus", "sat"),
-        createLoc("Ceplea", "sat"),
-        createLoc("Cursaru", "sat"),
-        createLoc("Deleni", "sat"),
-        createLoc("Izvoarele", "sat"),
-        createLoc("Olari", "sat"),
-        createLoc("Piscuri", "sat"),
-        createLoc("Sărdănești", "sat"),
-        createLoc("Văleni", "sat")
+        createLoc("Plopșoru", "sat", createAdresaCompleta("sat Plopșoru, comuna Plopșoru, judetul Gorj, România", "sat Plopsoru, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Broșteni", "sat", createAdresaCompleta("sat Broșteni, comuna Plopșoru, judetul Gorj, România", "sat Brosteni, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Broștenii de Sus", "sat", createAdresaCompleta("sat Broștenii de Sus, comuna Plopșoru, judetul Gorj, România", "sat Brostenii de Sus, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Ceplea", "sat", createAdresaCompleta("sat Ceplea, comuna Plopșoru, judetul Gorj, România", "sat Ceplea, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Cursaru", "sat", createAdresaCompleta("sat Cursaru, comuna Plopșoru, judetul Gorj, România", "sat Cursaru, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Deleni", "sat", createAdresaCompleta("sat Deleni, comuna Plopșoru, judetul Gorj, România", "sat Deleni, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Izvoarele", "sat", createAdresaCompleta("sat Izvoarele, comuna Plopșoru, judetul Gorj, România", "sat Izvoarele, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Olari", "sat", createAdresaCompleta("sat Olari, comuna Plopșoru, judetul Gorj, România", "sat Olari, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Piscuri", "sat", createAdresaCompleta("sat Piscuri, comuna Plopșoru, judetul Gorj, România", "sat Piscuri, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Sărdănești", "sat", createAdresaCompleta("sat Sărdănești, comuna Plopșoru, judetul Gorj, România", "sat Sardanesti, comuna Plopsoru, judetul Gorj, Romania"))),
+        createLoc("Văleni", "sat", createAdresaCompleta("sat Văleni, comuna Plopșoru, judetul Gorj, România", "sat Valeni, comuna Plopsoru, judetul Gorj, Romania")))
     ]),
 
     createComuna("Polovragi", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Polovragi", "sat"),
-        createLoc("Racovița", "sat")
+        createLoc("Polovragi", "sat", createAdresaCompleta("sat Polovragi, comuna Polovragi, judetul Gorj, România", "sat Polovragi, comuna Polovragi, judetul Gorj, Romania"))),
+        createLoc("Racovița", "sat", createAdresaCompleta("sat Racovița, comuna Polovragi, judetul Gorj, România", "sat Racovita, comuna Polovragi, judetul Gorj, Romania")))
     ]),
 
     createComuna("Prigoria", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Prigoria", "sat"),
-        createLoc("Bucșana", "sat"),
-        createLoc("Burlani", "sat"),
-        createLoc("Călugăreasa", "sat"),
-        createLoc("Dobrana", "sat"),
-        createLoc("Negoiești", "sat"),
-        createLoc("Zorlești", "sat")
+        createLoc("Prigoria", "sat", createAdresaCompleta("sat Prigoria, comuna Prigoria, judetul Gorj, România", "sat Prigoria, comuna Prigoria, judetul Gorj, Romania"))),
+        createLoc("Bucșana", "sat", createAdresaCompleta("sat Bucșana, comuna Prigoria, judetul Gorj, România", "sat Bucsana, comuna Prigoria, judetul Gorj, Romania"))),
+        createLoc("Burlani", "sat", createAdresaCompleta("sat Burlani, comuna Prigoria, judetul Gorj, România", "sat Burlani, comuna Prigoria, judetul Gorj, Romania"))),
+        createLoc("Călugăreasa", "sat", createAdresaCompleta("sat Călugăreasa, comuna Prigoria, judetul Gorj, România", "sat Calugareasa, comuna Prigoria, judetul Gorj, Romania"))),
+        createLoc("Dobrana", "sat", createAdresaCompleta("sat Dobrana, comuna Prigoria, judetul Gorj, România", "sat Dobrana, comuna Prigoria, judetul Gorj, Romania"))),
+        createLoc("Negoiești", "sat", createAdresaCompleta("sat Negoiești, comuna Prigoria, judetul Gorj, România", "sat Negoiesti, comuna Prigoria, judetul Gorj, Romania"))),
+        createLoc("Zorlești", "sat", createAdresaCompleta("sat Zorlești, comuna Prigoria, judetul Gorj, România", "sat Zorlesti, comuna Prigoria, judetul Gorj, Romania")))
     ]),
 
     createComuna("Roșia de Amaradia", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Roșia de Amaradia", "sat"),
-        createLoc("Becheni", "sat"),
-        createLoc("Dealu Viei", "sat"),
-        createLoc("Ruget", "sat"),
-        createLoc("Seciurile", "sat"),
-        createLoc("Stejaru", "sat"),
-        createLoc("Șitoaia", "sat")
+        createLoc("Roșia de Amaradia", "sat", createAdresaCompleta("sat Roșia de Amaradia, comuna Roșia de Amaradia, judetul Gorj, România", "sat Rosia de Amaradia, comuna Rosia de Amaradia, judetul Gorj, Romania"))),
+        createLoc("Becheni", "sat", createAdresaCompleta("sat Becheni, comuna Roșia de Amaradia, judetul Gorj, România", "sat Becheni, comuna Rosia de Amaradia, judetul Gorj, Romania"))),
+        createLoc("Dealu Viei", "sat", createAdresaCompleta("sat Dealu Viei, comuna Roșia de Amaradia, judetul Gorj, România", "sat Dealu Viei, comuna Rosia de Amaradia, judetul Gorj, Romania"))),
+        createLoc("Ruget", "sat", createAdresaCompleta("sat Ruget, comuna Roșia de Amaradia, judetul Gorj, România", "sat Ruget, comuna Rosia de Amaradia, judetul Gorj, Romania"))),
+        createLoc("Seciurile", "sat", createAdresaCompleta("sat Seciurile, comuna Roșia de Amaradia, judetul Gorj, România", "sat Seciurile, comuna Rosia de Amaradia, judetul Gorj, Romania"))),
+        createLoc("Stejaru", "sat", createAdresaCompleta("sat Stejaru, comuna Roșia de Amaradia, judetul Gorj, România", "sat Stejaru, comuna Rosia de Amaradia, judetul Gorj, Romania"))),
+        createLoc("Șitoaia", "sat", createAdresaCompleta("sat Șitoaia, comuna Roșia de Amaradia, judetul Gorj, România", "sat Sitoaia, comuna Rosia de Amaradia, judetul Gorj, Romania")))
     ]),
 
     createComuna("Runcu", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Runcu", "sat"),
-        createLoc("Bâlta", "sat"),
-        createLoc("Bâltișoara", "sat"),
-        createLoc("Dobrița", "sat"),
-        createLoc("Răchiți", "sat"),
-        createLoc("Suseni", "sat"),
-        createLoc("Valea Mare", "sat")
+        createLoc("Runcu", "sat", createAdresaCompleta("sat Runcu, comuna Runcu, judetul Gorj, România", "sat Runcu, comuna Runcu, judetul Gorj, Romania"))),
+        createLoc("Bâlta", "sat", createAdresaCompleta("sat Bâlta, comuna Runcu, judetul Gorj, România", "sat Balta, comuna Runcu, judetul Gorj, Romania"))),
+        createLoc("Bâltișoara", "sat", createAdresaCompleta("sat Bâltișoara, comuna Runcu, judetul Gorj, România", "sat Baltisoara, comuna Runcu, judetul Gorj, Romania"))),
+        createLoc("Dobrița", "sat", createAdresaCompleta("sat Dobrița, comuna Runcu, judetul Gorj, România", "sat Dobrita, comuna Runcu, judetul Gorj, Romania"))),
+        createLoc("Răchiți", "sat", createAdresaCompleta("sat Răchiți, comuna Runcu, judetul Gorj, România", "sat Rachiti, comuna Runcu, judetul Gorj, Romania"))),
+        createLoc("Suseni", "sat", createAdresaCompleta("sat Suseni, comuna Runcu, judetul Gorj, România", "sat Suseni, comuna Runcu, judetul Gorj, Romania"))),
+        createLoc("Valea Mare", "sat", createAdresaCompleta("sat Valea Mare, comuna Runcu, judetul Gorj, România", "sat Valea Mare, comuna Runcu, judetul Gorj, Romania")))
     ]),
 
     createComuna("Samarinești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Samarinești", "sat"),
-        createLoc("Băzăvani", "sat"),
-        createLoc("Boca", "sat"),
-        createLoc("Duculești", "sat"),
-        createLoc("Larga", "sat"),
-        createLoc("Țirioi", "sat"),
-        createLoc("Valea Bisericii", "sat"),
-        createLoc("Valea Mică", "sat"),
-        createLoc("Valea Poienii", "sat")
+        createLoc("Samarinești", "sat", createAdresaCompleta("sat Samarinești, comuna Samarinești, judetul Gorj, România", "sat Samarinesti, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Băzăvani", "sat", createAdresaCompleta("sat Băzăvani, comuna Samarinești, judetul Gorj, România", "sat Bazavani, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Boca", "sat", createAdresaCompleta("sat Boca, comuna Samarinești, judetul Gorj, România", "sat Boca, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Duculești", "sat", createAdresaCompleta("sat Duculești, comuna Samarinești, judetul Gorj, România", "sat Duculesti, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Larga", "sat", createAdresaCompleta("sat Larga, comuna Samarinești, judetul Gorj, România", "sat Larga, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Țirioi", "sat", createAdresaCompleta("sat Țirioi, comuna Samarinești, judetul Gorj, România", "sat Tirioi, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Valea Bisericii", "sat", createAdresaCompleta("sat Valea Bisericii, comuna Samarinești, judetul Gorj, România", "sat Valea Bisericii, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Valea Mică", "sat", createAdresaCompleta("sat Valea Mică, comuna Samarinești, judetul Gorj, România", "sat Valea Mica, comuna Samarinesti, judetul Gorj, Romania"))),
+        createLoc("Valea Poienii", "sat", createAdresaCompleta("sat Valea Poienii, comuna Samarinești, judetul Gorj, România", "sat Valea Poienii, comuna Samarinesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Săcelu", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Săcelu", "sat"),
-        createLoc("Blahnița de Sus", "sat"),
-        createLoc("Hăiești", "sat"),
-        createLoc("Jeriștea", "sat"),
-        createLoc("Magherești", "sat")
+        createLoc("Săcelu", "sat", createAdresaCompleta("sat Săcelu, comuna Săcelu, judetul Gorj, România", "sat Sacelu, comuna Sacelu, judetul Gorj, Romania"))),
+        createLoc("Blahnița de Sus", "sat", createAdresaCompleta("sat Blahnița de Sus, comuna Săcelu, judetul Gorj, România", "sat Blahnita de Sus, comuna Sacelu, judetul Gorj, Romania"))),
+        createLoc("Hăiești", "sat", createAdresaCompleta("sat Hăiești, comuna Săcelu, judetul Gorj, România", "sat Haiesti, comuna Sacelu, judetul Gorj, Romania"))),
+        createLoc("Jeriștea", "sat", createAdresaCompleta("sat Jeriștea, comuna Săcelu, judetul Gorj, România", "sat Jeristea, comuna Sacelu, judetul Gorj, Romania"))),
+        createLoc("Magherești", "sat", createAdresaCompleta("sat Magherești, comuna Săcelu, judetul Gorj, România", "sat Magheresti, comuna Sacelu, judetul Gorj, Romania")))
     ]),
 
     createComuna("Săulești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Săulești", "sat"),
-        createLoc("Bibești", "sat"),
-        createLoc("Dolcești", "sat"),
-        createLoc("Purcaru", "sat")
+        createLoc("Săulești", "sat", createAdresaCompleta("sat Săulești, comuna Săulești, judetul Gorj, România", "sat Saulesti, comuna Saulesti, judetul Gorj, Romania"))),
+        createLoc("Bibești", "sat", createAdresaCompleta("sat Bibești, comuna Săulești, judetul Gorj, România", "sat Bibesti, comuna Saulesti, judetul Gorj, Romania"))),
+        createLoc("Dolcești", "sat", createAdresaCompleta("sat Dolcești, comuna Săulești, judetul Gorj, România", "sat Dolcesti, comuna Saulesti, judetul Gorj, Romania"))),
+        createLoc("Purcaru", "sat", createAdresaCompleta("sat Purcaru, comuna Săulești, judetul Gorj, România", "sat Purcaru, comuna Saulesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Scoarța", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Scoarța", "sat"),
-        createLoc("Bobu", "sat"),
-        createLoc("Budieni", "sat"),
-        createLoc("Cerătu de Copăcioasa", "sat"),
-        createLoc("Câmpu Mare", "sat"),
-        createLoc("Colibași", "sat"),
-        createLoc("Copăcioasa", "sat"),
-        createLoc("Lazuri", "sat"),
-        createLoc("Lintea", "sat"),
-        createLoc("Mogoșani", "sat"),
-        createLoc("Pișteștii din Deal", "sat")
+        createLoc("Scoarța", "sat", createAdresaCompleta("sat Scoarța, comuna Scoarța, judetul Gorj, România", "sat Scoarta, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Bobu", "sat", createAdresaCompleta("sat Bobu, comuna Scoarța, judetul Gorj, România", "sat Bobu, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Budieni", "sat", createAdresaCompleta("sat Budieni, comuna Scoarța, judetul Gorj, România", "sat Budieni, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Cerătu de Copăcioasa", "sat", createAdresaCompleta("sat Cerătu de Copăcioasa, comuna Scoarța, judetul Gorj, România", "sat Ceratu de Copacioasa, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Câmpu Mare", "sat", createAdresaCompleta("sat Câmpu Mare, comuna Scoarța, judetul Gorj, România", "sat Campu Mare, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Colibași", "sat", createAdresaCompleta("sat Colibași, comuna Scoarța, judetul Gorj, România", "sat Colibasi, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Copăcioasa", "sat", createAdresaCompleta("sat Copăcioasa, comuna Scoarța, judetul Gorj, România", "sat Copacioasa, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Lazuri", "sat", createAdresaCompleta("sat Lazuri, comuna Scoarța, judetul Gorj, România", "sat Lazuri, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Lintea", "sat", createAdresaCompleta("sat Lintea, comuna Scoarța, judetul Gorj, România", "sat Lintea, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Mogoșani", "sat", createAdresaCompleta("sat Mogoșani, comuna Scoarța, judetul Gorj, România", "sat Mogosani, comuna Scoarta, judetul Gorj, Romania"))),
+        createLoc("Pișteștii din Deal", "sat", createAdresaCompleta("sat Pișteștii din Deal, comuna Scoarța, judetul Gorj, România", "sat Pistestii din Deal, comuna Scoarta, judetul Gorj, Romania")))
     ]),
 
     createComuna("Schela", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Sâmbotin", "sat"),
-        createLoc("Arsuri", "sat"),
-        createLoc("Gornăcel", "sat"),
-        createLoc("Păjiștele", "sat"),
-        createLoc("Schela", "sat")
+        createLoc("Sâmbotin", "sat", createAdresaCompleta("sat Sâmbotin, comuna Schela, judetul Gorj, România", "sat Sambotin, comuna Schela, judetul Gorj, Romania"))),
+        createLoc("Arsuri", "sat", createAdresaCompleta("sat Arsuri, comuna Schela, judetul Gorj, România", "sat Arsuri, comuna Schela, judetul Gorj, Romania"))),
+        createLoc("Gornăcel", "sat", createAdresaCompleta("sat Gornăcel, comuna Schela, judetul Gorj, România", "sat Gornacel, comuna Schela, judetul Gorj, Romania"))),
+        createLoc("Păjiștele", "sat", createAdresaCompleta("sat Păjiștele, comuna Schela, judetul Gorj, România", "sat Pajistele, comuna Schela, judetul Gorj, Romania"))),
+        createLoc("Schela", "sat", createAdresaCompleta("sat Schela, comuna Schela, judetul Gorj, România", "sat Schela, comuna Schela, judetul Gorj, Romania")))
     ]),
     createComuna("Slivilești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Slivilești", "sat"),
-        createLoc("Cojmănești", "sat"),
-        createLoc("Miculești", "sat"),
-        createLoc("Strâmtu", "sat"),
-        createLoc("Sura", "sat"),
-        createLoc("Șiacu", "sat"),
-        createLoc("Știucani", "sat"),
-        createLoc("Tehomir", "sat")
+        createLoc("Slivilești", "sat", createAdresaCompleta("sat Slivilești, comuna Slivilești, judetul Gorj, România", "sat Slivilesti, comuna Slivilesti, judetul Gorj, Romania"))),
+        createLoc("Cojmănești", "sat", createAdresaCompleta("sat Cojmănești, comuna Slivilești, judetul Gorj, România", "sat Cojmanesti, comuna Slivilesti, judetul Gorj, Romania"))),
+        createLoc("Miculești", "sat", createAdresaCompleta("sat Miculești, comuna Slivilești, judetul Gorj, România", "sat Miculesti, comuna Slivilesti, judetul Gorj, Romania"))),
+        createLoc("Strâmtu", "sat", createAdresaCompleta("sat Strâmtu, comuna Slivilești, judetul Gorj, România", "sat Stramtu, comuna Slivilesti, judetul Gorj, Romania"))),
+        createLoc("Sura", "sat", createAdresaCompleta("sat Sura, comuna Slivilești, judetul Gorj, România", "sat Sura, comuna Slivilesti, judetul Gorj, Romania"))),
+        createLoc("Șiacu", "sat", createAdresaCompleta("sat Șiacu, comuna Slivilești, judetul Gorj, România", "sat Siacu, comuna Slivilesti, judetul Gorj, Romania"))),
+        createLoc("Știucani", "sat", createAdresaCompleta("sat Știucani, comuna Slivilești, judetul Gorj, România", "sat Stiucani, comuna Slivilesti, judetul Gorj, Romania"))),
+        createLoc("Tehomir", "sat", createAdresaCompleta("sat Tehomir, comuna Slivilești, judetul Gorj, România", "sat Tehomir, comuna Slivilesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Stănești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Stănești", "sat"),
-        createLoc("Alexeni", "sat"),
-        createLoc("Bălani", "sat"),
-        createLoc("Călești", "sat"),
-        createLoc("Curpen", "sat"),
-        createLoc("Măzăroi", "sat"),
-        createLoc("Obreja", "sat"),
-        createLoc("Pârvulești", "sat"),
-        createLoc("Vaidei", "sat"),
-        createLoc("Vălari", "sat")
+        createLoc("Stănești", "sat", createAdresaCompleta("sat Stănești, comuna Stănești, judetul Gorj, România", "sat Stanesti, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Alexeni", "sat", createAdresaCompleta("sat Alexeni, comuna Stănești, judetul Gorj, România", "sat Alexeni, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Bălani", "sat", createAdresaCompleta("sat Bălani, comuna Stănești, judetul Gorj, România", "sat Balani, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Călești", "sat", createAdresaCompleta("sat Călești, comuna Stănești, judetul Gorj, România", "sat Calesti, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Curpen", "sat", createAdresaCompleta("sat Curpen, comuna Stănești, judetul Gorj, România", "sat Curpen, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Măzăroi", "sat", createAdresaCompleta("sat Măzăroi, comuna Stănești, judetul Gorj, România", "sat Mazaroi, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Obreja", "sat", createAdresaCompleta("sat Obreja, comuna Stănești, judetul Gorj, România", "sat Obreja, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Pârvulești", "sat", createAdresaCompleta("sat Pârvulești, comuna Stănești, judetul Gorj, România", "sat Parvulesti, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Vaidei", "sat", createAdresaCompleta("sat Vaidei, comuna Stănești, judetul Gorj, România", "sat Vaidei, comuna Stanesti, judetul Gorj, Romania"))),
+        createLoc("Vălari", "sat", createAdresaCompleta("sat Vălari, comuna Stănești, judetul Gorj, România", "sat Valari, comuna Stanesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Stejari", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Stejari", "sat"),
-        createLoc("Baloșani", "sat"),
-        createLoc("Băcești", "sat"),
-        createLoc("Dealu Leului", "sat"),
-        createLoc("Piscoiu", "sat"),
-        createLoc("Popești-Stejari", "sat")
+        createLoc("Stejari", "sat", createAdresaCompleta("sat Stejari, comuna Stejari, judetul Gorj, România", "sat Stejari, comuna Stejari, judetul Gorj, Romania"))),
+        createLoc("Baloșani", "sat", createAdresaCompleta("sat Baloșani, comuna Stejari, judetul Gorj, România", "sat Balosani, comuna Stejari, judetul Gorj, Romania"))),
+        createLoc("Băcești", "sat", createAdresaCompleta("sat Băcești, comuna Stejari, judetul Gorj, România", "sat Bacesti, comuna Stejari, judetul Gorj, Romania"))),
+        createLoc("Dealu Leului", "sat", createAdresaCompleta("sat Dealu Leului, comuna Stejari, judetul Gorj, România", "sat Dealu Leului, comuna Stejari, judetul Gorj, Romania"))),
+        createLoc("Piscoiu", "sat", createAdresaCompleta("sat Piscoiu, comuna Stejari, judetul Gorj, România", "sat Piscoiu, comuna Stejari, judetul Gorj, Romania"))),
+        createLoc("Popești-Stejari", "sat", createAdresaCompleta("sat Popești-Stejari, comuna Stejari, judetul Gorj, România", "sat Popesti-Stejari, comuna Stejari, judetul Gorj, Romania")))
     ]),
 
     createComuna("Stoina", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Stoina", "sat"),
-        createLoc("Ciorari", "sat"),
-        createLoc("Mielușei", "sat"),
-        createLoc("Păișani", "sat"),
-        createLoc("Toiaga", "sat"),
-        createLoc("Ulmet", "sat"),
-        createLoc("Urda de Sus", "sat")
+        createLoc("Stoina", "sat", createAdresaCompleta("sat Stoina, comuna Stoina, judetul Gorj, România", "sat Stoina, comuna Stoina, judetul Gorj, Romania"))),
+        createLoc("Ciorari", "sat", createAdresaCompleta("sat Ciorari, comuna Stoina, judetul Gorj, România", "sat Ciorari, comuna Stoina, judetul Gorj, Romania"))),
+        createLoc("Mielușei", "sat", createAdresaCompleta("sat Mielușei, comuna Stoina, judetul Gorj, România", "sat Mielusei, comuna Stoina, judetul Gorj, Romania"))),
+        createLoc("Păișani", "sat", createAdresaCompleta("sat Păișani, comuna Stoina, judetul Gorj, România", "sat Paisani, comuna Stoina, judetul Gorj, Romania"))),
+        createLoc("Toiaga", "sat", createAdresaCompleta("sat Toiaga, comuna Stoina, judetul Gorj, România", "sat Toiaga, comuna Stoina, judetul Gorj, Romania"))),
+        createLoc("Ulmet", "sat", createAdresaCompleta("sat Ulmet, comuna Stoina, judetul Gorj, România", "sat Ulmet, comuna Stoina, judetul Gorj, Romania"))),
+        createLoc("Urda de Sus", "sat", createAdresaCompleta("sat Urda de Sus, comuna Stoina, judetul Gorj, România", "sat Urda de Sus, comuna Stoina, judetul Gorj, Romania")))
     ]),
 
     createComuna("Telești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Telești", "sat"),
-        createLoc("Buduhala", "sat"),
-        createLoc("Șomănești", "sat")
+        createLoc("Telești", "sat", createAdresaCompleta("sat Telești, comuna Telești, judetul Gorj, România", "sat Telesti, comuna Telesti, judetul Gorj, Romania"))),
+        createLoc("Buduhala", "sat", createAdresaCompleta("sat Buduhala, comuna Telești, judetul Gorj, România", "sat Buduhala, comuna Telesti, judetul Gorj, Romania"))),
+        createLoc("Șomănești", "sat", createAdresaCompleta("sat Șomănești, comuna Telești, judetul Gorj, România", "sat Somanesti, comuna Telesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Turburea", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Turburea", "sat"),
-        createLoc("Cocorova", "sat"),
-        createLoc("Poiana", "sat"),
-        createLoc("Spahii", "sat"),
-        createLoc("Șipotu", "sat")
+        createLoc("Turburea", "sat", createAdresaCompleta("sat Turburea, comuna Turburea, judetul Gorj, România", "sat Turburea, comuna Turburea, judetul Gorj, Romania"))),
+        createLoc("Cocorova", "sat", createAdresaCompleta("sat Cocorova, comuna Turburea, judetul Gorj, România", "sat Cocorova, comuna Turburea, judetul Gorj, Romania"))),
+        createLoc("Poiana", "sat", createAdresaCompleta("sat Poiana, comuna Turburea, judetul Gorj, România", "sat Poiana, comuna Turburea, judetul Gorj, Romania"))),
+        createLoc("Spahii", "sat", createAdresaCompleta("sat Spahii, comuna Turburea, judetul Gorj, România", "sat Spahii, comuna Turburea, judetul Gorj, Romania"))),
+        createLoc("Șipotu", "sat", createAdresaCompleta("sat Șipotu, comuna Turburea, judetul Gorj, România", "sat Sipotu, comuna Turburea, judetul Gorj, Romania")))
     ]),
 
     createComuna("Turcinești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Turcinești", "sat"),
-        createLoc("Cartiu", "sat"),
-        createLoc("Horezu", "sat"),
-        createLoc("Rugi", "sat")
+        createLoc("Turcinești", "sat", createAdresaCompleta("sat Turcinești, comuna Turcinești, judetul Gorj, România", "sat Turcinesti, comuna Turcinesti, judetul Gorj, Romania"))),
+        createLoc("Cartiu", "sat", createAdresaCompleta("sat Cartiu, comuna Turcinești, judetul Gorj, România", "sat Cartiu, comuna Turcinesti, judetul Gorj, Romania"))),
+        createLoc("Horezu", "sat", createAdresaCompleta("sat Horezu, comuna Turcinești, judetul Gorj, România", "sat Horezu, comuna Turcinesti, judetul Gorj, Romania"))),
+        createLoc("Rugi", "sat", createAdresaCompleta("sat Rugi, comuna Turcinești, judetul Gorj, România", "sat Rugi, comuna Turcinesti, judetul Gorj, Romania")))
     ]),
 
     createComuna("Țânțăreni", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Țânțăreni", "sat"),
-        createLoc("Arpadia", "sat"),
-        createLoc("Chiciora", "sat"),
-        createLoc("Florești", "sat")
+        createLoc("Țânțăreni", "sat", createAdresaCompleta("sat Țânțăreni, comuna Țânțăreni, judetul Gorj, România", "sat Tantareni, comuna Tantareni, judetul Gorj, Romania"))),
+        createLoc("Arpadia", "sat", createAdresaCompleta("sat Arpadia, comuna Țânțăreni, judetul Gorj, România", "sat Arpadia, comuna Tantareni, judetul Gorj, Romania"))),
+        createLoc("Chiciora", "sat", createAdresaCompleta("sat Chiciora, comuna Țânțăreni, judetul Gorj, România", "sat Chiciora, comuna Tantareni, judetul Gorj, Romania"))),
+        createLoc("Florești", "sat", createAdresaCompleta("sat Florești, comuna Țânțăreni, judetul Gorj, România", "sat Floresti, comuna Tantareni, judetul Gorj, Romania")))
     ]),
 
     createComuna("Urdari", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Urdari", "sat"),
-        createLoc("Fântânele", "sat"),
-        createLoc("Hotăroasa", "sat")
+        createLoc("Urdari", "sat", createAdresaCompleta("sat Urdari, comuna Urdari, judetul Gorj, România", "sat Urdari, comuna Urdari, judetul Gorj, Romania"))),
+        createLoc("Fântânele", "sat", createAdresaCompleta("sat Fântânele, comuna Urdari, judetul Gorj, România", "sat Fantanele, comuna Urdari, judetul Gorj, Romania"))),
+        createLoc("Hotăroasa", "sat", createAdresaCompleta("sat Hotăroasa, comuna Urdari, judetul Gorj, România", "sat Hotaroasa, comuna Urdari, judetul Gorj, Romania")))
     ]),
 
     createComuna("Văgiulești", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Văgiulești", "sat"),
-        createLoc("Cârciu", "sat"),
-        createLoc("Covrigi", "sat"),
-        createLoc("Murgilești", "sat"),
-        createLoc("Valea Motrului", "sat")
+        createLoc("Văgiulești", "sat", createAdresaCompleta("sat Văgiulești, comuna Văgiulești, judetul Gorj, România", "sat Vagiulesti, comuna Vagiulesti, judetul Gorj, Romania"))),
+        createLoc("Cârciu", "sat", createAdresaCompleta("sat Cârciu, comuna Văgiulești, judetul Gorj, România", "sat Carciu, comuna Vagiulesti, judetul Gorj, Romania"))),
+        createLoc("Covrigi", "sat", createAdresaCompleta("sat Covrigi, comuna Văgiulești, judetul Gorj, România", "sat Covrigi, comuna Vagiulesti, judetul Gorj, Romania"))),
+        createLoc("Murgilești", "sat", createAdresaCompleta("sat Murgilești, comuna Văgiulești, judetul Gorj, România", "sat Murgilesti, comuna Vagiulesti, judetul Gorj, Romania"))),
+        createLoc("Valea Motrului", "sat", createAdresaCompleta("sat Valea Motrului, comuna Văgiulești, judetul Gorj, România", "sat Valea Motrului, comuna Vagiulesti, judetul Gorj, Romania")))
     ]),
     createComuna("Vladimir", [
 				createAdresaCompleta("comuna Albeni, judetul GORJ, România", "comuna Albeni, judetul GORJ, Romania"),
-        createLoc("Andreești", "sat"),
-        createLoc("Frasin", "sat"),
-        createLoc("Valea Deșului", "sat"),
-        createLoc("Vladimir", "sat")
+        createLoc("Andreești", "sat", createAdresaCompleta("sat Andreești, comuna Vladimir, judetul Gorj, România", "sat Andreesti, comuna Vladimir, judetul Gorj, Romania"))),
+        createLoc("Frasin", "sat", createAdresaCompleta("sat Frasin, comuna Vladimir, judetul Gorj, România", "sat Frasin, comuna Vladimir, judetul Gorj, Romania"))),
+        createLoc("Valea Deșului", "sat", createAdresaCompleta("sat Valea Deșului, comuna Vladimir, judetul Gorj, România", "sat Valea Desului, comuna Vladimir, judetul Gorj, Romania"))),
+        createLoc("Vladimir", "sat", createAdresaCompleta("sat Vladimir, comuna Vladimir, judetul Gorj, România", "sat Vladimir, comuna Vladimir, judetul Gorj, Romania")))
     ]),
 
 ];
