@@ -1,19 +1,19 @@
 <?php
 $orase = [
     createOras("AMARA", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("orasul AMARA, judetul IALOMITA, România", "orasul AMARA, judetul IALOMITA, Romania"),
         createLoc("AMARA", "oras", [
             createLoc("Amara Nouă", "sat"),
         ]),
     ]),
 
     createOras("CĂZĂNEȘTI", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("orasul AMARA, judetul IALOMITA, România", "orasul AMARA, judetul IALOMITA, Romania"),
         createLoc("CĂZĂNEȘTI", "oras"),
     ]),
 
     createOras("FIERBINȚI-TÂRG", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("orasul AMARA, judetul IALOMITA, România", "orasul AMARA, judetul IALOMITA, Romania"),
         createLoc("FIERBINȚI-TÂRG", "oras", [
             createLoc("Fierbinții de Jos", "sat"),
             createLoc("Fierbinții de Sus", "sat"),
@@ -22,7 +22,7 @@ $orase = [
     ]),
 
     createOras("ȚĂNDĂREI", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("orasul AMARA, judetul IALOMITA, România", "orasul AMARA, judetul IALOMITA, Romania"),
         createLoc("ȚĂNDĂREI", "oras"),
     ]),
 ];

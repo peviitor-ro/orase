@@ -2,7 +2,7 @@
 $comune =[
 
 	createComuna("Acățari", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Acățari", "sat"),
         createLoc("Corbești", "sat"),
         createLoc("Găiești", "sat"),
@@ -14,7 +14,7 @@ $comune =[
         createLoc("Vălenii", "sat"),
     ]),		
     createComuna("Adămuș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Adămuș", "sat"),
         createLoc("Chinciuș", "sat"),
         createLoc("Cornești", "sat"),
@@ -24,7 +24,7 @@ $comune =[
     ]),
     
     createComuna("Albești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Albești", "sat"),
         createLoc("Bârlibășoaia", "sat"),
         createLoc("Boiu", "sat"),
@@ -37,14 +37,14 @@ $comune =[
     ]),
     
     createComuna("Aluniș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Aluniș", "sat"),
         createLoc("Fițcău", "sat"),
         createLoc("Lunca Mureșului", "sat")
     ]),
     
     createComuna("Apold", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Apold", "sat"),
         createLoc("Daia", "sat"),
         createLoc("Șaeș", "sat"),
@@ -52,7 +52,7 @@ $comune =[
     ]),
     
     createComuna("Ațintiș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Ațintiș", "sat"),
         createLoc("Botez", "sat"),
         createLoc("Cecălaca", "sat"),
@@ -62,7 +62,7 @@ $comune =[
     ]),
     
     createComuna("Bahnea", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Bahnea", "sat"),
         createLoc("Bernadea", "sat"),
         createLoc("Cund", "sat"),
@@ -73,7 +73,7 @@ $comune =[
     ]),
     
     createComuna("Band", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Band", "sat"),
         createLoc("Drăculea Bandului", "sat"),
         createLoc("Fânațe", "sat"),
@@ -88,7 +88,7 @@ $comune =[
     ]),
     
     createComuna("Batoș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Batoș", "sat"),
         createLoc("Dedrad", "sat"),
         createLoc("Goreni", "sat"),
@@ -96,18 +96,18 @@ $comune =[
     ]),
     
     createComuna("Băgaciu", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Băgaciu", "sat"),
         createLoc("Delenii", "sat")
     ]),
     createComuna("Băla", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Băla", "sat"),
         createLoc("Ercea", "sat")
     ]),
     
     createComuna("Bălăușeri", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Bălăușeri", "sat"),
         createLoc("Agrișteu", "sat"),
         createLoc("Chendu", "sat"),
@@ -117,7 +117,7 @@ $comune =[
     ]),
     
     createComuna("Beica de Jos", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Beica de Jos", "sat"),
         createLoc("Beica de Sus", "sat"),
         createLoc("Căcuciu", "sat"),
@@ -127,7 +127,7 @@ $comune =[
     ]),
     
     createComuna("Bereni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Bereni", "sat"),
         createLoc("Bâra", "sat"),
         createLoc("Cându", "sat"),
@@ -138,7 +138,7 @@ $comune =[
     ]),
     
     createComuna("Bichiș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Bichiș", "sat"),
         createLoc("Gâmbuț", "sat"),
         createLoc("Nandra", "sat"),
@@ -146,20 +146,20 @@ $comune =[
     ]),
     
     createComuna("Bogata", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Bogata", "sat"),
         createLoc("Ranta", "sat")
     ]),
     
     createComuna("Breaza", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Breaza", "sat"),
         createLoc("Filpișu Mare", "sat"),
         createLoc("Filpișu Mic", "sat")
     ]),
     
     createComuna("Brâncovenești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Brâncovenești", "sat"),
         createLoc("Idicel", "sat"),
         createLoc("Idicel-Pădure", "sat"),
@@ -168,7 +168,7 @@ $comune =[
     ]),
     
     createComuna("Ceuașu de Câmpie", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Ceuașu de Câmpie", "sat"),
         createLoc("Bozed", "sat"),
         createLoc("Câmpenița", "sat"),
@@ -180,7 +180,7 @@ $comune =[
     ]),
     
     createComuna("Chețani", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Chețani", "sat"),
         createLoc("Coasta Grindului", "sat"),
         createLoc("Cordoș", "sat"),
@@ -190,12 +190,12 @@ $comune =[
         createLoc("Linț", "sat")
     ]),
     createComuna("Chibed", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Chibed", "sat")
     ]),
     
     createComuna("Chiheru de Jos", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Chiheru de Jos", "sat"),
         createLoc("Chiheru de Sus", "sat"),
         createLoc("Urisiu de Jos", "sat"),
@@ -203,7 +203,7 @@ $comune =[
     ]),
     
     createComuna("Coroisânmărtin", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Coroisânmărtin", "sat"),
         createLoc("Coroi", "sat"),
         createLoc("Odrihei", "sat"),
@@ -211,13 +211,13 @@ $comune =[
     ]),
     
     createComuna("Corunca", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Corunca", "sat"),
         createLoc("Bozeni", "sat")
     ]),
     
     createComuna("Cozma", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Cozma", "sat"),
         createLoc("Fânațele Socolului", "sat"),
         createLoc("Socolu de Câmpie", "sat"),
@@ -226,7 +226,7 @@ $comune =[
     ]),
     
     createComuna("Crăciunești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Crăciunești", "sat"),
         createLoc("Budiu Mic", "sat"),
         createLoc("Ciba", "sat"),
@@ -238,7 +238,7 @@ $comune =[
     ]),
     
     createComuna("Crăiești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Crăiești", "sat"),
         createLoc("Lefaia", "sat"),
         createLoc("Milășel", "sat"),
@@ -246,20 +246,20 @@ $comune =[
     ]),
     
     createComuna("Cristești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Cristești", "sat"),
         createLoc("Vălureni", "sat")
     ]),
     
     createComuna("Cucerdea", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Cucerdea", "sat"),
         createLoc("Bord", "sat"),
         createLoc("Șeulia de Mureș", "sat")
     ]),
     
     createComuna("Cuci", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Cuci", "sat"),
         createLoc("Dătășeni", "sat"),
         createLoc("După Deal", "sat"),
@@ -267,7 +267,7 @@ $comune =[
         createLoc("Petrilaca", "sat")
     ]),
     createComuna("Daneș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Daneș", "sat"),
         createLoc("Criș", "sat"),
         createLoc("Seleuș", "sat"),
@@ -275,7 +275,7 @@ $comune =[
     ]),
     
     createComuna("Deda", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Deda", "sat"),
         createLoc("Bistra Mureșului", "sat"),
         createLoc("Filea", "sat"),
@@ -283,7 +283,7 @@ $comune =[
     ]),
     
     createComuna("Eremitu", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Eremitu", "sat"),
         createLoc("Călugăreni", "sat"),
         createLoc("Câmpu Cetății", "sat"),
@@ -292,7 +292,7 @@ $comune =[
     ]),
     
     createComuna("Ernei", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Ernei", "sat"),
         createLoc("Călușeri", "sat"),
         createLoc("Dumbrăvioara", "sat"),
@@ -302,7 +302,7 @@ $comune =[
     ]),
     
     createComuna("Fărăgău", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Fărăgău", "sat"),
         createLoc("Fânațe", "sat"),
         createLoc("Hodaia", "sat"),
@@ -312,7 +312,7 @@ $comune =[
     ]),
     
     createComuna("Fântânele", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Fântânele", "sat"),
         createLoc("Bordoșiu", "sat"),
         createLoc("Călimănești", "sat"),
@@ -322,7 +322,7 @@ $comune =[
     ]),
     
     createComuna("Gălești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Gălești", "sat"),
         createLoc("Adrianu Mare", "sat"),
         createLoc("Adrianu Mic", "sat"),
@@ -333,7 +333,7 @@ $comune =[
     ]),
     
     createComuna("Gănești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Gănești", "sat"),
         createLoc("Păucișoara", "sat"),
         createLoc("Seuca", "sat"),
@@ -341,7 +341,7 @@ $comune =[
     ]),
     
     createComuna("Gheorghe Doja", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Gheorghe Doja", "sat"),
         createLoc("Ilieni", "sat"),
         createLoc("Leordeni", "sat"),
@@ -350,7 +350,7 @@ $comune =[
     ]),
     
     createComuna("Ghindari", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Ghindari", "sat"),
         createLoc("Abud", "sat"),
         createLoc("Ceie", "sat"),
@@ -358,7 +358,7 @@ $comune =[
         createLoc("Trei Sate", "sat")
     ]),
     createComuna("Glodeni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Glodeni", "sat"),
         createLoc("Merișor", "sat"),
         createLoc("Moișa", "sat"),
@@ -367,7 +367,7 @@ $comune =[
     ]),
     
     createComuna("Gornești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Gornești", "sat"),
         createLoc("Iara de Mureș", "sat"),
         createLoc("Ilioara", "sat"),
@@ -380,14 +380,14 @@ $comune =[
     ]),
     
     createComuna("Grebenișu de Câmpie", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Grebenișu de Câmpie", "sat"),
         createLoc("Leorința", "sat"),
         createLoc("Valea Sânpetrului", "sat")
     ]),
     
     createComuna("Gurghiu", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Gurghiu", "sat"),
         createLoc("Adrian", "sat"),
         createLoc("Cașva", "sat"),
@@ -401,7 +401,7 @@ $comune =[
     ]),
     
     createComuna("Hodac", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Hodac", "sat"),
         createLoc("Arșița", "sat"),
         createLoc("Bicașu", "sat"),
@@ -412,7 +412,7 @@ $comune =[
     ]),
     
     createComuna("Hodoșa", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Hodoșa", "sat"),
         createLoc("Ihod", "sat"),
         createLoc("Isla", "sat"),
@@ -420,7 +420,7 @@ $comune =[
     ]),
     
     createComuna("Ibănești", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Ibănești", "sat"),
         createLoc("Blidireasa", "sat"),
         createLoc("Brădețelu", "sat"),
@@ -434,7 +434,7 @@ $comune =[
     ]),
     
     createComuna("Iclănzel", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Iclănzel", "sat"),
         createLoc("Căpușu de Câmpie", "sat"),
         createLoc("Chisălița", "sat"),
@@ -449,21 +449,21 @@ $comune =[
     ]),
     
     createComuna("Ideciu de Jos", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Ideciu de Jos", "sat"),
         createLoc("Deleni", "sat"),
         createLoc("Ideciu de Sus", "sat")
     ]),
     
     createComuna("Livezeni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Livezeni", "sat"),
         createLoc("Ivănești", "sat"),
         createLoc("Poienița", "sat"),
         createLoc("Sânișor", "sat")
     ]),
     createComuna("Lunca", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Lunca", "sat"),
         createLoc("Băița", "sat"),
         createLoc("Frunzeni", "sat"),
@@ -472,27 +472,27 @@ $comune =[
     ]),
     
     createComuna("Lunca Bradului", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Lunca Bradului", "sat"),
         createLoc("Neagra", "sat"),
         createLoc("Sălard", "sat")
     ]),
     
     createComuna("Măgherani", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Măgherani", "sat"),
         createLoc("Șilea Nirajului", "sat"),
         createLoc("Torba", "sat")
     ]),
     
     createComuna("Mădăraș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Mădăraș", "sat"),
         createLoc("Fânațele Mădărașului", "sat")
     ]),
     
     createComuna("Mica", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Mica", "sat"),
         createLoc("Abuș", "sat"),
         createLoc("Căpâlna de Sus", "sat"),
@@ -503,7 +503,7 @@ $comune =[
     ]),
     
     createComuna("Miheșu de Câmpie", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Miheșu de Câmpie", "sat"),
         createLoc("Bujor", "sat"),
         createLoc("Cirhagău", "sat"),
@@ -515,7 +515,7 @@ $comune =[
     ]),
     
     createComuna("Nadeș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Nadeș", "sat"),
         createLoc("Măgheruș", "sat"),
         createLoc("Pipea", "sat"),
@@ -523,7 +523,7 @@ $comune =[
     ]),
     
     createComuna("Neaua", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Neaua", "sat"),
         createLoc("Ghinești", "sat"),
         createLoc("Rigmani", "sat"),
@@ -532,7 +532,7 @@ $comune =[
     ]),
     
     createComuna("Ogra", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Ogra", "sat"),
         createLoc("Dileu Vechi", "sat"),
         createLoc("Giuluș", "sat"),
@@ -541,7 +541,7 @@ $comune =[
     ]),
     
     createComuna("Papiu Ilarian", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Papiu Ilarian", "sat"),
         createLoc("Dobra", "sat"),
         createLoc("Merișoru", "sat"),
@@ -549,7 +549,7 @@ $comune =[
         createLoc("Ursoaia", "sat")
     ]),
     createComuna("Pănet", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Pănet", "sat"),
         createLoc("Berghia", "sat"),
         createLoc("Cuieșd", "sat"),
@@ -558,20 +558,20 @@ $comune =[
     ]),
     
     createComuna("Păsăreni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Păsăreni", "sat"),
         createLoc("Bolintineni", "sat"),
         createLoc("Gălățeni", "sat")
     ]),
     
     createComuna("Petelea", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Petelea", "sat"),
         createLoc("Habic", "sat")
     ]),
     
     createComuna("Pogăceaua", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Pogăceaua", "sat"),
         createLoc("Bologaia", "sat"),
         createLoc("Ciulea", "sat"),
@@ -585,7 +585,7 @@ $comune =[
     ]),
     
     createComuna("Răstolița", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Răstolița", "sat"),
         createLoc("Andreneasa", "sat"),
         createLoc("Borzia", "sat"),
@@ -594,7 +594,7 @@ $comune =[
     ]),
     
     createComuna("Râciu", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Râciu", "sat"),
         createLoc("Căciulata", "sat"),
         createLoc("Coasta Mare", "sat"),
@@ -613,7 +613,7 @@ $comune =[
     ]),
     
     createComuna("Rușii-Munți", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Rușii-Munți", "sat"),
         createLoc("Maiorești", "sat"),
         createLoc("Morăreni", "sat"),
@@ -621,31 +621,31 @@ $comune =[
     ]),
     
     createComuna("Saschiz", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Saschiz", "sat"),
         createLoc("Cloașterf", "sat"),
         createLoc("Mihai Viteazu", "sat")
     ]),
     
     createComuna("Sărățeni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Sărățeni", "sat")
     ]),
     
     createComuna("Sâncraiu de Mureș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Sâncraiu de Mureș", "sat"),
         createLoc("Nazna", "sat")
     ]),
     createComuna("Sângeorgiu de Mureș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Sângeorgiu de Mureș", "sat"),
         createLoc("Cotuș", "sat"),
         createLoc("Tofalău", "sat")
     ]),
     
     createComuna("Sânger", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Sânger", "sat"),
         createLoc("Bârza", "sat"),
         createLoc("Cipăieni", "sat"),
@@ -656,7 +656,7 @@ $comune =[
     ]),
     
     createComuna("Sânpaul", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Sânpaul", "sat"),
         createLoc("Chirileu", "sat"),
         createLoc("Dileu Nou", "sat"),
@@ -665,7 +665,7 @@ $comune =[
     ]),
     
     createComuna("Sânpetru de Câmpie", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Sânpetru de Câmpie", "sat"),
         createLoc("Bârlibaș", "sat"),
         createLoc("Dâmbu", "sat"),
@@ -675,7 +675,7 @@ $comune =[
     ]),
     
     createComuna("Sântana de Mureș", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Sântana de Mureș", "sat"),
         createLoc("Bărdești", "sat"),
         createLoc("Chinari", "sat"),
@@ -683,20 +683,20 @@ $comune =[
     ]),
     
     createComuna("Solovăstru", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Solovăstru", "sat"),
         createLoc("Jabenița", "sat")
     ]),
     
     createComuna("Stânceni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Stânceni", "sat"),
         createLoc("Ciobotani", "sat"),
         createLoc("Meștera", "sat")
     ]),
     
     createComuna("Suplac", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Suplac", "sat"),
         createLoc("Idrifaia", "sat"),
         createLoc("Laslău Mare", "sat"),
@@ -705,20 +705,20 @@ $comune =[
     ]),
     
     createComuna("Suseni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Suseni", "sat"),
         createLoc("Luieriu", "sat")
     ]),
     
     createComuna("Șăulia", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Șăulia", "sat"),
         createLoc("Leorința-Șăulia", "sat"),
         createLoc("Măcicășești", "sat"),
         createLoc("Pădurea", "sat")
     ]),
     createComuna("Șincai", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Șincai", "sat"),
         createLoc("Lechincioara", "sat"),
         createLoc("Pusta", "sat"),
@@ -726,14 +726,14 @@ $comune =[
     ]),
     
     createComuna("Tăureni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Tăureni", "sat"),
         createLoc("Fânațe", "sat"),
         createLoc("Moara de Jos", "sat")
     ]),
     
     createComuna("Valea Largă", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Valea Largă", "sat"),
         createLoc("Grădini", "sat"),
         createLoc("Mălăești", "sat"),
@@ -746,7 +746,7 @@ $comune =[
     ]),
     
     createComuna("Vărgata", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Vărgata", "sat"),
         createLoc("Grâușorul", "sat"),
         createLoc("Mitrești", "sat"),
@@ -755,28 +755,28 @@ $comune =[
     ]),
     
     createComuna("Vătava", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Vătava", "sat"),
         createLoc("Dumbrava", "sat"),
         createLoc("Râpa de Jos", "sat")
     ]),
     
     createComuna("Vețca", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Vețca", "sat"),
         createLoc("Jacodu", "sat"),
         createLoc("Sălașuri", "sat")
     ]),
     
     createComuna("Viișoara", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Viișoara", "sat"),
         createLoc("Ormeniș", "sat"),
         createLoc("Sântioana", "sat")
     ]),
     
     createComuna("Vânători", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Vânători", "sat"),
         createLoc("Archita", "sat"),
         createLoc("Feleag", "sat"),
@@ -785,18 +785,18 @@ $comune =[
     ]),
     
     createComuna("Voivodeni", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Voivodeni", "sat"),
         createLoc("Toldal", "sat")
     ]),
     
     createComuna("Zagăr", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Zagăr", "sat"),
         createLoc("Seleuș", "sat")
     ]),
     createComuna("Zau de Câmpie", [
-				createAdresaCompleta("MURES", "MURES"),
+				createAdresaCompleta("comuna Acățari, judetul MURES, România", "comuna Acatari, judetul MURES, Romania"),
         createLoc("Zau de Câmpie", "sat"),
         createLoc("Bărboși", "sat"),
         createLoc("Botei", "sat"),

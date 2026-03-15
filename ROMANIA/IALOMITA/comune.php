@@ -2,45 +2,45 @@
 $comune =[
 
 	createComuna("Adâncata", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Adâncata", "sat"),
         createLoc("Patru Frați", "sat")
     ]),
     
     createComuna("Albești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Albești", "sat"),
         createLoc("Bataluri", "sat"),
         createLoc("Marsilieni", "sat")
     ]),
     
     createComuna("Alexeni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Alexeni", "sat")
     ]),
     
     createComuna("Andrășești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Andrășești", "sat"),
         createLoc("Orboești", "sat")
     ]),
     
     createComuna("Armășești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Armășești", "sat"),
         createLoc("Malu Roșu", "sat"),
         createLoc("Nenișori", "sat")
     ]),
     
     createComuna("Axintele", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Axintele", "sat"),
         createLoc("Bărbătescu", "sat"),
         createLoc("Horia", "sat")
     ]),
     
     createComuna("Balaciu", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Balaciu", "sat"),
         createLoc("Copuzu", "sat"),
         createLoc("Crăsanii de Jos", "sat"),
@@ -48,45 +48,45 @@ $comune =[
     ]),
     
     createComuna("Bărcănești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Bărcănești", "sat"),
         createLoc("Condeești", "sat")
     ]),
     
     createComuna("Bărbulești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Bărbulești", "sat")
     ]),
     
     createComuna("Borănești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Borănești", "sat"),
         createLoc("Sintești", "sat")
     ]),
     createComuna("Bordușani", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Bordușani", "sat"),
         createLoc("Cegani", "sat")
     ]),
     
     createComuna("Bucu", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Bucu", "sat")
     ]),
     
     createComuna("Buești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Buești", "sat")
     ]),
     
     createComuna("Ciocârlia", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Ciocârlia", "sat"),
         createLoc("Cotorca", "sat")
     ]),
     
     createComuna("Ciochina", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Ciochina", "sat"),
         createLoc("Bordușelu", "sat"),
         createLoc("Orezu", "sat"),
@@ -94,7 +94,7 @@ $comune =[
     ]),
     
     createComuna("Ciulnița", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Ciulnița", "sat"),
         createLoc("Ion Ghica", "sat"),
         createLoc("Ivănești", "sat"),
@@ -102,27 +102,27 @@ $comune =[
     ]),
     
     createComuna("Cocora", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Cocora", "sat")
     ]),
     
     createComuna("Colelia", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Colelia", "sat")
     ]),
     
     createComuna("Cosâmbești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Cosâmbești", "sat"),
         createLoc("Gimbășani", "sat")
     ]),
     
     createComuna("Coșereni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Coșereni", "sat")
     ]),
     createComuna("Drăgoești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Drăgoești", "sat"),
         createLoc("Chiroiu-Pământeni", "sat"),
         createLoc("Chiroiu-Satu Nou", "sat"),
@@ -131,121 +131,121 @@ $comune =[
     ]),
     
     createComuna("Dridu", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Dridu", "sat"),
         createLoc("Dridu-Snagov", "sat")
     ]),
     
     createComuna("Făcăeni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Făcăeni", "sat"),
         createLoc("Progresu", "sat")
     ]),
     
     createComuna("Gheorghe Doja", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Gheorghe Doja", "sat")
     ]),
     
     createComuna("Gheorghe Lazăr", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Gheorghe Lazăr", "sat")
     ]),
     
     createComuna("Giurgeni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Giurgeni", "sat")
     ]),
     
     createComuna("Gârbovi", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Gârbovi", "sat")
     ]),
     
     createComuna("Grindu", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Grindu", "sat")
     ]),
     
     createComuna("Grivița", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Grivița", "sat"),
         createLoc("Smirna", "sat")
     ]),
     
     createComuna("Gura Ialomiței", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Gura Ialomiței", "sat"),
         createLoc("Luciu", "sat")
     ]),
     createComuna("Ion Roată", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Ion Roată", "sat"),
         createLoc("Broșteni", "sat")
     ]),
     
     createComuna("Jilavele", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Jilavele", "sat"),
         createLoc("Slătioarele", "sat")
     ]),
     
     createComuna("Maia", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Maia", "sat")
     ]),
     
     createComuna("Manasia", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Manasia", "sat")
     ]),
     
     createComuna("Mărculești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Mărculești", "sat")
     ]),
     
     createComuna("Mihail Kogălniceanu", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Mihail Kogălniceanu", "sat"),
         createLoc("Hagieni", "sat")
     ]),
     
     createComuna("Miloșești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Miloșești", "sat"),
         createLoc("Nicolești", "sat"),
         createLoc("Tovărășia", "sat")
     ]),
     
     createComuna("Moldoveni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Moldoveni", "sat")
     ]),
     
     createComuna("Movila", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Movila", "sat")
     ]),
     
     createComuna("Movilița", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Movilița", "sat"),
         createLoc("Bițina-Pământeni", "sat"),
         createLoc("Bițina-Ungureni", "sat")
     ]),
     createComuna("Munteni-Buzău", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Munteni-Buzău", "sat")
     ]),
     
     createComuna("Ograda", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Ograda", "sat")
     ]),
     
     createComuna("Perieți", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Perieți", "sat"),
         createLoc("Fundata", "sat"),
         createLoc("Misleanu", "sat"),
@@ -254,13 +254,13 @@ $comune =[
     ]),
     
     createComuna("Platonești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Platonești", "sat"),
         createLoc("Lăcusteni", "sat")
     ]),
     
     createComuna("Reviga", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Reviga", "sat"),
         createLoc("Crunți", "sat"),
         createLoc("Mircea cel Bătrân", "sat"),
@@ -268,48 +268,48 @@ $comune =[
     ]),
     
     createComuna("Rădulești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Brazii", "sat"),
         createLoc("Movileanca", "sat"),
         createLoc("Răsimnicea", "sat")
     ]),
     
     createComuna("Roșiori", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Roșiori", "sat")
     ]),
     
     createComuna("Sălcioara", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Sălcioara", "sat"),
         createLoc("Rași", "sat")
     ]),
     
     createComuna("Sărățeni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Sărățeni", "sat")
     ]),
     
     createComuna("Săveni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Săveni", "sat"),
         createLoc("Frățilești", "sat")
     ]),
     createComuna("Scânteia", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Scânteia", "sat"),
         createLoc("Iazu", "sat")
     ]),
     
     createComuna("Sfântu Gheorghe", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Sfântu Gheorghe", "sat"),
         createLoc("Butoiu", "sat"),
         createLoc("Malu", "sat")
     ]),
     
     createComuna("Sinești", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Sinești", "sat"),
         createLoc("Boteni", "sat"),
         createLoc("Cătrunești", "sat"),
@@ -319,25 +319,25 @@ $comune =[
     ]),
     
     createComuna("Stelnica", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Stelnica", "sat"),
         createLoc("Maltezi", "sat"),
         createLoc("Retezatu", "sat")
     ]),
     
     createComuna("Sudiți", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Sudiți", "sat"),
         createLoc("Gura Văii", "sat")
     ]),
     
     createComuna("Traian", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Traian", "sat")
     ]),
     
     createComuna("Valea Ciorii", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Valea Ciorii", "sat"),
         createLoc("Bucșa", "sat"),
         createLoc("Dumitrești", "sat"),
@@ -345,13 +345,13 @@ $comune =[
     ]),
     
     createComuna("Valea Măcrișului", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Valea Măcrișului", "sat"),
         createLoc("Grindași", "sat")
     ]),
     
     createComuna("Vlădeni", [
-				createAdresaCompleta("IALOMITA", "IALOMITA"),
+				createAdresaCompleta("comuna Adâncata, judetul IALOMITA, România", "comuna Adancata, judetul IALOMITA, Romania"),
         createLoc("Vlădeni", "sat")
     ]),
     								  

@@ -2,11 +2,11 @@
 $municipii =
 [
             createMunicipiu("PLOIEȘTI", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("municipiul PLOIEȘTI, judetul PRAHOVA, România", "municipiul PLOIESTI, judetul PRAHOVA, Romania"),
                     createLoc("PLOIEȘTI", "oras"),
                 ]),
             createMunicipiu("CÂMPINA", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("municipiul PLOIEȘTI, judetul PRAHOVA, România", "municipiul PLOIESTI, judetul PRAHOVA, Romania"),
                     createLoc("CÂMPINA", "oras"),
                 ]),			
 			

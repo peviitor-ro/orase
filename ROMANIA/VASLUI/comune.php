@@ -2,7 +2,7 @@
 $comune =[
 
 	createComuna("Albești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Albești", "sat"),
         createLoc("Corni-Albești", "sat"),
         createLoc("Crasna", "sat"),
@@ -10,7 +10,7 @@ $comune =[
     ]),
     
     createComuna("Alexandru Vlahuță", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Alexandru Vlahuță", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Ghicani", "sat"),
@@ -18,7 +18,7 @@ $comune =[
     ]),
     
     createComuna("Arsura", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Arsura", "sat"),
         createLoc("Fundătura", "sat"),
         createLoc("Mihail Kogălniceanu", "sat"),
@@ -26,7 +26,7 @@ $comune =[
     ]),
     
     createComuna("Banca", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Gara Banca", "sat"),
         createLoc("Banca", "sat"),
         createLoc("Ghermănești", "sat"),
@@ -42,7 +42,7 @@ $comune =[
     ]),
     
     createComuna("Băcani", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Băcani", "sat"),
         createLoc("Băltățeni", "sat"),
         createLoc("Drujești", "sat"),
@@ -51,7 +51,7 @@ $comune =[
     ]),
     
     createComuna("Băcești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Băcești", "sat"),
         createLoc("Armășeni", "sat"),
         createLoc("Băbușa", "sat"),
@@ -61,14 +61,14 @@ $comune =[
     ]),
     
     createComuna("Bălteni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Bălteni", "sat"),
         createLoc("Bălteni-Deal", "sat"),
         createLoc("Chetrești", "sat")
     ]),
     
     createComuna("Berezeni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Berezeni", "sat"),
         createLoc("Mușata", "sat"),
         createLoc("Rânceni", "sat"),
@@ -77,14 +77,14 @@ $comune =[
     ]),
     
     createComuna("Blăgești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Blăgești", "sat"),
         createLoc("Igești", "sat"),
         createLoc("Sipeni", "sat")
     ]),
     
     createComuna("Bogdana", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Bogdana", "sat"),
         createLoc("Arșița", "sat"),
         createLoc("Fântâna Blănarului", "sat"),
@@ -96,7 +96,7 @@ $comune =[
         createLoc("Verdeș", "sat")
     ]),
     createComuna("Bogdănești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Bogdănești", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Horoiata", "sat"),
@@ -109,7 +109,7 @@ $comune =[
     ]),
     
     createComuna("Bogdănița", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Bogdănița", "sat"),
         createLoc("Cepești", "sat"),
         createLoc("Cârțibași", "sat"),
@@ -120,7 +120,7 @@ $comune =[
     ]),
     
     createComuna("Boțești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Boțești", "sat"),
         createLoc("Gănești", "sat"),
         createLoc("Gugești", "sat"),
@@ -128,7 +128,7 @@ $comune =[
     ]),
     
     createComuna("Bunești-Averești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Averești", "sat"),
         createLoc("Armășeni", "sat"),
         createLoc("Bunești", "sat"),
@@ -139,7 +139,7 @@ $comune =[
     ]),
     
     createComuna("Ciocani", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Ciocani", "sat"),
         createLoc("Crâng", "sat"),
         createLoc("Crângu Nou", "sat"),
@@ -147,7 +147,7 @@ $comune =[
     ]),
     
     createComuna("Codăești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Codăești", "sat"),
         createLoc("Ghergheleu", "sat"),
         createLoc("Pribești", "sat"),
@@ -155,7 +155,7 @@ $comune =[
     ]),
     
     createComuna("Coroiești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Coroiești", "sat"),
         createLoc("Chilieni", "sat"),
         createLoc("Coroieștii de Sus", "sat"),
@@ -166,7 +166,7 @@ $comune =[
     ]),
     
     createComuna("Costești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Costești", "sat"),
         createLoc("Chițcani", "sat"),
         createLoc("Dinga", "sat"),
@@ -176,7 +176,7 @@ $comune =[
     ]),
     
     createComuna("Cozmești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Bălești", "sat"),
         createLoc("Cozmești", "sat"),
         createLoc("Fâstâci", "sat"),
@@ -184,14 +184,14 @@ $comune =[
     ]),
     
     createComuna("Crețești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Crețești", "sat"),
         createLoc("Budești", "sat"),
         createLoc("Crețeștii de Sus", "sat"),
         createLoc("Satu Nou", "sat")
     ]),
     createComuna("Dănești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Dănești", "sat"),
         createLoc("Bereasa", "sat"),
         createLoc("Boțoaia", "sat"),
@@ -201,7 +201,7 @@ $comune =[
     ]),
     
     createComuna("Deleni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Deleni", "sat"),
         createLoc("Bulboaca", "sat"),
         createLoc("Moreni", "sat"),
@@ -209,7 +209,7 @@ $comune =[
     ]),
     
     createComuna("Delești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Delești", "sat"),
         createLoc("Albești", "sat"),
         createLoc("Fundătura", "sat"),
@@ -219,7 +219,7 @@ $comune =[
     ]),
     
     createComuna("Dimitrie Cantemir", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Hurdugi", "sat"),
         createLoc("Grumezoaia", "sat"),
         createLoc("Gușiței", "sat"),
@@ -228,13 +228,13 @@ $comune =[
     ]),
     
     createComuna("Dodești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Dodești", "sat"),
         createLoc("Urdești", "sat")
     ]),
     
     createComuna("Dragomirești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Dragomirești", "sat"),
         createLoc("Băbuța", "sat"),
         createLoc("Belzeni", "sat"),
@@ -250,7 +250,7 @@ $comune =[
     ]),
     
     createComuna("Drânceni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Ghermănești", "sat"),
         createLoc("Albița", "sat"),
         createLoc("Băile Drânceni", "sat"),
@@ -260,7 +260,7 @@ $comune =[
     ]),
     
     createComuna("Duda-Epureni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Epureni", "sat"),
         createLoc("Bobești", "sat"),
         createLoc("Duda", "sat"),
@@ -268,7 +268,7 @@ $comune =[
     ]),
     
     createComuna("Dumești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Dumești", "sat"),
         createLoc("Dumeștii Vechi", "sat"),
         createLoc("Schinetea", "sat"),
@@ -276,14 +276,14 @@ $comune =[
     ]),
     
     createComuna("Epureni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Epureni", "sat"),
         createLoc("Bârlălești", "sat"),
         createLoc("Bursuci", "sat"),
         createLoc("Horga", "sat")
     ]),
     createComuna("Fălciu", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Fălciu", "sat"),
         createLoc("Bogdănești", "sat"),
         createLoc("Bozia", "sat"),
@@ -293,18 +293,18 @@ $comune =[
     ]),
     
     createComuna("Ferești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Ferești", "sat")
     ]),
     
     createComuna("Fruntișeni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Fruntișeni", "sat"),
         createLoc("Grăjdeni", "sat")
     ]),
     
     createComuna("Găgești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Găgești", "sat"),
         createLoc("Giurcani", "sat"),
         createLoc("Peicani", "sat"),
@@ -313,7 +313,7 @@ $comune =[
     ]),
     
     createComuna("Gherghești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Gherghești", "sat"),
         createLoc("Chetrosu", "sat"),
         createLoc("Corodești", "sat"),
@@ -326,7 +326,7 @@ $comune =[
     ]),
     
     createComuna("Gârceni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Gârceni", "sat"),
         createLoc("Dumbrăveni", "sat"),
         createLoc("Racova", "sat"),
@@ -336,14 +336,14 @@ $comune =[
     ]),
     
     createComuna("Grivița", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Grivița", "sat"),
         createLoc("Odaia Bursucani", "sat"),
         createLoc("Trestiana", "sat")
     ]),
     
     createComuna("Hoceni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Hoceni", "sat"),
         createLoc("Barboși", "sat"),
         createLoc("Deleni", "sat"),
@@ -354,7 +354,7 @@ $comune =[
     ]),
     
     createComuna("Iana", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Iana", "sat"),
         createLoc("Hălărești", "sat"),
         createLoc("Recea", "sat"),
@@ -363,13 +363,13 @@ $comune =[
     ]),
     
     createComuna("Ibănești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Ibănești", "sat"),
         createLoc("Mânzați", "sat"),
         createLoc("Puțu Olarului", "sat")
     ]),
     createComuna("Ivănești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Ivănești", "sat"),
         createLoc("Albina", "sat"),
         createLoc("Bleșca", "sat"),
@@ -387,12 +387,12 @@ $comune =[
     ]),
     
     createComuna("Ivești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Ivești", "sat")
     ]),
     
     createComuna("Laza", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Laza", "sat"),
         createLoc("Bejenești", "sat"),
         createLoc("Râșnița", "sat"),
@@ -400,7 +400,7 @@ $comune =[
     ]),
     
     createComuna("Lipovăț", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Lipovăț", "sat"),
         createLoc("Căpușneni", "sat"),
         createLoc("Chițoc", "sat"),
@@ -409,7 +409,7 @@ $comune =[
     ]),
     
     createComuna("Lunca Banului", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Lunca Banului", "sat"),
         createLoc("Broscoșești", "sat"),
         createLoc("Condrea", "sat"),
@@ -420,7 +420,7 @@ $comune =[
     ]),
     
     createComuna("Mălușteni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Mălușteni", "sat"),
         createLoc("Ghireasca", "sat"),
         createLoc("Lupești", "sat"),
@@ -430,14 +430,14 @@ $comune =[
     ]),
     
     createComuna("Miclești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Miclești", "sat"),
         createLoc("Chircești", "sat"),
         createLoc("Popești", "sat")
     ]),
     
     createComuna("Muntenii de Jos", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Muntenii de Jos", "sat"),
         createLoc("Băcăoani", "sat"),
         createLoc("Mânjești", "sat"),
@@ -445,13 +445,13 @@ $comune =[
     ]),
     
     createComuna("Muntenii de Sus", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Muntenii de Sus", "sat"),
         createLoc("Satu Nou", "sat")
     ]),
     
     createComuna("Oltenești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Oltenești", "sat"),
         createLoc("Curteni", "sat"),
         createLoc("Pâhna", "sat"),
@@ -460,7 +460,7 @@ $comune =[
         createLoc("Zgura", "sat")
     ]),
     createComuna("Oșești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Oșești", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Pădureni", "sat"),
@@ -468,7 +468,7 @@ $comune =[
     ]),
     
     createComuna("Pădureni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Pădureni", "sat"),
         createLoc("Căpotești", "sat"),
         createLoc("Davidești", "sat"),
@@ -480,12 +480,12 @@ $comune =[
     ]),
     
     createComuna("Perieni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Perieni", "sat")
     ]),
     
     createComuna("Pochidia", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Pochidia", "sat"),
         createLoc("Borodești", "sat"),
         createLoc("Satu Nou", "sat"),
@@ -493,7 +493,7 @@ $comune =[
     ]),
     
     createComuna("Pogana", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Pogana", "sat"),
         createLoc("Bogești", "sat"),
         createLoc("Cârjoani", "sat"),
@@ -502,14 +502,14 @@ $comune =[
     ]),
     
     createComuna("Pogonești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Pogonești", "sat"),
         createLoc("Belcești", "sat"),
         createLoc("Polocin", "sat")
     ]),
     
     createComuna("Poienești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Poienești", "sat"),
         createLoc("Dealu Secării", "sat"),
         createLoc("Florești", "sat"),
@@ -520,7 +520,7 @@ $comune =[
     ]),
     
     createComuna("Puiești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Puiești", "sat"),
         createLoc("Bărtăluș-Mocani", "sat"),
         createLoc("Bărtăluș-Răzeși", "sat"),
@@ -537,7 +537,7 @@ $comune =[
     ]),
     
     createComuna("Pungești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Pungești", "sat"),
         createLoc("Armășoaia", "sat"),
         createLoc("Cursești-Deal", "sat"),
@@ -550,19 +550,19 @@ $comune =[
     ]),
     
     createComuna("Pușcași", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Pușcași", "sat"),
         createLoc("Poiana lui Alexa", "sat"),
         createLoc("Teișoru", "sat"),
         createLoc("Valea Târgului", "sat")
     ]),
     createComuna("Rafaila", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Rafaila", "sat")
     ]),
     
     createComuna("Rebricea", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Rebricea", "sat"),
         createLoc("Bolați", "sat"),
         createLoc("Crăciunești", "sat"),
@@ -575,7 +575,7 @@ $comune =[
     ]),
     
     createComuna("Roșiești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Roșiești", "sat"),
         createLoc("Codreni", "sat"),
         createLoc("Gara Roșiești", "sat"),
@@ -586,7 +586,7 @@ $comune =[
     ]),
     
     createComuna("Solești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Solești", "sat"),
         createLoc("Boușori", "sat"),
         createLoc("Iaz", "sat"),
@@ -597,7 +597,7 @@ $comune =[
     ]),
     
     createComuna("Stănilești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Stănilești", "sat"),
         createLoc("Bogdana-Voloseni", "sat"),
         createLoc("Budu Cantemir", "sat"),
@@ -608,7 +608,7 @@ $comune =[
     ]),
     
     createComuna("Ștefan cel Mare", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Ștefan cel Mare", "sat"),
         createLoc("Bârzești", "sat"),
         createLoc("Brăhășoaia", "sat"),
@@ -619,7 +619,7 @@ $comune =[
     ]),
     
     createComuna("Șuletea", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Șuletea", "sat"),
         createLoc("Fedești", "sat"),
         createLoc("Jigălia", "sat"),
@@ -627,13 +627,13 @@ $comune =[
     ]),
     
     createComuna("Tanacu", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Tanacu", "sat"),
         createLoc("Benești", "sat")
     ]),
     
     createComuna("Tăcuta", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Tăcuta", "sat"),
         createLoc("Cujba", "sat"),
         createLoc("Dumasca", "sat"),
@@ -644,7 +644,7 @@ $comune =[
     ]),
     
     createComuna("Tătărăni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Tătărăni", "sat"),
         createLoc("Bălțați", "sat"),
         createLoc("Crăsnășeni", "sat"),
@@ -656,7 +656,7 @@ $comune =[
         createLoc("Valea Seacă", "sat")
     ]),
     createComuna("Todirești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Todirești", "sat"),
         createLoc("Cotic", "sat"),
         createLoc("Drăgești", "sat"),
@@ -669,7 +669,7 @@ $comune =[
     ]),
     
     createComuna("Tutova", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Tutova", "sat"),
         createLoc("Bădeana", "sat"),
         createLoc("Ciortolom", "sat"),
@@ -679,19 +679,19 @@ $comune =[
     ]),
     
     createComuna("Văleni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Văleni", "sat"),
         createLoc("Moara Domnească", "sat")
     ]),
     
     createComuna("Vetrișoaia", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Vetrișoaia", "sat"),
         createLoc("Bumbăta", "sat")
     ]),
     
     createComuna("Viișoara", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Viișoara", "sat"),
         createLoc("Halta Dodești", "sat"),
         createLoc("Văleni", "sat"),
@@ -699,7 +699,7 @@ $comune =[
     ]),
     
     createComuna("Vinderei", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Vinderei", "sat"),
         createLoc("Brădești", "sat"),
         createLoc("Docani", "sat"),
@@ -711,7 +711,7 @@ $comune =[
     ]),
     
     createComuna("Voinești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Voinești", "sat"),
         createLoc("Avrămești", "sat"),
         createLoc("Băncești", "sat"),
@@ -726,7 +726,7 @@ $comune =[
     ]),
     
     createComuna("Vulturești", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Vulturești", "sat"),
         createLoc("Buhăiești", "sat"),
         createLoc("Podeni", "sat"),
@@ -734,14 +734,14 @@ $comune =[
     ]),
     
     createComuna("Vutcani", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Vutcani", "sat"),
         createLoc("Mălăiești", "sat"),
         createLoc("Poșta Elan", "sat")
     ]),
     
     createComuna("Zăpodeni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Zăpodeni", "sat"),
         createLoc("Butucăria", "sat"),
         createLoc("Ciofeni", "sat"),
@@ -754,7 +754,7 @@ $comune =[
     ]),
     
     createComuna("Zorleni", [
-				createAdresaCompleta("VASLUI", "VASLUI"),
+				createAdresaCompleta("comuna Albești, judetul VASLUI, România", "comuna Albesti, judetul VASLUI, Romania"),
         createLoc("Zorleni", "sat"),
         createLoc("Dealu Mare", "sat"),
         createLoc("Popeni", "sat"),

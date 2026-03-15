@@ -1,7 +1,7 @@
 <?php
 $orase=[
 			createOras("BROȘTENI", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("BROȘTENI", "oras",[
 						createLoc("Cotârgași", "sat"),
 											]),
@@ -19,7 +19,7 @@ $orase=[
 			                     ]),
 	
 			createOras("CAJVANA", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("CAJVANA", "oras",[
 						createLoc("Codru", "sat"),
 											]),
@@ -27,7 +27,7 @@ $orase=[
 			                     ]),
 	
 			createOras("DOLHASCA", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("DOLHASCA", "oras",[
 						createLoc("Budeni", "sat"),
 					  	createLoc("Gulia", "sat"),
@@ -41,7 +41,7 @@ $orase=[
 			                     ]),
 	
 			createOras("FRASIN", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("FRASIN", "oras",[
 						createLoc("Doroteia", "sat"),
 											]),
@@ -52,7 +52,7 @@ $orase=[
 			                     ]),
 	
 			createOras("GURA HUMORULUI", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("GURA HUMORULUI", "oras",[
 						createLoc("Doroteia", "sat"),
 											]),
@@ -63,7 +63,7 @@ $orase=[
 			                     ]),
 	
 			createOras("LITENI", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("LITENI", "oras",[
 						createLoc("Corni", "sat"),
 					  	createLoc("Roșcani", "sat"),
@@ -75,7 +75,7 @@ $orase=[
 			                     ]),
 	
 			createOras("MILIȘĂUȚI", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("MILIȘĂUȚI", "oras",[
 						createLoc("Gara", "sat"),
 											]),
@@ -86,7 +86,7 @@ $orase=[
 			                     ]),
 	
 			createOras("SALCEA", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("SALCEA", "oras",[
 						createLoc("Prelipca", "sat"),
 											]),
@@ -97,20 +97,20 @@ $orase=[
 			                     ]),
 	
 			createOras("SIRET", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("SIRET", "oras"),
 				createLoc("Mănăstioara", "sat"),
 				createLoc("Pădureni", "sat"),
 				
 			                     ]),
 			createOras("SOLCA", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("SOLCA", "oras"),
 				
 			                     ]),
 	
 			createOras("VICOVU DE SUS", [
-				createAdresaCompleta("SUCEAVA", "SUCEAVA"),
+				createAdresaCompleta("orasul BROȘTENI, judetul SUCEAVA, România", "orasul BROSTENI, judetul SUCEAVA, Romania"),
 				createLoc("VICOVU DE SUS", "oras"),
 				createLoc("Bivolăria", "sat"),
 				

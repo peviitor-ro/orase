@@ -3,7 +3,7 @@ $comune = [
 
     // Adunați
     createComuna("Adunați", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Adunați", "sat"),
         createLoc("Ocina de Jos", "sat"),
         createLoc("Ocina de Sus", "sat")
@@ -11,7 +11,7 @@ $comune = [
 
     // Albești-Paleologu
     createComuna("Albești-Paleologu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Albești-Paleologu", "sat"),
         createLoc("Albești-Muru", "sat"),
         createLoc("Cioceni", "sat"),
@@ -20,14 +20,14 @@ $comune = [
 
     // Aluniș
     createComuna("Aluniș", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Aluniș", "sat"),
         createLoc("Ostrovu", "sat")
     ]),
 
     // Apostolache
     createComuna("Apostolache", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Apostolache", "sat"),
         createLoc("Buzota", "sat"),
         createLoc("Mârlogea", "sat"),
@@ -37,7 +37,7 @@ $comune = [
 
     // Ariceștii Rahtivani
     createComuna("Ariceștii Rahtivani", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Ariceștii Rahtivani", "sat"),
         createLoc("Buda", "sat"),
         createLoc("Nedelea", "sat"),
@@ -47,14 +47,14 @@ $comune = [
 
     // Ariceștii Zeletin
     createComuna("Ariceștii Zeletin", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Ariceștii Zeletin", "sat"),
         createLoc("Albinari", "sat")
     ]),
 
     // Baba Ana
     createComuna("Baba Ana", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Baba Ana", "sat"),
         createLoc("Cireșanu", "sat"),
         createLoc("Conduratu", "sat"),
@@ -64,7 +64,7 @@ $comune = [
 
     // Balta Doamnei
     createComuna("Balta Doamnei", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Balta Doamnei", "sat"),
         createLoc("Bâra", "sat"),
         createLoc("Curcubeu", "sat"),
@@ -73,7 +73,7 @@ $comune = [
 
     // Bălțești
     createComuna("Bălțești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Bălțești", "sat"),
         createLoc("Izești", "sat"),
         createLoc("Podenii Vechi", "sat")
@@ -81,13 +81,13 @@ $comune = [
 
     // Bănești
     createComuna("Bănești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Bănești", "sat"),
         createLoc("Urleta", "sat")
     ]),
     // Bărcănești
     createComuna("Bărcănești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Bărcănești", "sat"),
         createLoc("Ghighiu", "sat"),
         createLoc("Pușcași", "sat"),
@@ -97,14 +97,14 @@ $comune = [
 
     // Bătrâni
     createComuna("Bătrâni", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Bătrâni", "sat"),
         createLoc("Poiana Mare", "sat")
     ]),
 
     // Berceni
     createComuna("Berceni", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Berceni", "sat"),
         createLoc("Cartierul Dâmbu", "cartier"),
         createLoc("Cătunu", "sat"),
@@ -114,14 +114,14 @@ $comune = [
 
     // Bertea
     createComuna("Bertea", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Bertea", "sat"),
         createLoc("Lutu Roșu", "sat")
     ]),
 
     // Blejoi
     createComuna("Blejoi", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Blejoi", "sat"),
         createLoc("Ploieștiori", "sat"),
         createLoc("Țânțăreni", "sat")
@@ -129,14 +129,14 @@ $comune = [
 
     // Boldești-Gradiștea
     createComuna("Boldești-Gradiștea", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Boldești", "sat"),
         createLoc("Gradiștea", "sat")
     ]),
 
     // Brazi
     createComuna("Brazi", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Brazii de Sus", "sat"),
         createLoc("Bătești", "sat"),
         createLoc("Brazii de Jos", "sat"),
@@ -147,7 +147,7 @@ $comune = [
 
     // Brebu
     createComuna("Brebu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Brebu Mânăstirei", "sat"),
         createLoc("Brebu Megieșesc", "sat"),
         createLoc("Pietriceaua", "sat"),
@@ -156,7 +156,7 @@ $comune = [
 
     // Bucov
     createComuna("Bucov", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Bucov", "sat"),
         createLoc("Bighilin", "sat"),
         createLoc("Chițorani", "sat"),
@@ -166,20 +166,20 @@ $comune = [
 
     // Călugăreni
     createComuna("Călugăreni", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Călugăreni", "sat"),
         createLoc("Valea Scheilor", "sat")
     ]),
     // Cărbunești
     createComuna("Cărbunești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Cărbunești", "sat"),
         createLoc("Gogeasca", "sat")
     ]),
 
     // Ceptura
     createComuna("Ceptura", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Ceptura de Jos", "sat"),
         createLoc("Ceptura de Sus", "sat"),
         createLoc("Malu Roșu", "sat"),
@@ -189,7 +189,7 @@ $comune = [
 
     // Cerașu
     createComuna("Cerașu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Cerașu", "sat"),
         createLoc("Slon", "sat"),
         createLoc("Valea Borului", "sat"),
@@ -200,7 +200,7 @@ $comune = [
 
     // Chiojdeanca
     createComuna("Chiojdeanca", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Chiojdeanca", "sat"),
         createLoc("Nucet", "sat"),
         createLoc("Trenu", "sat")
@@ -208,14 +208,14 @@ $comune = [
 
     // Ciorani
     createComuna("Ciorani", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Cioranii de Jos", "sat"),
         createLoc("Cioranii de Sus", "sat")
     ]),
 
     // Cocorăștii Colț
     createComuna("Cocorăștii Colț", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Cocorăștii Colț", "sat"),
         createLoc("Cheșnoiu", "sat"),
         createLoc("Cocorăștii Grind", "sat"),
@@ -228,7 +228,7 @@ $comune = [
 
     // Cocorăștii Mislii
     createComuna("Cocorăștii Mislii", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Cocorăștii Mislii", "sat"),
         createLoc("Goruna", "sat"),
         createLoc("Țipărești", "sat")
@@ -236,7 +236,7 @@ $comune = [
 
     // Colceag
     createComuna("Colceag", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Colceag", "sat"),
         createLoc("Inotești", "sat"),
         createLoc("Parepa-Rușani", "sat"),
@@ -245,7 +245,7 @@ $comune = [
 
     // Cornu
     createComuna("Cornu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Cornu de Jos", "sat"),
         createLoc("Cornu de Sus", "sat"),
         createLoc("Valea Oprii", "sat")
@@ -253,7 +253,7 @@ $comune = [
 
     // Cosminele
     createComuna("Cosminele", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Cosmina de Jos", "sat"),
         createLoc("Cosmina de Sus", "sat"),
         createLoc("Drăghicești", "sat"),
@@ -261,7 +261,7 @@ $comune = [
     ]),
     // Drajna
     createComuna("Drajna", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Drajna de Sus", "sat"),
         createLoc("Cătunu", "sat"),
         createLoc("Ciocrac", "sat"),
@@ -277,7 +277,7 @@ $comune = [
 
     // Drăgănești
     createComuna("Drăgănești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Drăgănești", "sat"),
         createLoc("Bărăitaru", "sat"),
         createLoc("Belciug", "sat"),
@@ -289,7 +289,7 @@ $comune = [
 
     // Dumbrava
     createComuna("Dumbrava", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Dumbrava", "sat"),
         createLoc("Ciupelnița", "sat"),
         createLoc("Cornu de Sus", "sat"),
@@ -300,7 +300,7 @@ $comune = [
 
     // Dumbrăvești
     createComuna("Dumbrăvești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Dumbrăvești", "sat"),
         createLoc("Găvănel", "sat"),
         createLoc("Mălăeștii de Jos", "sat"),
@@ -311,7 +311,7 @@ $comune = [
 
     // Filipeștii de Pădure
     createComuna("Filipeștii de Pădure", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Filipeștii de Pădure", "sat"),
         createLoc("Dițești", "sat"),
         createLoc("Minieri", "sat"),
@@ -320,7 +320,7 @@ $comune = [
 
     // Filipeștii de Târg
     createComuna("Filipeștii de Târg", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Filipeștii de Târg", "sat"),
         createLoc("Brătășanca", "sat"),
         createLoc("Ezeni", "sat"),
@@ -330,14 +330,14 @@ $comune = [
 
     // Fântânele
     createComuna("Fântânele", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Fântânele", "sat"),
         createLoc("Bozieni", "sat")
     ]),
 
     // Florești
     createComuna("Florești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Florești", "sat"),
         createLoc("Cap Roșu", "sat"),
         createLoc("Călinești", "sat"),
@@ -347,14 +347,14 @@ $comune = [
 
     // Fulga
     createComuna("Fulga", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Fulga de Jos", "sat"),
         createLoc("Fulga de Sus", "sat")
     ]),
 
     // Gherghița
     createComuna("Gherghița", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Gherghița", "sat"),
         createLoc("Independența", "sat"),
         createLoc("Malamuc", "sat"),
@@ -362,7 +362,7 @@ $comune = [
     ]),
     // Gorgota
     createComuna("Gorgota", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Gorgota", "sat"),
         createLoc("Crivina", "sat"),
         createLoc("Fânari", "sat"),
@@ -372,7 +372,7 @@ $comune = [
 
     // Gornet
     createComuna("Gornet", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Gornet", "sat"),
         createLoc("Bogdănești", "sat"),
         createLoc("Cuib", "sat"),
@@ -381,7 +381,7 @@ $comune = [
 
     // Gornet-Cricov
     createComuna("Gornet-Cricov", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Gornet-Cricov", "sat"),
         createLoc("Coșerele", "sat"),
         createLoc("Dobrota", "sat"),
@@ -392,7 +392,7 @@ $comune = [
 
     // Gura Vadului
     createComuna("Gura Vadului", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Gura Vadului", "sat"),
         createLoc("Perșunari", "sat"),
         createLoc("Tohani", "sat")
@@ -400,7 +400,7 @@ $comune = [
 
     // Gura Vitioarei
     createComuna("Gura Vitioarei", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Gura Vitioarei", "sat"),
         createLoc("Bughea de Jos", "sat"),
         createLoc("Făgetu", "sat"),
@@ -410,7 +410,7 @@ $comune = [
 
     // Iordăcheanu
     createComuna("Iordăcheanu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Iordăcheanu", "sat"),
         createLoc("Mocești", "sat"),
         createLoc("Plavia", "sat"),
@@ -421,7 +421,7 @@ $comune = [
 
     // Izvoarele
     createComuna("Izvoarele", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Izvoarele", "sat"),
         createLoc("Cernești", "sat"),
         createLoc("Chirițești", "sat"),
@@ -432,7 +432,7 @@ $comune = [
 
     // Jugureni
     createComuna("Jugureni", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Jugureni", "sat"),
         createLoc("Boboci", "sat"),
         createLoc("Marginea Pădurii", "sat"),
@@ -441,7 +441,7 @@ $comune = [
 
     // Lapoș
     createComuna("Lapoș", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Lapoș", "sat"),
         createLoc("Glod", "sat"),
         createLoc("Lăpoșel", "sat"),
@@ -450,7 +450,7 @@ $comune = [
 
     // Lipănești
     createComuna("Lipănești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Lipănești", "sat"),
         createLoc("Satu Nou", "sat"),
         createLoc("Șipotu", "sat"),
@@ -458,7 +458,7 @@ $comune = [
     ]),
     // Măgurele
     createComuna("Măgurele", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Măgurele", "sat"),
         createLoc("Coada Malului", "sat"),
         createLoc("Iazu", "sat")
@@ -466,7 +466,7 @@ $comune = [
 
     // Măgureni
     createComuna("Măgureni", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Măgureni", "sat"),
         createLoc("Cocorăștii Caplii", "sat"),
         createLoc("Lunca Prahovei", "sat")
@@ -474,7 +474,7 @@ $comune = [
 
     // Măneciu
     createComuna("Măneciu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Măneciu-Ungureni", "sat"),
         createLoc("Cheia", "sat"),
         createLoc("Chiciureni", "sat"),
@@ -488,7 +488,7 @@ $comune = [
 
     // Mănești
     createComuna("Mănești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Mănești", "sat"),
         createLoc("Băltița", "sat"),
         createLoc("Coada Izvorului", "sat"),
@@ -498,7 +498,7 @@ $comune = [
 
     // Olari
     createComuna("Olari", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Olari", "sat"),
         createLoc("Fânari", "sat"),
         createLoc("Olarii Vechi", "sat")
@@ -506,7 +506,7 @@ $comune = [
 
     // Păcureți
     createComuna("Păcureți", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Păcureți", "sat"),
         createLoc("Bărzila", "sat"),
         createLoc("Curmătura", "sat"),
@@ -516,7 +516,7 @@ $comune = [
 
     // Păulești
     createComuna("Păulești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Păulești", "sat"),
         createLoc("Cocoșești", "sat"),
         createLoc("Găgeni", "sat"),
@@ -525,7 +525,7 @@ $comune = [
 
     // Plopu
     createComuna("Plopu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Plopu", "sat"),
         createLoc("Gâlmeia", "sat"),
         createLoc("Hârsa", "sat"),
@@ -534,7 +534,7 @@ $comune = [
 
     // Podenii Noi
     createComuna("Podenii Noi", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Podenii Noi", "sat"),
         createLoc("Ghiocel", "sat"),
         createLoc("Mehedința", "sat"),
@@ -549,7 +549,7 @@ $comune = [
 
     // Poiana Câmpina
     createComuna("Poiana Câmpina", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Poiana Câmpina", "sat"),
         createLoc("Bobolia", "sat"),
         createLoc("Pietrișu", "sat"),
@@ -557,7 +557,7 @@ $comune = [
     ]),
     // Poienarii Burchii
     createComuna("Poienarii Burchii", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Poienarii Burchii", "sat"),
         createLoc("Cărbunari", "sat"),
         createLoc("Ologeni", "sat"),
@@ -570,7 +570,7 @@ $comune = [
 
     // Posești
     createComuna("Posești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Poseștii-Pământeni", "sat"),
         createLoc("Bodești", "sat"),
         createLoc("Merdeala", "sat"),
@@ -585,7 +585,7 @@ $comune = [
 
     // Predeal-Sărari
     createComuna("Predeal-Sărari", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Predeal", "sat"),
         createLoc("Bobicești", "sat"),
         createLoc("Poienile", "sat"),
@@ -599,7 +599,7 @@ $comune = [
 
     // Provița de Jos
     createComuna("Provița de Jos", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Provița de Jos", "sat"),
         createLoc("Drăgăneasa", "sat"),
         createLoc("Piatra", "sat")
@@ -607,7 +607,7 @@ $comune = [
 
     // Provița de Sus
     createComuna("Provița de Sus", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Provița de Sus", "sat"),
         createLoc("Izvoru", "sat"),
         createLoc("Plaiu", "sat"),
@@ -616,7 +616,7 @@ $comune = [
 
     // Puchenii Mari
     createComuna("Puchenii Mari", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Puchenii Mari", "sat"),
         createLoc("Miroslăvești", "sat"),
         createLoc("Moara", "sat"),
@@ -628,7 +628,7 @@ $comune = [
 
     // Râfov
     createComuna("Râfov", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Râfov", "sat"),
         createLoc("Antofiloaia", "sat"),
         createLoc("Buchilași", "sat"),
@@ -642,19 +642,19 @@ $comune = [
 
     // Salcia
     createComuna("Salcia", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Salcia", "sat")
     ]),
 
     // Sălciile
     createComuna("Sălciile", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Sălciile", "sat")
     ]),
 
     // Scorțeni
     createComuna("Scorțeni", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Scorțeni", "sat"),
         createLoc("Bordenii Mari", "sat"),
         createLoc("Bordenii Mici", "sat"),
@@ -663,13 +663,13 @@ $comune = [
     ]),
     // Secăria
     createComuna("Secăria", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Secăria", "sat")
     ]),
 
     // Sângeru
     createComuna("Sângeru", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Sângeru", "sat"),
         createLoc("Butuci", "sat"),
         createLoc("Mireșu Mare", "sat"),
@@ -680,7 +680,7 @@ $comune = [
 
     // Starchiojd
     createComuna("Starchiojd", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Starchiojd", "sat"),
         createLoc("Brădet", "sat"),
         createLoc("Gresia", "sat"),
@@ -691,14 +691,14 @@ $comune = [
 
     // Surani
     createComuna("Surani", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Surani", "sat"),
         createLoc("Păcuri", "sat")
     ]),
 
     // Șirna
     createComuna("Șirna", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Șirna", "sat"),
         createLoc("Brătești", "sat"),
         createLoc("Coceana", "sat"),
@@ -709,7 +709,7 @@ $comune = [
 
     // Șoimari
     createComuna("Șoimari", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Șoimari", "sat"),
         createLoc("Lopatnița", "sat"),
         createLoc("Măgura", "sat")
@@ -717,7 +717,7 @@ $comune = [
 
     // Șotrile
     createComuna("Șotrile", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Șotrile", "sat"),
         createLoc("Lunca Mare", "sat"),
         createLoc("Plaiu Câmpinei", "sat"),
@@ -728,7 +728,7 @@ $comune = [
 
     // Ștefești
     createComuna("Ștefești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Ștefești", "sat"),
         createLoc("Scurtești", "sat"),
         createLoc("Târșoreni", "sat")
@@ -736,21 +736,21 @@ $comune = [
 
     // Talea
     createComuna("Talea", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Talea", "sat"),
         createLoc("Plaiu", "sat")
     ]),
 
     // Tătaru
     createComuna("Tătaru", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Tătaru", "sat"),
         createLoc("Podgoria", "sat"),
         createLoc("Siliștea", "sat")
     ]),
     // Târgșoru Vechi
     createComuna("Târgșoru Vechi", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Strejnicu", "sat"),
         createLoc("Stăncești", "sat"),
         createLoc("Târgșoru Vechi", "sat"),
@@ -759,7 +759,7 @@ $comune = [
 
     // Teișani
     createComuna("Teișani", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Teișani", "sat"),
         createLoc("Bughea de Sus", "sat"),
         createLoc("Olteni", "sat"),
@@ -769,7 +769,7 @@ $comune = [
 
     // Telega
     createComuna("Telega", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Telega", "sat"),
         createLoc("Boșilcești", "sat"),
         createLoc("Buștenari", "sat"),
@@ -780,7 +780,7 @@ $comune = [
 
     // Tinosu
     createComuna("Tinosu", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Tinosu", "sat"),
         createLoc("Predești", "sat"),
         createLoc("Pisculești", "sat")
@@ -788,7 +788,7 @@ $comune = [
 
     // Tomșani
     createComuna("Tomșani", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Tomșani", "sat"),
         createLoc("Loloiasca", "sat"),
         createLoc("Magula", "sat"),
@@ -797,7 +797,7 @@ $comune = [
 
     // Vadu Săpat
     createComuna("Vadu Săpat", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Vadu Săpat", "sat"),
         createLoc("Ghinoaica", "sat"),
         createLoc("Ungureni", "sat")
@@ -805,7 +805,7 @@ $comune = [
 
     // Valea Călugărească
     createComuna("Valea Călugărească", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Valea Călugărească", "sat"),
         createLoc("Arva", "sat"),
         createLoc("Coslegi", "sat"),
@@ -825,14 +825,14 @@ $comune = [
 
     // Valea Doftanei
     createComuna("Valea Doftanei", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Teșila", "sat"),
         createLoc("Trăisteni", "sat")
     ]),
 
     // Vărbilău
     createComuna("Vărbilău", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Vărbilău", "sat"),
         createLoc("Coțofenești", "sat"),
         createLoc("Livadea", "sat"),
@@ -842,7 +842,7 @@ $comune = [
 
     // Vâlcănești
     createComuna("Vâlcănești", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("comuna Adunați, judetul PRAHOVA, România", "comuna Adunati, judetul PRAHOVA, Romania"),
         createLoc("Vâlcănești", "sat"),
         createLoc("Cârjari", "sat"),
         createLoc("Trestioara", "sat")

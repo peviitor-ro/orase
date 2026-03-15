@@ -2,7 +2,7 @@
 $comune =[
 
 	createComuna("Atid", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Atid", "sat"),
         createLoc("Crișeni", "sat"),
         createLoc("Cușmed", "sat"),
@@ -11,7 +11,7 @@ $comune =[
     ]),
     
     createComuna("Avrămești", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Avrămești", "sat"),
         createLoc("Andreeni", "sat"),
         createLoc("Cechești", "sat"),
@@ -23,36 +23,36 @@ $comune =[
     ]),
     
     createComuna("Bilbor", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Bilbor", "sat"),
         createLoc("Răchitiș", "sat")
     ]),
     
     createComuna("Brădești", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Brădești", "sat"),
         createLoc("Târnovița", "sat")
     ]),
     
     createComuna("Căpâlnița", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Căpâlnița", "sat")
     ]),
     
     createComuna("Cârța", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Cârța", "sat"),
         createLoc("Ineu", "sat")
     ]),
     
     createComuna("Ciceu", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Ciceu", "sat"),
         createLoc("Ciaracio", "sat")
     ]),
     
     createComuna("Ciucsângeorgiu", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Ciucsângeorgiu", "sat"),
         createLoc("Armășeni", "sat"),
         createLoc("Armășenii Noi", "sat"),
@@ -65,17 +65,17 @@ $comune =[
     ]),
     
     createComuna("Ciumani", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Ciumani", "sat")
     ]),
 
     createComuna("Corbu", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Corbu", "sat"),
         createLoc("Capu Corbului", "sat")
     ]),
     createComuna("Corund", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Corund", "sat"),
         createLoc("Atia", "sat"),
         createLoc("Calonda", "sat"),
@@ -84,18 +84,18 @@ $comune =[
     ]),
     
     createComuna("Cozmeni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Cozmeni", "sat"),
         createLoc("Lăzărești", "sat")
     ]),
     
     createComuna("Dănești", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Dănești", "sat")
     ]),
     
     createComuna("Dealu", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Dealu", "sat"),
         createLoc("Fâncel", "sat"),
         createLoc("Sâncrai", "sat"),
@@ -106,20 +106,20 @@ $comune =[
     ]),
     
     createComuna("Ditrău", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Ditrău", "sat"),
         createLoc("Jolotca", "sat"),
         createLoc("Țengheler", "sat")
     ]),
     
     createComuna("Dârjiu", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Dârjiu", "sat"),
         createLoc("Mujna", "sat")
     ]),
     
     createComuna("Feliceni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Feliceni", "sat"),
         createLoc("Alexandrița", "sat"),
         createLoc("Arvățeni", "sat"),
@@ -134,7 +134,7 @@ $comune =[
     ]),
     
     createComuna("Frumoasa", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Frumoasa", "sat"),
         createLoc("Bârzava", "sat"),
         createLoc("Făgețel", "sat"),
@@ -142,7 +142,7 @@ $comune =[
     ]),
     
     createComuna("Gălăuțaș", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Gălăuțaș", "sat"),
         createLoc("Dealu Armanului", "sat"),
         createLoc("Gălăuțaș-Pârău", "sat"),
@@ -154,19 +154,19 @@ $comune =[
     ]),
     
     createComuna("Joseni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Joseni", "sat"),
         createLoc("Borzont", "sat"),
         createLoc("Bucin", "sat")
     ]),
     createComuna("Lăzarea", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Lăzarea", "sat"),
         createLoc("Ghiduț", "sat")
     ]),
     
     createComuna("Leliceni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Leliceni", "sat"),
         createLoc("Fitod", "sat"),
         createLoc("Hosasău", "sat"),
@@ -174,13 +174,13 @@ $comune =[
     ]),
     
     createComuna("Lueta", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Lueta", "sat"),
         createLoc("Băile Chirui", "sat")
     ]),
     
     createComuna("Lunca de Jos", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Lunca de Jos", "sat"),
         createLoc("Barațcoș", "sat"),
         createLoc("Poiana Fagului", "sat"),
@@ -193,7 +193,7 @@ $comune =[
     ]),
     
     createComuna("Lunca de Sus", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Lunca de Sus", "sat"),
         createLoc("Comiat", "sat"),
         createLoc("Izvorul Trotușului", "sat"),
@@ -203,7 +203,7 @@ $comune =[
     ]),
     
     createComuna("Lupeni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Lupeni", "sat"),
         createLoc("Bisericani", "sat"),
         createLoc("Bulgăreni", "sat"),
@@ -216,12 +216,12 @@ $comune =[
     ]),
     
     createComuna("Mădăraș", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Mădăraș", "sat")
     ]),
     
     createComuna("Mărtiniș", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Mărtiniș", "sat"),
         createLoc("Aldea", "sat"),
         createLoc("Bădeni", "sat"),
@@ -237,19 +237,19 @@ $comune =[
     ]),
     
     createComuna("Merești", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Merești", "sat")
     ]),
     
     createComuna("Mihăileni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Mihăileni", "sat"),
         createLoc("Livezi", "sat"),
         createLoc("Nădejdea", "sat"),
         createLoc("Văcărești", "sat")
     ]),
     createComuna("Mugeni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Mugeni", "sat"),
         createLoc("Aluniș", "sat"),
         createLoc("Beta", "sat"),
@@ -261,21 +261,21 @@ $comune =[
     ]),
     
     createComuna("Ocland", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Ocland", "sat"),
         createLoc("Crăciunel", "sat"),
         createLoc("Satu Nou", "sat")
     ]),
     
     createComuna("Păuleni-Ciuc", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Păuleni-Ciuc", "sat"),
         createLoc("Delnița", "sat"),
         createLoc("Șoimeni", "sat")
     ]),
     
     createComuna("Plăieșii de Jos", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Plăieșii de Jos", "sat"),
         createLoc("Casinu Nou", "sat"),
         createLoc("Iacobeni", "sat"),
@@ -284,13 +284,13 @@ $comune =[
     ]),
     
     createComuna("Porumbeni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Porumbenii Mari", "sat"),
         createLoc("Porumbenii Mici", "sat")
     ]),
     
     createComuna("Praid", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Praid", "sat"),
         createLoc("Becaș", "sat"),
         createLoc("Bucin", "sat"),
@@ -300,13 +300,13 @@ $comune =[
     ]),
     
     createComuna("Racu", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Racu", "sat"),
         createLoc("Gârciu", "sat")
     ]),
     
     createComuna("Remetea", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Remetea", "sat"),
         createLoc("Făgețel", "sat"),
         createLoc("Martonca", "sat"),
@@ -314,12 +314,12 @@ $comune =[
     ]),
     
     createComuna("Satu Mare", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Satu Mare", "sat")
     ]),
     
     createComuna("Săcel", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Săcel", "sat"),
         createLoc("Șoimușu Mare", "sat"),
         createLoc("Șoimușu Mic", "sat"),
@@ -327,7 +327,7 @@ $comune =[
         createLoc("Vidacut", "sat")
     ]),
     createComuna("Sărmaș", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Sărmaș", "sat"),
         createLoc("Fundoaia", "sat"),
         createLoc("Hodoșa", "sat"),
@@ -336,48 +336,48 @@ $comune =[
     ]),
     
     createComuna("Sâncrăieni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Sâncrăieni", "sat")
     ]),
     
     createComuna("Sânmartin", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Sânmartin", "sat"),
         createLoc("Ciucani", "sat"),
         createLoc("Valea Uzului", "sat")
     ]),
     
     createComuna("Sântimbru", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Sântimbru", "sat"),
         createLoc("Sântimbru-Băi", "sat")
     ]),
     
     createComuna("Secuieni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Secuieni", "sat"),
         createLoc("Bodogaia", "sat"),
         createLoc("Eliseni", "sat")
     ]),
     
     createComuna("Siculeni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Siculeni", "sat")
     ]),
     
     createComuna("Sândominic", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Sândominic", "sat")
     ]),
     
     createComuna("Sânsimion", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Sânsimion", "sat"),
         createLoc("Cetățuia", "sat")
     ]),
     
     createComuna("Subcetate", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Subcetate", "sat"),
         createLoc("Călnaci", "sat"),
         createLoc("Duda", "sat"),
@@ -385,7 +385,7 @@ $comune =[
     ]),
     
     createComuna("Suseni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Suseni", "sat"),
         createLoc("Chileni", "sat"),
         createLoc("Liban", "sat"),
@@ -393,7 +393,7 @@ $comune =[
         createLoc("Valea Strâmbă", "sat")
     ]),
     createComuna("Șimonești", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Șimonești", "sat"),
         createLoc("Bențid", "sat"),
         createLoc("Cădaciu Mare", "sat"),
@@ -411,12 +411,12 @@ $comune =[
     ]),
     
     createComuna("Tomești", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Tomești", "sat")
     ]),
     
     createComuna("Tulgheș", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Tulgheș", "sat"),
         createLoc("Hagota", "sat"),
         createLoc("Pintic", "sat"),
@@ -424,14 +424,14 @@ $comune =[
     ]),
     
     createComuna("Tușnad", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Tușnad", "sat"),
         createLoc("Tușnadu Nou", "sat"),
         createLoc("Vrabia", "sat")
     ]),
     
     createComuna("Ulieș", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Ulieș", "sat"),
         createLoc("Daia", "sat"),
         createLoc("Iașu", "sat"),
@@ -443,18 +443,18 @@ $comune =[
     ]),
     
     createComuna("Vărșag", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Vărșag", "sat")
     ]),
     
     createComuna("Voșlăbeni", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Voșlăbeni", "sat"),
         createLoc("Izvoru Mureșului", "sat")
     ]),
     
     createComuna("Zetea", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("comuna Atid, judetul HARGHITA, România", "comuna Atid, judetul HARGHITA, Romania"),
         createLoc("Zetea", "sat"),
         createLoc("Desag", "sat"),
         createLoc("Izvoare", "sat"),

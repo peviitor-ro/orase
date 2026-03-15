@@ -2,11 +2,11 @@
 $municipii =
 [
             createMunicipiu("TIMIȘOARA", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("municipiul TIMIȘOARA, judetul TIMIS, România", "municipiul TIMISOARA, judetul TIMIS, Romania"),
                     createLoc("TIMIȘOARA", "oras"),
                 ]),
             createMunicipiu("LUGOJ", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("municipiul TIMIȘOARA, judetul TIMIS, România", "municipiul TIMISOARA, judetul TIMIS, Romania"),
                     createLoc("LUGOJ", "oras",[
 							createLoc("Măguri", "sat"),
 							createLoc("Tapia", "sat"),

@@ -2,7 +2,7 @@
 $comune = [
 
     createComuna("Baia", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Baia", "sat"),
         createLoc("Camena", "sat"),
         createLoc("Caugagia", "sat"),
@@ -11,21 +11,21 @@ $comune = [
     ]),
 
     createComuna("Beidaud", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Beidaud", "sat"),
         createLoc("Neatârnarea", "sat"),
         createLoc("Sarighiol de Deal", "sat")
     ]),
 
     createComuna("Beștepe", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Beștepe", "sat"),
         createLoc("Băltenii de Jos", "sat"),
         createLoc("Băltenii de Sus", "sat")
     ]),
 
     createComuna("C.A. Rosetti", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("C.A. Rosetti", "sat"),
         createLoc("Cardon", "sat"),
         createLoc("Letea", "sat"),
@@ -34,12 +34,12 @@ $comune = [
     ]),
 
     createComuna("Carcaliu", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Carcaliu", "sat")
     ]),
 
     createComuna("Casimcea", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Casimcea", "sat"),
         createLoc("Cișmeaua Nouă", "sat"),
         createLoc("Corugea", "sat"),
@@ -50,13 +50,13 @@ $comune = [
     ]),
 
     createComuna("Ceamurlia de Jos", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Ceamurlia de Jos", "sat"),
         createLoc("Lunca", "sat")
     ]),
 
     createComuna("Ceatalchioi", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Ceatalchioi", "sat"),
         createLoc("Pătlăgeanca", "sat"),
         createLoc("Plauru", "sat"),
@@ -64,7 +64,7 @@ $comune = [
     ]),
 
     createComuna("Cerna", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Cerna", "sat"),
         createLoc("General Praporgescu", "sat"),
         createLoc("Mircea Vodă", "sat"),
@@ -72,33 +72,33 @@ $comune = [
     ]),
 
     createComuna("Chilia Veche", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Chilia Veche", "sat"),
         createLoc("Câșlița", "sat"),
         createLoc("Ostrovu Tătaru", "sat"),
         createLoc("Tatanir", "sat")
     ]),
     createComuna("Ciucurova", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Ciucurova", "sat"),
         createLoc("Atmagea", "sat"),
         createLoc("Fântâna Mare", "sat")
     ]),
 
     createComuna("Crișan", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Crișan", "sat"),
         createLoc("Caraorman", "sat"),
         createLoc("Mila 23", "sat")
     ]),
 
     createComuna("Dăeni", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Dăeni", "sat")
     ]),
 
     createComuna("Dorobanțu", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Dorobanțu", "sat"),
         createLoc("Ardealu", "sat"),
         createLoc("Cârjelari", "sat"),
@@ -107,7 +107,7 @@ $comune = [
     ]),
 
     createComuna("Frecăței", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Frecăței", "sat"),
         createLoc("Cataloi", "sat"),
         createLoc("Poșta", "sat"),
@@ -115,17 +115,17 @@ $comune = [
     ]),
 
     createComuna("Greci", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Greci", "sat")
     ]),
 
     createComuna("Grindu", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Grindu", "sat")
     ]),
 
     createComuna("Hamcearca", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Hamcearca", "sat"),
         createLoc("Balabancea", "sat"),
         createLoc("Căprioara", "sat"),
@@ -133,49 +133,49 @@ $comune = [
     ]),
 
     createComuna("Horia", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Horia", "sat"),
         createLoc("Cloșca", "sat"),
         createLoc("Florești", "sat")
     ]),
 
     createComuna("I.C. Brătianu", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("I.C. Brătianu", "sat")
     ]),
     createComuna("Izvoarele", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Izvoarele", "sat"),
         createLoc("Alba", "sat"),
         createLoc("Iulia", "sat")
     ]),
 
     createComuna("Jijila", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Jijila", "sat"),
         createLoc("Garvăn", "sat")
     ]),
 
     createComuna("Jurilovca", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Jurilovca", "sat"),
         createLoc("Sălcioara", "sat"),
         createLoc("Vișina", "sat")
     ]),
 
     createComuna("Luncavița", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Luncavița", "sat"),
         createLoc("Rachelu", "sat")
     ]),
 
     createComuna("Mahmudia", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Mahmudia", "sat")
     ]),
 
     createComuna("Maliuc", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Maliuc", "sat"),
         createLoc("Gorgova", "sat"),
         createLoc("Ilganii de Sus", "sat"),
@@ -184,21 +184,21 @@ $comune = [
     ]),
 
     createComuna("Mihai Bravu", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Mihai Bravu", "sat"),
         createLoc("Satu Nou", "sat"),
         createLoc("Turda", "sat")
     ]),
 
     createComuna("Mihail Kogălniceanu", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Mihail Kogălniceanu", "sat"),
         createLoc("Lăstuni", "sat"),
         createLoc("Rândunica", "sat")
     ]),
 
     createComuna("Murighiol", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Murighiol", "sat"),
         createLoc("Colina", "sat"),
         createLoc("Dunavățu de Jos", "sat"),
@@ -209,18 +209,18 @@ $comune = [
     ]),
 
     createComuna("Nalbant", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Nalbant", "sat"),
         createLoc("Nicolae Bălcescu", "sat"),
         createLoc("Trestenic", "sat")
     ]),
     createComuna("Niculițel", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Niculițel", "sat")
     ]),
 
     createComuna("Nufăru", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Nufăru", "sat"),
         createLoc("Ilganii de Jos", "sat"),
         createLoc("Malcoci", "sat"),
@@ -228,23 +228,23 @@ $comune = [
     ]),
 
     createComuna("Ostrov", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Ostrov", "sat"),
         createLoc("Piatra", "sat")
     ]),
 
     createComuna("Pardina", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Pardina", "sat")
     ]),
 
     createComuna("Peceneaga", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Peceneaga", "sat")
     ]),
 
     createComuna("Sarichioi", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Sarichioi", "sat"),
         createLoc("Enisala", "sat"),
         createLoc("Sabangia", "sat"),
@@ -253,36 +253,36 @@ $comune = [
     ]),
 
     createComuna("Sfântu Gheorghe", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Sfântu Gheorghe", "sat")
     ]),
 
     createComuna("Slava Cercheză", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Slava Cercheză", "sat"),
         createLoc("Slava Rusă", "sat")
     ]),
 
     createComuna("Smârdan", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Smârdan", "sat")
     ]),
 
     createComuna("Somova", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Somova", "sat"),
         createLoc("Mineri", "sat"),
         createLoc("Parcheș", "sat")
     ]),
     createComuna("Stejaru", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Stejaru", "sat"),
         createLoc("Mina Altân Tepe", "sat"),
         createLoc("Vasile Alecsandri", "sat")
     ]),
 
     createComuna("Topolog", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Topolog", "sat"),
         createLoc("Calfa", "sat"),
         createLoc("Cerbu", "sat"),
@@ -293,24 +293,24 @@ $comune = [
     ]),
 
     createComuna("Turcoaia", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Turcoaia", "sat")
     ]),
 
     createComuna("Valea Nucarilor", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Valea Nucarilor", "sat"),
         createLoc("Agighiol", "sat"),
         createLoc("Iazurile", "sat")
     ]),
 
     createComuna("Valea Teilor", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Valea Teilor", "sat")
     ]),
 
     createComuna("Văcăreni", [
-				createAdresaCompleta("TULCEA", "TULCEA"),
+				createAdresaCompleta("comuna Baia, judetul TULCEA, România", "comuna Baia, judetul TULCEA, Romania"),
         createLoc("Văcăreni", "sat")
     ]),
 

@@ -2,7 +2,7 @@
 $orase=[
 	
 			createOras("BĂBENI", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    createLoc("BĂBENI", "oras",[
 					createLoc("Bonciu", "sat"),
 					createLoc("Capu Dealului", "sat"),
@@ -13,14 +13,14 @@ $orase=[
 										]),
 			                     ]),
 			createOras("BĂILE GOVORA", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("PRAJILA", "oras"),
 				createLoc("Curăturile", "sat"),
 				createLoc("Gătejești", "sat"),
 			                     ]),	
 	
 			createOras("BĂILE OLĂNEȘTI", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("LIVADIA", "oras"),
 				createLoc("Cheia", "sat"),
 				createLoc("Comanca", "sat"),
@@ -32,7 +32,7 @@ $orase=[
 			                     ]),	
 	
 			createOras("BĂLCEȘTI", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("BĂLCEȘTI", "oras", [
 					  createLoc("Benești", "sat"),
 					  createLoc("Cârlogani", "sat"),
@@ -48,7 +48,7 @@ $orase=[
 			                     ]),	
 	
 			createOras("BERBEȘTI", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("BERBEȘTI", "oras", [
 					  createLoc("Dămțeni", "sat"),
 					  createLoc("Dealu Aluniș", "sat"),
@@ -61,7 +61,7 @@ $orase=[
 			                     ]),
 
 			createOras("BREZOI", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("BREZOI", "oras", [
 					  createLoc("Călinești", "sat"),
 					  createLoc("Corbu", "sat"),
@@ -77,7 +77,7 @@ $orase=[
 			                     ]),
 	
 			createOras("CĂLIMĂNEȘTI", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("CĂLIMĂNEȘTI", "oras"),
 				createLoc("Căciulata", "sat"),
 				createLoc("Jiblea Nouă", "sat"),
@@ -88,7 +88,7 @@ $orase=[
 			                     ]),
 	
 			createOras("HOREZU", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("HOREZU", "oras", [
 					  createLoc("Ifrimești", "sat"),
 					  createLoc("Râmești", "sat"),
@@ -102,7 +102,7 @@ $orase=[
 			                     ]),
 	
 			createOras("OCNELE MARI", [
-				createAdresaCompleta("VALCEA", "VALCEA"),
+				createAdresaCompleta("orasul BĂBENI, judetul VALCEA, România", "orasul BABENI, judetul VALCEA, Romania"),
 			    	createLoc("GURA SUHAȘULUI", "oras"),
 				createLoc("Buda", "sat"),
 				createLoc("Cosota", "sat"),

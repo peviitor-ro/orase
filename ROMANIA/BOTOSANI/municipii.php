@@ -2,11 +2,11 @@
 $municipii =
 [
 		createMunicipiu("BOTOȘANI", [
-                    createAdresaCompleta("BOTOSANI", "BOTOSANI"),
+                    createAdresaCompleta("municipiul BOTOȘANI, judetul BOTOSANI, România", "municipiul BOTOSANI, judetul BOTOSANI, Romania"),
                     createLoc("BOTOȘANI", "oras"),
                 ]),	
 		createMunicipiu("DOROHOI", [
-                    createAdresaCompleta("BOTOSANI", "BOTOSANI"),
+                    createAdresaCompleta("municipiul BOTOȘANI, judetul BOTOSANI, România", "municipiul BOTOSANI, judetul BOTOSANI, Romania"),
                     createLoc("DOROHOI", "oras"),
                     createLoc("Dealu Mare", "sat"),
 					createLoc("Loturi Enescu", "sat"),

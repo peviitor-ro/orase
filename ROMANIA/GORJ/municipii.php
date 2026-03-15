@@ -2,7 +2,7 @@
 $municipii =
 [
 		createMunicipiu("TÂRGU JIU", [
-				createAdresaCompleta("GORJ", "GORJ"),
+				createAdresaCompleta("municipiul TÂRGU JIU, judetul GORJ, România", "municipiul TARGU JIU, judetul GORJ, Romania"),
                     createLoc("TÂRGU JIU", "oras"),
 					createLoc("Bârsești", "sat"),
 					createLoc("Drăgoeni", "sat"),
@@ -15,7 +15,7 @@ $municipii =
 					
                 ]),
 		createMunicipiu("MOTRU", [
-				createAdresaCompleta("GORJ", "GORJ"),
+				createAdresaCompleta("municipiul TÂRGU JIU, judetul GORJ, România", "municipiul TARGU JIU, judetul GORJ, Romania"),
                     createLoc("MOTRU", "oras",[
 							createLoc("Lupoița", "sat"),
 							createLoc("Râpa", "sat"),

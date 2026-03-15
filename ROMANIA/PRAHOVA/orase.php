@@ -1,12 +1,12 @@
 <?php
 $orase = [
     createOras("AZUGA", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("AZUGA", "oras"),
     ]),
 
     createOras("BĂICOI", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("BĂICOI", "oras"),
             createLoc("Dâmbu", "sat"),
             createLoc("Liliești", "sat"),
@@ -17,13 +17,13 @@ $orase = [
     ]),
 
     createOras("BOLDEȘTI-SCĂENI", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("BOLDEȘTI-SCĂENI", "oras"),
         createLoc("Seciu", "sat"),
     ]),
 
     createOras("BREAZA", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("BREAZA DE JOS", "oras"),
         createLoc("Breaza de Sus", "sat"),
         createLoc("Frăsinet", "sat"),
@@ -37,13 +37,13 @@ $orase = [
     ]),
 
     createOras("BUȘTENI", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("BUȘTENI", "oras"),
         createLoc("Poiana Țapului", "sat"),
     ]),
 
     createOras("COMARNIC", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("COMARNIC", "oras"),
         createLoc("Ghioșești", "sat"),
         createLoc("Podu Lung", "sat"),
@@ -52,30 +52,30 @@ $orase = [
     ]),
 
     createOras("MIZIL", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("MIZIL", "oras"),
         createLoc("Fefelei", "sat"),
     ]),
 
     createOras("PLOPENI", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("PLOPENI", "oras"),
     ]),
 
     createOras("SINAIA", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("SINAIA", "oras"),
     ]),
 
     createOras("SLĂNIC", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("SLĂNIC", "oras"),
         createLoc("Groșani", "sat"),
         createLoc("Prăjani", "sat"),
     ]),
 
     createOras("URLAȚI", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("URLAȚI", "oras"),
         createLoc("Arioneștii Noi", "sat"),
         createLoc("Arioneștii Vechi", "sat"),
@@ -96,7 +96,7 @@ $orase = [
     ]),
 
     createOras("VĂLENII DE MUNTE", [
-				createAdresaCompleta("PRAHOVA", "PRAHOVA"),
+				createAdresaCompleta("orasul AZUGA, judetul PRAHOVA, România", "orasul AZUGA, judetul PRAHOVA, Romania"),
         createLoc("VĂLENII DE MUNTE", "oras"),
     ]),
 ];

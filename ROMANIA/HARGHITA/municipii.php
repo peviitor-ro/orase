@@ -2,7 +2,7 @@
 $municipii =
 [
 		createMunicipiu("MIERCUREA-CIUC", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("municipiul MIERCUREA-CIUC, judetul HARGHITA, România", "municipiul MIERCUREA-CIUC, judetul HARGHITA, Romania"),
                     createLoc("MIERCUREA-CIUC", "oras"),
 					createLoc("Ciba", "sat"),
 					createLoc("Harghita-Băi", "sat"),
@@ -10,7 +10,7 @@ $municipii =
 					
                 ]),
 		createMunicipiu("GHEORGHENI", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("municipiul MIERCUREA-CIUC, judetul HARGHITA, România", "municipiul MIERCUREA-CIUC, judetul HARGHITA, Romania"),
                     createLoc("GHEORGHENI", "oras"),
 					createLoc("Covacipeter", "sat"),
 					createLoc("Lacu Roșu", "sat"),
@@ -19,12 +19,12 @@ $municipii =
 					
                 ]),
 		createMunicipiu("ODORHEIU SECUIESC", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("municipiul MIERCUREA-CIUC, judetul HARGHITA, România", "municipiul MIERCUREA-CIUC, judetul HARGHITA, Romania"),
                     createLoc("ODORHEIU SECUIESC", "oras"),
 					
                 ]),
 		createMunicipiu("TOPLIȚA", [
-				createAdresaCompleta("HARGHITA", "HARGHITA"),
+				createAdresaCompleta("municipiul MIERCUREA-CIUC, judetul HARGHITA, România", "municipiul MIERCUREA-CIUC, judetul HARGHITA, Romania"),
                     createLoc("TOPLIȚA", "oras"),
 					createLoc("Călimănel", "sat"),
 					createLoc("Luncani", "sat"),

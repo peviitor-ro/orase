@@ -2,7 +2,7 @@
 $comune =[
 
     createComuna("Bala", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Bala", "sat"),
         createLoc("Bala de Sus", "sat"),
         createLoc("Brateșul", "sat"),
@@ -21,7 +21,7 @@ $comune =[
     ]),
     
     createComuna("Balta", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Balta", "sat"),
         createLoc("Coada Cornetului", "sat"),
         createLoc("Costești", "sat"),
@@ -32,14 +32,14 @@ $comune =[
     ]),
     
     createComuna("Bălăcița", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Bălăcița", "sat"),
         createLoc("Dobra", "sat"),
         createLoc("Gvardinița", "sat")
     ]),
     
     createComuna("Bâcleș", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Bâcleș", "sat"),
         createLoc("Corzu", "sat"),
         createLoc("Giura", "sat"),
@@ -50,7 +50,7 @@ $comune =[
     ]),
     
     createComuna("Bâlvănești", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Bâlvănești", "sat"),
         createLoc("Bâlvăneștii de Jos", "sat"),
         createLoc("Călineștii de Jos", "sat"),
@@ -59,13 +59,13 @@ $comune =[
     ]),
     
     createComuna("Braniștea", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Braniștea", "sat"),
         createLoc("Goanța", "sat")
     ]),
     
     createComuna("Breznița-Motru", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Breznița-Motru", "sat"),
         createLoc("Cosovăț", "sat"),
         createLoc("Deleni", "sat"),
@@ -76,7 +76,7 @@ $comune =[
     ]),
     
     createComuna("Breznița-Ocol", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Breznița-Ocol", "sat"),
         createLoc("Jidoștița", "sat"),
         createLoc("Magheru", "sat"),
@@ -84,7 +84,7 @@ $comune =[
     ]),
     
     createComuna("Broșteni", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Broșteni", "sat"),
         createLoc("Căpățânești", "sat"),
         createLoc("Luncșoara", "sat"),
@@ -94,7 +94,7 @@ $comune =[
     ]),
     
     createComuna("Burila Mare", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Burila Mare", "sat"),
         createLoc("Crivina", "sat"),
         createLoc("Izvoru Frumos", "sat"),
@@ -102,7 +102,7 @@ $comune =[
         createLoc("Vrancea", "sat")
     ]),
     createComuna("Butoiești", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Butoiești", "sat"),
         createLoc("Arginești", "sat"),
         createLoc("Buicești", "sat"),
@@ -114,7 +114,7 @@ $comune =[
     ]),
     
     createComuna("Căzănești", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Căzănești", "sat"),
         createLoc("Ercea", "sat"),
         createLoc("Gârbovățu de Sus", "sat"),
@@ -130,7 +130,7 @@ $comune =[
     ]),
     
     createComuna("Cireșu", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Cireșu", "sat"),
         createLoc("Bunoaica", "sat"),
         createLoc("Jupânești", "sat"),
@@ -138,7 +138,7 @@ $comune =[
     ]),
     
     createComuna("Corcova", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Corcova", "sat"),
         createLoc("Breța", "sat"),
         createLoc("Cernaia", "sat"),
@@ -155,20 +155,20 @@ $comune =[
     ]),
     
     createComuna("Corlățel", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Corlățel", "sat"),
         createLoc("Valea Anilor", "sat")
     ]),
     
     createComuna("Cujmir", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Cujmir", "sat"),
         createLoc("Aurora", "sat"),
         createLoc("Cujmiru Mic", "sat")
     ]),
     
     createComuna("Devesel", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Devesel", "sat"),
         createLoc("Batoți", "sat"),
         createLoc("Bistrețu", "sat"),
@@ -178,20 +178,20 @@ $comune =[
     ]),
     
     createComuna("Dârvari", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Dârvari", "sat"),
         createLoc("Gemeni", "sat")
     ]),
     
     createComuna("Dubova", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Dubova", "sat"),
         createLoc("Baia Nouă", "sat"),
         createLoc("Eibenthal", "sat")
     ]),
     
     createComuna("Dumbrava", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Dumbrava de Jos", "sat"),
         createLoc("Albulești", "sat"),
         createLoc("Brâgleasa", "sat"),
@@ -205,12 +205,12 @@ $comune =[
         createLoc("Vlădica", "sat")
     ]),
     createComuna("Eșelnița", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Eșelnița", "sat")
     ]),
     
     createComuna("Florești", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Florești", "sat"),
         createLoc("Copăcioasa", "sat"),
         createLoc("Gârdoaia", "sat"),
@@ -223,12 +223,12 @@ $comune =[
     ]),
     
     createComuna("Gârla Mare", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Gârla Mare", "sat")
     ]),
     
     createComuna("Godeanu", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Godeanu", "sat"),
         createLoc("Marga", "sat"),
         createLoc("Păunești", "sat"),
@@ -236,7 +236,7 @@ $comune =[
     ]),
     
     createComuna("Gogoșu", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Gogoșu", "sat"),
         createLoc("Balta Verde", "sat"),
         createLoc("Burila Mică", "sat"),
@@ -244,7 +244,7 @@ $comune =[
     ]),
     
     createComuna("Greci", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Greci", "sat"),
         createLoc("Bâltanele", "sat"),
         createLoc("Blidaru", "sat"),
@@ -254,7 +254,7 @@ $comune =[
     ]),
     
     createComuna("Grozești", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Grozești", "sat"),
         createLoc("Cârceni", "sat"),
         createLoc("Păsărani", "sat"),
@@ -262,14 +262,14 @@ $comune =[
     ]),
     
     createComuna("Gruia", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Gruia", "sat"),
         createLoc("Izvoarele", "sat"),
         createLoc("Poiana Gruii", "sat")
     ]),
     
     createComuna("Hinova", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Hinova", "sat"),
         createLoc("Bistrița", "sat"),
         createLoc("Cârjei", "sat"),
@@ -277,7 +277,7 @@ $comune =[
     ]),
     
     createComuna("Husnicioara", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Husnicioara", "sat"),
         createLoc("Alunișul", "sat"),
         createLoc("Bădițești", "sat"),
@@ -291,7 +291,7 @@ $comune =[
         createLoc("Selișteni", "sat")
     ]),
     createComuna("Ilovăț", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Ilovăț", "sat"),
         createLoc("Budănești", "sat"),
         createLoc("Cracu Lung", "sat"),
@@ -301,14 +301,14 @@ $comune =[
     ]),
     
     createComuna("Ilovița", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Ilovița", "sat"),
         createLoc("Bahna", "sat"),
         createLoc("Moisești", "sat")
     ]),
     
     createComuna("Isverna", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Isverna", "sat"),
         createLoc("Busești", "sat"),
         createLoc("Cerna-Vârf", "sat"),
@@ -320,7 +320,7 @@ $comune =[
     ]),
     
     createComuna("Izvoru Bârzii", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Izvoru Bârzii", "sat"),
         createLoc("Balotești", "sat"),
         createLoc("Halânga", "sat"),
@@ -331,7 +331,7 @@ $comune =[
     ]),
     
     createComuna("Jiana", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Jiana", "sat"),
         createLoc("Cioroboreni", "sat"),
         createLoc("Dănceu", "sat"),
@@ -340,7 +340,7 @@ $comune =[
     ]),
     
     createComuna("Livezile", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Livezile", "sat"),
         createLoc("Izvorălu de Jos", "sat"),
         createLoc("Izvoru Aneștilor", "sat"),
@@ -349,7 +349,7 @@ $comune =[
     ]),
     
     createComuna("Malovăț", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Malovăț", "sat"),
         createLoc("Bobaița", "sat"),
         createLoc("Colibași", "sat"),
@@ -360,24 +360,24 @@ $comune =[
     ]),
     
     createComuna("Obârșia de Câmp", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Obârșia de Câmp", "sat"),
         createLoc("Izimșa", "sat")
     ]),
     
     createComuna("Obârșia-Cloșani", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Obârșia-Cloșani", "sat"),
         createLoc("Godeanu", "sat")
     ]),
     
     createComuna("Oprișor", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Oprișor", "sat"),
         createLoc("Prisăceaua", "sat")
     ]),
     createComuna("Pădina", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Pădina Mare", "sat"),
         createLoc("Biban", "sat"),
         createLoc("Iablanița", "sat"),
@@ -387,20 +387,20 @@ $comune =[
     ]),
     
     createComuna("Pătulele", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Pătulele", "sat"),
         createLoc("Viașu", "sat")
     ]),
     
     createComuna("Podeni", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Podeni", "sat"),
         createLoc("Gornenți", "sat"),
         createLoc("Mălărișca", "sat")
     ]),
     
     createComuna("Ponoarele", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Ponoarele", "sat"),
         createLoc("Băluța", "sat"),
         createLoc("Bârâiacu", "sat"),
@@ -419,7 +419,7 @@ $comune =[
     ]),
     
     createComuna("Poroina Mare", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Poroina Mare", "sat"),
         createLoc("Fântânile Negre", "sat"),
         createLoc("Stignița", "sat"),
@@ -427,13 +427,13 @@ $comune =[
     ]),
     
     createComuna("Pristol", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Pristol", "sat"),
         createLoc("Cozia", "sat")
     ]),
     
     createComuna("Prunișor", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Prunișor", "sat"),
         createLoc("Arvătești", "sat"),
         createLoc("Balota", "sat"),
@@ -452,7 +452,7 @@ $comune =[
     ]),
     
     createComuna("Punghina", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Punghina", "sat"),
         createLoc("Cearângu", "sat"),
         createLoc("Drincea", "sat"),
@@ -462,17 +462,17 @@ $comune =[
     ]),
     
     createComuna("Rogova", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Rogova", "sat"),
         createLoc("Poroinița", "sat")
     ]),
     
     createComuna("Salcia", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Salcia", "sat")
     ]),
     createComuna("Șimian", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Șimian", "sat"),
         createLoc("Cerneți", "sat"),
         createLoc("Dedovița Nouă", "sat"),
@@ -484,7 +484,7 @@ $comune =[
     ]),
     
     createComuna("Stângăceaua", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Stângăceaua", "sat"),
         createLoc("Bârlogeni", "sat"),
         createLoc("Breznicioara", "sat"),
@@ -496,12 +496,12 @@ $comune =[
     ]),
     
     createComuna("Svinița", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Svinița", "sat")
     ]),
     
     createComuna("Șișești", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Șișești", "sat"),
         createLoc("Cărămidaru", "sat"),
         createLoc("Ciovârnășani", "sat"),
@@ -511,14 +511,14 @@ $comune =[
     ]),
     
     createComuna("Șovarna", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Șovarna", "sat"),
         createLoc("Ohaba", "sat"),
         createLoc("Studina", "sat")
     ]),
     
     createComuna("Tâmna", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Tâmna", "sat"),
         createLoc("Adunații Teiului", "sat"),
         createLoc("Boceni", "sat"),
@@ -533,19 +533,19 @@ $comune =[
     ]),
     
     createComuna("Vânători", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Vânători", "sat"),
         createLoc("Roșiori", "sat")
     ]),
     
     createComuna("Vânjuleț", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Vânjuleț", "sat"),
         createLoc("Hotărani", "sat")
     ]),
     
     createComuna("Vlădaia", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Vlădaia", "sat"),
         createLoc("Almăjel", "sat"),
         createLoc("Scorila", "sat"),
@@ -553,7 +553,7 @@ $comune =[
     ]),
     
     createComuna("Voloiac", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Voloiac", "sat"),
         createLoc("Cotoroaia", "sat"),
         createLoc("Lac", "sat"),
@@ -565,7 +565,7 @@ $comune =[
     ]),
     
     createComuna("Vrata", [
-				createAdresaCompleta("MEHEDINTI", "MEHEDINTI"),
+				createAdresaCompleta("comuna Bala, judetul MEHEDINTI, România", "comuna Bala, judetul MEHEDINTI, Romania"),
         createLoc("Vrata", "sat")
     ]),							  
 			

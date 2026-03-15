@@ -1,14 +1,14 @@
 <?php
 $orase = [
     createOras("BUZIAȘ", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("BUZIAȘ", "oras", [
             createLoc("Bacova", "sat"),
         ]),
         createLoc("Silagiu", "sat"),
     ]),
     createOras("CIACOVA", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("CIACOVA", "oras", [
             createLoc("Cebza", "sat"),
             createLoc("Macedonia", "sat"),
@@ -17,13 +17,13 @@ $orase = [
         ]),
     ]),
     createOras("DETA", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("DETA", "oras", [
             createLoc("Opatița", "sat"),
         ]),
     ]),
     createOras("FĂGET", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("FĂGET", "oras", [
             createLoc("Bătești", "sat"),
             createLoc("Begheiu Mic", "sat"),
@@ -38,7 +38,7 @@ $orase = [
         ]),
     ]),
     createOras("GĂTAIA", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("GĂTAIA", "oras", [
             createLoc("Butin", "sat"),
             createLoc("Percosova", "sat"),
@@ -48,11 +48,11 @@ $orase = [
         ]),
     ]),
     createOras("JIMBOLIA", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("JIMBOLIA", "oras"),
     ]),
     createOras("RECAȘ", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("RECAȘ", "oras", [
             createLoc("Bazoș", "sat"),
             createLoc("Herneacova", "sat"),
@@ -63,7 +63,7 @@ $orase = [
         ]),
     ]),
     createOras("SÂNNICOLAU MARE", [
-				createAdresaCompleta("TIMIS", "TIMIS"),
+				createAdresaCompleta("orasul BUZIAȘ, judetul TIMIS, România", "orasul BUZIAS, judetul TIMIS, Romania"),
         createLoc("SÂNNICOLAU MARE", "oras"),
     ]),
 ];
