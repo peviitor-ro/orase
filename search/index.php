@@ -54,30 +54,101 @@ $judete = [
     ["nume" => "Bucuresti", "numeDiacritice" => "București", "cod" => "B"]
 ];
 
-$results = [];
-
+$judeteResults = [];
 foreach ($judete as $judet) {
     if (
         strpos(strtolower($judet['nume']), $query) !== false ||
         strpos(strtolower($judet['numeDiacritice']), $query) !== false ||
         strpos(strtolower($judet['cod']), $query) !== false
     ) {
-        $results[] = $judet;
+        $judeteResults[] = $judet;
     }
 }
 
-if (count($results) === 0) {
+$judeteMap = [];
+foreach ($judete as $judet) {
+    $judeteMap[strtoupper($judet['nume'])] = $judet;
+}
+
+$judeteFolderMap = [
+    'ALBA' => 'Alba', 'ARAD' => 'Arad', 'ARGES' => 'Arges', 'BACAU' => 'Bacau',
+    'BIHOR' => 'Bihor', 'BISTRITA-NASAUD' => 'Bistrita-Nasaud', 'BOTOSANI' => 'Botosani',
+    'BRASOV' => 'Brasov', 'BRAILA' => 'Braila', 'BUZAU' => 'Buzau', 'CALARASI' => 'Calarasi',
+    'CARAS-SEVERIN' => 'Caras-Severin', 'CLUJ' => 'Cluj', 'CONSTANTA' => 'Constanta',
+    'COVASNA' => 'Covasna', 'DAMBOVITA' => 'Dambovita', 'DOLJ' => 'Dolj', 'GALATI' => 'Galati',
+    'GIURGIU' => 'Giurgiu', 'GORJ' => 'Gorj', 'HARGHITA' => 'Harghita', 'HUNEDOARA' => 'Hunedoara',
+    'IALOMITA' => 'Ialomita', 'IASI' => 'Iasi', 'ILFOV' => 'Ilfov', 'MARAMURES' => 'Maramures',
+    'MEHEDINTI' => 'Mehedinti', 'MURES' => 'Mures', 'NEAMT' => 'Neamt', 'OLT' => 'Olt',
+    'PRAHOVA' => 'Prahova', 'SALAJ' => 'Salaj', 'SATUMARE' => 'Satumare', 'SIBIU' => 'Sibiu',
+    'SUCEAVA' => 'Suceava', 'TELEORMAN' => 'Teleorman', 'TIMIS' => 'Timis', 'TULCEA' => 'Tulcea',
+    'VALCEA' => 'Valcea', 'VASLUI' => 'Vaslui', 'VRANCEA' => 'Vrancea', 'BUCURESTI' => 'Bucuresti'
+];
+
+$oraseResults = [];
+$basePath = __DIR__ . '/../ROMANIA';
+
+foreach ($judeteFolderMap as $folderName => $judetNume) {
+    $judetPath = $basePath . '/' . $folderName;
+    if (!is_dir($judetPath)) continue;
+
+    $files = ['orase.php', 'municipii.php'];
+    foreach ($files as $file) {
+        $filePath = $judetPath . '/' . $file;
+        if (!file_exists($filePath)) continue;
+
+        $content = file_get_contents($filePath);
+        
+        $pattern = '/create(Oras|Municipiu)\("([^"]+)"/i';
+        if (preg_match_all($pattern, $content, $matches)) {
+            foreach ($matches[2] as $orasName) {
+                $orasNameLower = strtolower($orasName);
+                if (strpos($orasNameLower, $query) !== false) {
+                    $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
+                    $oraseResults[] = [
+                        'nume' => $orasName,
+                        'tip' => $tip,
+                        'judet' => $judeteMap[$judetNume]
+                    ];
+                }
+            }
+        }
+    }
+}
+
+$allResults = [];
+
+if (count($judeteResults) === 1) {
+    $allResults[] = [
+        'type' => 'judet',
+        'data' => $judeteResults[0]
+    ];
+} elseif (count($judeteResults) > 1) {
+    foreach ($judeteResults as $j) {
+        $allResults[] = [
+            'type' => 'judet',
+            'data' => $j
+        ];
+    }
+}
+
+if (count($oraseResults) === 1) {
+    $allResults[] = [
+        'type' => $oraseResults[0]['tip'],
+        'data' => $oraseResults[0]
+    ];
+} elseif (count($oraseResults) > 1) {
+    foreach ($oraseResults as $o) {
+        $allResults[] = [
+            'type' => $o['tip'],
+            'data' => $o
+        ];
+    }
+}
+
+if (count($allResults) === 0) {
     $response = ["results" => [], "message" => "Nu s-au găsit rezultate pentru '$query'"];
-} elseif (count($results) === 1) {
-    $response = [
-        "type" => "judet",
-        "judet" => $results[0]
-    ];
 } else {
-    $response = [
-        "type" => "multiple",
-        "results" => $results
-    ];
+    $response = ["results" => $allResults];
 }
 
 echo json_encode($response, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
