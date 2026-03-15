@@ -8,9 +8,9 @@ Un API public care oferă informații despre toate localitățile din România: 
 
 | Metodă | URL | Descriere |
 |--------|-----|-----------|
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/` | Toate localitățile din România |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/judete/` | Lista tuturor judetelor din România |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/` | Lista completă cu toate judetele |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/](https://orase.peviitor.ro/) | Toate localitățile din România |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/judete/](https://orase.peviitor.ro/judete/) | Lista tuturor judetelor din România |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/](https://orase.peviitor.ro/ROMANIA/) | Lista completă cu toate judetele |
 
 ### Accesare pe judete
 
@@ -22,48 +22,48 @@ https://orase.peviitor.ro/ROMANIA/{JUDET}/
 
 | Metodă | Endpoint |
 |--------|----------|
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BUCURESTI/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/ALBA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/ARAD/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/ARGES/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BACAU/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BIHOR/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BISTRITA-NASAUD/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BOTOSANI/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BRAILA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BRASOV/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/BUZAU/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/CALARASI/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/CARAS-SEVERIN/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/CLUJ/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/CONSTANTA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/COVASNA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/DAMBOVITA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/DOLJ/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/GALATI/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/GIURGIU/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/GORJ/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/HARGHITA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/HUNEDOARA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/IALOMITA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/IASI/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/ILFOV/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/MARAMURES/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/MEHEDINTI/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/MURES/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/NEAMT/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/OLT/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/PRAHOVA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/SALAJ/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/SATUMARE/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/SIBIU/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/SUCEAVA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/TELEORMAN/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/TIMIS/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/TULCEA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/VALCEA/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/VASLUI/` |
-| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/VRANCEA/` |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BUCURESTI/](https://orase.peviitor.ro/ROMANIA/BUCURESTI/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/ALBA/](https://orase.peviitor.ro/ROMANIA/ALBA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/ARAD/](https://orase.peviitor.ro/ROMANIA/ARAD/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/ARGES/](https://orase.peviitor.ro/ROMANIA/ARGES/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BACAU/](https://orase.peviitor.ro/ROMANIA/BACAU/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BIHOR/](https://orase.peviitor.ro/ROMANIA/BIHOR/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BISTRITA-NASAUD/](https://orase.peviitor.ro/ROMANIA/BISTRITA-NASAUD/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BOTOSANI/](https://orase.peviitor.ro/ROMANIA/BOTOSANI/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BRAILA/](https://orase.peviitor.ro/ROMANIA/BRAILA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BRASOV/](https://orase.peviitor.ro/ROMANIA/BRASOV/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/BUZAU/](https://orase.peviitor.ro/ROMANIA/BUZAU/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/CALARASI/](https://orase.peviitor.ro/ROMANIA/CALARASI/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/CARAS-SEVERIN/](https://orase.peviitor.ro/ROMANIA/CARAS-SEVERIN/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/CLUJ/](https://orase.peviitor.ro/ROMANIA/CLUJ/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/CONSTANTA/](https://orase.peviitor.ro/ROMANIA/CONSTANTA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/COVASNA/](https://orase.peviitor.ro/ROMANIA/COVASNA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/DAMBOVITA/](https://orase.peviitor.ro/ROMANIA/DAMBOVITA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/DOLJ/](https://orase.peviitor.ro/ROMANIA/DOLJ/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/GALATI/](https://orase.peviitor.ro/ROMANIA/GALATI/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/GIURGIU/](https://orase.peviitor.ro/ROMANIA/GIURGIU/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/GORJ/](https://orase.peviitor.ro/ROMANIA/GORJ/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/HARGHITA/](https://orase.peviitor.ro/ROMANIA/HARGHITA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/HUNEDOARA/](https://orase.peviitor.ro/ROMANIA/HUNEDOARA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/IALOMITA/](https://orase.peviitor.ro/ROMANIA/IALOMITA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/IASI/](https://orase.peviitor.ro/ROMANIA/IASI/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/ILFOV/](https://orase.peviitor.ro/ROMANIA/ILFOV/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/MARAMURES/](https://orase.peviitor.ro/ROMANIA/MARAMURES/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/MEHEDINTI/](https://orase.peviitor.ro/ROMANIA/MEHEDINTI/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/MURES/](https://orase.peviitor.ro/ROMANIA/MURES/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/NEAMT/](https://orase.peviitor.ro/ROMANIA/NEAMT/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/OLT/](https://orase.peviitor.ro/ROMANIA/OLT/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/PRAHOVA/](https://orase.peviitor.ro/ROMANIA/PRAHOVA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/SALAJ/](https://orase.peviitor.ro/ROMANIA/SALAJ/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/SATUMARE/](https://orase.peviitor.ro/ROMANIA/SATUMARE/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/SIBIU/](https://orase.peviitor.ro/ROMANIA/SIBIU/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/SUCEAVA/](https://orase.peviitor.ro/ROMANIA/SUCEAVA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/TELEORMAN/](https://orase.peviitor.ro/ROMANIA/TELEORMAN/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/TIMIS/](https://orase.peviitor.ro/ROMANIA/TIMIS/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/TULCEA/](https://orase.peviitor.ro/ROMANIA/TULCEA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/VALCEA/](https://orase.peviitor.ro/ROMANIA/VALCEA/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/VASLUI/](https://orase.peviitor.ro/ROMANIA/VASLUI/) |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | [https://orase.peviitor.ro/ROMANIA/VRANCEA/](https://orase.peviitor.ro/ROMANIA/VRANCEA/) |
 
 ## 💻 Utilizare
 
