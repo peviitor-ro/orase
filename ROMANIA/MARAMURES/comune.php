@@ -1,77 +1,93 @@
 <?php
 $comune =[
 			createComuna("Ardusat", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Ardusat", "sat"),
 					createLoc("Arieșu de Câmp", "sat"),
 					createLoc("Colțirea", "sat"),
 								  ]),
 			createComuna("Ariniș", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Ariniș", "sat"),
 					createLoc("Rodina", "sat"),
 					createLoc("Tămășești", "sat"),
 								  ]),							  
 			createComuna("Asuaju de Sus", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Asuaju de Sus", "sat"),
 					createLoc("Asuaju de Jos", "sat"),
 								  ]),
 			createComuna("Băița de sub Codru", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Băița de sub Codru", "sat"),
 					createLoc("Urmeniș", "sat"),
 								  ]),									  
 			createComuna("Băiuț", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Băiuț", "sat"),
 					createLoc("Poiana Botizii", "sat"),
 					createLoc("Strâmbu-Băiuț", "sat"),
 								  ]),	
 			createComuna("Băsești", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Băsești", "sat"),
 					createLoc("Odești", "sat"),
 					createLoc("Săliște", "sat"),
 					createLoc("Stremț", "sat"),
 								  ]),	
 			createComuna("Bârsana", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Bârsana", "sat"),
 					createLoc("Nănești", "sat"),
 								  ]),
 			createComuna("Bicaz", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Bicaz", "sat"),
 					createLoc("Ciuta", "sat"),
 					createLoc("Corni", "sat"),
 								  ]),
 			createComuna("Bistra", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Bistra", "sat"),
 					createLoc("Crasna Vișeului", "sat"),
 					createLoc("Valea Vișeului", "sat"),
 								  ]),
 			createComuna("Bocicoiu Mare", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Bocicoiu Mare", "sat"),
 					createLoc("Crăciunești", "sat"),
 					createLoc("Lunca la Tisa", "sat"),
 					createLoc("Tisa", "sat"),
 								  ]),	
 			createComuna("Bogdan Vodă", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Bogdan Vodă", "sat"),
 					createLoc("Bocicoel", "sat"),
 								  ]),
 			createComuna("Boiu Mare", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Boiu Mare", "sat"),
 					createLoc("Frâncenii Boiului", "sat"),
 					createLoc("Prislop", "sat"),
 					createLoc("Românești", "sat"),
 								  ]),	
 			createComuna("Botiza", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Botiza", "sat"),
 								  ]),
 			createComuna("Budești", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Budești", "sat"),
 					createLoc("Sârbi", "sat"),
 								  ]),
 			createComuna("Călinești", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Călinești", "sat"),
 					createLoc("Cornești", "sat"),
 					createLoc("Văleni", "sat"),
 								  ]),
 			createComuna("Cernești", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Cernești", "sat"),
 					createLoc("Brebeni", "sat"),
 					createLoc("Ciocotiș", "sat"),
@@ -81,23 +97,28 @@ $comune =[
 					createLoc("Trestia", "sat"),
 								  ]),
 			createComuna("Cicârlău", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Cicârlău", "sat"),
 					createLoc("Bârgău", "sat"),
 					createLoc("Handalu Ilbei", "sat"),
 					createLoc("Ilba", "sat"),
 								  ]),
 			createComuna("Câmpulung la Tisa", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Câmpulung la Tisa", "sat"),
 								  ]),
 			createComuna("Coaș", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Coaș", "sat"),
 					createLoc("Întrerâuri", "sat"),
 								  ]),
 			createComuna("Coltău", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Coltău", "sat"),
 					createLoc("Cătălina", "sat"),
 								  ]),
 			createComuna("Copalnic-Mănăștur", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Copalnic-Mănăștur", "sat"),
 					createLoc("Berința", "sat"),
 					createLoc("Berința", "sat"),
@@ -113,6 +134,7 @@ $comune =[
 					createLoc("Vad", "sat"),
 								  ]),
 			createComuna("Coroieni", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Coroieni", "sat"),
 					createLoc("Baba", "sat"),
 					createLoc("Dealu Mare", "sat"),
@@ -120,17 +142,20 @@ $comune =[
 					createLoc("Vălenii Lăpușului", "sat"),
 								  ]),
 			createComuna("Cupșeni", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Cupșeni", "sat"),
 					createLoc("Costeni", "sat"),
 					createLoc("Libotin", "sat"),
 					createLoc("Ungureni", "sat"),
 								  ]),
 			createComuna("Desești", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Desești", "sat"),
 					createLoc("Hărnicești", "sat"),
 					createLoc("Mara", "sat"),
 								  ]),
 			createComuna("Dumbrăvița", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Dumbrăvița", "sat"),
 					createLoc("Cărbunari", "sat"),
 					createLoc("Chechiș", "sat"),
@@ -139,38 +164,47 @@ $comune =[
 					createLoc("Unguraș", "sat"),
 								  ]),
 			createComuna("Fărcașa", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Fărcașa", "sat"),
 					createLoc("Buzești", "sat"),
 					createLoc("Sârbi", "sat"),
 					createLoc("Tămaia", "sat"),
 								  ]),
 			createComuna("Gârdani", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Gârdani", "sat"),
 								  ]),
 			createComuna("Giulești", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Giulești", "sat"),
 					createLoc("Berbești", "sat"),
 					createLoc("Ferești", "sat"),
 					createLoc("Mănăstirea", "sat"),
 								  ]),
 			createComuna("Groși", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Groși", "sat"),
 					createLoc("Ocoliș", "sat"),
 					createLoc("Satu Nou de Jos", "sat"),
 								  ]),
 			createComuna("Groșii Țibleșului", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Groșii Țibleșului", "sat"),
 								  ]),
 			createComuna("Ieud", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Ieud", "sat"),
 								  ]),
 			createComuna("Lăpuș", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Lăpuș", "sat"),
 								  ]),
 			createComuna("Leordina", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Leordina", "sat"),
 								  ]),
 			createComuna("Mireșu Mare", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Mireșu Mare", "sat"),
 					createLoc("Dăneștii Chioarului", "sat"),
 					createLoc("Iadăra", "sat"),
@@ -180,32 +214,40 @@ $comune =[
 					createLoc("Tulghieș", "sat"),
 								  ]),
 			createComuna("Moisei", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Moisei", "sat"),
 								  ]),
 			createComuna("Oarța de Jos", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Oarța de Jos", "sat"),
 					createLoc("Oarța de Sus", "sat"),
 					createLoc("Orțița", "sat"),
 								  ]),
 			createComuna("Ocna Șugatag", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Ocna Șugatag", "sat"),
 					createLoc("Breb", "sat"),
 					createLoc("Hoteni", "sat"),
 					createLoc("Sat-Șugatag", "sat"),
 								  ]),
 			createComuna("Oncești", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Oncești", "sat"),
 								  ]),
 			createComuna("Petrova", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Petrova", "sat"),
 								  ]),
 			createComuna("Poienile de sub Munte", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Poienile de sub Munte", "sat"),
 								  ]),
 			createComuna("Poienile Izei", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Poienile Izei", "sat"),
 								  ]),
 			createComuna("Recea", [
+				createAdresaCompleta("MARAMURES"),
 					createLoc("Recea", "sat"),
 					createLoc("Bozânta Mică", "sat"),
 					createLoc("Lăpușel", "sat"),
@@ -213,6 +255,7 @@ $comune =[
 					createLoc("Săsar", "sat"),
 								  ]),
     createComuna("Remetea Chioarului", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Remetea Chioarului", "sat"),
         createLoc("Berchez", "sat"),
         createLoc("Berchezoaia", "sat"),
@@ -220,31 +263,39 @@ $comune =[
         createLoc("Remecioara", "sat"),
     ]),
     createComuna("Remeți", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Remeți", "sat"),
         createLoc("Piatra", "sat"),
         createLoc("Teceu Mic", "sat"),
     ]),
     createComuna("Repedea", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Repedea", "sat"),
     ]),
     createComuna("Rona de Jos", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Rona de Jos", "sat"),
     ]),
     createComuna("Rona de Sus", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Rona de Sus", "sat"),
         createLoc("Coștiui", "sat"),
     ]),
     createComuna("Rozavlea", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Rozavlea", "sat"),
         createLoc("Sâlța", "sat"),
     ]),
     createComuna("Ruscova", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Ruscova", "sat"),
     ]),
     createComuna("Sarasău", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Sarasău", "sat"),
     ]),
     createComuna("Satulung", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Satulung", "sat"),
         createLoc("Arieșu de Pădure", "sat"),
         createLoc("Fersig", "sat"),
@@ -254,33 +305,41 @@ $comune =[
         createLoc("Pribilești", "sat"),
     ]),
     createComuna("Săcălășeni", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Săcălășeni", "sat"),
         createLoc("Coruia", "sat"),
         createLoc("Culcea", "sat"),
     ]),
     createComuna("Săcel", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Săcel", "sat"),
     ]),
     createComuna("Sălsig", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Sălsig", "sat"),
     ]),
     createComuna("Săpânța", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Săpânța", "sat"),
     ]),
     createComuna("Strâmtura", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Strâmtura", "sat"),
         createLoc("Glod", "sat"),
         createLoc("Slătioara", "sat"),
     ]),
     createComuna("Suciu de Sus", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Suciu de Sus", "sat"),
         createLoc("Larga", "sat"),
         createLoc("Suciu de Jos", "sat"),
     ]),
     createComuna("Șieu", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Șieu", "sat"),
     ]),
     createComuna("Șișești", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Șișești", "sat"),
         createLoc("Bontăieni", "sat"),
         createLoc("Cetățele", "sat"),
@@ -290,10 +349,12 @@ $comune =[
         createLoc("Șurdești", "sat"),
     ]),
     createComuna("Vadu Izei", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Vadu lzei", "sat"),
         createLoc("Valea Stejarului", "sat"),
     ]),
     createComuna("Valea Chioarului", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Valea Chioarului", "sat"),
         createLoc("Curtuiușu Mare", "sat"),
         createLoc("Durușa", "sat"),
@@ -302,6 +363,7 @@ $comune =[
         createLoc("Vărai", "sat"),
     ]),
     createComuna("Vima Mică", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Vima Mică", "sat"),
         createLoc("Aspra", "sat"),
         createLoc("Dealu Corbului", "sat"),
@@ -311,6 +373,7 @@ $comune =[
         createLoc("Vima Mare", "sat"),
     ]),
     createComuna("Vișeu de Jos", [
+				createAdresaCompleta("MARAMURES"),
         createLoc("Vișeu de Jos", "sat"),
     ]),	
 								  
