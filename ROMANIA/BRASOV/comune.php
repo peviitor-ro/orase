@@ -2,12 +2,15 @@
 $comune =[
 
 				createComuna("Apața", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Apața", "sat"),
 								  ]),						  
 				createComuna("Augustin", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Augustin", "sat"),	
 								  ]),
 				createComuna("Beclean", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Beclean", "sat"),
 					createLoc("Boholț", "sat"),
 					createLoc("Calbor", "sat"),
@@ -15,19 +18,23 @@ $comune =[
 					createLoc("Luța", "sat"),
 								  ]),
 				createComuna("Bod", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Bod", "sat"),	
 					createLoc("Colonia Bod", "sat"),
 								  ]),		
 				createComuna("Bran", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Bran", "sat"),
 					createLoc("Predeluț", "sat"),
 					createLoc("Sohodol", "sat"),
 					createLoc("Șimon", "sat"),
 								  ]),
 				createComuna("Budila", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Budila", "sat"),	
 								  ]),
 				createComuna("Bunești", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Bunești", "sat"),
 					createLoc("Criț", "sat"),
 					createLoc("Meșendorf", "sat"),
@@ -35,6 +42,7 @@ $comune =[
 					createLoc("Viscri", "sat"),
 								  ]),
 				createComuna("Cața", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Cața", "sat"),
 					createLoc("Beia", "sat"),
 					createLoc("Drăușeni", "sat"),
@@ -42,48 +50,59 @@ $comune =[
 					createLoc("Paloș", "sat"),
 								  ]),
 				createComuna("Cincu", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Cincu", "sat"),	
 					createLoc("Toarcla", "sat"),
 								  ]),	
 				createComuna("Comana", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Comana de Jos", "sat"),
 					createLoc("Comana de Sus", "sat"),
 					createLoc("Crihalma ", "sat"),
 					createLoc("Ticușu Nou", "sat"),
 								  ]),
 				createComuna("Cristian", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Cristian", "sat"),	
 								  ]),	
 				createComuna("Crizbav", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Crizbav", "sat"),	
 					createLoc("Cutuș", "sat"),
 								  ]),
 				createComuna("Drăguș", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Drăguș", "sat"),	
 								  ]),
 				createComuna("Dumbrăvița", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Dumbrăvița", "sat"),	
 					createLoc("Vlădeni", "sat"),
 								  ]),
 				createComuna("Feldioara", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Feldioara", "sat"),	
 					createLoc("Colonia Reconstrucția", "sat"),
 					createLoc("Rotbav", "sat"),
 								  ]),	
 				createComuna("Fundata", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Fundata", "sat"),	
 					createLoc("Fundățica ", "sat"),
 					createLoc("Șirnea", "sat"),
 								  ]),
 				createComuna("Hălchiu", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Hălchiu", "sat"),	
 					createLoc("Satu Nou", "sat"),
 								  ]),
 				createComuna("Hărman", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Hărman", "sat"),	
 					createLoc("Podu Oltului", "sat"),
 								  ]),
 				createComuna("Hârseni", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Hârseni", "sat"),
 					createLoc("Copăcel", "sat"),
 					createLoc("Măliniș", "sat"),
@@ -91,6 +110,7 @@ $comune =[
 					createLoc("Sebeș", "sat"),
 								  ]),	
 				createComuna("Hoghiz", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Hoghiz", "sat"),
 					createLoc("Bogata Olteană", "sat"),
 					createLoc("Cuciulata", "sat"),
@@ -99,14 +119,17 @@ $comune =[
 					createLoc("Lupșa", "sat"),
 								  ]),
 				createComuna("Holbav", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Holbav", "sat"),	
 								  ]),
 				createComuna("Homorod", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Homorod", "sat"),	
 					createLoc("Jimbor", "sat"),
 					createLoc("Mercheașa", "sat"),
 								  ]),
 				createComuna("Jibert", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Jibert", "sat"),
 					createLoc("Dacia", "sat"),
 					createLoc("Grânari", "sat"),
@@ -114,15 +137,18 @@ $comune =[
 					createLoc("Văleni", "sat"),
 								  ]),
 				createComuna("Lisa", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Lisa", "sat"),	
 					createLoc("Breaza ", "sat"),
 					createLoc("Pojorta", "sat"),
 								  ]),	
 				createComuna("Măieruș", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Măieruș", "sat"),	
 					createLoc("Arini", "sat"),
 								  ]),
 				createComuna("Mândra", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Mândra", "sat"),
 					createLoc("Ileni", "sat"),
 					createLoc("Râușor", "sat"),
@@ -130,6 +156,7 @@ $comune =[
 					createLoc("Toderița", "sat"),
 								  ]),	
 				createComuna("Moieciu", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Moieciu de Jos", "sat"),
 					createLoc("Cheia", "sat"),
 					createLoc("Drumul Carului", "sat"),
@@ -138,27 +165,33 @@ $comune =[
 					createLoc("Peștera", "sat"),
 								  ]),
 				createComuna("Ormeniș", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Ormeniș", "sat"),	
 								  ]),
 				createComuna("Părău", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Părău", "sat"),
 					createLoc("Grid", "sat"),
 					createLoc("Veneția de Jos", "sat"),
 					createLoc("Veneția de Sus", "sat"),
 								  ]),
 				createComuna("Poiana Mărului", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Poiana Mărului", "sat"),	
 								  ]),
 				createComuna("Prejmer", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Prejmer", "sat"),	
 					createLoc("Lunca Calnicului", "sat"),
 					createLoc("Stupinii Prejmerului", "sat"),
 								  ]),	
 				createComuna("Racoș", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Racoș", "sat"),	
 					createLoc("Mateiaș", "sat"),
 								  ]),
 				createComuna("Recea", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Recea", "sat"),
 					createLoc("Berivoi", "sat"),
 					createLoc("Dejani", "sat"),
@@ -168,18 +201,22 @@ $comune =[
 					createLoc("Săvăstreni", "sat"),
 								  ]),
 				createComuna("Sâmbăta de Sus", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Sâmbăta de Sus", "sat"),	
 					createLoc("Stațiunea Climaterică Sâmbăta", "sat"),
 								  ]),
 				createComuna("Sânpetru", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Sânpetru", "sat"),	
 								  ]),
 				createComuna("Șercaia", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Șercaia", "sat"),	
 					createLoc("Hălmeag", "sat"),
 					createLoc("Vad", "sat"),
 								  ]),
 				createComuna("Șinca", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Șinca Veche", "sat"),
 					createLoc("Bucium", "sat"),
 					createLoc("Ohaba", "sat"),
@@ -188,10 +225,12 @@ $comune =[
 					createLoc("Vâlcea", "sat"),
 								  ]),	
 				createComuna("Șinca Nouă", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Șinca Nouă", "sat"),	
 					createLoc("Paltin", "sat"),
 								  ]),
 				createComuna("Șoarș", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Șoarș", "sat"),
 					createLoc("Bărcut", "sat"),
 					createLoc("Felmer", "sat"),
@@ -199,35 +238,42 @@ $comune =[
 					createLoc("Seliștat", "sat"),
 								  ]),
 				createComuna("Tărlungeni", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Tărlungeni", "sat"),
 					createLoc("Cărpiniș", "sat"),
 					createLoc("Purcăreni", "sat"),
 					createLoc("Zizin", "sat"),
 								  ]),
 				createComuna("Teliu", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Teliu", "sat"),	
 								  ]),
 				createComuna("Ticușu", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Ticușu Vechi", "sat"),	
 					createLoc("Cobor", "sat"),
 								  ]),
 				createComuna("Ucea", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Ucea de Jos", "sat"),
 					createLoc("Corbi", "sat"),
 					createLoc("Feldioara", "sat"),
 					createLoc("Ucea de Sus", "sat"),
 								  ]),
 				createComuna("Ungra", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Ungra", "sat"),	
 					createLoc("Dăișoara", "sat"),
 								  ]),
 				createComuna("Vama Buzăului", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Vama Buzăului", "sat"),
 					createLoc("Acriș", "sat"),
 					createLoc("Buzăiel", "sat"),
 					createLoc("Dălghiu", "sat"),
 								  ]),
 				createComuna("Viștea", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Viștea de Jos", "sat"),
 					createLoc("Olteț", "sat"),
 					createLoc("Rucăr", "sat"),
@@ -235,6 +281,7 @@ $comune =[
 					createLoc("Viștișoara", "sat"),
 								  ]),
 				createComuna("Voila", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Voila", "sat"),
 					createLoc("Cincșor", "sat"),
 					createLoc("Dridif", "sat"),
@@ -243,6 +290,7 @@ $comune =[
 					createLoc("Voivodeni", "sat"),
 								  ]),
 				createComuna("Vulcan", [
+					createAdresaCompleta("BRASOV"),
 					createLoc("Vulcan", "sat"),	
 					createLoc("Colonia 1 Mai", "sat"),
 								  ]),							  
