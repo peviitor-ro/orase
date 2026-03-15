@@ -1,7 +1,7 @@
 <?php
 
 if (!function_exists('createLoc')) {
-function createLoc($nume, $tip, $locuri = [], $adresaCompleta = null) {
+function createLoc($nume, $tip, $adresaCompleta = null, $locuri = []) {
     $loc = new stdClass();
     $loc->nume = $nume;
     $loc->tip = $tip;
