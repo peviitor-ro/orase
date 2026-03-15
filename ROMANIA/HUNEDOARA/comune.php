@@ -2,6 +2,7 @@
 $comune =[
 
     createComuna("Baia de Criș", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Baia de Criș", "sat"),
         createLoc("Baldovin", "sat"),
         createLoc("Căraci", "sat"),
@@ -14,6 +15,7 @@ $comune =[
     ]),
     
     createComuna("Balșa", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Balșa", "sat"),
         createLoc("Almașu Mic de Munte", "sat"),
         createLoc("Ardeu", "sat"),
@@ -31,6 +33,7 @@ $comune =[
     ]),
     
     createComuna("Baru", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Baru", "sat"),
         createLoc("Livadia", "sat"),
         createLoc("Petros", "sat"),
@@ -38,6 +41,7 @@ $comune =[
     ]),
     
     createComuna("Băcia", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Băcia", "sat"),
         createLoc("Petreni", "sat"),
         createLoc("Tâmpa", "sat"),
@@ -45,6 +49,7 @@ $comune =[
     ]),
     
     createComuna("Băița", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Băița", "sat"),
         createLoc("Barbura", "sat"),
         createLoc("Căinelu de Sus", "sat"),
@@ -59,12 +64,14 @@ $comune =[
     ]),
     
     createComuna("Bănița", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Bănița", "sat"),
         createLoc("Crivadia", "sat"),
         createLoc("Merișor", "sat")
     ]),
     
     createComuna("Bătrâna", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Bătrâna", "sat"),
         createLoc("Fața Roșie", "sat"),
         createLoc("Piatra", "sat"),
@@ -72,6 +79,7 @@ $comune =[
     ]),
     
     createComuna("Beriu", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Beriu", "sat"),
         createLoc("Căstău", "sat"),
         createLoc("Cucuiș", "sat"),
@@ -83,6 +91,7 @@ $comune =[
     ]),
     
     createComuna("Blăjeni", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Blăjeni", "sat"),
         createLoc("Blăjeni-Vulcan", "sat"),
         createLoc("Criș", "sat"),
@@ -94,6 +103,7 @@ $comune =[
     ]),
     
     createComuna("Boșorod", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Boșorod", "sat"),
         createLoc("Alun", "sat"),
         createLoc("Bobaia", "sat"),
@@ -105,6 +115,7 @@ $comune =[
         createLoc("Târsa", "sat")
     ]),
     createComuna("Brănișca", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Brănișca", "sat"),
         createLoc("Boz", "sat"),
         createLoc("Bărăștii Iliei", "sat"),
@@ -117,6 +128,7 @@ $comune =[
     ]),
     
     createComuna("Bretea Română", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Bretea Română", "sat"),
         createLoc("Bățălar", "sat"),
         createLoc("Bercu", "sat"),
@@ -133,6 +145,7 @@ $comune =[
     ]),
     
     createComuna("Buceș", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Buceș", "sat"),
         createLoc("Buceș-Vulcan", "sat"),
         createLoc("Dupăpiatră", "sat"),
@@ -143,6 +156,7 @@ $comune =[
     ]),
     
     createComuna("Bucureșci", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Bucureșci", "sat"),
         createLoc("Curechiu", "sat"),
         createLoc("Merișor", "sat"),
@@ -151,6 +165,7 @@ $comune =[
     ]),
     
     createComuna("Bulzeștii de Sus", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Bulzeștii de Sus", "sat"),
         createLoc("Bulzeștii de Jos", "sat"),
         createLoc("Giurgești", "sat"),
@@ -163,6 +178,7 @@ $comune =[
     ]),
     
     createComuna("Bunila", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Bunila", "sat"),
         createLoc("Alun", "sat"),
         createLoc("Cernișoara Florese", "sat"),
@@ -171,6 +187,7 @@ $comune =[
     ]),
     
     createComuna("Burjuc", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Burjuc", "sat"),
         createLoc("Brădățel", "sat"),
         createLoc("Glodghilești", "sat"),
@@ -180,6 +197,7 @@ $comune =[
     ]),
     
     createComuna("Cerbăl", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Cerbăl", "sat"),
         createLoc("Arănieș", "sat"),
         createLoc("Feregi", "sat"),
@@ -191,6 +209,7 @@ $comune =[
     ]),
     
     createComuna("Certeju de Sus", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Certeju de Sus", "sat"),
         createLoc("Bocșa Mare", "sat"),
         createLoc("Bocșa Mică", "sat"),
@@ -202,6 +221,7 @@ $comune =[
         createLoc("Vărmaga", "sat")
     ]),
     createComuna("Cârjiți", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Cârjiți", "sat"),
         createLoc("Almașu Sec", "sat"),
         createLoc("Chergheș", "sat"),
@@ -210,6 +230,7 @@ $comune =[
     ]),
     
     createComuna("Crișcior", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Crișcior", "sat"),
         createLoc("Barza", "sat"),
         createLoc("Valea Arsului", "sat"),
@@ -217,6 +238,7 @@ $comune =[
     ]),
     
     createComuna("Densuș", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Densuș", "sat"),
         createLoc("Criva", "sat"),
         createLoc("Hățăgel", "sat"),
@@ -227,6 +249,7 @@ $comune =[
     ]),
     
     createComuna("Dobra", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Dobra", "sat"),
         createLoc("Abucea", "sat"),
         createLoc("Bujoru", "sat"),
@@ -243,6 +266,7 @@ $comune =[
     ]),
     
     createComuna("General Berthelot", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("General Berthelot", "sat"),
         createLoc("Crăguiș", "sat"),
         createLoc("Fărcădin", "sat"),
@@ -251,6 +275,7 @@ $comune =[
     ]),
     
     createComuna("Ghelari", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Ghelari", "sat"),
         createLoc("Govăjdia", "sat"),
         createLoc("Plop", "sat"),
@@ -258,6 +283,7 @@ $comune =[
     ]),
     
     createComuna("Gurasada", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Gurasada", "sat"),
         createLoc("Boiu de Jos", "sat"),
         createLoc("Boiu de Sus", "sat"),
@@ -272,6 +298,7 @@ $comune =[
     ]),
     
     createComuna("Hărău", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Hărău", "sat"),
         createLoc("Banpotoc", "sat"),
         createLoc("Bârsău", "sat"),
@@ -279,6 +306,7 @@ $comune =[
     ]),
     
     createComuna("Ilia", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Ilia", "sat"),
         createLoc("Bacea", "sat"),
         createLoc("Bretea Mureșană", "sat"),
@@ -291,6 +319,7 @@ $comune =[
     ]),
     
     createComuna("Lăpugiu de Jos", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Lăpugiu de Jos", "sat"),
         createLoc("Baștea", "sat"),
         createLoc("Cosești", "sat"),
@@ -303,12 +332,14 @@ $comune =[
         createLoc("Teiu", "sat")
     ]),
     createComuna("Lelese", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Lelese", "sat"),
         createLoc("Cerișor", "sat"),
         createLoc("Runcu Mare", "sat"),
         createLoc("Sohodol", "sat")
     ]),
     createComuna("Lunca Cernii de Jos", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Lunca Cernii de Jos", "sat"),
         createLoc("Ciumița", "sat"),
         createLoc("Fântâna", "sat"),
@@ -320,6 +351,7 @@ $comune =[
     ]),
     
     createComuna("Luncoiu de Jos", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Luncoiu de Jos", "sat"),
         createLoc("Dudești", "sat"),
         createLoc("Luncoiu de Sus", "sat"),
@@ -328,6 +360,7 @@ $comune =[
     ]),
     
     createComuna("Mărtinești", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Mărtinești", "sat"),
         createLoc("Dâncu Mare", "sat"),
         createLoc("Dâncu Mic", "sat"),
@@ -338,6 +371,7 @@ $comune =[
     ]),
     
     createComuna("Orăștioara de Sus", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Orăștioara de Sus", "sat"),
         createLoc("Bucium", "sat"),
         createLoc("Costești", "sat"),
@@ -349,6 +383,7 @@ $comune =[
     ]),
     
     createComuna("Pestișu Mic", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Pestișu Mic", "sat"),
         createLoc("Almașu Mic", "sat"),
         createLoc("Ciulpăz", "sat"),
@@ -361,6 +396,7 @@ $comune =[
     ]),
     
     createComuna("Pui", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Pui", "sat"),
         createLoc("Băiești", "sat"),
         createLoc("Federi", "sat"),
@@ -376,6 +412,7 @@ $comune =[
     ]),
     
     createComuna("Rapoltu Mare", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Rapoltu Mare", "sat"),
         createLoc("Bobâlna", "sat"),
         createLoc("Boiu", "sat"),
@@ -384,6 +421,7 @@ $comune =[
     ]),
     
     createComuna("Răchitova", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Răchitova", "sat"),
         createLoc("Boița", "sat"),
         createLoc("Ciula Mare", "sat"),
@@ -394,6 +432,7 @@ $comune =[
     ]),
     
     createComuna("Ribița", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Ribița", "sat"),
         createLoc("Crișan", "sat"),
         createLoc("Dumbrava de Jos", "sat"),
@@ -403,6 +442,7 @@ $comune =[
     ]),
     
     createComuna("Râu de Mori", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Râu de Mori", "sat"),
         createLoc("Brazi", "sat"),
         createLoc("Clopotiva", "sat"),
@@ -416,6 +456,7 @@ $comune =[
         createLoc("Valea Dâljii", "sat")
     ]),
     createComuna("Romos", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Romos", "sat"),
         createLoc("Ciungu Mare", "sat"),
         createLoc("Pișchinți", "sat"),
@@ -424,6 +465,7 @@ $comune =[
     ]),
     
     createComuna("Sarmizegetusa", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Sarmizegetusa", "sat"),
         createLoc("Breazova", "sat"),
         createLoc("Hobița-Grădiște", "sat"),
@@ -432,6 +474,7 @@ $comune =[
     ]),
     
     createComuna("Sălașu de Sus", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Sălașu de Sus", "sat"),
         createLoc("Coroiești", "sat"),
         createLoc("Mălăiești", "sat"),
@@ -446,6 +489,7 @@ $comune =[
     ]),
     
     createComuna("Sântămăria-Orlea", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Sântămăria-Orlea", "sat"),
         createLoc("Balomir", "sat"),
         createLoc("Bărăștii Hațegului", "sat"),
@@ -458,6 +502,7 @@ $comune =[
     ]),
     
     createComuna("Șoimuș", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Șoimuș", "sat"),
         createLoc("Bălata", "sat"),
         createLoc("Boholt", "sat"),
@@ -471,6 +516,7 @@ $comune =[
     ]),
     
     createComuna("Teliucu Inferior", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Teliucu Inferior", "sat"),
         createLoc("Cinciș-Cerna", "sat"),
         createLoc("Izvoarele", "sat"),
@@ -478,6 +524,7 @@ $comune =[
     ]),
     
     createComuna("Tomești", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Tomești", "sat"),
         createLoc("Dobroț", "sat"),
         createLoc("Leauț", "sat"),
@@ -489,6 +536,7 @@ $comune =[
     ]),
     
     createComuna("Toplița", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Toplița", "sat"),
         createLoc("Curpenii Silvașului", "sat"),
         createLoc("Dealu Mic", "sat"),
@@ -500,6 +548,7 @@ $comune =[
     ]),
     
     createComuna("Totești", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Totești", "sat"),
         createLoc("Cârnești", "sat"),
         createLoc("Copaci", "sat"),
@@ -508,12 +557,14 @@ $comune =[
     ]),
     
     createComuna("Turdaș", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Turdaș", "sat"),
         createLoc("Pricaz", "sat"),
         createLoc("Râpaș", "sat"),
         createLoc("Spini", "sat")
     ]),
     createComuna("Vața de Jos", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Vața de Jos", "sat"),
         createLoc("Basarabasa", "sat"),
         createLoc("Birtin", "sat"),
@@ -530,6 +581,7 @@ $comune =[
     ]),
     
     createComuna("Vălișoara", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Vălișoara", "sat"),
         createLoc("Dealu Mare", "sat"),
         createLoc("Săliștioara", "sat"),
@@ -537,6 +589,7 @@ $comune =[
     ]),
     
     createComuna("Vețel", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Vețel", "sat"),
         createLoc("Boia Bârzii", "sat"),
         createLoc("Bretelin", "sat"),
@@ -550,6 +603,7 @@ $comune =[
     ]),
     
     createComuna("Vorța", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Vorța", "sat"),
         createLoc("Certeju de Jos", "sat"),
         createLoc("Coaja", "sat"),
@@ -560,6 +614,7 @@ $comune =[
     ]),
     
     createComuna("Zam", [
+				createAdresaCompleta("HUNEDOARA"),
         createLoc("Zam", "sat"),
         createLoc("Almaș-Săliște", "sat"),
         createLoc("Almășel", "sat"),
