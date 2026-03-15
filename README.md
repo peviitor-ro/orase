@@ -9,6 +9,7 @@ Un API public care oferă informații despre toate localitățile din România: 
 | Metodă | URL | Descriere |
 |--------|-----|-----------|
 | <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/` | Toate localitățile din România |
+| <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/judete/` | Lista tuturor judetelor din România |
 | <span style="background-color: #28a745; color: white; padding: 2px 8px; border-radius: 4px;">GET</span> | `https://orase.peviitor.ro/ROMANIA/` | Lista completă cu toate judetele |
 
 ### Accesare pe judete
