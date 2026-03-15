@@ -114,7 +114,7 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
 
         $content = file_get_contents($filePath);
         
-        $pattern = '/create(Oras|Municipiu)\("([^"]+)"/i';
+        $pattern = '/create(Oras|Municipiu)\("([^"]+)"/iu';
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[2] as $orasName) {
                 $orasNameNormalized = removeDiacritics(strtolower($orasName));
@@ -133,7 +133,7 @@ foreach ($judeteFolderMap as $folderName => $judetNume) {
     $comunaFilePath = $judetPath . '/comune.php';
     if (file_exists($comunaFilePath)) {
         $content = file_get_contents($comunaFilePath);
-        $pattern = '/createComuna\("([^"]+)"/i';
+        $pattern = '/createComuna\("([^"]+)"/iu';
         if (preg_match_all($pattern, $content, $matches)) {
             foreach ($matches[1] as $comunaName) {
                 $comunaNameNormalized = removeDiacritics(strtolower($comunaName));
