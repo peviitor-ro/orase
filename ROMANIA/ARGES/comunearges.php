@@ -694,7 +694,7 @@ $comune = [
         createLoc("Vernești", "sat", createAdresaCompleta("sat Vernești, comuna Valea Danului, judetul ARGEȘ, România")),
     ], createAdresaCompleta("comuna Valea Danului, judetul ARGEȘ, România")),
     createComuna("Valea Iașului", [
-        createLoc("Valea Iașului", "sat", createAdresaCompleta("sat Valea Iașului, comuna Valea Iașului, judetul ARGEȚ, România")),
+        createLoc("Valea Iașului", "sat", createAdresaCompleta("sat Valea Iașului, comuna Valea Iașului, judetul ARGEȘ, România")),
         createLoc("Bădila", "sat", createAdresaCompleta("sat Bădila, comuna Valea Iașului, judetul ARGEȘ, România")),
         createLoc("Bărbălătești", "sat", createAdresaCompleta("sat Bărbălătești, comuna Valea Iașului, judetul ARGEȘ, România")),
         createLoc("Borovinești", "sat", createAdresaCompleta("sat Borovinești, comuna Valea Iașului, judetul ARGEȘ, România")),
