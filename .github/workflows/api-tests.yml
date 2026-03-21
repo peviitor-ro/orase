@@ -1,0 +1,148 @@
+name: API End-to-End Tests
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  test-api:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        include:
+          - endpoint: "/"
+            name: "All localities"
+          - endpoint: "/judete/"
+            name: "List counties"
+          - endpoint: "/ROMANIA/"
+            name: "List all counties"
+          - endpoint: "/ROMANIA/ALBA/"
+            name: "ALBA county"
+          - endpoint: "/ROMANIA/ARAD/"
+            name: "ARAD county"
+          - endpoint: "/ROMANIA/ARGES/"
+            name: "ARGES county"
+          - endpoint: "/ROMANIA/BACĂU/"
+            name: "BACAU county"
+          - endpoint: "/ROMANIA/BIHOR/"
+            name: "BIHOR county"
+          - endpoint: "/ROMANIA/BISTRIȚA-NĂSĂUD/"
+            name: "BISTRITA-NASAUD county"
+          - endpoint: "/ROMANIA/BOTOȘANI/"
+            name: "BOTOSANI county"
+          - endpoint: "/ROMANIA/BRĂILA/"
+            name: "BRAILA county"
+          - endpoint: "/ROMANIA/BRASOV/"
+            name: "BRASOV county"
+          - endpoint: "/ROMANIA/BUZĂU/"
+            name: "BUZAU county"
+          - endpoint: "/ROMANIA/CĂLĂRAȘI/"
+            name: "CALARASI county"
+          - endpoint: "/ROMANIA/CARAȘ-SEVERIN/"
+            name: "CARAS-SEVERIN county"
+          - endpoint: "/ROMANIA/CLUJ/"
+            name: "CLUJ county"
+          - endpoint: "/ROMANIA/CONSTANȚA/"
+            name: "CONSTANTA county"
+          - endpoint: "/ROMANIA/COVASNA/"
+            name: "COVASNA county"
+          - endpoint: "/ROMANIA/DÂMBOVIȚA/"
+            name: "DAMBOVITA county"
+          - endpoint: "/ROMANIA/DOLJ/"
+            name: "DOLJ county"
+          - endpoint: "/ROMANIA/GALAȚI/"
+            name: "GALATI county"
+          - endpoint: "/ROMANIA/GIURGIU/"
+            name: "GIURGIU county"
+          - endpoint: "/ROMANIA/GORJ/"
+            name: "GORJ county"
+          - endpoint: "/ROMANIA/HARGHITA/"
+            name: "HARGHITA county"
+          - endpoint: "/ROMANIA/HUNEDOARA/"
+            name: "HUNEDOARA county"
+          - endpoint: "/ROMANIA/IALOMIȚA/"
+            name: "IALOMITA county"
+          - endpoint: "/ROMANIA/IAȘI/"
+            name: "IASI county"
+          - endpoint: "/ROMANIA/ILFOV/"
+            name: "ILFOV county"
+          - endpoint: "/ROMANIA/MARAMUREȘ/"
+            name: "MARAMURES county"
+          - endpoint: "/ROMANIA/MEHEDINȚI/"
+            name: "MEHEDINTI county"
+          - endpoint: "/ROMANIA/MUREȘ/"
+            name: "MURES county"
+          - endpoint: "/ROMANIA/NEAMȚ/"
+            name: "NEAMT county"
+          - endpoint: "/ROMANIA/OLT/"
+            name: "OLT county"
+          - endpoint: "/ROMANIA/PRAHOVA/"
+            name: "PRAHOVA county"
+          - endpoint: "/ROMANIA/SĂLAJ/"
+            name: "SALAJ county"
+          - endpoint: "/ROMANIA/SĂTMĂRE/"
+            name: "SATUMARE county"
+          - endpoint: "/ROMANIA/SIBIU/"
+            name: "SIBIU county"
+          - endpoint: "/ROMANIA/SUCEAVA/"
+            name: "SUCEAVA county"
+          - endpoint: "/ROMANIA/TELEORMAN/"
+            name: "TELEORMAN county"
+          - endpoint: "/ROMANIA/TIMIȘ/"
+            name: "TIMIS county"
+          - endpoint: "/ROMANIA/TULCEA/"
+            name: "TULCEA county"
+          - endpoint: "/ROMANIA/VÂLCEA/"
+            name: "VALCEA county"
+          - endpoint: "/ROMANIA/VASLUI/"
+            name: "VASLUI county"
+          - endpoint: "/ROMANIA/VRANCEA/"
+            name: "VRANCEA county"
+          - endpoint: "/ROMANIA/BUCUREȘTI/"
+            name: "BUCURESTI county"
+
+    steps:
+      - name: Test endpoint ${{ matrix.endpoint }}
+        run: |
+          URL="https://orase.peviitor.ro${{ matrix.endpoint }}"
+          echo "Testing: $URL"
+          
+          # Get response
+          RESPONSE=$(curl -s -w "\n%{http_code}" "$URL")
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+          
+          # Check HTTP status
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "❌ FAILED: HTTP $HTTP_CODE"
+            echo "Response: $BODY"
+            exit 1
+          fi
+          echo "✓ HTTP 200 OK"
+          
+          # Check for PHP errors
+          if echo "$BODY" | grep -qi "php error\|parse error\|fatal error\|warning"; then
+            echo "❌ FAILED: PHP error detected"
+            echo "$BODY"
+            exit 1
+          fi
+          echo "✓ No PHP errors"
+          
+          # Validate JSON
+          if ! echo "$BODY" | jq . > /dev/null 2>&1; then
+            echo "❌ FAILED: Invalid JSON response"
+            echo "$BODY"
+            exit 1
+          fi
+          echo "✓ Valid JSON"
+          
+          # Check response is not empty
+          if [ -z "$BODY" ] || [ "$BODY" = "[]" ] || [ "$BODY" = "{}" ]; then
+            echo "❌ FAILED: Empty response"
+            exit 1
+          fi
+          echo "✓ Response not empty"
+          
+          echo "✅ PASSED: ${{ matrix.name }}"
