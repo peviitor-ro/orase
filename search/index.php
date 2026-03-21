@@ -183,6 +183,39 @@ foreach ($judeteFolderMap as $folderName) {
         }
     }
 
+    // Search for sate in orase.php and municipii.php (sate in nested orase)
+    $satFiles = ['orase.php', 'municipii.php'];
+    foreach ($satFiles as $satFile) {
+        $satFilePath = $judetPath . '/' . $satFile;
+        if (!file_exists($satFilePath)) continue;
+        
+        $satContent = file_get_contents($satFilePath);
+        
+        // Find all createLoc calls with adresaCompleta
+        $pattern = '/createLoc\(\s*"([^"]+)"\s*,\s*"sat"\s*,\s*createAdresaCompleta\(\s*"([^"]+)"\s*,\s*"([^"]+)"\s*\)/iu';
+        if (preg_match_all($pattern, $satContent, $matches, PREG_SET_ORDER)) {
+            foreach ($matches as $match) {
+                $satName = $match[1];
+                $satNameUpper = strtoupper($satName);
+                $satNameNoDiac = strtoupper(removeDiacritics($satName));
+                
+                if ($satNameUpper === $queryUpper || $satNameNoDiac === $queryUpper) {
+                    $resultData = [
+                        'nume' => $satName,
+                        'tip' => 'sat',
+                        'judet' => $judetData,
+                        'adresaCompleta' => [$match[2], $match[3]]
+                    ];
+                    
+                    $results[] = [
+                        'type' => 'sat',
+                        'data' => $resultData
+                    ];
+                }
+            }
+        }
+    }
+
     // Search in comune.php - look for location names in adresaCompleta
     $comunaFilePath = $judetPath . '/comune.php';
     if (file_exists($comunaFilePath)) {
