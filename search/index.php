@@ -63,7 +63,7 @@ $judeteMap = [
     'BUCURESTI' => ["nume" => "Bucuresti", "numeDiacritice" => "București", "cod" => "B"]
 ];
 
-$queryUpper = strtoupper($query);
+$queryUpper = strtoupper(removeDiacritics($query));
 
 // Search for judete first - exact match only
 $judeteResults = [];
