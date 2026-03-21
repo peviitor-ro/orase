@@ -2,21 +2,21 @@
 $municipii =
 [
 		createMunicipiu("BRAȘOV", [
-                    createAdresaCompleta("BRASOV", "BRASOV"),
-                    createLoc("BRAȘOV", "oras"),
-                ]),	
+            createAdresaCompleta("municipiul BRAȘOV, judetul BRASOV, România", "municipiul BRASOV, judetul BRASOV, Romania"),
+            createLoc("BRAȘOV", "oras"),
+        ]),	
 		createMunicipiu("CODLEA", [
-                    createAdresaCompleta("BRASOV", "BRASOV"),
-                    createLoc("CODLEA", "oras"),
-                ]),
+            createAdresaCompleta("municipiul CODLEA, judetul BRASOV, România", "municipiul CODLEA, judetul BRASOV, Romania"),
+            createLoc("CODLEA", "oras"),
+        ]),
 		createMunicipiu("FĂGĂRAȘ", [
-                    createAdresaCompleta("BRASOV", "BRASOV"),
-                    createLoc("FĂGĂRAȘ", "oras"),
-                ]),	
+            createAdresaCompleta("municipiul FĂGĂRAȘ, judetul BRASOV, România", "municipiul FAGARAS, judetul BRASOV, Romania"),
+            createLoc("FĂGĂRAȘ", "oras"),
+        ]),	
 		createMunicipiu("SĂCELE", [
-                    createAdresaCompleta("BRASOV", "BRASOV"),
-                    createLoc("SĂCELE", "oras"),
-                ]),			
+            createAdresaCompleta("municipiul SĂCELE, judetul BRASOV, România", "municipiul SACELE, judetul BRASOV, Romania"),
+            createLoc("SĂCELE", "oras"),
+        ]),			
 			
 ];
 ?>
