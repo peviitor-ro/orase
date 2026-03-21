@@ -31,24 +31,33 @@ function createLoc($nume, $tip, $locuri = []) {
 }
 
 
-function createComuna($nume, $locuri = []) {
+function createComuna($nume, $locuri = [], $adresaCompleta = null) {
     $comuna = new stdClass();
     $comuna->nume = $nume;
     $comuna->loc = $locuri;
+    if ($adresaCompleta !== null) {
+        $comuna->adresaCompleta = $adresaCompleta;
+    }
     return $comuna;
 }
 
-function createOras($nume, $locuri = []) {
+function createOras($nume, $locuri = [], $adresaCompleta = null) {
     $oras = new stdClass();
     $oras->nume = $nume;
     $oras->loc = $locuri;
+    if ($adresaCompleta !== null) {
+        $oras->adresaCompleta = $adresaCompleta;
+    }
     return $oras;
 }
 
-function createMunicipiu($nume, $locuri = []) {
+function createMunicipiu($nume, $locuri = [], $adresaCompleta = null) {
     $municipiu = new stdClass();
     $municipiu->nume = $nume;
     $municipiu->loc = $locuri;
+    if ($adresaCompleta !== null) {
+        $municipiu->adresaCompleta = $adresaCompleta;
+    }
     return $municipiu;
 }
 
