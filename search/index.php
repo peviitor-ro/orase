@@ -216,6 +216,36 @@ foreach ($judeteFolderMap as $folderName) {
         }
     }
 
+    // Search for nested orase in municipii.php (createLoc with "oras" inside createMunicipiu)
+    $municipiiFilePath = $judetPath . '/municipii.php';
+    if (file_exists($municipiiFilePath)) {
+        $municipiiContent = file_get_contents($municipiiFilePath);
+        
+        // Find createLoc with "oras" and adresaCompleta
+        $pattern = '/createLoc\(\s*"([^"]+)"\s*,\s*"oras"\s*,\s*createAdresaCompleta\(\s*"([^"]+)"\s*,\s*"([^"]+)"\s*\)/iu';
+        if (preg_match_all($pattern, $municipiiContent, $matches, PREG_SET_ORDER)) {
+            foreach ($matches as $match) {
+                $orasName = $match[1];
+                $orasNameUpper = strtoupper($orasName);
+                $orasNameNoDiac = strtoupper(removeDiacritics($orasName));
+                
+                if ($orasNameUpper === $queryUpper || $orasNameNoDiac === $queryUpper) {
+                    $resultData = [
+                        'nume' => $orasName,
+                        'tip' => 'oras',
+                        'judet' => $judetData,
+                        'adresaCompleta' => [$match[2], $match[3]]
+                    ];
+                    
+                    $results[] = [
+                        'type' => 'oras',
+                        'data' => $resultData
+                    ];
+                }
+            }
+        }
+    }
+
     // Search in comune.php - look for location names in adresaCompleta
     $comunaFilePath = $judetPath . '/comune.php';
     if (file_exists($comunaFilePath)) {
