@@ -12,6 +12,56 @@ if (empty($query)) {
     exit;
 }
 
+function extractAdresaCompleta($filePath, $localityName, $type = 'sat') {
+    if (!file_exists($filePath)) return null;
+    
+    $content = file_get_contents($filePath);
+    $localityNameEscaped = preg_quote($localityName, '/');
+    
+    // Pattern for createLoc with adresaCompleta
+    $pattern = '/createLoc\(\s*"' . $localityNameEscaped . '"\s*,\s*"[^"]*"\s*,\s*createAdresaCompleta\(\s*"([^"]+)"\s*,\s*"([^"]+)"\s*\)/iu';
+    
+    if (preg_match($pattern, $content, $matches)) {
+        return [$matches[1], $matches[2]];
+    }
+    
+    // Pattern for createOras/createMunicipiu with adresaCompleta
+    $pattern2 = '/create(Oras|Municipiu)\(\s*"' . $localityNameEscaped . '"\s*,\s*\[[^\]]*\]\s*,\s*createAdresaCompleta\(\s*"([^"]+)"\s*,\s*"([^"]+)"\s*\)/iu';
+    if (preg_match($pattern2, $content, $matches)) {
+        return [$matches[2], $matches[3]];
+    }
+    
+    // Pattern for nested oras in municipiu
+    $pattern3 = '/createLoc\(\s*"' . $localityNameEscaped . '"\s*,\s*"oras"\s*,\s*\[.*?\]\s*,\s*createAdresaCompleta\(\s*"([^"]+)"\s*,\s*"([^"]+)"\s*\)/ius';
+    if (preg_match($pattern3, $content, $matches)) {
+        return [$matches[1], $matches[2]];
+    }
+    
+    // Pattern for oras directly with adresaCompleta
+    $pattern4 = '/createLoc\(\s*"' . $localityNameEscaped . '"\s*,\s*"oras"\s*,\s*createAdresaCompleta\(\s*"([^"]+)"\s*,\s*"([^"]+)"\s*\)/iu';
+    if (preg_match($pattern4, $content, $matches)) {
+        return [$matches[1], $matches[2]];
+    }
+    
+    return null;
+}
+
+function extractAdresaCompletaFromComuna($filePath, $comunaName) {
+    if (!file_exists($filePath)) return null;
+    
+    $content = file_get_contents($filePath);
+    $comunaNameEscaped = preg_quote($comunaName, '/');
+    
+    // Find createComuna block and extract adresaCompleta
+    $pattern = '/createComuna\(\s*"' . $comunaNameEscaped . '"\s*,\s*\[[^\]]*\]\s*,\s*createAdresaCompleta\(\s*"([^"]+)"\s*,\s*"([^"]+)"\s*\)/iu';
+    
+    if (preg_match($pattern, $content, $matches)) {
+        return [$matches[1], $matches[2]];
+    }
+    
+    return null;
+}
+
 // Normalize judet filter if provided
 $judetFilterUpper = null;
 if ($judetFilter !== null) {
@@ -112,13 +162,21 @@ foreach ($judeteFolderMap as $folderName) {
                 
                 if ($orasNameUpper === $queryUpper || $orasNameNoDiac === $queryUpper) {
                     $tip = (strpos($file, 'municipii') !== false) ? 'municipiu' : 'oras';
+                    $resultData = [
+                        'nume' => $orasName,
+                        'tip' => $tip,
+                        'judet' => $judetData
+                    ];
+                    
+                    // Try to get adresaCompleta
+                    $adrCompleta = extractAdresaCompleta($filePath, $orasName, $tip);
+                    if ($adrCompleta) {
+                        $resultData['adresaCompleta'] = $adrCompleta;
+                    }
+                    
                     $results[] = [
                         'type' => $tip,
-                        'data' => [
-                            'nume' => $orasName,
-                            'tip' => $tip,
-                            'judet' => $judetData
-                        ]
+                        'data' => $resultData
                     ];
                 }
             }
@@ -138,13 +196,21 @@ foreach ($judeteFolderMap as $folderName) {
                 $satNameNoDiac = strtoupper(removeDiacritics($satName));
                 
                 if ($satNameUpper === $queryUpper || $satNameNoDiac === $queryUpper) {
+                    $resultData = [
+                        'nume' => $satName,
+                        'tip' => 'sat',
+                        'judet' => $judetData
+                    ];
+                    
+                    // Get adresaCompleta for sat
+                    $adrCompleta = extractAdresaCompleta($comunaFilePath, $satName, 'sat');
+                    if ($adrCompleta) {
+                        $resultData['adresaCompleta'] = $adrCompleta;
+                    }
+                    
                     $results[] = [
                         'type' => 'sat',
-                        'data' => [
-                            'nume' => $satName,
-                            'tip' => 'sat',
-                            'judet' => $judetData
-                        ]
+                        'data' => $resultData
                     ];
                 }
             }
@@ -158,13 +224,21 @@ foreach ($judeteFolderMap as $folderName) {
                 $comunaNameNoDiac = strtoupper(removeDiacritics($comunaName));
                 
                 if ($comunaNameUpper === $queryUpper || $comunaNameNoDiac === $queryUpper) {
+                    $resultData = [
+                        'nume' => $comunaName,
+                        'tip' => 'comuna',
+                        'judet' => $judetData
+                    ];
+                    
+                    // Get adresaCompleta for comună - extract from the createComuna block
+                    $adrCompleta = extractAdresaCompletaFromComuna($comunaFilePath, $comunaName);
+                    if ($adrCompleta) {
+                        $resultData['adresaCompleta'] = $adrCompleta;
+                    }
+                    
                     $results[] = [
                         'type' => 'comuna',
-                        'data' => [
-                            'nume' => $comunaName,
-                            'tip' => 'comuna',
-                            'judet' => $judetData
-                        ]
+                        'data' => $resultData
                     ];
                 }
             }
