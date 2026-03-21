@@ -256,3 +256,45 @@ jobs:
           echo "✓ Response not empty"
           
           echo "✅ PASSED: BISTRITA-NASAUD county"
+
+  test-botosani:
+    runs-on: ubuntu-latest
+    needs: test-bistrita-nasaud
+    steps:
+      - name: Test endpoint /ROMANIA/BOTOSANI/
+        run: |
+          URL="https://orase.peviitor.ro/ROMANIA/BOTOSANI/"
+          echo "Testing: $URL"
+          
+          RESPONSE=$(curl -s -w "\n%{http_code}" "$URL")
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+          
+          if [ "$HTTP_CODE" != "200" ]; then
+            echo "❌ FAILED: HTTP $HTTP_CODE"
+            echo "Response: $BODY"
+            exit 1
+          fi
+          echo "✓ HTTP 200 OK"
+          
+          if echo "$BODY" | grep -qi "php error\|parse error\|fatal error\|warning"; then
+            echo "❌ FAILED: PHP error detected"
+            echo "$BODY"
+            exit 1
+          fi
+          echo "✓ No PHP errors"
+          
+          if ! echo "$BODY" | jq . > /dev/null 2>&1; then
+            echo "❌ FAILED: Invalid JSON response"
+            echo "$BODY"
+            exit 1
+          fi
+          echo "✓ Valid JSON"
+          
+          if [ -z "$BODY" ] || [ "$BODY" = "[]" ] || [ "$BODY" = "{}" ]; then
+            echo "❌ FAILED: Empty response"
+            exit 1
+          fi
+          echo "✓ Response not empty"
+          
+          echo "✅ PASSED: BOTOSANI county"
