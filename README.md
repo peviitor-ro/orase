@@ -1,5 +1,7 @@
 # API Localități din România
 
+[![E2E Tests](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/api-tests.yml?branch=main&label=E2E%20Tests)](https://github.com/peviitor-ro/orase/actions/workflows/api-tests.yml)
+
 Un API public care oferă informații despre toate localitățile din România: comune, municipii, orașe și sate.
 
 ## 🌐 Endpoint-uri
