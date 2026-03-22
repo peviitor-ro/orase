@@ -98,14 +98,16 @@ class AlbaTestRunner
         
         $sateFile = $basePath . '/sate.txt';
         if (file_exists($sateFile)) {
-            $lines = file($sateFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+            $lines = file($sateFile, FILE_IGNORE_NEW_LINES);
             $currentComuna = null;
             foreach ($lines as $line) {
                 $line = trim($line);
                 if (empty($line)) {
+                    $currentComuna = null;
                     continue;
                 }
-                if (ctype_upper(substr($this->removeDiacritics($line), 0, 2)) && strlen($line) <= 30) {
+                $noDiac = $this->removeDiacritics($line);
+                if ($noDiac === mb_strtoupper($line) && strlen($line) <= 30 && substr_count($line, ' ') <= 2) {
                     $currentComuna = $line;
                     if (!isset($this->testData['sate'][$currentComuna])) {
                         $this->testData['sate'][$currentComuna] = [];
