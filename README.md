@@ -6,6 +6,7 @@
 [![ARGES](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/arges-tests.yml?branch=main&label=ARGES)](https://github.com/peviitor-ro/orase/actions/workflows/arges-tests.yml)
 [![BACAU](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/bacau-tests.yml?branch=main&label=BACAU)](https://github.com/peviitor-ro/orase/actions/workflows/bacau-tests.yml)
 [![BIHOR](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/bihor-tests.yml?branch=main&label=BIHOR)](https://github.com/peviitor-ro/orase/actions/workflows/bihor-tests.yml)
+[![BISTRITA-NASAUD](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/bistrita-nasaud-tests.yml?branch=main&label=BISTRITA-NASAUD)](https://github.com/peviitor-ro/orase/actions/workflows/bistrita-nasaud-tests.yml)
 
 Un API public care oferă informații despre toate localitățile din România: comune, municipii, orașe și sate.
 

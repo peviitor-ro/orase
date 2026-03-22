@@ -1,0 +1,366 @@
+BISTRIȚA BÂRGĂULUI
+Bistrița Bârgăului
+Colibița
+
+BRANIȘTEA
+Braniștea
+Cireșoaia
+Măluț
+
+BUDACU DE JOS
+Budacu de Jos
+Buduș
+Jelna
+Monariu
+Simionești
+
+BUDEȘTI
+Budești
+Budești-Fânațe
+Țagu
+Țăgșoru
+
+CĂIANU MIC
+Căianu Mic
+Căianu Mare
+Ciceu-Poieni
+Dobric
+
+CETATE
+Cetate
+Satu Nou
+Orheiu Bistriței
+Petriș
+
+CHIOCHIȘ
+Chiochiș
+Apatiu
+Bozieș
+Buza Cătun
+Chețiu
+Jimbor
+Manic
+Sânnicoară
+Strugureni
+Țentea
+
+CHIUZA
+Chiuza
+Mireș
+Piatra
+Săsarm
+
+CICEU-GIURGEȘTI
+Ciceu-Giurgești
+Dumbrăveni
+
+CICEU-MIHĂIEȘTI
+Ciceu-Mihăiești
+Ciceu-Corabia
+Lelești
+
+COȘBUC
+Coșbuc
+
+DUMITRA
+Dumitra
+Cepari
+Tărpiu
+
+DUMITRIȚA
+Dumitrița
+Budacu de Sus
+Ragla
+
+FELDRU
+Feldru
+Nepos
+
+GALAȚII BISTRIȚEI
+Galații Bistriței
+Albeștii Bistriței
+Dipșa
+Herina
+Tonciu
+
+ILVA MARE
+Ilva Mare
+Ivăneasa
+
+ILVA MICĂ
+Ilva Mică
+
+JOSENII BÂRGĂULUI
+Josenii Bârgăului
+Mijlocenii Bârgăului
+Rusu Bârgăului
+Strâmba
+
+LECHINȚA
+Lechința
+Bungard
+Chiraleș
+Sângeorzu Nou
+Sâniacob
+Țigău
+Vermeș
+
+LEȘU
+Leșu
+Lunca Leșului
+
+LIVEZILE
+Livezile
+Cușma
+Dorolea
+Dumbrava
+Valea Poenii
+
+LUNCA ILVEI
+Lunca Ilvei
+
+MAIERU
+Maieru
+Anieș
+
+MATEI
+Matei
+Bidi
+Corvinești
+Enciu
+Fântânele
+Moruț
+
+MĂGURA ILVEI
+Măgura Ilvei
+Arșița
+
+MĂRIȘELU
+Mărișelu
+Bârla
+Domnești
+Jeica
+Măgurele
+Nețeni
+Sântioana
+
+MICEȘTII DE CÂMPIE
+Miceștii de Câmpie
+Fântânița
+Visuia
+
+MILAȘ
+Milaș
+Comlod
+După Deal
+Ghemeș
+Hirean
+Orosfaia
+
+MONOR
+Monor
+Gledin
+
+NEGRILESTI
+Negrilești
+Breaza
+Purcărete
+
+NIMIGEA
+Nimigea
+Nimigea de Jos
+Florești
+Mintiu
+Mititei
+Mocod
+Mogoșeni
+Nimigea de Sus
+Tăure
+
+NUȘENI
+Nușeni
+Beudiu
+Dumbrava
+Feleac
+Malin
+Rusu de Sus
+Vița
+
+PARVA
+Parva
+
+PETRU RAREȘ
+Petru Rareș
+Reteag
+Bața
+
+POIANA ILVEI
+Poiana Ilvei
+
+PRUNDU BÂRGĂULUI
+Prundu Bârgăului
+Susenii Bârgăului
+
+REBRA
+Rebra
+
+REBRIȘOARA
+Rebrișoara
+Gersa I
+Gersa II
+Poderei
+
+RODNA
+Rodna
+Valea Vinului
+
+ROMULI
+Romuli
+Dealu Ștefăniței
+
+SUNCU SALVEI
+Runcu Salvei
+
+SALVA
+Salva
+
+SILIVAȘU DE CÂMPIE
+Silivașu de Câmpie
+Draga
+Fânațele Silivașului
+Porumbenii
+
+SÂNMIHAIU DE CÂMPIE
+Sânmihaiu de Câmpie
+Brăteni
+La Curte
+Sălcuța
+Stupini
+Zoreni
+
+SPERMEZEU
+Spermezeu
+Dobricel
+Dumbrăvița
+Hălmăsău
+Lunca Borlesei
+Păltineasa
+Sita
+Șesuri Spermezeu-Vale
+
+ȘANȚ
+Șanț
+Valea Mare
+
+ȘIEU
+Șieu
+Ardan
+Posmuș
+Șoimuș
+
+ȘIEU-MĂGHERUȘ
+Șieu-Măgheruș
+Aralia
+Chintelnic
+Crainimăt
+Podirei
+Sărățel
+Valea Măgherușului
+
+ȘIEU-ODORHEI
+Șieu-Odorhei
+Agrișu de Jos
+Agrișu de Sus
+Bretea
+Coasta
+Cristur-Șieu
+Șirioara
+
+ȘIEUT
+Șieuț
+Lunca
+Ruștior
+Sebiș
+
+ȘINTEREAG
+Șintereag
+Blăjenii de Jos
+Blăjenii de Sus
+Caila
+Cociu
+Șieu-Sfântu
+Șintereag-Gară
+
+TEACA
+Teaca
+Archiud
+Budurleni
+Ocnița
+Pinticu
+Viile Tecii
+
+TELCIU
+Telciu
+Bichigiu
+Fiad
+Telcișor
+
+TIHA BÂRGĂULUI
+Tiha Bârgăului
+Ciosa
+Mureșenii Bârgăului
+Piatra Fântânele
+Tureac
+
+TÂRLIȘUA
+Târlișua
+Agrieș
+Agrieșel
+Borleasa
+Cireași
+Lunca Sătească
+Molișet
+Oarzina
+Răcăteșu
+Șendroaia
+
+URIU
+Uriu
+Cristeștii Ciceului
+Hășmașu Ciceului
+Ilișua
+
+URMENIȘ
+Urmeniș
+Câmp
+Coșeriu
+Delureni
+Fânațe
+Podenii
+Scoabe
+Șopteriu
+Valea
+Valea Mare
+
+ZAGRA
+Zagra
+Alunișul
+Perișor
+Poienile Zagrei
+Suplai
+
+SATE COMPONENTE ALE MUNICIPIILOR SI ORASELOR
+
+Municipiul BISTRIȚA:
+Bistrița
+Bistrița Bârgăului
+Colibița
+
+Orasul NĂSĂUD:
+Năsăud
+
+Orasul BECLEAN:
+Beclean
+
+Orasul SÂNGEORZ-BĂI:
+Sângeorz-Băi
