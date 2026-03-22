@@ -1,0 +1,868 @@
+ALBAC
+Bărăști
+Budăiești
+Cionești
+Costești
+Dealu Lămășoi
+Deve
+După Pleșe
+Fața
+Pleșești
+Potionci
+Rogoz
+Roșești
+Rusești
+Sohodol
+Tamborești
+
+ALMAȘU MARE
+Almașu Mare
+Almașu de Mijloc
+Brădet
+Cheile Cibului
+Cib
+Glod
+Nădăștia
+
+ARIEȘENI
+Arieșeni
+Avrămești
+Bubești
+Casa de Piatră
+Cobleș
+Dealu Bajului
+Fața Cristesei
+Fața Lăpușului
+Galbena
+Hodobana
+Izlaz
+Pântești
+Pătrăhăițești
+Poienița
+Ravicești
+Sturu
+Ștei-Arieșeni
+Vanvucești
+
+AVRAM IANCU
+Avram Iancu
+Achimețești
+Avrămești
+Bădăi
+Boldești
+Călugărești
+Căsoaia
+Cândești
+Cârăști
+Cârțulești
+Cocești
+Cocoșești
+Coroiești
+Dealu Crișului
+Dolești
+Dumăcești
+Gojeiești
+Helerești
+Incești
+Jojei
+Mârtești
+Orgești
+Pătruțești
+Plai
+Pușelești
+Șoicești
+Ștertești
+Târsa
+Târsa-Plai
+Valea Maciului
+Valea Uțului
+Verdești
+Vidrișoara
+
+BERGHIN
+Berghin
+Ghirbom
+Henig
+Straja
+
+BISTRA
+Bistra
+Aronești
+Bălești
+Bălești-Cătun
+Bârlești
+Cheleteni
+Ciuldești
+Crețești
+Dâmbureni
+Dealu Muntelui
+Durăști
+Gănești
+Gârde
+Hodișești
+Hudricești
+Lipaia
+Lunca Largă
+Lunca Merilor
+Mihăiești
+Nămaș
+Novăcești
+Perjești
+Poiana
+Poiu
+Rătitiș
+Runcuri
+Sălăgești
+Ștefanca
+Tolăcești
+Tomnatec
+Trișorești
+Țărănești
+Vârși-Rontu
+Vârșii Mari
+Vârșii Mici
+
+BLANDIANA
+Blandiana
+Acmariu
+Ibru
+Poieni
+Răcătău
+
+BUCERDEA GRÂNOASĂ
+Bucerdea Grânoasă
+Cornu
+Pădure
+Pânca
+
+BUCIUM
+Bucium
+Anghelești
+Bisericani
+Bucium-Sat
+Cerbu
+Ciuculești
+Coleșeni
+Dogărești
+Ferești
+Florești
+Gura Izbitei
+Helești
+Izbicioara
+Izbita
+Jurcuiești
+Lupulești
+Măgura
+Muntari
+Petreni
+Poiana
+Poieni
+Stâlnișoara
+Valea Abruzel
+Valea Albă
+Valea Cerbului
+Valea Negrilesii
+Valea Poienii
+Valea Șesii
+Văleni
+Vâlcea
+
+CÂLNIC
+Câlnic
+Deal
+
+CENADE
+Cenade
+Capu Dealului
+Gorgan
+
+CERGĂU
+Cergău Mare
+Cergău Mic
+Lupu
+
+CERU-BĂCĂINȚI
+Ceru-Băcăinți
+Bolovănești
+Bulbuc
+Cucuta
+Curpeni
+Dumbrăvița
+Fântânele
+Groși
+Valea Mare
+Viezuri
+
+CETATEA DE BALTĂ
+Cetatea de Baltă
+Crăciunelu de Sus
+Sântămărie
+Tâtârlaua
+
+CIUGUD
+Ciugud
+Drâmbar
+Hăpria
+Limba
+Șeușa
+Teleac
+
+CIURULEASA
+Ciuruleasa
+Bidigești
+Bodont
+Boglești
+Buninginea
+Gheorghești
+Mătișești
+Morărești
+Vulcan
+
+CRĂCIUNELU DE JOS
+Crăciunelu de Jos
+
+CRICĂU
+Cricău
+Craiva
+Tibru
+
+CUT
+Cut
+
+DAIA ROMÂNĂ
+Daia Română
+
+DOȘTAT
+Doștat
+Boz
+Dealul Doștatului
+
+FĂRĂU
+Fărău
+Heria
+Medveș
+Sânbenedic
+Șilea
+
+GALDA DE JOS
+Galda de Jos
+Benic
+Cetea
+Galda de Sus
+Lupșeni
+Măgura
+Mesentea
+Oiejdea
+Poiana Galdei
+Răicani
+Zăgriș
+
+GÂRBOVA
+Gârbova
+Cărpiniș
+Reciu
+
+GÂRDA DE SUS
+Gârda de Sus
+Biharia
+Dealu Frumos
+Dealu Ordâncușii
+Dobrești
+Gârda Seacă
+Ghețari
+Hanășești
+Huzărești
+Izvoarele
+Munună
+Ocoale
+Plai
+Pliști
+Scoarța
+Snide
+Sucești
+
+HOPÂRTA
+Hopârta
+Silivaș
+Șpălnaca
+Turdaș
+Vama Seacă
+
+HOREA
+Horea
+Baba
+Butești
+Dârlești
+Fericet
+Giurgiuț
+Mâncești
+Mătișești
+Niculești
+Pătrușești
+Petreasa
+Preluca
+Teiu
+Trifești
+Zânzești
+
+IGHIU
+Ighiu
+Bucerdea Vânoasă
+Ighiel
+Șard
+Țelna
+
+ÎNTREGALDE
+Întregalde
+Dealu Geoagiului
+Ghioncani
+Iliești
+Ivăniș
+Mărinești
+Modolești
+Necrilești
+Popești
+Sfârcea
+Tecșești
+
+JIDVEI
+Jidvei
+Bălcaciu
+Căpâlna de Jos
+Feisa
+Veseuș
+
+LIVEZILE
+Livezile
+Izvoarele
+Poiana Aiudului
+Vălișoara
+
+LOPADEA NOUĂ
+Lopadea Nouă
+Asinip
+Băgău
+Beța
+Cicârd
+Ciuguzel
+Ocnișoara
+Odverem
+
+LUNCA MUREȘULUI
+Lunca Mureșului
+Gura Arieșului
+
+LUPȘA
+Lupșa
+Bârdești
+Bârzan
+Curmătură
+După Deal
+Geamăna
+Hădărău
+Holobani
+Lazuri
+Lunca
+Mănăstire
+Mărgaia
+Mușca
+Pârâu-Cărbunări
+Pițiga
+Poșogani
+Șasa
+Trifești
+Valea Holhorii
+Valea Lupșii
+Valea Șesii
+Văi
+Vința
+
+METEȘ
+Meteș
+Ampoița
+Isca
+Lunca Ampoiței
+Lunca Meteșului
+Pădurea
+Poiana Ampoiului
+Poiana Ursului
+Presaca Ampoiului
+Remetea
+Tăuți
+Văleni
+
+MIHALȚ
+Mihalț
+Cistei
+Obreja
+Zărieș
+
+MIRĂSLĂU
+Mirăslău
+Cicău
+Decea
+Lopadea Veche
+Ormeniș
+Rachiș
+
+MOGOȘ
+Mogoș
+Bărbești
+Bârlești
+Bârlești-Cătun
+Bârzogani
+Bocești
+Bogdănești
+Butești
+Cojocani
+Cristești
+Mămăligani
+Negrești
+Oncești
+Poienile Mogoș
+Tomești
+Valea Barnii
+Valea Bârluțești
+Valea Cocești
+Valea Giogești
+Valea Mlacii
+Valea Țupilor
+
+NOȘLAC
+Noșlac
+Căptălan
+Copand
+Găbud
+Stâna de Mureș
+Valea Ciuciului
+
+OCOLIȘ
+Ocoliș
+Lunca Largă
+Runc
+Vidolm
+
+OHABA
+Ohaba
+Colibi
+Măghierat
+Secășel
+
+PIANU
+Pianu de Sus
+Pianu de Jos
+Plaiuri
+Purcăreți
+Strungari
+
+POIANA VADULUI
+Poiana Vadului
+Costești
+Duduieni
+Făgetu de Jos
+Făgetu de Sus
+Hănășești
+Lupăiești
+Morcănești
+Păștești
+Petelei
+Stănești
+
+PONOR
+Ponor
+După Deal
+Geogel
+Măcărești
+Vale în Jos
+Valea Bucurului
+
+POȘAGA
+Poșaga de Jos
+Corțești
+Incești
+Lunca
+Orăști
+Poșaga de Sus
+Sagagea
+
+RĂDEȘTI
+Rădești
+Leorinț
+Meșcreac
+Șoimuș
+
+RÂMETA
+Râmetea
+Colțești
+
+RÂMEȚ
+Râmeț
+Boțani
+Brădești
+Cheia
+Cotorăști
+Florești
+Olteni
+Valea Făgetului
+Valea Inzelului
+Valea Mănăstirii
+Valea Poienii
+Valea Uzei
+Vlădești
+
+ROȘIA DE SECAȘ
+Roșia de Secaș
+Tău
+Ungurei
+
+ROȘIA MONTANĂ
+Roșia Montană
+Bălmoșești
+Blidești
+Bunta
+Cărpiniș
+Coasta Henții
+Corna
+Curături
+Dăroaia
+Garda-Bărbulești
+Gura Roșiei
+Iacobești
+Ignățești
+Șoal
+Țarina
+Vârtop
+
+SĂLCIUA
+Sălciua de Jos
+Dealu Caselor
+Dumești
+Sălciua de Sus
+Sub Piatră
+Valea Largă
+
+SĂLIȘTEA
+Săliștea
+Mărgineni
+Săliștea-Deal
+Tărtăria
+
+SĂSCIORI
+Săsciori
+Căpâlna
+Dumbrava
+Laz
+Loman
+Pleși
+Răchita
+Sebeșel
+Tonea
+
+SÂNCEL
+Sâncel
+Iclod
+Pănade
+
+SÂNTIMBRU
+Sântimbru
+Coșlariu
+Dumitra
+Galtiu
+Totoi
+
+SCĂRIȘOARA
+Scărișoara
+Bârlești
+Botești
+Fața-Lăzești
+Florești
+Lăzești
+Lespezea
+Maței
+Negești
+Prelucă
+Runc
+Sfoartea
+Știuleți
+Trâncești
+
+SOHODOL
+Sohodol
+Băzești
+Bilănești
+Bobărești
+Brădeana
+Burzonești
+Deoncești
+Dilimani
+Furduiești
+Gura Sohodol
+Hoancă
+Joldișești
+Lazuri
+Lehești
+Luminești
+Medrești
+Morărești
+Munești
+Năpăiești
+Nelegești
+Nicorești
+Peleș
+Poiana
+Robești
+Sebișești
+Sicoiești
+Surdești
+Șimocești
+Toci
+Valea Verde
+Vlădoșești
+
+STREMȚ
+Stremț
+Fața Pietrii
+Geoagiu de Sus
+Geomal
+
+ȘIBOT
+Șibot
+Balomiru de Câmp
+Băcăinți
+Sărăcsău
+
+ȘONA
+Șona
+Alecuș
+Biia
+Doptău
+Lunca Târnavei
+Sânmiclăuș
+Valea Sasului
+
+ȘPRING
+Șpring
+Carpen
+Carpenii de Sus
+Cunța
+Drașov
+Vingard
+
+ȘUGAG
+Șugag
+Arți
+Bârsana
+Dobra
+Jidoștina
+Mărtinie
+Tău Bistra
+
+UNIREA
+Unirea
+Ciugudu de Jos
+Ciugudu de Sus
+Dumbrava
+Inoc
+Măhăceni
+
+VADU MOȚILOR
+Vadu Moților
+Bodești
+Burzești
+Dealu Frumos
+Lăzești
+Necșești
+Poduri-Bricești
+Popeștii de Jos
+Popeștii de Sus
+Tomuțești
+Totești
+Vâltori
+
+VALEA LUNGĂ
+Valea Lungă
+Făget
+Glogoveț
+Lodroman
+Lunca
+Tăuni
+
+VIDRA
+Vidra
+Băi
+Bobărești
+Bogdănești
+Bordeștii Poieni
+Culdești
+Dealu Goiești
+Dos
+Dosu Luncii
+Dosu Văsești
+Drăgoiești-Luncă
+Ficărești
+Gligorești
+Goiești
+Haiducești
+Hărăști
+Hoancă
+Jeflești
+Lunca
+Lunca Bisericii
+Lunca de Jos
+Lunca Goiești
+Lunca Vesești
+Modolești
+Nemeși
+Oidești
+Pitărcești
+Pleșcuța
+Poieni
+Ponorel
+Puiulețești
+Runc
+Segaj
+Urdeș
+Valea Morii
+Văsești
+Vâlcăneasa
+Vâlcești
+Vârtănești
+
+VINȚU DE JOS
+Vințu de Jos
+Câmpu Goblii
+Ciocașu
+Crișeni
+Dealu Ferului
+Gura Cuțului
+Hațegana
+Inuri
+Laz
+Mătăcina
+Mereteu
+Pârău lui Mihai
+Poienița
+Stăuini
+Valea Goblii
+Valea lui Mihai
+Valea Vințului
+Vurpăr
+
+SATE COMPONENTE ALE MUNICIPIILOR ȘI ORAȘELOR
+
+Municipiul ALBA IULIA:
+Alba Iulia
+Bărăbanț
+Micești
+Oarda
+Pâclișa
+
+Municipiul AIUD:
+Aiud
+Ciumbrud
+Gârbova de Jos
+Gârbova de Sus
+Gârbovița
+Sâncrai
+Țifra
+
+Municipiul BLAJ:
+Blaj
+Mănărade
+Deleni-Obârșie
+Spătac
+Flitești
+Izvoarele
+Petrisat
+Tiur
+Veza
+
+Municipiul SEBEȘ:
+Sebeș
+Lancrăm
+Petrești
+Răhău
+
+Orașul ABRUD:
+Abrud
+Abrud-Sat
+Gura Cornei
+Soharu
+
+Orașul BAIA DE ARIEȘ:
+Baia de Arieș
+Brăzești
+Cioara de Sus
+Muncelu
+Sartăș
+Simulești
+
+Orașul CÂMPENI:
+Câmpeni
+Boncești
+Borlești
+Botești
+Certege
+Coasta Vâscului
+Dănduț
+Dealu Bistrii
+Dealu Capsei
+Dric
+Fața Abrudului
+Florești
+Furduiești
+Mihoești
+Motorăști
+Peste Valea Bistrii
+Poduri
+Sorlița
+Tomușești
+Valea Bistrii
+Valea Caselor
+Vârși
+
+Orașul CUGIR:
+Cugir
+Bocșitura
+Bucuru
+Călene
+Fețeni
+Goașele
+Mugești
+Vinerea
+
+Orașul OCNA MUREȘ:
+Ocna Mureș
+Uioara de Jos
+Uioara de Sus
+Cisteiu de Mureș
+Micoșlaca
+Războieni-Cetate
+
+Orașul TEIUȘ:
+Teiuș
+Beldiu
+Căpud
+Coșlariu Nou
+Pețelca
+
+Orașul ZLATNA:
+Zlatna
+Botești
+Budeni
+Dealu Roatei
+Dobrot
+Dumbrava
+Feneș
+Galați
+Izvoru Ampoiului
+Pătrângeni
+Pârau Gruiului
+Pirita
+Podu lui Paul
+Runc
+Ruși
+Suseni
+Trâmpoiele
+Valea Mică
+Vâltori
