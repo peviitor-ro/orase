@@ -6,7 +6,7 @@ $municipii =
                     createLoc("CĂLĂRAȘI", "oras"),
                 ]),		
 		createMunicipiu("OLTENIȚA", [
-                    createAdresaCompleta("municipiul CĂLĂRAȘI, judetul CALARASI, România", "municipiul CALARASI, judetul CALARASI, Romania"),
+                    createAdresaCompleta("municipiul OLTENIȚA, judetul CALARASI, România", "municipiul OLTENITA, judetul CALARASI, Romania"),
                     createLoc("OLTENIȚA", "oras"),
                 ]),			
 ];
