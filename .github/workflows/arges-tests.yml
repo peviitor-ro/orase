@@ -1,0 +1,45 @@
+name: ARGES County Tests (Manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-arges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Install dependencies
+        run: php -m
+
+      - name: Run ARGES tests
+        id: test
+        run: |
+          mkdir -p testing/ARGES/reports
+          cd testing/ARGES
+          php run_tests.php || true
+
+      - name: List all reports
+        run: |
+          echo "=== All test reports for ARGES ==="
+          ls -la testing/ARGES/reports/
+
+      - name: Upload ARGES test reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: arges-test-reports-${{ github.run_number }}
+          path: testing/ARGES/reports/
+          retention-days: 30
+
+      - name: Display latest report
+        run: |
+          LATEST=$(ls -td testing/ARGES/reports/*/ | head -1)
+          echo "=== Latest Report: $LATEST ==="
+          cat "$LATEST/report.html"
