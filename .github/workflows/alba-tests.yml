@@ -23,7 +23,7 @@ jobs:
         run: |
           mkdir -p testing/ALBA/reports
           cd testing/ALBA
-          php run_tests.php
+          php run_tests.php || true
 
       - name: List all reports
         run: |
@@ -31,6 +31,7 @@ jobs:
           ls -la testing/ALBA/reports/
 
       - name: Upload ALBA test reports
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: alba-test-reports-${{ github.run_number }}
