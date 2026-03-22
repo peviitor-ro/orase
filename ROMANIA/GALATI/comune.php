@@ -1,368 +1,365 @@
 <?php
 $comune =[
-
 	createComuna("Barcea", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Barcea", "sat"),
-        createLoc("Podoleni", "sat")
-    ]),
-    createComuna("Bălăbănești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Bălăbănești", "sat"),
-        createLoc("Bursucani", "sat"),
-        createLoc("Lungești", "sat"),
-        createLoc("Zimbru", "sat")
-    ]),
-    createComuna("Bălășești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Bălășești", "sat"),
-        createLoc("Ciurești", "sat"),
-        createLoc("Ciureștii Noi", "sat"),
-        createLoc("Pupezeni", "sat")
-    ]),
-    createComuna("Băleni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Băleni", "sat")
-    ]),
-    createComuna("Băneasa", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Băneasa", "sat"),
-        createLoc("Roșcani", "sat")
-    ]),
-    createComuna("Berești-Meria", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Berești-Meria", "sat"),
-        createLoc("Aldești", "sat"),
-        createLoc("Balintești", "sat"),
-        createLoc("Onciu", "sat"),
-        createLoc("Pleșa", "sat"),
-        createLoc("Prodănești", "sat"),
-        createLoc("Puricani", "sat"),
-        createLoc("Săseni", "sat"),
-        createLoc("Slivna", "sat"),
-        createLoc("Șipote", "sat")
-    ]),
-    createComuna("Braniștea", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Braniștea", "sat"),
-        createLoc("Lozova", "sat"),
-        createLoc("Traian", "sat"),
-        createLoc("Vasile Alecsandri", "sat")
-    ]),
-    createComuna("Brăhășești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Brăhășești", "sat"),
-        createLoc("Corcioveni", "sat"),
-        createLoc("Cosițeni", "sat"),
-        createLoc("Toflea", "sat")
-    ]),
-    createComuna("Buciumeni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Buciumeni", "sat"),
-        createLoc("Hănțești", "sat"),
-        createLoc("Tecucelu Sec", "sat"),
-        createLoc("Vizurești", "sat")
-    ]),
-    createComuna("Cavadinești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Cavadinești", "sat"),
-        createLoc("Comănești", "sat"),
-        createLoc("Gănești", "sat"),
-        createLoc("Vădeni", "sat")
-    ]),
-    createComuna("Cerțești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Cerțești", "sat"),
-        createLoc("Cârlomănești", "sat"),
-        createLoc("Cotoroaia", "sat")
-    ]),
-    createComuna("Corod", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Corod", "sat"),
-        createLoc("Blânzi", "sat"),
-        createLoc("Brătulești", "sat"),
-        createLoc("Cărăpcești", "sat")
-    ]),
-    createComuna("Corni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Corni", "sat"),
-        createLoc("Măcișeni", "sat"),
-        createLoc("Urlești", "sat")
-    ]),
-    createComuna("Cosmești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Cosmești", "sat"),
-        createLoc("Băltăreți", "sat"),
-        createLoc("Cosmeștii-Vale", "sat"),
-        createLoc("Furcenii Noi", "sat"),
-        createLoc("Furcenii Vechi", "sat"),
-        createLoc("Satu Nou", "sat")
-    ]),
-    createComuna("Costache Negri", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Costache Negri", "sat")
-    ]),
-    createComuna("Cuca", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Cuca", "sat")
-    ]),
-    createComuna("Cudalbi", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Cudalbi", "sat")
-    ]),
-    createComuna("Cuza Vodă", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Cuza Vodă", "sat")
-    ]),
-    createComuna("Drăgănești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Drăgănești", "sat"),
-        createLoc("Malu Alb", "sat")
-    ]),
-    createComuna("Drăgușeni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Drăgușeni", "sat"),
-        createLoc("Adam", "sat"),
-        createLoc("Căuiești", "sat"),
-        createLoc("Fundeanu", "sat"),
-        createLoc("Ghinghești", "sat"),
-        createLoc("Nicopole", "sat"),
-        createLoc("Știețești", "sat")
-    ]),
-    createComuna("Fârțănești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Fârțănești", "sat"),
-        createLoc("Viile", "sat")
-    ]),
-    createComuna("Foltești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Foltești", "sat"),
-        createLoc("Stoicani", "sat")
-    ]),
-    createComuna("Frumușița", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Frumușița", "sat"),
-        createLoc("Ijdileni", "sat"),
-        createLoc("Tămăoani", "sat")
-    ]),
-    createComuna("Fundeni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Fundenii Noi", "sat"),
-        createLoc("Fundeni", "sat"),
-        createLoc("Hanu Conachi", "sat"),
-        createLoc("Lungoci", "sat")
-    ]),
-    createComuna("Ghidigeni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Ghidigeni", "sat"),
-        createLoc("Gara Ghidigeni", "sat"),
-        createLoc("Gefu", "sat"),
-        createLoc("Gârbovăț", "sat"),
-        createLoc("Gura Gârbovățului", "sat"),
-        createLoc("Slobozia Corni", "sat"),
-        createLoc("Tălpigi", "sat"),
-        createLoc("Tăplău", "sat")
-    ]),
-    createComuna("Gohor", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Gohor", "sat"),
-        createLoc("Gara Berheci", "sat"),
-        createLoc("Ireasca", "sat"),
-        createLoc("Nărtești", "sat"),
-        createLoc("Poșta", "sat")
-    ]),
-    createComuna("Grivița", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Grivița", "sat"),
-        createLoc("Călmățui", "sat")
-    ]),
-    createComuna("Independența", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Independența", "sat")
-    ]),
-    createComuna("Ivești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Ivești", "sat"),
-        createLoc("Bucești", "sat")
-    ]),
-    createComuna("Jorăști", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Jorăști", "sat"),
-        createLoc("Lunca", "sat"),
-        createLoc("Zărnești", "sat")
-    ]),
-    createComuna("Liești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Liești", "sat")
-    ]),
-    createComuna("Matca", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Matca", "sat")
-    ]),
-    createComuna("Măstăcani", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Măstăcani", "sat"),
-        createLoc("Chiraftei", "sat")
-    ]),
-    createComuna("Movileni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Movileni", "sat")
-    ]),
-    createComuna("Munteni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Munteni", "sat"),
-        createLoc("Frunzeasca", "sat"),
-        createLoc("Țigănești", "sat"),
-        createLoc("Ungureni", "sat")
-    ]),
-    createComuna("Nămoloasa", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Nămoloasa", "sat"),
-        createLoc("Crângeni", "sat"),
-        createLoc("Nămoloasa-Sat", "sat")
-    ]),
-    createComuna("Negrilești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Negrilești", "sat"),
-        createLoc("Slobozia Blăneasa", "sat")
-    ]),
-    createComuna("Nicorești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Nicorești", "sat"),
-        createLoc("Braniștea", "sat"),
-        createLoc("Coasta Lupei", "sat"),
-        createLoc("Dobrinești", "sat"),
-        createLoc("Fântâni", "sat"),
-        createLoc("Grozăvești", "sat"),
-        createLoc("Ionășești", "sat"),
-        createLoc("Mălureni", "sat"),
-        createLoc("Piscu Corbului", "sat"),
-        createLoc("Sârbi", "sat")
-    ]),
-    createComuna("Oancea", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Oancea", "sat"),
-        createLoc("Slobozia Oancea", "sat")
-    ]),
-    createComuna("Pechea", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Pechea", "sat"),
-        createLoc("Lupele", "sat")
-    ]),
-    createComuna("Piscu", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Piscu", "sat"),
-        createLoc("Vameș", "sat")
-    ]),
-    createComuna("Poiana", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Poiana", "sat"),
-        createLoc("Vișina", "sat")
-    ]),
-    createComuna("Priponești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Priponești", "sat"),
-        createLoc("Ciorăști", "sat"),
-        createLoc("Huștiu", "sat"),
-        createLoc("Liești", "sat"),
-        createLoc("Priponeștii de Jos", "sat")
-    ]),
-    createComuna("Rădești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Rădești", "sat"),
-        createLoc("Cruceanu", "sat")
-    ]),
-    createComuna("Rediu", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Rediu", "sat"),
-        createLoc("Plevna", "sat")
-    ]),
-    createComuna("Scânteiești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Scânteiești", "sat"),
-        createLoc("Fântânele", "sat")
-    ]),
-    createComuna("Schela", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Schela", "sat"),
-        createLoc("Negrea", "sat")
-    ]),
-    createComuna("Slobozia Conachi", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Slobozia Conachi", "sat"),
-        createLoc("Izvoarele", "sat")
-    ]),
-    createComuna("Smârdan", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Smârdan", "sat"),
-        createLoc("Cișmele", "sat"),
-        createLoc("Mihail Kogălniceanu", "sat")
-    ]),
-    createComuna("Smulți", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Smulți", "sat")
-    ]),
-    createComuna("Suceveni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Suceveni", "sat"),
-        createLoc("Rogojeni", "sat")
-    ]),
-    createComuna("Suhurlui", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Suhurlui", "sat")
-    ]),
-    createComuna("Șendreni", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Șendreni", "sat"),
-        createLoc("Movileni", "sat"),
-        createLoc("Șerbeștii Vechi", "sat")
-    ]),
-    createComuna("Tudor Vladimirescu", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Tudor Vladimirescu", "sat")
-    ]),
-    createComuna("Tulucești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Tulucești", "sat"),
-        createLoc("Șivița", "sat"),
-        createLoc("Tătarca", "sat")
-    ]),
-    createComuna("Țepu", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Țepu", "sat"),
-        createLoc("Țepu de Sus", "sat")
-    ]),
-    createComuna("Umbrărești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Umbrărești", "sat"),
-        createLoc("Condrea", "sat"),
-        createLoc("Salcia", "sat"),
-        createLoc("Siliștea", "sat"),
-        createLoc("Torcești", "sat"),
-        createLoc("Umbrărești-Deal", "sat")
-    ]),
-    createComuna("Valea Mărului", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Valea Mărului", "sat"),
-        createLoc("Mândrești", "sat")
-    ]),
-    createComuna("Vânători", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Vânători", "sat"),
-        createLoc("Costi", "sat"),
-        createLoc("Odaia Manolache", "sat")
-    ]),
-    createComuna("Vârlezi", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Vârlezi", "sat"),
-        createLoc("Crăiești", "sat")
-    ]),
-    createComuna("Vlădești", [
-				createAdresaCompleta("GALATI"),
-        createLoc("Vlădești", "sat"),
-        createLoc("Brănești", "sat")
-    ]),
-    								  
-			
+						createAdresaCompleta("GALATI"),
+						createLoc("Barcea", "sat", createAdresaCompleta("sat Barcea, comuna Barcea, judetul Galati, România", "sat Barcea, comuna Barcea, judetul Galati, Romania")),
+						createLoc("Podoleni", "sat", createAdresaCompleta("sat Podoleni, comuna Barcea, judetul Galati, România", "sat Podoleni, comuna Barcea, judetul Galati, Romania")),
+		]),
+	createComuna("Bălăbănești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Bălăbănești", "sat", createAdresaCompleta("sat Bălăbănești, comuna Bălăbănești, judetul Galati, România", "sat Balabanesti, comuna Balabanesti, judetul Galati, Romania")),
+						createLoc("Bursucani", "sat", createAdresaCompleta("sat Bursucani, comuna Bălăbănești, judetul Galati, România", "sat Bursucani, comuna Balabanesti, judetul Galati, Romania")),
+						createLoc("Lungești", "sat", createAdresaCompleta("sat Lungești, comuna Bălăbănești, judetul Galati, România", "sat Lungesti, comuna Balabanesti, judetul Galati, Romania")),
+						createLoc("Zimbru", "sat", createAdresaCompleta("sat Zimbru, comuna Bălăbănești, judetul Galati, România", "sat Zimbru, comuna Balabanesti, judetul Galati, Romania")),
+		]),
+	createComuna("Bălășești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Bălășești", "sat", createAdresaCompleta("sat Bălășești, comuna Bălășești, judetul Galati, România", "sat Balasesti, comuna Balasesti, judetul Galati, Romania")),
+						createLoc("Ciurești", "sat", createAdresaCompleta("sat Ciurești, comuna Bălășești, judetul Galati, România", "sat Ciuresti, comuna Balasesti, judetul Galati, Romania")),
+						createLoc("Ciureștii Noi", "sat", createAdresaCompleta("sat Ciureștii Noi, comuna Bălășești, judetul Galati, România", "sat Ciurestii Noi, comuna Balasesti, judetul Galati, Romania")),
+						createLoc("Pupezeni", "sat", createAdresaCompleta("sat Pupezeni, comuna Bălășești, judetul Galati, România", "sat Pupezeni, comuna Balasesti, judetul Galati, Romania")),
+		]),
+	createComuna("Băleni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Băleni", "sat", createAdresaCompleta("sat Băleni, comuna Băleni, judetul Galati, România", "sat Baleni, comuna Baleni, judetul Galati, Romania")),
+		]),
+	createComuna("Băneasa", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Băneasa", "sat", createAdresaCompleta("sat Băneasa, comuna Băneasa, judetul Galati, România", "sat Baneasa, comuna Baneasa, judetul Galati, Romania")),
+						createLoc("Roșcani", "sat", createAdresaCompleta("sat Roșcani, comuna Băneasa, judetul Galati, România", "sat Roscani, comuna Baneasa, judetul Galati, Romania")),
+		]),
+	createComuna("Berești-Meria", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Berești-Meria", "sat", createAdresaCompleta("sat Berești-Meria, comuna Berești-Meria, judetul Galati, România", "sat Beresti-Meria, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Aldești", "sat", createAdresaCompleta("sat Aldești, comuna Berești-Meria, judetul Galati, România", "sat Aldesti, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Balintești", "sat", createAdresaCompleta("sat Balintești, comuna Berești-Meria, judetul Galati, România", "sat Balintesti, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Onciu", "sat", createAdresaCompleta("sat Onciu, comuna Berești-Meria, judetul Galati, România", "sat Onciu, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Pleșa", "sat", createAdresaCompleta("sat Pleșa, comuna Berești-Meria, judetul Galati, România", "sat Plesa, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Prodănești", "sat", createAdresaCompleta("sat Prodănești, comuna Berești-Meria, judetul Galati, România", "sat Prodanesti, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Puricani", "sat", createAdresaCompleta("sat Puricani, comuna Berești-Meria, judetul Galati, România", "sat Puricani, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Săseni", "sat", createAdresaCompleta("sat Săseni, comuna Berești-Meria, judetul Galati, România", "sat Saseni, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Slivna", "sat", createAdresaCompleta("sat Slivna, comuna Berești-Meria, judetul Galati, România", "sat Slivna, comuna Beresti-Meria, judetul Galati, Romania")),
+						createLoc("Șipote", "sat", createAdresaCompleta("sat Șipote, comuna Berești-Meria, judetul Galati, România", "sat Sipote, comuna Beresti-Meria, judetul Galati, Romania")),
+		]),
+	createComuna("Braniștea", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Braniștea", "sat", createAdresaCompleta("sat Braniștea, comuna Braniștea, judetul Galati, România", "sat Branistea, comuna Branistea, judetul Galati, Romania")),
+						createLoc("Lozova", "sat", createAdresaCompleta("sat Lozova, comuna Braniștea, judetul Galati, România", "sat Lozova, comuna Branistea, judetul Galati, Romania")),
+						createLoc("Traian", "sat", createAdresaCompleta("sat Traian, comuna Braniștea, judetul Galati, România", "sat Traian, comuna Branistea, judetul Galati, Romania")),
+						createLoc("Vasile Alecsandri", "sat", createAdresaCompleta("sat Vasile Alecsandri, comuna Braniștea, judetul Galati, România", "sat Vasile Alecsandri, comuna Branistea, judetul Galati, Romania")),
+		]),
+	createComuna("Brăhășești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Brăhășești", "sat", createAdresaCompleta("sat Brăhășești, comuna Brăhășești, judetul Galati, România", "sat Brahasesti, comuna Brahasesti, judetul Galati, Romania")),
+						createLoc("Corcioveni", "sat", createAdresaCompleta("sat Corcioveni, comuna Brăhășești, judetul Galati, România", "sat Corcioveni, comuna Brahasesti, judetul Galati, Romania")),
+						createLoc("Cosițeni", "sat", createAdresaCompleta("sat Cosițeni, comuna Brăhășești, judetul Galati, România", "sat Cositeni, comuna Brahasesti, judetul Galati, Romania")),
+						createLoc("Toflea", "sat", createAdresaCompleta("sat Toflea, comuna Brăhășești, judetul Galati, România", "sat Toflea, comuna Brahasesti, judetul Galati, Romania")),
+		]),
+	createComuna("Buciumeni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Buciumeni", "sat", createAdresaCompleta("sat Buciumeni, comuna Buciumeni, judetul Galati, România", "sat Buciumeni, comuna Buciumeni, judetul Galati, Romania")),
+						createLoc("Hănțești", "sat", createAdresaCompleta("sat Hănțești, comuna Buciumeni, judetul Galati, România", "sat Hantesti, comuna Buciumeni, judetul Galati, Romania")),
+						createLoc("Tecucelu Sec", "sat", createAdresaCompleta("sat Tecucelu Sec, comuna Buciumeni, judetul Galati, România", "sat Tecucelu Sec, comuna Buciumeni, judetul Galati, Romania")),
+						createLoc("Vizurești", "sat", createAdresaCompleta("sat Vizurești, comuna Buciumeni, judetul Galati, România", "sat Vizuresti, comuna Buciumeni, judetul Galati, Romania")),
+		]),
+	createComuna("Cavadinești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Cavadinești", "sat", createAdresaCompleta("sat Cavadinești, comuna Cavadinești, judetul Galati, România", "sat Cavadinesti, comuna Cavadinesti, judetul Galati, Romania")),
+						createLoc("Comănești", "sat", createAdresaCompleta("sat Comănești, comuna Cavadinești, judetul Galati, România", "sat Comanesti, comuna Cavadinesti, judetul Galati, Romania")),
+						createLoc("Gănești", "sat", createAdresaCompleta("sat Gănești, comuna Cavadinești, judetul Galati, România", "sat Ganesti, comuna Cavadinesti, judetul Galati, Romania")),
+						createLoc("Vădeni", "sat", createAdresaCompleta("sat Vădeni, comuna Cavadinești, judetul Galati, România", "sat Vadeni, comuna Cavadinesti, judetul Galati, Romania")),
+		]),
+	createComuna("Cerțești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Cerțești", "sat", createAdresaCompleta("sat Cerțești, comuna Cerțești, judetul Galati, România", "sat Certesti, comuna Certesti, judetul Galati, Romania")),
+						createLoc("Cârlomănești", "sat", createAdresaCompleta("sat Cârlomănești, comuna Cerțești, judetul Galati, România", "sat Carlomanesti, comuna Certesti, judetul Galati, Romania")),
+						createLoc("Cotoroaia", "sat", createAdresaCompleta("sat Cotoroaia, comuna Cerțești, judetul Galati, România", "sat Cotoroaia, comuna Certesti, judetul Galati, Romania")),
+		]),
+	createComuna("Corod", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Corod", "sat", createAdresaCompleta("sat Corod, comuna Corod, judetul Galati, România", "sat Corod, comuna Corod, judetul Galati, Romania")),
+						createLoc("Blânzi", "sat", createAdresaCompleta("sat Blânzi, comuna Corod, judetul Galati, România", "sat Blanzi, comuna Corod, judetul Galati, Romania")),
+						createLoc("Brătulești", "sat", createAdresaCompleta("sat Brătulești, comuna Corod, judetul Galati, România", "sat Bratulesti, comuna Corod, judetul Galati, Romania")),
+						createLoc("Cărăpcești", "sat", createAdresaCompleta("sat Cărăpcești, comuna Corod, judetul Galati, România", "sat Carapcesti, comuna Corod, judetul Galati, Romania")),
+		]),
+	createComuna("Corni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Corni", "sat", createAdresaCompleta("sat Corni, comuna Corni, judetul Galati, România", "sat Corni, comuna Corni, judetul Galati, Romania")),
+						createLoc("Măcișeni", "sat", createAdresaCompleta("sat Măcișeni, comuna Corni, judetul Galati, România", "sat Maciseni, comuna Corni, judetul Galati, Romania")),
+						createLoc("Urlești", "sat", createAdresaCompleta("sat Urlești, comuna Corni, judetul Galati, România", "sat Urlesti, comuna Corni, judetul Galati, Romania")),
+		]),
+	createComuna("Cosmești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Cosmești", "sat", createAdresaCompleta("sat Cosmești, comuna Cosmești, judetul Galati, România", "sat Cosmesti, comuna Cosmesti, judetul Galati, Romania")),
+						createLoc("Băltăreți", "sat", createAdresaCompleta("sat Băltăreți, comuna Cosmești, judetul Galati, România", "sat Baltareti, comuna Cosmesti, judetul Galati, Romania")),
+						createLoc("Cosmeștii-Vale", "sat", createAdresaCompleta("sat Cosmeștii-Vale, comuna Cosmești, judetul Galati, România", "sat Cosmestii-Vale, comuna Cosmesti, judetul Galati, Romania")),
+						createLoc("Furcenii Noi", "sat", createAdresaCompleta("sat Furcenii Noi, comuna Cosmești, judetul Galati, România", "sat Furcenii Noi, comuna Cosmesti, judetul Galati, Romania")),
+						createLoc("Furcenii Vechi", "sat", createAdresaCompleta("sat Furcenii Vechi, comuna Cosmești, judetul Galati, România", "sat Furcenii Vechi, comuna Cosmesti, judetul Galati, Romania")),
+						createLoc("Satu Nou", "sat", createAdresaCompleta("sat Satu Nou, comuna Cosmești, judetul Galati, România", "sat Satu Nou, comuna Cosmesti, judetul Galati, Romania")),
+		]),
+	createComuna("Costache Negri", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Costache Negri", "sat", createAdresaCompleta("sat Costache Negri, comuna Costache Negri, judetul Galati, România", "sat Costache Negri, comuna Costache Negri, judetul Galati, Romania")),
+		]),
+	createComuna("Cuca", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Cuca", "sat", createAdresaCompleta("sat Cuca, comuna Cuca, judetul Galati, România", "sat Cuca, comuna Cuca, judetul Galati, Romania")),
+		]),
+	createComuna("Cudalbi", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Cudalbi", "sat", createAdresaCompleta("sat Cudalbi, comuna Cudalbi, judetul Galati, România", "sat Cudalbi, comuna Cudalbi, judetul Galati, Romania")),
+		]),
+	createComuna("Cuza Vodă", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Cuza Vodă", "sat", createAdresaCompleta("sat Cuza Vodă, comuna Cuza Vodă, judetul Galati, România", "sat Cuza Voda, comuna Cuza Voda, judetul Galati, Romania")),
+		]),
+	createComuna("Drăgănești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Drăgănești", "sat", createAdresaCompleta("sat Drăgănești, comuna Drăgănești, judetul Galati, România", "sat Draganesti, comuna Draganesti, judetul Galati, Romania")),
+						createLoc("Malu Alb", "sat", createAdresaCompleta("sat Malu Alb, comuna Drăgănești, judetul Galati, România", "sat Malu Alb, comuna Draganesti, judetul Galati, Romania")),
+		]),
+	createComuna("Drăgușeni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Drăgușeni", "sat", createAdresaCompleta("sat Drăgușeni, comuna Drăgușeni, judetul Galati, România", "sat Draguseni, comuna Draguseni, judetul Galati, Romania")),
+						createLoc("Adam", "sat", createAdresaCompleta("sat Adam, comuna Drăgușeni, judetul Galati, România", "sat Adam, comuna Draguseni, judetul Galati, Romania")),
+						createLoc("Căuiești", "sat", createAdresaCompleta("sat Căuiești, comuna Drăgușeni, judetul Galati, România", "sat Cauiesti, comuna Draguseni, judetul Galati, Romania")),
+						createLoc("Fundeanu", "sat", createAdresaCompleta("sat Fundeanu, comuna Drăgușeni, judetul Galati, România", "sat Fundeanu, comuna Draguseni, judetul Galati, Romania")),
+						createLoc("Ghinghești", "sat", createAdresaCompleta("sat Ghinghești, comuna Drăgușeni, judetul Galati, România", "sat Ghinghesti, comuna Draguseni, judetul Galati, Romania")),
+						createLoc("Nicopole", "sat", createAdresaCompleta("sat Nicopole, comuna Drăgușeni, judetul Galati, România", "sat Nicopole, comuna Draguseni, judetul Galati, Romania")),
+						createLoc("Știețești", "sat", createAdresaCompleta("sat Știețești, comuna Drăgușeni, judetul Galati, România", "sat Stietesti, comuna Draguseni, judetul Galati, Romania")),
+		]),
+	createComuna("Fârțănești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Fârțănești", "sat", createAdresaCompleta("sat Fârțănești, comuna Fârțănești, judetul Galati, România", "sat Fartanesti, comuna Fartanesti, judetul Galati, Romania")),
+						createLoc("Viile", "sat", createAdresaCompleta("sat Viile, comuna Fârțănești, judetul Galati, România", "sat Viile, comuna Fartanesti, judetul Galati, Romania")),
+		]),
+	createComuna("Foltești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Foltești", "sat", createAdresaCompleta("sat Foltești, comuna Foltești, judetul Galati, România", "sat Foltesti, comuna Foltesti, judetul Galati, Romania")),
+						createLoc("Stoicani", "sat", createAdresaCompleta("sat Stoicani, comuna Foltești, judetul Galati, România", "sat Stoicani, comuna Foltesti, judetul Galati, Romania")),
+		]),
+	createComuna("Frumușița", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Frumușița", "sat", createAdresaCompleta("sat Frumușița, comuna Frumușița, judetul Galati, România", "sat Frumusita, comuna Frumusita, judetul Galati, Romania")),
+						createLoc("Ijdileni", "sat", createAdresaCompleta("sat Ijdileni, comuna Frumușița, judetul Galati, România", "sat Ijdileni, comuna Frumusita, judetul Galati, Romania")),
+						createLoc("Tămăoani", "sat", createAdresaCompleta("sat Tămăoani, comuna Frumușița, judetul Galati, România", "sat Tamaoani, comuna Frumusita, judetul Galati, Romania")),
+		]),
+	createComuna("Fundeni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Fundenii Noi", "sat", createAdresaCompleta("sat Fundenii Noi, comuna Fundeni, judetul Galati, România", "sat Fundenii Noi, comuna Fundeni, judetul Galati, Romania")),
+						createLoc("Fundeni", "sat", createAdresaCompleta("sat Fundeni, comuna Fundeni, judetul Galati, România", "sat Fundeni, comuna Fundeni, judetul Galati, Romania")),
+						createLoc("Hanu Conachi", "sat", createAdresaCompleta("sat Hanu Conachi, comuna Fundeni, judetul Galati, România", "sat Hanu Conachi, comuna Fundeni, judetul Galati, Romania")),
+						createLoc("Lungoci", "sat", createAdresaCompleta("sat Lungoci, comuna Fundeni, judetul Galati, România", "sat Lungoci, comuna Fundeni, judetul Galati, Romania")),
+		]),
+	createComuna("Ghidigeni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Ghidigeni", "sat", createAdresaCompleta("sat Ghidigeni, comuna Ghidigeni, judetul Galati, România", "sat Ghidigeni, comuna Ghidigeni, judetul Galati, Romania")),
+						createLoc("Gara Ghidigeni", "sat", createAdresaCompleta("sat Gara Ghidigeni, comuna Ghidigeni, judetul Galati, România", "sat Gara Ghidigeni, comuna Ghidigeni, judetul Galati, Romania")),
+						createLoc("Gefu", "sat", createAdresaCompleta("sat Gefu, comuna Ghidigeni, judetul Galati, România", "sat Gefu, comuna Ghidigeni, judetul Galati, Romania")),
+						createLoc("Gârbovăț", "sat", createAdresaCompleta("sat Gârbovăț, comuna Ghidigeni, judetul Galati, România", "sat Garbovat, comuna Ghidigeni, judetul Galati, Romania")),
+						createLoc("Gura Gârbovățului", "sat", createAdresaCompleta("sat Gura Gârbovățului, comuna Ghidigeni, judetul Galati, România", "sat Gura Garbovatului, comuna Ghidigeni, judetul Galati, Romania")),
+						createLoc("Slobozia Corni", "sat", createAdresaCompleta("sat Slobozia Corni, comuna Ghidigeni, judetul Galati, România", "sat Slobozia Corni, comuna Ghidigeni, judetul Galati, Romania")),
+						createLoc("Tălpigi", "sat", createAdresaCompleta("sat Tălpigi, comuna Ghidigeni, judetul Galati, România", "sat Talpigi, comuna Ghidigeni, judetul Galati, Romania")),
+						createLoc("Tăplău", "sat", createAdresaCompleta("sat Tăplău, comuna Ghidigeni, judetul Galati, România", "sat Taplau, comuna Ghidigeni, judetul Galati, Romania")),
+		]),
+	createComuna("Gohor", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Gohor", "sat", createAdresaCompleta("sat Gohor, comuna Gohor, judetul Galati, România", "sat Gohor, comuna Gohor, judetul Galati, Romania")),
+						createLoc("Gara Berheci", "sat", createAdresaCompleta("sat Gara Berheci, comuna Gohor, judetul Galati, România", "sat Gara Berheci, comuna Gohor, judetul Galati, Romania")),
+						createLoc("Ireasca", "sat", createAdresaCompleta("sat Ireasca, comuna Gohor, judetul Galati, România", "sat Ireasca, comuna Gohor, judetul Galati, Romania")),
+						createLoc("Nărtești", "sat", createAdresaCompleta("sat Nărtești, comuna Gohor, judetul Galati, România", "sat Nartesti, comuna Gohor, judetul Galati, Romania")),
+						createLoc("Poșta", "sat", createAdresaCompleta("sat Poșta, comuna Gohor, judetul Galati, România", "sat Posta, comuna Gohor, judetul Galati, Romania")),
+		]),
+	createComuna("Grivița", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Grivița", "sat", createAdresaCompleta("sat Grivița, comuna Grivița, judetul Galati, România", "sat Grivita, comuna Grivita, judetul Galati, Romania")),
+						createLoc("Călmățui", "sat", createAdresaCompleta("sat Călmățui, comuna Grivița, judetul Galati, România", "sat Calmatui, comuna Grivita, judetul Galati, Romania")),
+		]),
+	createComuna("Independența", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Independența", "sat", createAdresaCompleta("sat Independența, comuna Independența, judetul Galati, România", "sat Independenta, comuna Independenta, judetul Galati, Romania")),
+		]),
+	createComuna("Ivești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Ivești", "sat", createAdresaCompleta("sat Ivești, comuna Ivești, judetul Galati, România", "sat Ivesti, comuna Ivesti, judetul Galati, Romania")),
+						createLoc("Bucești", "sat", createAdresaCompleta("sat Bucești, comuna Ivești, judetul Galati, România", "sat Bucesti, comuna Ivesti, judetul Galati, Romania")),
+		]),
+	createComuna("Jorăști", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Jorăști", "sat", createAdresaCompleta("sat Jorăști, comuna Jorăști, judetul Galati, România", "sat Jorasti, comuna Jorasti, judetul Galati, Romania")),
+						createLoc("Lunca", "sat", createAdresaCompleta("sat Lunca, comuna Jorăști, judetul Galati, România", "sat Lunca, comuna Jorasti, judetul Galati, Romania")),
+						createLoc("Zărnești", "sat", createAdresaCompleta("sat Zărnești, comuna Jorăști, judetul Galati, România", "sat Zarnesti, comuna Jorasti, judetul Galati, Romania")),
+		]),
+	createComuna("Liești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Liești", "sat", createAdresaCompleta("sat Liești, comuna Liești, judetul Galati, România", "sat Liesti, comuna Liesti, judetul Galati, Romania")),
+		]),
+	createComuna("Matca", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Matca", "sat", createAdresaCompleta("sat Matca, comuna Matca, judetul Galati, România", "sat Matca, comuna Matca, judetul Galati, Romania")),
+		]),
+	createComuna("Măstăcani", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Măstăcani", "sat", createAdresaCompleta("sat Măstăcani, comuna Măstăcani, judetul Galati, România", "sat Mastacani, comuna Mastacani, judetul Galati, Romania")),
+						createLoc("Chiraftei", "sat", createAdresaCompleta("sat Chiraftei, comuna Măstăcani, judetul Galati, România", "sat Chiraftei, comuna Mastacani, judetul Galati, Romania")),
+		]),
+	createComuna("Movileni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Movileni", "sat", createAdresaCompleta("sat Movileni, comuna Movileni, judetul Galati, România", "sat Movileni, comuna Movileni, judetul Galati, Romania")),
+		]),
+	createComuna("Munteni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Munteni", "sat", createAdresaCompleta("sat Munteni, comuna Munteni, judetul Galati, România", "sat Munteni, comuna Munteni, judetul Galati, Romania")),
+						createLoc("Frunzeasca", "sat", createAdresaCompleta("sat Frunzeasca, comuna Munteni, judetul Galati, România", "sat Frunzeasca, comuna Munteni, judetul Galati, Romania")),
+						createLoc("Țigănești", "sat", createAdresaCompleta("sat Țigănești, comuna Munteni, judetul Galati, România", "sat Tiganesti, comuna Munteni, judetul Galati, Romania")),
+						createLoc("Ungureni", "sat", createAdresaCompleta("sat Ungureni, comuna Munteni, judetul Galati, România", "sat Ungureni, comuna Munteni, judetul Galati, Romania")),
+		]),
+	createComuna("Nămoloasa", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Nămoloasa", "sat", createAdresaCompleta("sat Nămoloasa, comuna Nămoloasa, judetul Galati, România", "sat Namoloasa, comuna Namoloasa, judetul Galati, Romania")),
+						createLoc("Crângeni", "sat", createAdresaCompleta("sat Crângeni, comuna Nămoloasa, judetul Galati, România", "sat Crangeni, comuna Namoloasa, judetul Galati, Romania")),
+						createLoc("Nămoloasa-Sat", "sat", createAdresaCompleta("sat Nămoloasa-Sat, comuna Nămoloasa, judetul Galati, România", "sat Namoloasa-Sat, comuna Namoloasa, judetul Galati, Romania")),
+		]),
+	createComuna("Negrilești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Negrilești", "sat", createAdresaCompleta("sat Negrilești, comuna Negrilești, judetul Galati, România", "sat Negrilesti, comuna Negrilesti, judetul Galati, Romania")),
+						createLoc("Slobozia Blăneasa", "sat", createAdresaCompleta("sat Slobozia Blăneasa, comuna Negrilești, judetul Galati, România", "sat Slobozia Blaneasa, comuna Negrilesti, judetul Galati, Romania")),
+		]),
+	createComuna("Nicorești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Nicorești", "sat", createAdresaCompleta("sat Nicorești, comuna Nicorești, judetul Galati, România", "sat Nicoresti, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Braniștea", "sat", createAdresaCompleta("sat Braniștea, comuna Nicorești, judetul Galati, România", "sat Branistea, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Coasta Lupei", "sat", createAdresaCompleta("sat Coasta Lupei, comuna Nicorești, judetul Galati, România", "sat Coasta Lupei, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Dobrinești", "sat", createAdresaCompleta("sat Dobrinești, comuna Nicorești, judetul Galati, România", "sat Dobrinesti, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Fântâni", "sat", createAdresaCompleta("sat Fântâni, comuna Nicorești, judetul Galati, România", "sat Fantani, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Grozăvești", "sat", createAdresaCompleta("sat Grozăvești, comuna Nicorești, judetul Galati, România", "sat Grozavesti, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Ionășești", "sat", createAdresaCompleta("sat Ionășești, comuna Nicorești, judetul Galati, România", "sat Ionasesti, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Mălureni", "sat", createAdresaCompleta("sat Mălureni, comuna Nicorești, judetul Galati, România", "sat Malureni, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Piscu Corbului", "sat", createAdresaCompleta("sat Piscu Corbului, comuna Nicorești, judetul Galati, România", "sat Piscu Corbului, comuna Nicoresti, judetul Galati, Romania")),
+						createLoc("Sârbi", "sat", createAdresaCompleta("sat Sârbi, comuna Nicorești, judetul Galati, România", "sat Sarbi, comuna Nicoresti, judetul Galati, Romania")),
+		]),
+	createComuna("Oancea", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Oancea", "sat", createAdresaCompleta("sat Oancea, comuna Oancea, judetul Galati, România", "sat Oancea, comuna Oancea, judetul Galati, Romania")),
+						createLoc("Slobozia Oancea", "sat", createAdresaCompleta("sat Slobozia Oancea, comuna Oancea, judetul Galati, România", "sat Slobozia Oancea, comuna Oancea, judetul Galati, Romania")),
+		]),
+	createComuna("Pechea", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Pechea", "sat", createAdresaCompleta("sat Pechea, comuna Pechea, judetul Galati, România", "sat Pechea, comuna Pechea, judetul Galati, Romania")),
+						createLoc("Lupele", "sat", createAdresaCompleta("sat Lupele, comuna Pechea, judetul Galati, România", "sat Lupele, comuna Pechea, judetul Galati, Romania")),
+		]),
+	createComuna("Piscu", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Piscu", "sat", createAdresaCompleta("sat Piscu, comuna Piscu, judetul Galati, România", "sat Piscu, comuna Piscu, judetul Galati, Romania")),
+						createLoc("Vameș", "sat", createAdresaCompleta("sat Vameș, comuna Piscu, judetul Galati, România", "sat Vames, comuna Piscu, judetul Galati, Romania")),
+		]),
+	createComuna("Poiana", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Poiana", "sat", createAdresaCompleta("sat Poiana, comuna Poiana, judetul Galati, România", "sat Poiana, comuna Poiana, judetul Galati, Romania")),
+						createLoc("Vișina", "sat", createAdresaCompleta("sat Vișina, comuna Poiana, judetul Galati, România", "sat Visina, comuna Poiana, judetul Galati, Romania")),
+		]),
+	createComuna("Priponești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Priponești", "sat", createAdresaCompleta("sat Priponești, comuna Priponești, judetul Galati, România", "sat Priponesti, comuna Priponesti, judetul Galati, Romania")),
+						createLoc("Ciorăști", "sat", createAdresaCompleta("sat Ciorăști, comuna Priponești, judetul Galati, România", "sat Ciorasti, comuna Priponesti, judetul Galati, Romania")),
+						createLoc("Huștiu", "sat", createAdresaCompleta("sat Huștiu, comuna Priponești, judetul Galati, România", "sat Hustiu, comuna Priponesti, judetul Galati, Romania")),
+						createLoc("Liești", "sat", createAdresaCompleta("sat Liești, comuna Priponești, judetul Galati, România", "sat Liesti, comuna Priponesti, judetul Galati, Romania")),
+						createLoc("Priponeștii de Jos", "sat", createAdresaCompleta("sat Priponeștii de Jos, comuna Priponești, judetul Galati, România", "sat Priponestii de Jos, comuna Priponesti, judetul Galati, Romania")),
+		]),
+	createComuna("Rădești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Rădești", "sat", createAdresaCompleta("sat Rădești, comuna Rădești, judetul Galati, România", "sat Radesti, comuna Radesti, judetul Galati, Romania")),
+						createLoc("Cruceanu", "sat", createAdresaCompleta("sat Cruceanu, comuna Rădești, judetul Galati, România", "sat Cruceanu, comuna Radesti, judetul Galati, Romania")),
+		]),
+	createComuna("Rediu", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Rediu", "sat", createAdresaCompleta("sat Rediu, comuna Rediu, judetul Galati, România", "sat Rediu, comuna Rediu, judetul Galati, Romania")),
+						createLoc("Plevna", "sat", createAdresaCompleta("sat Plevna, comuna Rediu, judetul Galati, România", "sat Plevna, comuna Rediu, judetul Galati, Romania")),
+		]),
+	createComuna("Scânteiești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Scânteiești", "sat", createAdresaCompleta("sat Scânteiești, comuna Scânteiești, judetul Galati, România", "sat Scanteiesti, comuna Scanteiesti, judetul Galati, Romania")),
+						createLoc("Fântânele", "sat", createAdresaCompleta("sat Fântânele, comuna Scânteiești, judetul Galati, România", "sat Fantanele, comuna Scanteiesti, judetul Galati, Romania")),
+		]),
+	createComuna("Schela", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Schela", "sat", createAdresaCompleta("sat Schela, comuna Schela, judetul Galati, România", "sat Schela, comuna Schela, judetul Galati, Romania")),
+						createLoc("Negrea", "sat", createAdresaCompleta("sat Negrea, comuna Schela, judetul Galati, România", "sat Negrea, comuna Schela, judetul Galati, Romania")),
+		]),
+	createComuna("Slobozia Conachi", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Slobozia Conachi", "sat", createAdresaCompleta("sat Slobozia Conachi, comuna Slobozia Conachi, judetul Galati, România", "sat Slobozia Conachi, comuna Slobozia Conachi, judetul Galati, Romania")),
+						createLoc("Izvoarele", "sat", createAdresaCompleta("sat Izvoarele, comuna Slobozia Conachi, judetul Galati, România", "sat Izvoarele, comuna Slobozia Conachi, judetul Galati, Romania")),
+		]),
+	createComuna("Smârdan", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Smârdan", "sat", createAdresaCompleta("sat Smârdan, comuna Smârdan, judetul Galati, România", "sat Smardan, comuna Smardan, judetul Galati, Romania")),
+						createLoc("Cișmele", "sat", createAdresaCompleta("sat Cișmele, comuna Smârdan, judetul Galati, România", "sat Cismele, comuna Smardan, judetul Galati, Romania")),
+						createLoc("Mihail Kogălniceanu", "sat", createAdresaCompleta("sat Mihail Kogălniceanu, comuna Smârdan, judetul Galati, România", "sat Mihail Kogalniceanu, comuna Smardan, judetul Galati, Romania")),
+		]),
+	createComuna("Smulți", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Smulți", "sat", createAdresaCompleta("sat Smulți, comuna Smulți, judetul Galati, România", "sat Smulti, comuna Smulti, judetul Galati, Romania")),
+		]),
+	createComuna("Suceveni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Suceveni", "sat", createAdresaCompleta("sat Suceveni, comuna Suceveni, judetul Galati, România", "sat Suceveni, comuna Suceveni, judetul Galati, Romania")),
+						createLoc("Rogojeni", "sat", createAdresaCompleta("sat Rogojeni, comuna Suceveni, judetul Galati, România", "sat Rogojeni, comuna Suceveni, judetul Galati, Romania")),
+		]),
+	createComuna("Suhurlui", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Suhurlui", "sat", createAdresaCompleta("sat Suhurlui, comuna Suhurlui, judetul Galati, România", "sat Suhurlui, comuna Suhurlui, judetul Galati, Romania")),
+		]),
+	createComuna("Șendreni", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Șendreni", "sat", createAdresaCompleta("sat Șendreni, comuna Șendreni, judetul Galati, România", "sat Sendreni, comuna Sendreni, judetul Galati, Romania")),
+						createLoc("Movileni", "sat", createAdresaCompleta("sat Movileni, comuna Șendreni, judetul Galati, România", "sat Movileni, comuna Sendreni, judetul Galati, Romania")),
+						createLoc("Șerbeștii Vechi", "sat", createAdresaCompleta("sat Șerbeștii Vechi, comuna Șendreni, judetul Galati, România", "sat Serbestii Vechi, comuna Sendreni, judetul Galati, Romania")),
+		]),
+	createComuna("Tudor Vladimirescu", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Tudor Vladimirescu", "sat", createAdresaCompleta("sat Tudor Vladimirescu, comuna Tudor Vladimirescu, judetul Galati, România", "sat Tudor Vladimirescu, comuna Tudor Vladimirescu, judetul Galati, Romania")),
+		]),
+	createComuna("Tulucești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Tulucești", "sat", createAdresaCompleta("sat Tulucești, comuna Tulucești, judetul Galati, România", "sat Tulucesti, comuna Tulucesti, judetul Galati, Romania")),
+						createLoc("Șivița", "sat", createAdresaCompleta("sat Șivița, comuna Tulucești, judetul Galati, România", "sat Sivita, comuna Tulucesti, judetul Galati, Romania")),
+						createLoc("Tătarca", "sat", createAdresaCompleta("sat Tătarca, comuna Tulucești, judetul Galati, România", "sat Tatarca, comuna Tulucesti, judetul Galati, Romania")),
+		]),
+	createComuna("Țepu", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Țepu", "sat", createAdresaCompleta("sat Țepu, comuna Țepu, judetul Galati, România", "sat Tepu, comuna Tepu, judetul Galati, Romania")),
+						createLoc("Țepu de Sus", "sat", createAdresaCompleta("sat Țepu de Sus, comuna Țepu, judetul Galati, România", "sat Tepu de Sus, comuna Tepu, judetul Galati, Romania")),
+		]),
+	createComuna("Umbrărești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Umbrărești", "sat", createAdresaCompleta("sat Umbrărești, comuna Umbrărești, judetul Galati, România", "sat Umbraresti, comuna Umbraresti, judetul Galati, Romania")),
+						createLoc("Condrea", "sat", createAdresaCompleta("sat Condrea, comuna Umbrărești, judetul Galati, România", "sat Condrea, comuna Umbraresti, judetul Galati, Romania")),
+						createLoc("Salcia", "sat", createAdresaCompleta("sat Salcia, comuna Umbrărești, judetul Galati, România", "sat Salcia, comuna Umbraresti, judetul Galati, Romania")),
+						createLoc("Siliștea", "sat", createAdresaCompleta("sat Siliștea, comuna Umbrărești, judetul Galati, România", "sat Silistea, comuna Umbraresti, judetul Galati, Romania")),
+						createLoc("Torcești", "sat", createAdresaCompleta("sat Torcești, comuna Umbrărești, judetul Galati, România", "sat Torcesti, comuna Umbraresti, judetul Galati, Romania")),
+						createLoc("Umbrărești-Deal", "sat", createAdresaCompleta("sat Umbrărești-Deal, comuna Umbrărești, judetul Galati, România", "sat Umbraresti-Deal, comuna Umbraresti, judetul Galati, Romania")),
+		]),
+	createComuna("Valea Mărului", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Valea Mărului", "sat", createAdresaCompleta("sat Valea Mărului, comuna Valea Mărului, judetul Galati, România", "sat Valea Marului, comuna Valea Marului, judetul Galati, Romania")),
+						createLoc("Mândrești", "sat", createAdresaCompleta("sat Mândrești, comuna Valea Mărului, judetul Galati, România", "sat Mandresti, comuna Valea Marului, judetul Galati, Romania")),
+		]),
+	createComuna("Vânători", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Vânători", "sat", createAdresaCompleta("sat Vânători, comuna Vânători, judetul Galati, România", "sat Vanatori, comuna Vanatori, judetul Galati, Romania")),
+						createLoc("Costi", "sat", createAdresaCompleta("sat Costi, comuna Vânători, judetul Galati, România", "sat Costi, comuna Vanatori, judetul Galati, Romania")),
+						createLoc("Odaia Manolache", "sat", createAdresaCompleta("sat Odaia Manolache, comuna Vânători, judetul Galati, România", "sat Odaia Manolache, comuna Vanatori, judetul Galati, Romania")),
+		]),
+	createComuna("Vârlezi", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Vârlezi", "sat", createAdresaCompleta("sat Vârlezi, comuna Vârlezi, judetul Galati, România", "sat Varlezi, comuna Varlezi, judetul Galati, Romania")),
+						createLoc("Crăiești", "sat", createAdresaCompleta("sat Crăiești, comuna Vârlezi, judetul Galati, România", "sat Craiesti, comuna Varlezi, judetul Galati, Romania")),
+		]),
+	createComuna("Vlădești", [
+						createAdresaCompleta("GALATI"),
+						createLoc("Vlădești", "sat", createAdresaCompleta("sat Vlădești, comuna Vlădești, judetul Galati, România", "sat Vladesti, comuna Vladesti, judetul Galati, Romania")),
+						createLoc("Brănești", "sat", createAdresaCompleta("sat Brănești, comuna Vlădești, judetul Galati, România", "sat Branesti, comuna Vladesti, judetul Galati, Romania")),
+		]),
 ];
 ?>
