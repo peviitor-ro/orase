@@ -1,0 +1,440 @@
+ALMAȘ
+Almaș
+Cil
+Joia Mare
+Rădești
+
+APATEU
+Apateu
+Berechiu
+Moțiori
+
+ARCHIȘ
+Archiș
+Bârzești
+Groșeni
+Nermiș
+
+BATA
+Bata
+Bacău de Mijloc
+Bulci
+Țela
+
+BÂRSA
+Bârsa
+Aldești
+Hodiș
+Voivodeni
+
+BÂRZAVA
+Bârzava
+Bătuța
+Căpruța
+Dumbravita
+Groșii Noi
+Lalașinț
+Monoroștia
+Slatina de Mureș
+
+BELIU
+Beliu
+Benești
+Bochia
+Secaci
+Tăgădău
+Vasile Goldiș
+
+BIRCHIȘ
+Birchiș
+Căpălnaș
+Ostrov
+Virismort
+
+BOCSIG
+Bocsig
+Mănerău
+Răpsig
+
+BRAZII
+Brazii
+Buceava-Șoimuș
+Iacobini
+Mădrigești
+Secaș
+
+BUTENI
+Buteni
+Berindia
+Cuied
+Păulian
+
+CĂRAND
+Cărand
+Seliștea
+
+CERMEI
+Cermei
+Avram Iancu
+Șomoșcheș
+
+CHISINDIA
+Chisindia
+Păiușeni
+Văsoaia
+
+CONOP
+Conop
+Belotinț
+Chelmac
+Milova
+Odvoș
+
+COVĂSINȚ
+Covăsinț
+
+CRAIVA
+Craiva
+Chișlaca
+Ciuntești
+Coroi
+Mărăuș
+Rogoz de Beliu
+Stoinești
+Susag
+Șiad
+Tălmaci
+
+DEZNA
+Dezna
+Buhani
+Laz
+Neagra
+Slatina de Criș
+
+DIECI
+Dieci
+Cociuba
+Crocna
+Revetiș
+Roșia
+
+DOROBANȚI
+Dorobanți
+
+FÂNTÂNELE
+Fântânele
+Tisa Nouă
+
+FELNAC
+Felnac
+Călugăreni
+
+FRUMUȘENI
+Frumușeni
+Aluniș
+
+GHIOROC
+Ghioroc
+Cuvin
+Miniș
+
+GRĂNICERI
+Grăniceri
+Șiclău
+
+GURAHONȚ
+Gurahonț
+Bonțești
+Dulcele
+Feniș
+Honțișor
+Iosaș
+Mustești
+Pescari
+Valea Mare
+Zimbru
+
+HĂLMAGIU
+Hălmagiu
+Bănești
+Bodești
+Brusturi
+Cristești
+Ionești
+Leasa
+Leștioara
+Poienari
+Tisa
+Țărmure
+
+HĂLMĂGEL
+Hălmăgel
+Luncșoara
+Sârbi
+Târnăvița
+Țohești
+
+HĂȘMAȘ
+Hășmaș
+Agrișu Mic
+Botfei
+Clit
+Comănești
+Urvișu de Beliu
+
+IGNEȘTI
+Ignești
+Minead
+Nădălbești
+Susani
+
+IRATOȘU
+Iratoșu
+Variașu Mare
+Variașu Mic
+
+LIVADA
+Livada
+Sânleani
+
+MACEA
+Macea
+Sânmartin
+
+MIȘCA
+Mișca
+Satu Nou
+Vânători
+Zerindu Mic
+
+MONEASA
+Moneasa
+Rănușa
+
+OLARI
+Olari
+Sintea Mică
+
+PĂULIȘ
+Păuliș
+Barațca
+Cladova
+Sâmbăteni
+
+PEREGU MARE
+Peregu Mare
+Peregu Mic
+
+PETRIȘ
+Petriș
+Corbești
+Ilteu
+Obârșia
+Roșia Nouă
+Seliște
+
+PILU
+Pilu
+Vărșand
+
+PLEȘCUȚA
+Pleșcuța
+Aciuța
+Budești
+Dumbrava
+Gura Văii
+Rostoci
+Tălagiu
+
+SĂVÂRȘIN
+Săvârșin
+Căprioara
+Cuiaș
+Hălăliș
+Pârnești
+Temeșești
+Toc
+Troaș
+Valea Mare
+
+SECUSIGIU
+Secusigiu
+Munar
+Satu Mare
+Sânpetru German
+
+SELEUȘ
+Seleuș
+Iermata
+Moroda
+
+SEMLAC
+Semlac
+
+SINTEA MARE
+Sintea Mare
+Adea
+Țipar
+
+SOCODOR
+Socodor
+
+ȘAGU
+Șagu
+Cruceni
+Firiteaz
+Fiscut
+Hunedoara Timișană
+
+ȘEITIN
+Șeitin
+
+ȘEPREUȘ
+Șepreuș
+
+ȘICULA
+Șicula
+Chereluș
+Gurba
+
+ȘILINDIA
+Șilindia
+Camna
+Iercoșeni
+Luguzău
+Satu Mic
+
+ȘIMAND
+Șimand
+
+ȘIRIA
+Șiria
+Galșa
+Mâsca
+
+ȘIȘTAROVĂȚ
+Șiștarovăț
+Cuveșdia
+Labașinț
+Varnița
+
+ȘOFRONEA
+Șofronea
+Sânpaul
+
+TAUȚ
+Tauț
+Minișel
+Minișu de Sus
+Nadăș
+
+TÂRNOVA
+Târnova
+Agrișu Mare
+Arăneag
+Chier
+Drauț
+Dud
+
+USUSĂU
+Ususău
+Bruznic
+Dorgoș
+Pătârs
+Zăbalț
+
+VĂRĂDIA DE MUREȘ
+Vărădia de Mureș
+Baia
+Julița
+Lupești
+Nicolae Bălcescu
+Stejar
+
+VÂRFURILE
+Vârfurile
+Avram Iancu
+Groși
+Lazuri
+Măgulicea
+Mermești
+Poiana
+Vidra
+
+VINGA
+Vinga
+Mailat
+Mănăștur
+
+VLADIMIRESCU
+Vladimirescu
+Cicir
+Horia
+Mândruloc
+
+ZĂBRANI
+Zăbrani
+Chesinț
+Neudorf
+
+ZĂDĂRENI
+Zădăreni
+Bodrogu Nou
+
+ZĂRAND
+Zărand
+Cintei
+
+ZERIND
+Zerind
+Iermata Neagră
+
+ZIMANDU NOU
+Zimandu Nou
+Andrei Șaguna
+Zimandcuz
+
+SATE COMPONENTE ALE MUNICIPIILOR ȘI ORAȘELOR
+
+Municipiul ARAD:
+Arad
+
+Orașul CHIȘINEU-CRIȘ:
+Chișineu-Criș
+Nadab
+
+Orașul CURTICI:
+Curtici
+
+Orașul INEU:
+Ineu
+Mocrea
+
+Orașul LIPOVA:
+Lipova
+Radna
+Șoimoș
+
+Orașul NĂDLAC:
+Nădlac
+
+Orașul PÂNCOTA:
+Pâncota
+Maderat
+
+Orașul PECICA:
+Pecica
+Bodrogu Vechi
+Sederhat
+Turnu
+
+Orașul SÂNTANA:
+Sântana
+Caporal Alexa
+
+Orașul SEBIȘ:
+Sebiș
+Donceni
+Prunișor
+Sălăjeni
