@@ -3,7 +3,7 @@ $municipii = [
     createMunicipiu("DEVA", [
         createAdresaCompleta("municipiul DEVA, judetul HUNEDOARA, România", "municipiul DEVA, judetul HUNEDOARA, Romania"),
         createLoc("DEVA", "oras", [
-            createLoc("Archia", "sat", createAdresaCompleta("sat ArchIA, municipiul DEVA, judetul Hunedoara, România", "sat ArchIA, municipiul DEVA, judetul Hunedoara, Romania")),
+            createLoc("Archia", "sat", createAdresaCompleta("sat Archia, municipiul DEVA, judetul Hunedoara, România", "sat Archia, municipiul DEVA, judetul Hunedoara, Romania")),
             createLoc("Bârcea Mică", "sat", createAdresaCompleta("sat Bârcea Mică, municipiul DEVA, judetul Hunedoara, România", "sat Barcea Mica, municipiul DEVA, judetul Hunedoara, Romania")),
             createLoc("Cristur", "sat", createAdresaCompleta("sat Cristur, municipiul DEVA, judetul Hunedoara, România", "sat Cristur, municipiul DEVA, judetul Hunedoara, Romania")),
         ]),
