@@ -1,0 +1,44 @@
+name: ALBA County Tests (Manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-alba:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Install dependencies
+        run: php -m
+
+      - name: Run ALBA tests
+        id: test
+        run: |
+          mkdir -p testing/ALBA/reports
+          cd testing/ALBA
+          php run_tests.php
+
+      - name: List all reports
+        run: |
+          echo "=== All test reports for ALBA ==="
+          ls -la testing/ALBA/reports/
+
+      - name: Upload ALBA test reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: alba-test-reports-${{ github.run_number }}
+          path: testing/ALBA/reports/
+          retention-days: 30
+
+      - name: Display latest report
+        run: |
+          LATEST=$(ls -td testing/ALBA/reports/*/ | head -1)
+          echo "=== Latest Report: $LATEST ==="
+          cat "$LATEST/report.html"
