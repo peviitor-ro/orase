@@ -63,14 +63,6 @@ class AlbaTestRunner
     {
         $basePath = __DIR__;
         
-        echo "Loading from: $basePath\n";
-        echo "Files in directory:\n";
-        foreach (scandir($basePath) as $f) {
-            if (strpos($f, '.txt') !== false) {
-                echo "  - $f\n";
-            }
-        }
-        
         $municipiiFile = $basePath . '/municipii.txt';
         if (file_exists($municipiiFile)) {
             $lines = file($municipiiFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
