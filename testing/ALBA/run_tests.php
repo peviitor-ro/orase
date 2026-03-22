@@ -107,7 +107,7 @@ class AlbaTestRunner
                     continue;
                 }
                 $noDiac = $this->removeDiacritics($line);
-                if ($noDiac === mb_strtoupper($line) && strlen($line) <= 30 && substr_count($line, ' ') <= 2) {
+                if ($noDiac === strtoupper($line) && strlen($line) <= 30 && substr_count($line, ' ') <= 2) {
                     $currentComuna = $line;
                     if (!isset($this->testData['sate'][$currentComuna])) {
                         $this->testData['sate'][$currentComuna] = [];
@@ -146,7 +146,7 @@ class AlbaTestRunner
 
     private function findInAlbaData(string $name, string $type): ?array
     {
-        $nameUpper = mb_strtoupper($name);
+        $nameUpper = strtoupper($name);
         $nameNormalized = $this->removeDiacritics($nameUpper);
         
         switch ($type) {
@@ -211,8 +211,8 @@ class AlbaTestRunner
 
     private function matchName(string $dataName, string $testName): bool
     {
-        $dataUpper = mb_strtoupper($dataName);
-        $testUpper = mb_strtoupper($testName);
+        $dataUpper = strtoupper($dataName);
+        $testUpper = strtoupper($testName);
         
         if ($dataUpper === $testUpper) {
             return true;
