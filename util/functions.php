@@ -17,14 +17,21 @@ function createAdresaCompleta($textWithDiacritics, $textWithoutDiacritics = null
     return [$textWithDiacritics, $textWithoutDiacritics];
 }
 
-function createLoc($nume, $tip, $locuri = []) {
+function createLoc($nume, $tip, $locuriOrAdresa = null, $adresaCompleta = null) {
     $loc = new stdClass();
     $loc->nume = $nume;
     $loc->tip = $tip;
 
-    // Set the loc property only if $locuri is defined and not an empty array
-    if (!empty($locuri)) {
-        $loc->loc = $locuri;
+    if ($locuriOrAdresa !== null) {
+        if (is_array($locuriOrAdresa) && isset($locuriOrAdresa[0]) && (is_array($locuriOrAdresa[0]) || is_object($locuriOrAdresa[0]))) {
+            $loc->loc = $locuriOrAdresa;
+        } elseif (is_array($locuriOrAdresa)) {
+            $loc->adresaCompleta = $locuriOrAdresa;
+        }
+    }
+
+    if ($adresaCompleta !== null) {
+        $loc->adresaCompleta = $adresaCompleta;
     }
 
     return $loc;
