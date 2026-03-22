@@ -4,6 +4,7 @@
 [![ALBA](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/alba-tests.yml?branch=main&label=ALBA)](https://github.com/peviitor-ro/orase/actions/workflows/alba-tests.yml)
 [![ARAD](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/arad-tests.yml?branch=main&label=ARAD)](https://github.com/peviitor-ro/orase/actions/workflows/arad-tests.yml)
 [![ARGES](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/arges-tests.yml?branch=main&label=ARGES)](https://github.com/peviitor-ro/orase/actions/workflows/arges-tests.yml)
+[![BACAU](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/bacau-tests.yml?branch=main&label=BACAU)](https://github.com/peviitor-ro/orase/actions/workflows/bacau-tests.yml)
 
 Un API public care oferă informații despre toate localitățile din România: comune, municipii, orașe și sate.
 

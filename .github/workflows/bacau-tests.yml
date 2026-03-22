@@ -1,0 +1,45 @@
+name: BACAU County Tests (Manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-bacau:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Install dependencies
+        run: php -m
+
+      - name: Run BACAU tests
+        id: test
+        run: |
+          mkdir -p testing/BACAU/reports
+          cd testing/BACAU
+          php run_tests.php || true
+
+      - name: List all reports
+        run: |
+          echo "=== All test reports for BACAU ==="
+          ls -la testing/BACAU/reports/
+
+      - name: Upload BACAU test reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bacau-test-reports-${{ github.run_number }}
+          path: testing/BACAU/reports/
+          retention-days: 30
+
+      - name: Display latest report
+        run: |
+          LATEST=$(ls -td testing/BACAU/reports/*/ | head -1)
+          echo "=== Latest Report: $LATEST ==="
+          cat "$LATEST/report.html"
