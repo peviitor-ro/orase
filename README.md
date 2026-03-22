@@ -1,6 +1,8 @@
 # API Localități din România
 
-[![E2E Tests](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/api-tests.yml?branch=main&label=E2E%20Tests)](https://github.com/peviitor-ro/orase/actions/workflows/api-tests.yml)
+[![E2E Tests](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/api-tests.yml?branch=main&label=E2E-Tests)](https://github.com/peviitor-ro/orase/actions/workflows/api-tests.yml)
+[![ALBA](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/alba-tests.yml?branch=main&label=ALBA)](https://github.com/peviitor-ro/orase/actions/workflows/alba-tests.yml)
+[![ARAD](https://img.shields.io/github/actions/workflow/status/peviitor-ro/orase/arad-tests.yml?branch=main&label=ARAD)](https://github.com/peviitor-ro/orase/actions/workflows/arad-tests.yml)
 
 Un API public care oferă informații despre toate localitățile din România: comune, municipii, orașe și sate.
 
