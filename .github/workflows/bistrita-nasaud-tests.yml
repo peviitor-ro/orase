@@ -23,7 +23,7 @@ jobs:
         run: |
           mkdir -p testing/BISTRITA-NASAUD/reports
           cd testing/BISTRITA-NASAUD
-          php run_tests.php || true
+          php run_tests.php
 
       - name: List all reports
         run: |
