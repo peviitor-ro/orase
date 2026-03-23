@@ -210,10 +210,10 @@ Teleac
 CIURULEASA
 Ciuruleasa
 Bidigești
-Bodont
+Bodrești
 Boglești
 Buninginea
-Gheorghești
+Ghedulești
 Mătișești
 Morărești
 Vulcan
@@ -253,7 +253,7 @@ Lupșeni
 Măgura
 Mesentea
 Oiejdea
-Poiana Galdei
+Poaiana Galdei
 Răicani
 Zăgriș
 
@@ -307,7 +307,7 @@ Zânzești
 
 IGHIU
 Ighiu
-Bucerdea Vânoasă
+Bucerdea Vinoasă
 Ighiel
 Șard
 Țelna
