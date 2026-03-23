@@ -1,5 +1,5 @@
-Albăreștii de Argeș
-Albăreștii de Muscel
+Albeștii de Argeș
+Albeștii de Muscel
 Albota
 Aninoasa
 Arefu
@@ -10,11 +10,11 @@ Bălilești
 Bârla
 Beleți-Negrești
 Berevoești
-Bogdănești
+Bogați
 Boteni
 Boțești
 Bradu
-Băduleți
+Brăduleț
 Budeasa
 Bughea de Jos
 Bughea de Sus
@@ -41,7 +41,7 @@ Domnești
 Dragoslavele
 Drăganu
 Godeni
-Hărșești
+Hârsești
 Hârtiești
 Izvoru
 Leordeni
@@ -55,10 +55,10 @@ Mihăești
 Mioarele
 Miroși
 Morărești
-Moștoaia
+Moșoaia
 Mozăceni
 Mușătești
-Negrați
+Negrași
 Nucșoara
 Oarja
 Pietroșani
