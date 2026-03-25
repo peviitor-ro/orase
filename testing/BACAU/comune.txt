@@ -16,7 +16,7 @@ Căiuți
 Cleja
 Colonești
 Corbasca
-Coofoșănești
+Coțofănești
 Dămienești
 Dealu Morii
 Dofteana
@@ -38,7 +38,7 @@ Izvoru Berheciului
 Letea Veche
 Lipova
 Livezi
-Luizi-Călugara
+Luizi-Călugăra
 Măgirești
 Măgura
 Mănăstirea Cașin
@@ -54,8 +54,8 @@ Palanca
 Parava
 Parincea
 Pâncești
-Părăgărești
-Părjol
+Pârgărești
+Pârjol
 Plopana
 Podu Turcului
 Poduri
@@ -65,7 +65,7 @@ Răcăciuni
 Răchitoasa
 Roșiori
 Sascut
-Sânduleni
+Sănduleni
 Sărata
 Săucești
 Scorțeni
@@ -74,7 +74,7 @@ Solonț
 Stănișești
 Strugari
 Ștefan cel Mare
-Tămășeni
+Tamași
 Tătărăști
 Târgu Trotuș
 Traian
