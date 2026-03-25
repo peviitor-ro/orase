@@ -1,6 +1,6 @@
 ADASENI
 Adășeni
-Zoițeni
+Zoițani
 ALBESTI
 Albești
 Buimăceni
@@ -166,7 +166,6 @@ Borolea
 Moara Jorii
 Sarata-Basarab
 Slobozia Hănești
-HILIȘEU-HORIA
 Hilișeu-Horia
 Corjăuți
 Hilișeu-Cloșca
@@ -263,7 +262,6 @@ Răchiți
 Cișmea
 Costești
 Roșiori
-RĂDĂUȚI-PRUT
 Rădăuți-Prut
 Miorcani
 Rediu
@@ -361,7 +359,6 @@ VACULESTI
 Văculești
 Gorovei
 Saucenița
-VÂRFU CÂMPULUI
 Vârfu Câmpului
 Dobrinăuți-Hapăi
 Ionășeni
