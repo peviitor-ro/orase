@@ -1,14 +1,14 @@
-ADASENI
+ADĂȘENI
 Adășeni
 Zoițeni
-ALBESTI
+ALBEȘTI
 Albești
 Buimăceni
 Coștiugeni
 Jijia
 Mășcăteni
 Tudor Vladimirescu
-AVRAMENI
+AVRĂMENI
 Avrămeni
 Aurel Vlaicu
 Dimitrie Cantemir
@@ -16,51 +16,51 @@ Ichimeni
 Panaitoaia
 Timuș
 Tudor Vladimirescu
-BALUSENI
+BĂLUȘENI
 Bălușeni
 Bălușenii Noi
 Buzeni
 Coșuleni
 Draxini
 Zăicești
-BLANDESTI
+BLÂNDEȘTI
 Blândești
 Cerchejeni
 Șoldănești
-BRAESTI
+BRĂEȘTI
 Brăești
 Poiana
 Popeni
 Vâlcelele
-BROSCAUTI
+BROSCĂUȚI
 Broscăuți
 Slobozia
-CALARASI
+CĂLĂRAȘI
 Călărași
 Libertatea
 Pleșani
-CANDESTI
+CÂNDEȘTI
 Cândești
 Călinești
 Talpa
 Vițcani
-CONCESTI
+CONCEȘTI
 Concești
 Movileni
-COPALAU
+COPĂLĂU
 Copălău
 Cerbu
 Cotu
-COSULA
+COȘULA
 Coșula
 Buda
 Pădureni
 Șupitca
-CORDARENI
+CORDĂRENI
 Cordăreni
 Grivița
 Slobozia
-CORLATENI
+CORLĂTENI
 Corlăteni
 Carasa
 Podeni
@@ -70,7 +70,7 @@ Corni
 Balta Arsă
 Mesteacăn
 Sarafinești
-COTUSCA
+COȚUȘCA
 Coțușca
 Avram Iancu
 Cotu Miculinți
@@ -80,19 +80,19 @@ Mihail Kogălniceanu
 Nichiteni
 Nicolae Bălcescu
 Puțureni
-CRISTESTI
+CRISTEȘTI
 Cristești
 Oneaga
 Schit-Orășeni
 Unguroaia
-CRISTINESTI
+CRISTINEȘTI
 Cristinești
 Baranca
 Dămileni
 Dragalina
 Fundu Herții
 Poiana
-CURTESTI
+CURTEȘTI
 Curtești
 Agafton
 Băiceni
@@ -104,34 +104,34 @@ DERCA
 Dersca
 Lozna
 Străteni
-DANGENI
+DÂNGENI
 Dângeni
 Hulub
 Iacobeni
 Strahotin
-DIMACHENI
+DIMĂCHENI
 Dimăcheni
 Mateieni
 Recia-Verbia
-DOBARCENI
+DOBÂRCENI
 Dobârceni
 Bivolari
 Brăteni
 Cișmănești
 Livada
 Murguța
-DRAGUSENI
+DRĂGUȘENI
 Drăgușeni
 Podriga
 Sarata-Drăgușeni
-DURNESTI
+DURNEȘTI
 Durnești
 Băbiceni
 Bârsănești
 Broșteni
 Cucuteni
 Guranda
-FRUMUSICA
+FRUMUȘICA
 Frumușica
 Boscoteni
 Rădeni
@@ -144,7 +144,7 @@ Arborea
 George Enescu
 Popeni
 Stânca
-GORBANESTI
+GORBĂNEȘTI
 Gorbănești
 Bătrânești
 George Coșbuc
@@ -153,14 +153,14 @@ Silișcani
 Socrujeni
 Viforeni
 Vânători
-HAVARNA
+HAVÂRNA
 Havârna
 Balinți
 Galbeni
 Gârbeni
 Niculcea
 Tătărășeni
-HANESTI
+HĂNEȘTI
 Hănești
 Borolea
 Moara Jorii
@@ -176,14 +176,14 @@ HLIPICENI
 Hlipiceni
 Dragalina
 Victoria
-HUDESTI
+HUDEȘTI
 Hudești
 Alba
 Baranca
 Bașeu
 Mlenăuți
 Vatra
-IBANESTI
+IBĂNEȘTI
 Ibănești
 Dumbrăvița
 LEORDA
@@ -220,11 +220,11 @@ Cervicești-Deal
 Cucorăni
 Manolești
 Stâncești
-MIHAILENI
+MIHĂILENI
 Mihăileni
 Pârâu Negru
 Rogojești
-MIHALASENI
+MIHĂLĂȘENI
 Mihălășeni
 Caraiman
 Năstase
@@ -240,25 +240,25 @@ Seliștea
 MITOC
 Mitoc
 Horia
-NICSENI
+NICȘENI
 Nicșeni
 Dacia
 Dorobanți
-PALTINIS
+PĂLTINIȘ
 Păltiniș
 Cuzlău
 Horodiștea
 Slobozia
-POMARLA
+POMÂRLA
 Pomârla
 Hulubești
 Racovăț
-PRAJENI
+PRĂJENI
 Prăjeni
 Câmpeni
 Lupăria
 Miletin
-RACHITI
+RĂCHIȚI
 Răchiți
 Cișmea
 Costești
@@ -267,7 +267,7 @@ RĂDĂUȚI-PRUT
 Rădăuți-Prut
 Miorcani
 Rediu
-RAUSENI
+RĂUSENI
 Răuseni
 Doina
 Pogorăști
@@ -284,7 +284,7 @@ Râșca
 ROMA
 Roma
 Cotârgaci
-ROMANESTI
+ROMÂNEȘTI
 Românești
 Dămideni
 Românești-Vale
@@ -298,27 +298,27 @@ Durnești
 Ilișeni
 Rânghilești
 Rânghilești-Deal
-STAUCENI
+STĂUCENI
 Stăuceni
 Siliștea
 Tocileni
 Victoria
-SUHARAU
+SUHARĂU
 Suharău
 Izvoare
 Lișna
 Oroftiana
 Plevna
 Smârdan
-SULITA
+SULIȚA
 Sulița
 Cheliș
 Dracșani
-SENDRICENI
+ȘENDRICENI
 Șendriceni
 Horlăceni
 Pădureni
-STIUBIENI
+ȘTIUBIENI
 Știubieni
 Ibăneasa
 Negreni
@@ -328,7 +328,7 @@ Cernești
 Florești
 Gârbești
 Iurești
-TRUSESTI
+TRUȘEȘTI
 Trușești
 Buhăceni
 Ciritei
@@ -349,7 +349,7 @@ Plopenii Mari
 Plopenii Mici
 Tăutești
 Vicoleni
-UNTENI
+UNȚENI
 Unțeni
 Burla
 Burlești
@@ -357,7 +357,7 @@ Mânăstireni
 Soroceni
 Valea Grajdului
 Vultureni
-VACULESTI
+VĂCULEȘTI
 Văculești
 Gorovei
 Saucenița
@@ -368,17 +368,17 @@ Ionășeni
 Maghera
 Pustoaia
 Lunca
-VIISOARA
+VIIȘOARA
 Viișoara
 Cuza Vodă
 Viișoara Mică
-VLADENI
+VLĂDENI
 Vlădeni
 Brehuiești
 Hrișcani
 Huțani
 Mândrești
-VLASINESTI
+VLĂSINEȘTI
 Vlăsinești
 Miron Costin
 Sârbi
