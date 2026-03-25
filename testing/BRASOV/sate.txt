@@ -1,0 +1,331 @@
+APATA
+Apața
+Apața
+
+AUGUSTIN
+Augustin
+Augustin
+
+BECLEAN
+Beclean
+Beclean
+Boholț
+Calbor
+Hurez
+Luța
+
+BOD
+Bod
+Bod
+Colonia Bod
+
+BRAN
+Bran
+Bran
+Predeluț
+Sohodol
+Șimon
+
+BUDILA
+Budila
+Budila
+
+BUNESTI
+Bunești
+Bunești
+Criț
+Meșendorf
+Roadeș
+Viscri
+
+CATA
+Cața
+Cața
+Beia
+Drăușeni
+Ionești
+Paloș
+
+CINCU
+Cincu
+Cincu
+Toarcla
+
+COMANA
+Comana
+Comana de Jos
+Comana de Sus
+Crihalma
+Ticușu Nou
+
+CRISTIAN
+Cristian
+Cristian
+
+CRIZBAV
+Crizbav
+Crizbav
+Cutuș
+
+DRAGUS
+Drăguș
+Drăguș
+
+DUMBRAVITA
+Dumbrăvița
+Dumbrăvița
+Vlădeni
+
+FELDIOARA
+Feldioara
+Feldioara
+Colonia Reconstrucția
+Rotbav
+
+FUNDATA
+Fundata
+Fundata
+Fundățica
+Șirnea
+
+HALCHIU
+Hălchiu
+Hălchiu
+Satu Nou
+
+HARMAN
+Hărman
+Hărman
+Podu Oltului
+
+HARSENI
+Hârseni
+Hârseni
+Copăcel
+Măliniș
+Mărgineni
+Sebeș
+
+HOGHIZ
+Hoghiz
+Hoghiz
+Bogata Olteană
+Cuciulata
+Dopca
+Fântâna
+Lupșa
+
+HOLBAV
+Holbav
+Holbav
+
+HOMOROD
+Homorod
+Homorod
+Jimbor
+Mercheașa
+
+JIBERT
+Jibert
+Jibert
+Dacia
+Grânari
+Lovnic
+Văleni
+
+LISA
+Lisa
+Lisa
+Breaza
+Pojorta
+
+MAIERUS
+Măieruș
+Măieruș
+Arini
+
+MANDRA
+Mândra
+Mândra
+Ileni
+Râușor
+Șona
+Toderița
+
+MOIECIU
+Moieciu
+Moieciu de Jos
+Cheia
+Drumul Carului
+Măgura
+Moieciu de Sus
+Peștera
+
+ORMENIS
+Ormeniș
+Ormeniș
+
+PARAU
+Părău
+Părău
+Grid
+Veneția de Jos
+Veneția de Sus
+
+POIANA_MARULUI
+Poiana Mărului
+Poiana Mărului
+
+PREJMER
+Prejmer
+Prejmer
+Lunca Calnicului
+Stupinii Prejmerului
+
+RACOS
+Racoș
+Racoș
+Mateiaș
+
+RECEA
+Recea
+Recea
+Berivoi
+Dejani
+Gura Văii
+Iași
+Săsciori
+Săvăstreni
+
+SAMBATA_DE_SUS
+Sâmbăta de Sus
+Sâmbăta de Sus
+Stațiunea Climaterică Sâmbăta
+
+SANPETRU
+Sânpetru
+Sânpetru
+
+SERCAIA
+Șercaia
+Șercaia
+Hălmeag
+Vad
+
+SINCA
+Șinca
+Șinca Veche
+Bucium
+Ohaba
+Perșani
+Șercăița
+Vâlcea
+
+SINCA_NOUA
+Șinca Nouă
+Șinca Nouă
+Paltin
+
+SOARS
+Șoarș
+Șoarș
+Bărcut
+Felmer
+Rodbav
+Seliștat
+
+TARLUNGENI
+Tărlungeni
+Tărlungeni
+Cărpiniș
+Purcăreni
+Zizin
+
+TELIU
+Teliu
+Teliu
+
+TICUSU
+Ticușu
+Ticușu Vechi
+Cobor
+
+UCEA
+Ucea
+Ucea de Jos
+Corbi
+Feldioara
+Ucea de Sus
+
+UNGRA
+Ungra
+Ungra
+Dăișoara
+
+VAMA_BUZAULUI
+Vama Buzăului
+Vama Buzăului
+Acriș
+Buzăiel
+Dălghiu
+
+VISTEA
+Viștea
+Viștea de Jos
+Olteț
+Rucăr
+Viștea de Sus
+Viștișoara
+
+VOILA
+Voila
+Voila
+Cincșor
+Dridif
+Ludișor
+Sâmbăta de Jos
+Voivodeni
+
+VULCAN
+Vulcan
+Vulcan
+Colonia 1 Mai
+
+SATE COMPONENTE ALE MUNICIPIILOR SI ORASELOR
+
+BRASOV
+BRAȘOV
+BRAȘOV
+
+CODLEA
+CODLEA
+CODLEA
+
+FAGARAS
+FĂGĂRAȘ
+FĂGĂRAȘ
+
+SACELE
+SĂCELE
+SĂCELE
+
+GHIMBAV
+GHIMBAV
+
+PREDEAL
+PREDEAL
+Pârâul Rece
+Timișu de Jos
+Timișu de Sus
+
+RASNOV
+RÂȘNOV
+
+RUPEA
+RUPEA
+
+VICTORIA
+VICTORIA
+
+ZARNESTI
+ZĂRNEȘTI
