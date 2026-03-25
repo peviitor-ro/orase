@@ -1,4 +1,4 @@
-AGĂȘ
+AGAS
 Agăș
 Beleghet
 Coșnea
@@ -12,12 +12,12 @@ ARDEOANI
 Ardeoani
 Leontinești
 
-ASĂU
+ASAU
 Asău
 Apa Asău
-Ciobănuși
+Ciobănuș
 Lunca Asău
-Păltiniși
+Păltiniș
 Straja
 
 BALCANI
@@ -26,19 +26,19 @@ Frumoasa
 Ludași
 Schitu Frumoasa
 
-BÂRSĂNEȘTI
+BARSANESTI
 Bârsănești
 Albele
 Brătești
 Caraclău
 
-BEREȘTI-BISTRITȚA
+BERESTI-BISTRITA
 Berești-Bistrița
 Brad
 Climești
 Pădureni
 
-BEREȘTI-TAZLĂU
+BERESTI-TAZLAU
 Berești-Tazlău
 Boșoteni
 Enăchești
@@ -47,28 +47,28 @@ Românești
 Tescani
 Turluianu
 
-BERZUNȚI
+BERZUNTI
 Berzunți
 Buda
 Dragomir
 
-BLĂGEȘTI
+BLAGESTI
 Blăgești
 Buda
 Poiana Negustorului
-Esărdenii Mari
+Țârdenii Mari
 Valea lui Ion
 
-BOGDĂNEȘTI
+BOGDANESTI
 Bogdănești
 Filipești
 
 BRUSTUROASA
 Brusturoasa
-Buruienești
-Buruieneștiul de Sus
+Buruieniș
+Buruienișu de Sus
 Camenca
-Cuchiniși
+Cuchiniș
 Hângănești
 
 BUCIUMI
@@ -82,11 +82,11 @@ Buhocel
 Coteni
 Dospinești
 
-CAȘIN
+CASIN
 Cașin
-Curia
+Curița
 
-CĂIUTI
+CAIUTI
 Căiuți
 Blidari
 Boiștea
@@ -95,14 +95,14 @@ Heltiu
 Mărcești
 Popeni
 Pralea
-Vrănceni
+Vrânceni
 
 CLEJA
 Cleja
 Somușca
 Valea Mică
 
-COLONEȘTI
+COLONESTI
 Colonești
 Călini
 Poiana
@@ -115,22 +115,22 @@ CORBASCA
 Corbasca
 Băcioiu
 Marvila
-Poglezi
+Pogleț
 Rogoaza
-Scărăreasa
+Scărișoara
 Vâlcele
 
-COOFOȘĂNEȘTI
-Coofoșănești
-Bălca
+COTOFANESTI
+Coțofănești
+Bâlca
 Boiștea de Jos
-Borțani
+Borșani
 Tămășoaia
 
-DĂMIENEȘTI
+DAMIENESTI
 Dămienești
 Călugăreni
-Drăghești
+Drăgești
 Pădureni
 
 DEALU MORII
@@ -138,7 +138,7 @@ Dealu Morii
 Banca
 Bălănești
 Blaga
-Boboești
+Boboș
 Bodeasa
 Bostănești
 Calapodești
@@ -152,7 +152,7 @@ Tăvădărești
 DOFTEANA
 Dofteana
 Bogata
-Cucuiești
+Cucuieți
 Hăghiac
 Larga
 Seaca
@@ -171,47 +171,47 @@ Pădureni
 Slobozia
 Valea Boțului
 
-FILIPEȘTI
+FILIPESTI
 Filipești
-Boana
+Boanța
 Cârligi
-Cornesti
+Cornești
 Cotu Grosului
 Galbeni
 Hârlești
 Onișcani
 
-GĂICEANA
+GAICEANA
 Găiceana
 Arini
-Huiu
+Huțu
 Popești
 
-GÂRLENI
+GARLENI
 Gârlenii de Sus
 Gârleni
 Lespezi
 Șurina
 
-GHIMEȘ-FĂGET
+GHIMES-FAGET
 Făget
-Bolovăniși
+Bolovăniș
 Făgetu de Sus
 Ghimeș
-Răchitiși
-Tarcăuși
+Răchitiș
+Tărhăuși
 
 GIOSENI
 Gioseni
 
-GLĂVĂNEȘTI
+GLAVANESTI
 Glăvănești
 Frumușelu
 Muncelu
 Putredeni
-Răzeși
+Răzeșu
 
-GURA VĂII
+GURA VAI
 Gura Văii
 Capăta
 Dumbrava
@@ -221,16 +221,16 @@ Temelia
 
 HELEGIU
 Helegiu
-Brătula
+Brătila
 Deleni
 Drăgugești
 
-HEMEIUȘ
+HEMEIUS
 Hemeiuș
 Fântânele
 Lilieci
 
-HORGEȘTI
+HORGESTI
 Horgești
 Bazga
 Galeri
@@ -240,7 +240,7 @@ Răcătău-Răzeși
 Recea
 Sohodor
 
-HURUIEȘTI
+HURUIESTI
 Huruiești
 Căpotești
 Florești
@@ -249,22 +249,22 @@ Ocheni
 Perchiu
 Prădaiș
 
-ITEȘTI
+ITESTI
 Itești
 Ciumași
 Dumbrava
-Făgelșel
+Făgețel
 
 IZVORU BERHECIULUI
 Izvoru Berheciului
 Antohești
 Băimac
-Fâghieni
+Făghieni
 Obârșia
 Oțelești
 Pădureni
 
-LET EA VECHE
+LET E A VECHE
 Letea Veche
 Holt
 Radomirești
@@ -273,7 +273,7 @@ Siretu
 
 LIPOVA
 Lipova
-Mălușu
+Mâlosu
 Satu Nou
 Valea Caselor
 Valea Hogei
@@ -285,35 +285,35 @@ Livezi
 Bălăneasa
 Orășa
 Poiana
-Prajoaia
+Prăjoaia
 Scăriga
 
-LUIZI-CĂLUGARA
-Luizi-Călugara
-Osebiși
+LUIZI-CALUGARA
+Luizi-Călugăra
+Osebiți
 
-MĂGIREȘTI
+MAGIRESTI
 Măgirești
 Prăjești
 Stănești
 Șesuri
 Valea Arinilor
 
-MĂGURA
+MAGURA
 Măgura
 Crihan
 Dealu Mare
 Sohodol
 
-MĂNĂSTIREA CAȘIN
+MANASTIREA CASIN
 Mănăstirea Cașin
 Lupești
-Părvulești
+Pârvulești
 Scutaru
 
-MĂRGINENI
+MARGINENI
 Mărgineni
-Barași
+Barați
 Luncani
 Pădureni
 Podiș
@@ -321,9 +321,9 @@ Poiana
 Trebeș
 Valea Budului
 
-MOTOȘENI
+MOTOSENI
 Motoșeni
-Băclești
+Bâclești
 Chetreni
 Chicerea
 Cociu
@@ -335,44 +335,44 @@ Poiana
 Praja
 Rotăria
 Șendrești
-Esepoaia
+Țepoaia
 
 NEGRI
 Negri
 Brad
 Călinești
-Măgla
+Mâgla
 Poiana
 Ursoaia
 
-NICOLAE BĂLCESCU
+NICOLAE BALCESCU
 Nicolae Bălcescu
 Buchila
 Galbeni
-Lărgășa
+Lărguța
 Valea Seacă
 
-ODOBEȘTI
+ODOBESTI
 Odobești
-Băluța
+Bălușa
 Ciuturești
 Tisa-Silvestri
 
 OITUZ
 Oituz
-Călcăi
+Călcâi
 Ferestrău-Oituz
 Hârja
 Marginea
 Poiana Sărată
 
-ONCEȘTI
+ONCESTI
 Oncești
 Bărboasa
 Dealu Perjului
 Onceștii Vechi
 Satu Nou
-Tarnișa
+Tarnița
 Taula
 
 ORBENI
@@ -382,7 +382,7 @@ Scurta
 PALANCA
 Palanca
 Cădărești
-Ciughezi
+Ciugheș
 Pajiștea
 Popoiu
 
@@ -399,30 +399,30 @@ Mileștii de Jos
 Mileștii de Sus
 Nănești
 Năstăseni
-Poiani
+Poieni
 Satu Nou
 Văleni
 Vladnic
 
-PÂNCEȘTI
+PANCESTI
 Pâncești
 Chilia Benei
-Dienez
+Dieneț
 Fulgeriș
 Fundu Văii
 Motoc
 Petrești
 Soci
 
-PĂRĂGĂREȘTI
-Părăgărești
+PARGARESTI
+Pârgărești
 Bahna
 Nicorești
-Părâu Boghii
+Pârâu Boghii
 Satu Nou
 
-PĂRJOL
-Părjol
+PARJOL
+Pârjol
 Băhnășeni
 Bărnești
 Băsăști
@@ -430,18 +430,18 @@ Câmpeni
 Hăineala
 Hemieni
 Pustiana
-Tarța
+Tărâța
 
 PLOPANA
 Plopana
 Budești
 Dorneni
 Fundu Tutovei
-Ieșani
-Rusenii de Sus
+Ițcani
 Rusenii Răzeși
+Rusenii de Sus
 Străminoasa
-Esăgăra
+Țâgâra
 
 PODU TURCULUI
 Podu Turcului
@@ -449,44 +449,44 @@ Bălănești
 Căbești
 Fichitești
 Giurgioana
-Hancea
+Hanța
 Lehancea
 Plopu
-Răcuțana
-Sărbi
+Răcușana
+Sârbi
 
 PODURI
 Poduri
-București
+Bucșești
 Cernu
 Cornet
 Negreni
 Prohozești
-Valea Șoții
+Valea Șoșii
 
-PRĂJEȘTI
+PRA JESTI
 Prăjești
 
 RACOVA
 Racova
 Gura Văii
 Hălmăcioaia
-Iliești
+Ilieși
 
-RĂCĂCIUNI
+RACACIUNI
 Răcăciuni
 Ciucani
 Fundu Răcăciuni
-Găetani
 Gheorghe Doja
+Gâșteni
 Răstoaca
 
-RĂCHITOASA
+RACHITOASA
 Răchitoasa
 Barcana
-Bucea
+Bucșa
 Buda
-Burdușaci
+Burdusaci
 Dănăila
 Dumbrava
 Farcașa
@@ -498,10 +498,10 @@ Oprișești
 Putini
 Tochilea
 
-ROȘIORI
+ROSIORI
 Roșiori
 Misihănești
-Neguțeni
+Negușeni
 Poieni
 Valea Mare
 Valea Mică
@@ -515,20 +515,20 @@ Sascut-Sat
 Schineni
 Valea Nacului
 
-SÂNDULENI
-Sânduleni
-Bărzulești
+SANDULENI
+Sănduleni
+Bârzulești
 Coman
 Mateiești
 Stufu
 Tisa
-Vercheți
+Verșești
 
-SĂRATA
+SARATA
 Sărata
 Bălțata
 
-SĂUCEȘTI
+SAUCESTI
 Săucești
 Bogdan Vodă
 Costei
@@ -536,7 +536,7 @@ Schineni
 Siretu
 Șerbești
 
-SCORȚENI
+SCORTENI
 Scorțeni
 Bogdănești
 Florești
@@ -550,21 +550,21 @@ Berbinceni
 Chiticeni
 Fundeni
 Glodișoarele
-Valea Fânețului
+Valea Fânațului
 Văleni
 
-SOLONȚ
+SOLONT
 Solonț
-Cucuiești
+Cucuieți
 Sărata
 
-STĂNIȘEȘTI
+STANISESTI
 Stănișești
 Balotești
 Belciuneasa
 Benești
 Crăiești
-Gorgheți
+Gorghești
 Slobozia
 Slobozia Nouă
 Văleni
@@ -573,36 +573,36 @@ STRUGARI
 Strugari
 Cetățuia
 Iaz
-Nadița
+Nadișa
 Petricica
 Răchitișu
 
-ȘTEFAN CEL MARE
+STEFAN CEL MARE
 Ștefan cel Mare
 Bogdana
 Gutinaș
 Negoiești
 Rădeana
-Viișoara
+Viisoara
 
-TĂMĂȘENI
-Tămășeni
-Chetris
+TAMASI
+Tamași
+Chetriș
 Furnicari
 
-TĂTĂRĂȘTI
+TATARASTI
 Tătărăști
 Cornii de Jos
 Cornii de Sus
-Drăghești
+Drăgești
 Gherdana
 Giurgeni
 Ungureni
 
-TÂRGU TROTUȘ
+TARGU TROTUS
 Târgu Trotuș
 Tuta
-Viișoara
+Viisoara
 
 TRAIAN
 Traian
@@ -613,85 +613,85 @@ Zăpodia
 
 UNGURENI
 Ungureni
-Bărâțănești
+Bărtășești
 Bibirești
 Bota
 Botești
-Gârlă Anei
+Gârla Anei
 Viforeni
 Zlătari
 
-URECHEȘTI
+URECHESTI
 Urechești
 Cornățel
 Lunca Dochiei
 Satu Nou
 Slobozia
 
-VALEA SEACĂ
+VALEA SEACA
 Valea Seacă
 Cucova
 
 VULTURENI
-Lichitești
+Vultureni
 Bosia
 Dădești
 Dorneni
 Ghilăvești
 Godineștii de Jos
 Godineștii de Sus
+Lichitișeni
 Medeleni
 Năzărioaia
 Reprivăț
 Tomozia
-Esigănești
+Țigănești
 Valea Lupului
 Valea Merilor
 Valea Salciei
-Vultureni
 
-ZEMEȘ
+ZEMES
 Zemeș
-Bolgărau
+Bolătău
 
 SATE COMPONENTE ALE MUNICIPIILOR SI ORASELOR
 
-Municipiul BACĂU:
+BACĂU
 Bacău
 
-Municipiul MOINEȘTI:
+MOINESTI
 Moinești
 Găzărie
 
-Municipiul ONEȘTI:
+ONESTI
 Onești
 Borzești
 Slobozia
 
-Orasul BUHUȘI:
+BUHUSI
 Buhuși
 Marginea
 Runcu
 
-Orasul COMĂNEȘTI:
+COMANESTI
 Comănești
 Podei
-Vernești
+Vermești
 
-Orasul DĂRMĂNEȘTI:
+DARMANESTI
 Dărmănești
-Dărmănească
-Lăpoși
-Păgubenți
+Dărmăneasca
+Lapoș
+Păgubeni
 Plopu
 Sălătruc
 
-Orasul SLOBOZIA-MOLDOVA:
-Slobozia-Moldova
+SLANIC-MOLDOVA
+Slănic-Moldova
 Cerdac
-Ciurești
+Cireșoaia
 
-Orasul TÂRGU OCNA:
+TARGU OCNA
 Târgu Ocna
 Poieni
 Vâlcele
