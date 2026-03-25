@@ -1,0 +1,321 @@
+A_________O_______
+Alexandru Odobescu
+Nicolae Bălcescu
+Alexandru Odobescu
+Gălățui
+
+B___________
+Belciugatele
+Belciugatele
+Cândeasca
+Cojești
+Mataraua
+Măriuța
+
+B_____
+Borcea
+Borcea
+
+C___________
+Căscioarele
+Căscioarele
+
+C_______
+Chirnogi
+Chirnogi
+
+C_______
+Chiselet
+Chiselet
+
+C___________
+Ciocănești
+Ciocănești
+
+C_______
+Crivăț
+Crivăț
+
+C______
+Curcani
+Curcani
+Sălcioara
+
+C____V____
+Cuza Vodă
+Ceacu
+Călărașii Vechi
+Cuza Vodă
+
+D________
+Dichiseni
+Dichiseni
+Coslogeni
+Libertatea
+Satnoeni
+
+D___M______
+Dor Mărunt
+Dor Mărunt
+Dâlga
+Dâlga-Gară
+Înfrățirea
+Ogoru
+Pelinu
+
+D_________
+Dorobanțu
+Dorobanțu
+Boșneagu
+Vărăști
+
+D________
+Dragalina
+Dragalina
+Constantin Brâncoveanu
+Drajna Nouă
+
+D_______V____
+Dragoș Vodă
+Dragoș Vodă
+Bogdana
+Socoalele
+
+F________
+Frăsinet
+Frăsinet
+Curătești
+Dănești
+Frăsinetu de Jos
+Luptători
+Tăriceni
+
+F_________
+Frumușani
+Frumușani
+Orăști
+Pasărea
+Pădurișu
+Pițigaia
+Postăvari
+
+F______
+Fundeni
+Fundeni
+
+G__________
+Gălbinași
+Gălbinași
+
+G__________
+Grădiștea
+Grădiștea
+Bogata
+Cunești
+Rasa
+
+G___________
+Gurbănești
+Gurbănești
+Codreni
+Coțofanca
+Preasna
+Preasna Veche
+Valea Presnei
+
+I_____
+Ileana
+Ileana
+Arțari
+Florica
+Podari
+Răsurile
+Răzoarele
+Satu Nou
+Ștefănești
+Vlăiculești
+
+I____________
+Independența
+Independența
+Potcoava
+Vișinii
+
+J_______
+Jegălia
+Jegălia
+Gâldău
+Iezeru
+
+L_____
+Lehliu
+Lehliu
+Săpunari
+
+L____
+Luica
+Luica
+Valea Stânii
+
+L_______
+Lupșanu
+Lupșanu
+Nucetu
+Plevna
+Radu Vodă
+Valea Rusului
+
+M___________
+Mânăstirea
+Mânăstirea
+Coconi
+Sultana
+
+M______
+Mitreni
+Mitreni
+Clătești
+Valea Roșie
+
+M_____
+Modelu
+Modelu
+Radu Negru
+Stoenești
+Tonea
+
+N___
+Nana
+Nana
+
+N_______B________
+Nicolae Bălcescu
+Nicolae Bălcescu
+Fântâna Doamnei
+Paicu
+
+P________
+Perișoru
+Perișoru
+Mărculești-Gară
+Tudor Vladimirescu
+
+P____________
+Plătărești
+Plătărești
+Cucuieți
+Dorobanțu
+Podu Pitarului
+
+R_______
+Radovanu
+Radovanu
+Valea Popii
+
+R______
+Roseți
+Roseți
+
+S__________
+Sărulești
+Sărulești
+Măgureni
+Polcești
+Săndulița
+Sărulești-Gară
+Sătucu
+Solacolu
+
+S_____
+Sohatu
+Sohatu
+Progresu
+
+S_______
+Spanțov
+Spanțov
+Cetatea Veche
+Stancea
+
+S______
+Șoldanu
+Șoldanu
+Negoești
+
+S__________M___
+Ștefan cel Mare
+Ștefan cel Mare
+
+S______V____
+Ștefan Vodă
+Ștefan Vodă
+
+T__________M___
+Tămădău Mare
+Tămădău Mare
+Călăreți
+Dârvari
+Plumbuita
+Săcele
+Șeinoiu
+Tămădău Mic
+
+U_____
+Ulmeni
+Ulmeni
+
+U___
+Ulmu
+Ulmu
+Chirnogi
+Făurei
+Zimbru
+
+U_____
+Unirea
+Unirea
+Oltina
+
+V_____A______
+Valea Argovei
+Valea Argovei
+Lunca
+Ostrovu
+Siliștea
+Vlădiceasca
+
+V________
+Vasilați
+Vasilați
+Nuci
+Popești
+
+V_________
+Vâlcelele
+Vâlcelele
+Floroaica
+
+V____T_____
+Vlad Țepeș
+Vlad Țepeș
+Mihai Viteazu
+
+SATE COMPONENTE ALE MUNICIPIILOR SI ORASELOR
+
+CALARASI
+CĂLĂRAȘI
+CĂLĂRAȘI
+
+OLTENITA
+OLTENIȚA
+OLTENIȚA
+
+BUDESTI
+BUDEȘTI
+
+FUNDULEA
+FUNDULEA
+
+LEHLIU_GARA
+LEHLIU-GARĂ
+
