@@ -1,0 +1,284 @@
+BARAGANUL
+Bărăganul
+Bărăganul
+
+BERTESTII_DE_JOS
+Berteștii de Jos
+Berteștii de Jos
+Berteștii de Sus
+Gura Călmățui
+Gura Gârluței
+Nicolești
+Spiru Haret
+
+BORDEI_VERDE
+Bordei Verde
+Bordei Verde
+Constantin Gabrielescu
+Filiu
+Lișcoteanca
+
+CAZASU
+Cazasu
+Cazasu
+
+CHISCANI
+Chiscani
+Chiscani
+Lacu Sărat
+Vărsătura
+
+CIOCILE
+Ciocile
+Ciocile
+Chichinețu
+Chioibășești
+Odăieni
+
+CIRESU
+Cireșu
+Cireșu
+Batogu
+Ionești
+Scărlătești
+Vultureni
+
+DUDESTI
+Dudești
+Dudești
+Brătilești
+Călmatuiu
+Călmatuiu de Sus
+Stoicanesti
+
+FRECATEI
+Frecăței
+Frecăței
+Căldărușa
+Curcani
+Mihail Kogălniceanu
+Permunian
+Plopi
+Sălcioara
+
+GALBENU
+Galbenu
+Galbenu
+Drogu
+Răducani
+
+GEMENELE
+Gemenele
+Gemenele
+
+GRADISTEA
+Grădiștea
+Grădiștea
+Constantinești
+Ichim
+Lanurile
+
+GROPENI
+Gropeni
+Gropeni
+
+JIRLAU
+Jirlău
+Jirlău
+Cotul
+Felesti
+Matei
+Modoșa
+
+MARASU
+Mărașu
+Mărașu
+Căpățânești
+Corbu
+Ibrianu
+Linia
+Măxineni
+
+MAXINENI
+Măxineni
+Măxineni
+Corodin
+Mihai Viteazu
+Șerbeștii Vechi
+Zăvoaia
+
+MIRCEA_VODA
+Mircea Vodă
+Mircea Vodă
+Corbu
+Lanurile
+Poșta
+
+MOVILA_MIRESII
+Movila Miresii
+Movila Miresii
+Gulia
+Mihail Kogălniceanu
+Panduru
+
+RACOVITA
+Racovița
+Racovița
+
+RAMNICELU
+Râmnicelu
+Râmnicelu
+Băile Bălcești
+Ciorăști
+Gara Râmnicelu
+Gura Călmățui
+Stoian
+
+ROMANU
+Romanu
+Romanu
+
+ROSIORI
+Roșiori
+Roșiori
+Balintesti
+Băltăgari
+Căldărușa
+Chioibasesti
+Chiraz
+Corbu
+Cuza Voda
+Florica
+Lacu Saulei
+Mihail Kogalniceanu
+Morotesti
+Plopi
+Valea Lunga
+
+SALCIA_TUDOR
+Salcia Tudor
+Salcia Tudor
+Berlesu
+Gheorghe Doja
+Silistraru
+Tătaru
+
+SCORTARU_NOU
+Scorțaru Nou
+Scorțaru Nou
+Scorțaru Vechi
+
+SILISTEA
+Siliștea
+Siliștea
+Gemenele
+Mihail Kogălniceanu
+Zamfira
+
+STANCUTA
+Stăncuța
+Stăncuța
+Aristed
+Chioibășești
+Hultanesti
+Lunca
+
+SURDILA_GAISANCA
+Surdila-Găiseanca
+Surdila-Găiseanca
+
+SURDILA_GRECI
+Surdila-Greci
+Surdila-Greci
+
+SUTESTI
+Șuțești
+Șuțești
+Berlesu
+Condrea
+Mihail Kogălniceanu
+Plopi
+Stoicanesti
+
+TICHILESTI
+Tichilești
+Tichilești
+
+TRAIAN
+Traian
+Traian
+Călmatuiu
+Călmatuiu de Sus
+
+TUDOR_VLADIMIRESCU
+Tudor Vladimirescu
+Tudor Vladimirescu
+
+TUFESTI
+Tufești
+Tufești
+Făurești
+
+ULMU
+Ulmu
+Ulmu
+Il Independenta
+
+UNIREA
+Unirea
+Unirea
+Buzia
+Hagiești
+Ion Ghica
+Lunca
+Marascu
+Stoianesti
+Valea Nazarcu
+
+VADENI
+Vădeni
+Vădeni
+
+VICTORIA
+Victoria
+Victoria
+Mihail Kogălniceanu
+Vultureni
+
+VISANI
+Vișani
+Vișani
+Bradet
+Căldărușa
+Mihail Kogălniceanu
+Plopi
+
+VIZIRU
+Viziru
+Viziru
+Căldărușa
+Stoicanesti
+
+ZAVOAIA
+Zăvoaia
+Zăvoaia
+Călmatuiu
+Căldărușa
+Chichineti
+Mihail Kogălniceanu
+Stoicanesti
+
+SATE COMPONENTE ALE MUNICIPIILOR SI ORASELOR
+
+BRAILA
+BRĂILA
+BRĂILA
+
+FAUREI
+FĂUREI
+
+IANCA
+IANCA
+
+INSURATEI
+ÎNSURĂȚEI
