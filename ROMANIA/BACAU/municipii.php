@@ -6,7 +6,7 @@ $municipii =
                 ], createAdresaCompleta("municipiul BACĂU, judetul BACĂU, România", "municipiul BACAU, judetul BACAU, Romania")),
                 createMunicipiu("MOINEȘTI", [
                     createLoc("MOINEȘTI", "oras", createAdresaCompleta("municipiul MOINEȘTI, judetul BACĂU, România", "municipiul MOINESTI, judetul BACAU, Romania")),
-                    createLoc("Găzărie ", "sat", createAdresaCompleta("sat Găzărie, municipiul MOINEȘTI, judetul BACĂU, România", "sat Gazarie, municipiul MOINESTI, judetul BACAU, Romania")),
+                    createLoc("Găzărie", "sat", createAdresaCompleta("sat Găzărie, municipiul MOINEȘTI, judetul BACĂU, România", "sat Gazarie, municipiul MOINESTI, judetul BACAU, Romania")),
                 ], createAdresaCompleta("municipiul MOINEȘTI, judetul BACĂU, România", "municipiul MOINESTI, judetul BACAU, Romania")),
                 createMunicipiu("ONEȘTI", [
                     createLoc("ONEȘTI", "oras", createAdresaCompleta("municipiul ONEȘTI, judetul BACĂU, România", "municipiul ONESTI, judetul BACAU, Romania")),
