@@ -1,0 +1,45 @@
+name: SATUMARE County Tests (Manual)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-braila:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Install dependencies
+        run: php -m
+
+      - name: Run SATUMARE tests
+        id: test
+        run: |
+          mkdir -p testing/SATUMARE/reports
+          cd testing/SATUMARE
+          php run_tests.php
+
+      - name: List all reports
+        run: |
+          echo "=== All test reports for SATUMARE ==="
+          ls -la testing/SATUMARE/reports/
+
+      - name: Upload SATUMARE test reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: braila-test-reports-${{ github.run_number }}
+          path: testing/SATUMARE/reports/
+          retention-days: 30
+
+      - name: Display latest report
+        run: |
+          LATEST=$(ls -td testing/SATUMARE/reports/*/ | head -1)
+          echo "=== Latest Report: $LATEST ==="
+          cat "$LATEST/report.html"
